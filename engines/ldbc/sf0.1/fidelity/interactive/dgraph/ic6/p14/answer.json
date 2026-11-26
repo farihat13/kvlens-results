@@ -1,0 +1,137 @@
+{
+ "query_sha": "726c2fd8c124bda0",
+ "params": {
+  "personId": "15393162789696",
+  "tagName": "Croatia"
+ },
+ "data": {
+  "schema_sha256": "03713a1e1c7b722e73bed6b150e079e69e9579c2a58c52e06f9d4384fdd4b80d",
+  "schema_path": "dgraph/schema/ldbcTypes.schema",
+  "sf": "0.1",
+  "created": "2026-11-21T03:25:44Z",
+  "git_sha": "92777160"
+ },
+ "fetched_at": "2026-11-21T01:08:46",
+ "raw": {
+  "_l1": [],
+  "_l2": [],
+  "tags": [
+   {
+    "tagName": "Tom_Gehrels",
+    "postCount": 2
+   },
+   {
+    "tagName": "Mexico",
+    "postCount": 1
+   },
+   {
+    "tagName": "Ukrainian_Soviet_Socialist_Republic",
+    "postCount": 1
+   },
+   {
+    "tagName": "Maximilian_I,_Holy_Roman_Emperor",
+    "postCount": 1
+   },
+   {
+    "tagName": "United_Kingdom",
+    "postCount": 1
+   },
+   {
+    "tagName": "Great_Moravia",
+    "postCount": 1
+   },
+   {
+    "tagName": "Confucius",
+    "postCount": 1
+   },
+   {
+    "tagName": "Turkey",
+    "postCount": 1
+   },
+   {
+    "tagName": "Socialist_Federal_Republic_of_Yugoslavia",
+    "postCount": 1
+   },
+   {
+    "tagName": "Federated_States_of_Micronesia",
+    "postCount": 1
+   },
+   {
+    "tagName": "\u00c6nema",
+    "postCount": 1
+   },
+   {
+    "tagName": "Sealed_with_a_Kiss",
+    "postCount": 1
+   },
+   {
+    "tagName": "Sammy_Sosa",
+    "postCount": 1
+   },
+   {
+    "tagName": "Korean_Empire",
+    "postCount": 1
+   },
+   {
+    "tagName": "Nikolai_Chernykh",
+    "postCount": 1
+   },
+   {
+    "tagName": "Bobby_Hull",
+    "postCount": 1
+   },
+   {
+    "tagName": "Tori_Amos",
+    "postCount": 1
+   },
+   {
+    "tagName": "Henri_Matisse",
+    "postCount": 1
+   },
+   {
+    "tagName": "Benjamin_Franklin",
+    "postCount": 1
+   },
+   {
+    "tagName": "Albert_Einstein",
+    "postCount": 1
+   },
+   {
+    "tagName": "Aristophanes",
+    "postCount": 1
+   },
+   {
+    "tagName": "Jamaica",
+    "postCount": 1
+   },
+   {
+    "tagName": "Hotel_Paper",
+    "postCount": 1
+   },
+   {
+    "tagName": "Paradorn_Srichaphan",
+    "postCount": 1
+   },
+   {
+    "tagName": "Eminem",
+    "postCount": 1
+   },
+   {
+    "tagName": "Nicolaus_Copernicus",
+    "postCount": 1
+   },
+   {
+    "tagName": "Eug\u00e8ne_Ionesco",
+    "postCount": 1
+   },
+   {
+    "tagName": "John_Ford",
+    "postCount": 1
+   },
+   {
+    "tagName": "Gerald_Ford",
+    "postCount": 1
+   }
+  ]
+ }
+}

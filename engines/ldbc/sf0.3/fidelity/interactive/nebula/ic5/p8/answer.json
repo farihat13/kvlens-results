@@ -1,0 +1,124 @@
+{
+ "query_sha": "0698d079766f4938",
+ "params": {
+  "personId": "person_13194139534161",
+  "minDate": 1344211200000
+ },
+ "data": {
+  "schema_sha256": "673074740eea54e4ba1fdc94eebf2087531b3007af7da660afffb3d1e8df0d1e",
+  "schema_path": "nebulagraph/schema/schema.gql",
+  "sf": "0.3",
+  "created": "2026-11-21T03:42:54Z",
+  "git_sha": "1d6662c2"
+ },
+ "fetched_at": "2026-11-20T23:55:47",
+ "raw": {
+  "keys": [
+   "forumTitle",
+   "postCount",
+   "forumId"
+  ],
+  "rows": [
+   {
+    "forumTitle": "Group for Andy_Ram in Kampong_Speu",
+    "postCount": 1,
+    "forumId": 137438981929
+   },
+   {
+    "forumTitle": "Group for Screaming_for_Vengeance in Kasaragod",
+    "postCount": 1,
+    "forumId": 274877922633
+   },
+   {
+    "forumTitle": "Group for Alberto_Fujimori in Curitiba",
+    "postCount": 1,
+    "forumId": 343597408659
+   },
+   {
+    "forumTitle": "Group for Mao_Zedong in Rahim_Yar_Khan",
+    "postCount": 1,
+    "forumId": 343597413607
+   },
+   {
+    "forumTitle": "Group for Madeleine_Albright in Bloemfontein",
+    "postCount": 1,
+    "forumId": 481036350011
+   },
+   {
+    "forumTitle": "Group for Edgar_Allan_Poe in Bol\u00edvar",
+    "postCount": 1,
+    "forumId": 549755832891
+   },
+   {
+    "forumTitle": "Group for Gilberto_Gil in Bahadurgarh",
+    "postCount": 1,
+    "forumId": 549755834126
+   },
+   {
+    "forumTitle": "Group for Elton_John in Shiraz",
+    "postCount": 1,
+    "forumId": 618475295809
+   },
+   {
+    "forumTitle": "Group for Charlie_Chaplin in Iligan",
+    "postCount": 1,
+    "forumId": 618475315053
+   },
+   {
+    "forumTitle": "Group for Nancy_Pelosi in El_Mourouj",
+    "postCount": 1,
+    "forumId": 618475318714
+   },
+   {
+    "forumTitle": "Group for Ringo_Starr in Aligarh",
+    "postCount": 1,
+    "forumId": 618475321330
+   },
+   {
+    "forumTitle": "Group for Augustine_of_Hippo in Fuyu",
+    "postCount": 1,
+    "forumId": 687194784324
+   },
+   {
+    "forumTitle": "Group for Gaetano_Donizetti in Yantai",
+    "postCount": 1,
+    "forumId": 755914248348
+   },
+   {
+    "forumTitle": "Group for Elena_Likhovtseva in Dagupan",
+    "postCount": 1,
+    "forumId": 755914250298
+   },
+   {
+    "forumTitle": "Group for George_Albert_Boulenger in Bloemfontein",
+    "postCount": 1,
+    "forumId": 755914256953
+   },
+   {
+    "forumTitle": "Group for Benito_Mussolini in Carmen_Pampa",
+    "postCount": 1,
+    "forumId": 755914265867
+   },
+   {
+    "forumTitle": "Group for Fidel_Castro in Dhenkanal",
+    "postCount": 1,
+    "forumId": 755914272652
+   },
+   {
+    "forumTitle": "Group for John_Huston in Bilaspur",
+    "postCount": 1,
+    "forumId": 755914272831
+   },
+   {
+    "forumTitle": "Group for Mikhail_Gorbachev in Gard\u0113z",
+    "postCount": 1,
+    "forumId": 755914275755
+   },
+   {
+    "forumTitle": "Group for Ovid in Dunhuang",
+    "postCount": 1,
+    "forumId": 962072678867
+   }
+  ]
+ }
+}

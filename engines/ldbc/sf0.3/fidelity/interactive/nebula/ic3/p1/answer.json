@@ -1,0 +1,29 @@
+{
+ "query_sha": "f90dfc8d25b1a7b2",
+ "params": {
+  "personId": "person_8796093022946",
+  "startDate": 1291161600000,
+  "countryXName": "Rwanda",
+  "countryYName": "Panama",
+  "endDate": 1293753600000
+ },
+ "data": {
+  "schema_sha256": "673074740eea54e4ba1fdc94eebf2087531b3007af7da660afffb3d1e8df0d1e",
+  "schema_path": "nebulagraph/schema/schema.gql",
+  "sf": "0.3",
+  "created": "2026-11-21T03:42:54Z",
+  "git_sha": "1d6662c2"
+ },
+ "fetched_at": "2026-11-20T23:49:44",
+ "raw": {
+  "keys": [
+   "personId",
+   "firstName",
+   "lastName",
+   "messagesInX",
+   "messagesInY",
+   "count"
+  ],
+  "rows": []
+ }
+}

@@ -1,0 +1,118 @@
+{
+ "query_sha": "e8d54b8612751a91",
+ "params": {
+  "personId": "person_30786325579380",
+  "month": 7
+ },
+ "data": {
+  "schema_sha256": "673074740eea54e4ba1fdc94eebf2087531b3007af7da660afffb3d1e8df0d1e",
+  "schema_path": "nebulagraph/schema/schema.gql",
+  "sf": "0.3",
+  "created": "2026-11-21T03:42:54Z",
+  "git_sha": "1d6662c2"
+ },
+ "fetched_at": "2026-11-21T00:05:32",
+ "raw": {
+  "keys": [
+   "personId",
+   "personFirstName",
+   "personLastName",
+   "commonInterestScore",
+   "personGender",
+   "personCityName",
+   "personIdInt"
+  ],
+  "rows": [
+   {
+    "personId": "person_24189255813228",
+    "personFirstName": "Amit",
+    "personLastName": "Chopra",
+    "commonInterestScore": 5,
+    "personGender": "male",
+    "personCityName": "Meerut",
+    "personIdInt": 24189255813228
+   },
+   {
+    "personId": "person_24189255811164",
+    "personFirstName": "Abdoulaye Khouma",
+    "personLastName": "Dia",
+    "commonInterestScore": 2,
+    "personGender": "male",
+    "personCityName": "Tambacounda",
+    "personIdInt": 24189255811164
+   },
+   {
+    "personId": "person_28587302322718",
+    "personFirstName": "Asher",
+    "personLastName": "Bahaina",
+    "commonInterestScore": -1,
+    "personGender": "female",
+    "personCityName": "Jimma",
+    "personIdInt": 28587302322718
+   },
+   {
+    "personId": "person_32985348834682",
+    "personFirstName": "Nicolae",
+    "personLastName": "Antonescu",
+    "commonInterestScore": -1,
+    "personGender": "female",
+    "personCityName": "Bra\u0219ov",
+    "personIdInt": 32985348834682
+   },
+   {
+    "personId": "person_32985348836120",
+    "personFirstName": "Dimitrios",
+    "personLastName": "Angello",
+    "commonInterestScore": -1,
+    "personGender": "female",
+    "personCityName": "Crete",
+    "personIdInt": 32985348836120
+   },
+   {
+    "personId": "person_32985348836696",
+    "personFirstName": "Michael",
+    "personLastName": "Mifsud",
+    "commonInterestScore": -1,
+    "personGender": "female",
+    "personCityName": "San_Gwann",
+    "personIdInt": 32985348836696
+   },
+   {
+    "personId": "person_28587302324910",
+    "personFirstName": "John",
+    "personLastName": "Jones",
+    "commonInterestScore": -2,
+    "personGender": "male",
+    "personCityName": "Cleveland",
+    "personIdInt": 28587302324910
+   },
+   {
+    "personId": "person_32985348833314",
+    "personFirstName": "Roberto",
+    "personLastName": "Diaz",
+    "commonInterestScore": -2,
+    "personGender": "female",
+    "personCityName": "Buenos_Aires",
+    "personIdInt": 32985348833314
+   },
+   {
+    "personId": "person_32985348836975",
+    "personFirstName": "Adis",
+    "personLastName": "Mikulic",
+    "commonInterestScore": -2,
+    "personGender": "female",
+    "personCityName": "Sarajevo",
+    "personIdInt": 32985348836975
+   },
+   {
+    "personId": "person_26388279068735",
+    "personFirstName": "Cesar",
+    "personLastName": "Garcia",
+    "commonInterestScore": -3,
+    "personGender": "male",
+    "personCityName": "Lipa",
+    "personIdInt": 26388279068735
+   }
+  ]
+ }
+}

@@ -1,0 +1,118 @@
+{
+ "query_sha": "e8d54b8612751a91",
+ "params": {
+  "personId": "person_13194139535032",
+  "month": 10
+ },
+ "data": {
+  "schema_sha256": "673074740eea54e4ba1fdc94eebf2087531b3007af7da660afffb3d1e8df0d1e",
+  "schema_path": "nebulagraph/schema/schema.gql",
+  "sf": "0.3",
+  "created": "2026-11-21T03:42:54Z",
+  "git_sha": "1d6662c2"
+ },
+ "fetched_at": "2026-11-21T00:01:24",
+ "raw": {
+  "keys": [
+   "personId",
+   "personFirstName",
+   "personLastName",
+   "commonInterestScore",
+   "personGender",
+   "personCityName",
+   "personIdInt"
+  ],
+  "rows": [
+   {
+    "personId": "person_8796093022492",
+    "personFirstName": "Jack",
+    "personLastName": "Ellis",
+    "commonInterestScore": 6,
+    "personGender": "female",
+    "personCityName": "Bristol",
+    "personIdInt": 8796093022492
+   },
+   {
+    "personId": "person_32985348835906",
+    "personFirstName": "Carlos",
+    "personLastName": "Pereira",
+    "commonInterestScore": 1,
+    "personGender": "male",
+    "personCityName": "Faro",
+    "personIdInt": 32985348835906
+   },
+   {
+    "personId": "person_17592186048078",
+    "personFirstName": "Jun",
+    "personLastName": "Yamada",
+    "commonInterestScore": 0,
+    "personGender": "female",
+    "personCityName": "Nara",
+    "personIdInt": 17592186048078
+   },
+   {
+    "personId": "person_21990232558080",
+    "personFirstName": "Kazuo",
+    "personLastName": "Suzuki",
+    "commonInterestScore": 0,
+    "personGender": "male",
+    "personCityName": "Nagakute",
+    "personIdInt": 21990232558080
+   },
+   {
+    "personId": "person_28587302323673",
+    "personFirstName": "Chan",
+    "personLastName": "Han",
+    "commonInterestScore": 0,
+    "personGender": "male",
+    "personCityName": "Yongin",
+    "personIdInt": 28587302323673
+   },
+   {
+    "personId": "person_30786325581061",
+    "personFirstName": "Carlos",
+    "personLastName": "Alves",
+    "commonInterestScore": 0,
+    "personGender": "female",
+    "personCityName": "Po\u00e7os_de_Caldas",
+    "personIdInt": 30786325581061
+   },
+   {
+    "personId": "person_32985348837099",
+    "personFirstName": "Ion",
+    "personLastName": "Kovacs",
+    "commonInterestScore": 0,
+    "personGender": "male",
+    "personCityName": "Timi\u0219oara",
+    "personIdInt": 32985348837099
+   },
+   {
+    "personId": "person_17592186045334",
+    "personFirstName": "Andrew",
+    "personLastName": "Chung",
+    "commonInterestScore": -1,
+    "personGender": "female",
+    "personCityName": "Arusha",
+    "personIdInt": 17592186045334
+   },
+   {
+    "personId": "person_21990232555686",
+    "personFirstName": "Chaim Azriel",
+    "personLastName": "Hleb",
+    "commonInterestScore": -1,
+    "personGender": "male",
+    "personCityName": "Bobruysk",
+    "personIdInt": 21990232555686
+   },
+   {
+    "personId": "person_32985348834930",
+    "personFirstName": "Deepa",
+    "personLastName": "Irani",
+    "commonInterestScore": -1,
+    "personGender": "male",
+    "personCityName": "Kerala",
+    "personIdInt": 32985348834930
+   }
+  ]
+ }
+}

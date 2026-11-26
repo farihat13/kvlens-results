@@ -1,0 +1,32 @@
+{
+ "query_sha": "758b65813d7ffbd6",
+ "params": {
+  "personId": 8796093022749,
+  "firstName": "Ahmad Rafiq"
+ },
+ "data_created": "2026-11-21T03:01:29Z",
+ "measured_at": "2026-11-20T23:10:36",
+ "raw": {
+  "get_count": 145690,
+  "get_found_count": 145690,
+  "get_time_ns": 180163812,
+  "get_bytes": 22027401,
+  "seek_count": 2642,
+  "seek_time_ns": 48131401,
+  "seek_bytes": 145446,
+  "next_count": 72380,
+  "next_time_ns": 7752682,
+  "next_bytes": 4060252,
+  "prev_count": 0,
+  "prev_time_ns": 0,
+  "prev_bytes": 0,
+  "put_count": 0,
+  "put_time_ns": 0,
+  "put_bytes": 0,
+  "delete_count": 0,
+  "delete_time_ns": 0,
+  "delete_bytes": 0,
+  "commit_count": 0,
+  "commit_time_ns": 0
+ }
+}

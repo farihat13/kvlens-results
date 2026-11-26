@@ -1,0 +1,76 @@
+{
+ "query_sha": "00f75f489d160871",
+ "params": {
+  "personId": "30786325579101"
+ },
+ "data": {
+  "schema_sha256": "03713a1e1c7b722e73bed6b150e079e69e9579c2a58c52e06f9d4384fdd4b80d",
+  "schema_path": "dgraph/schema/ldbcTypes.schema",
+  "sf": "0.1",
+  "created": "2026-11-21T03:25:44Z",
+  "git_sha": "92777160"
+ },
+ "fetched_at": "2026-11-21T01:05:28",
+ "raw": {
+  "person": [
+   {
+    "~knows": [
+     {
+      "friendId": 15393162790400,
+      "friendFirstName": "Jose",
+      "friendLastName": "Costa",
+      "~knows|creationDate": "2012-06-18T03:37:47.762+00:00"
+     },
+     {
+      "friendId": 6597069767708,
+      "friendFirstName": "Abdou",
+      "friendLastName": "Dia",
+      "~knows|creationDate": "2012-06-12T23:47:43.275+00:00"
+     },
+     {
+      "friendId": 30786325577877,
+      "friendFirstName": "Gary",
+      "friendLastName": "Hill",
+      "~knows|creationDate": "2012-06-15T16:46:42.597+00:00"
+     },
+     {
+      "friendId": 2199023256668,
+      "friendFirstName": "Rodrigo",
+      "friendLastName": "Costa",
+      "~knows|creationDate": "2012-06-15T01:00:32.599+00:00"
+     },
+     {
+      "friendId": 24189255812295,
+      "friendFirstName": "Francisco",
+      "friendLastName": "Sanchez",
+      "~knows|creationDate": "2012-06-11T14:48:05.482+00:00"
+     },
+     {
+      "friendId": 17592186045748,
+      "friendFirstName": "David",
+      "friendLastName": "Stewart",
+      "~knows|creationDate": "2012-06-05T15:12:46.877+00:00"
+     },
+     {
+      "friendId": 1355,
+      "friendFirstName": "Peter",
+      "friendLastName": "Taylor",
+      "~knows|creationDate": "2012-06-05T12:59:00.016+00:00"
+     },
+     {
+      "friendId": 987,
+      "friendFirstName": "Ali",
+      "friendLastName": "Diori",
+      "~knows|creationDate": "2012-06-08T02:35:51.688+00:00"
+     },
+     {
+      "friendId": 10995116278925,
+      "friendFirstName": "Ken",
+      "friendLastName": "Kato",
+      "~knows|creationDate": "2012-06-11T14:04:17.250+00:00"
+     }
+    ]
+   }
+  ]
+ }
+}

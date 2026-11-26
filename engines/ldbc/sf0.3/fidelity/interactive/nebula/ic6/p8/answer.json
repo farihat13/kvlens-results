@@ -1,0 +1,63 @@
+{
+ "query_sha": "ad17deb8111088bd",
+ "params": {
+  "personId": "person_32985348834334",
+  "tagName": "Woody_Guthrie"
+ },
+ "data": {
+  "schema_sha256": "673074740eea54e4ba1fdc94eebf2087531b3007af7da660afffb3d1e8df0d1e",
+  "schema_path": "nebulagraph/schema/schema.gql",
+  "sf": "0.3",
+  "created": "2026-11-21T03:42:54Z",
+  "git_sha": "1d6662c2"
+ },
+ "fetched_at": "2026-11-20T23:56:05",
+ "raw": {
+  "keys": [
+   "tagName",
+   "postCount"
+  ],
+  "rows": [
+   {
+    "tagName": "Maria_Theresa",
+    "postCount": 16
+   },
+   {
+    "tagName": "Edgar_Prado",
+    "postCount": 3
+   },
+   {
+    "tagName": "John,_King_of_England",
+    "postCount": 3
+   },
+   {
+    "tagName": "Augustine_of_Hippo",
+    "postCount": 2
+   },
+   {
+    "tagName": "California_\u00dcber_Alles",
+    "postCount": 2
+   },
+   {
+    "tagName": "George_W._Bush",
+    "postCount": 2
+   },
+   {
+    "tagName": "Pierre_Trudeau",
+    "postCount": 2
+   },
+   {
+    "tagName": "Slavoj_\u017di\u017eek",
+    "postCount": 2
+   },
+   {
+    "tagName": "Adolf_Hitler",
+    "postCount": 1
+   },
+   {
+    "tagName": "Agatha_Christie",
+    "postCount": 1
+   }
+  ]
+ }
+}

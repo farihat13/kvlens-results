@@ -1,0 +1,73 @@
+{
+ "query_sha": "d7c0e0884773459a",
+ "params": {
+  "personId": "person_2199023259063",
+  "firstName": "Alif"
+ },
+ "data": {
+  "schema_sha256": "673074740eea54e4ba1fdc94eebf2087531b3007af7da660afffb3d1e8df0d1e",
+  "schema_path": "nebulagraph/schema/schema.gql",
+  "sf": "0.3",
+  "created": "2026-11-21T03:42:54Z",
+  "git_sha": "1d6662c2"
+ },
+ "fetched_at": "2026-11-20T23:53:00",
+ "raw": {
+  "keys": [
+   "friendId",
+   "friendLastName",
+   "distanceFromPerson",
+   "friendBirthday",
+   "friendCreationDate",
+   "friendGender",
+   "friendBrowserUsed",
+   "friendLocationIp",
+   "friendEmails",
+   "friendLanguages",
+   "friendCityName",
+   "friendUniversities",
+   "friendCompanies",
+   "friendIdInt"
+  ],
+  "rows": [
+   {
+    "friendId": "person_26388279067086",
+    "friendLastName": "Qaderi",
+    "distanceFromPerson": 2,
+    "friendBirthday": 351648000000,
+    "friendCreationDate": 1330751048231,
+    "friendGender": "male",
+    "friendBrowserUsed": "Firefox",
+    "friendLocationIp": "27.116.59.8",
+    "friendEmails": [
+     "Alif26388279067086@yahoo.com"
+    ],
+    "friendLanguages": [
+     "uz",
+     "tk",
+     "en"
+    ],
+    "friendCityName": "Khost",
+    "friendUniversities": [],
+    "friendCompanies": [
+     [
+      "Balkh_Airlines",
+      2008,
+      "Afghanistan"
+     ],
+     [
+      "MarcoPolo_Airways",
+      1999,
+      "Afghanistan"
+     ],
+     [
+      "Kam_Air",
+      2009,
+      "Afghanistan"
+     ]
+    ],
+    "friendIdInt": 26388279067086
+   }
+  ]
+ }
+}

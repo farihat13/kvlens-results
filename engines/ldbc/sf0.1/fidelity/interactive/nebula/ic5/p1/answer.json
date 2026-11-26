@@ -1,0 +1,124 @@
+{
+ "query_sha": "0698d079766f4938",
+ "params": {
+  "personId": "person_15393162790207",
+  "minDate": 1344643200000
+ },
+ "data": {
+  "schema_sha256": "673074740eea54e4ba1fdc94eebf2087531b3007af7da660afffb3d1e8df0d1e",
+  "schema_path": "nebulagraph/schema/schema.gql",
+  "sf": "0.1",
+  "created": "2026-11-21T03:27:06Z",
+  "git_sha": "92777160"
+ },
+ "fetched_at": "2026-11-21T01:05:15",
+ "raw": {
+  "keys": [
+   "forumTitle",
+   "postCount",
+   "forumId"
+  ],
+  "rows": [
+   {
+    "forumTitle": "Group for Arnold_Schwarzenegger in Dehradun",
+    "postCount": 2,
+    "forumId": 343597391512
+   },
+   {
+    "forumTitle": "Group for Samuel_L._Jackson in Tagbilaran",
+    "postCount": 2,
+    "forumId": 893353200951
+   },
+   {
+    "forumTitle": "Group for Lucille_Ball in Dehradun",
+    "postCount": 1,
+    "forumId": 137438961303
+   },
+   {
+    "forumTitle": "Group for Jean-Baptiste_Lamarck in Banda_Aceh",
+    "postCount": 1,
+    "forumId": 343597399419
+   },
+   {
+    "forumTitle": "Group for David_Lloyd_George in Sampaloc",
+    "postCount": 1,
+    "forumId": 481036341689
+   },
+   {
+    "forumTitle": "Group for Benjamin_Disraeli in Pudong",
+    "postCount": 1,
+    "forumId": 549755814332
+   },
+   {
+    "forumTitle": "Group for Lorenz_Hart in Tahoua",
+    "postCount": 1,
+    "forumId": 549755815742
+   },
+   {
+    "forumTitle": "Group for Bertolt_Brecht in Moravia",
+    "postCount": 1,
+    "forumId": 549755819470
+   },
+   {
+    "forumTitle": "Group for Mahathir_Mohamad in Pedro_Escobedo",
+    "postCount": 1,
+    "forumId": 618475303163
+   },
+   {
+    "forumTitle": "Group for Saddam_Hussein in Kassel",
+    "postCount": 1,
+    "forumId": 687194774293
+   },
+   {
+    "forumTitle": "Group for Heinz_Guderian in Dire_Dawa",
+    "postCount": 1,
+    "forumId": 755914246097
+   },
+   {
+    "forumTitle": "Group for Louis_Philippe_I in Padang",
+    "postCount": 1,
+    "forumId": 755914249191
+   },
+   {
+    "forumTitle": "Group for John_Wesley in La_Punta",
+    "postCount": 1,
+    "forumId": 824633730024
+   },
+   {
+    "forumTitle": "Group for Plutarch in Cagayan_de_Oro",
+    "postCount": 1,
+    "forumId": 824633735865
+   },
+   {
+    "forumTitle": "Group for William_the_Conqueror in \u00dcr\u00fcmqi",
+    "postCount": 1,
+    "forumId": 962072679624
+   },
+   {
+    "forumTitle": "Group for Jesus in Tula",
+    "postCount": 1,
+    "forumId": 962072687602
+   },
+   {
+    "forumTitle": "Group for Napoleon in Temuco",
+    "postCount": 1,
+    "forumId": 1030792156812
+   },
+   {
+    "forumTitle": "Wall of Chen Yang",
+    "postCount": 0,
+    "forumId": 1665
+   },
+   {
+    "forumTitle": "Album 21 of Andrzej Zakrzewski",
+    "postCount": 0,
+    "forumId": 1688
+   },
+   {
+    "forumTitle": "Album 27 of Mehmet Ayhan",
+    "postCount": 0,
+    "forumId": 2211
+   }
+  ]
+ }
+}

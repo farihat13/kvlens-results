@@ -1,0 +1,84 @@
+{
+ "query_sha": "00f75f489d160871",
+ "params": {
+  "personId": "24189255813168"
+ },
+ "data": {
+  "schema_sha256": "03713a1e1c7b722e73bed6b150e079e69e9579c2a58c52e06f9d4384fdd4b80d",
+  "schema_path": "dgraph/schema/ldbcTypes.schema",
+  "sf": "0.3",
+  "created": "2026-11-21T02:56:18Z",
+  "git_sha": "60910999"
+ },
+ "fetched_at": "2026-11-20T23:51:09",
+ "raw": {
+  "person": [
+   {
+    "knows": [
+     {
+      "friendId": 28587302324596,
+      "friendFirstName": "Faisal",
+      "friendLastName": "Ahmed",
+      "knows|creationDate": "2012-04-20T15:11:00.787+00:00"
+     },
+     {
+      "friendId": 24189255813524,
+      "friendFirstName": "Ahmad",
+      "friendLastName": "Motamed",
+      "knows|creationDate": "2012-01-29T02:58:18.085+00:00"
+     },
+     {
+      "friendId": 32985348834053,
+      "friendFirstName": "James",
+      "friendLastName": "Wilson",
+      "knows|creationDate": "2012-07-27T15:50:49.591+00:00"
+     },
+     {
+      "friendId": 30786325578932,
+      "friendFirstName": "Alexander",
+      "friendLastName": "Hleb",
+      "knows|creationDate": "2012-06-25T09:05:44.473+00:00"
+     },
+     {
+      "friendId": 32985348834375,
+      "friendFirstName": "Alfred",
+      "friendLastName": "Hoffmann",
+      "knows|creationDate": "2012-07-24T21:02:28.663+00:00"
+     }
+    ],
+    "~knows": [
+     {
+      "friendId": 19791209303550,
+      "friendFirstName": "Nol",
+      "friendLastName": "Dany",
+      "~knows|creationDate": "2012-02-01T07:42:00.024+00:00"
+     },
+     {
+      "friendId": 21990232556811,
+      "friendFirstName": "Bruna",
+      "friendLastName": "Costa",
+      "~knows|creationDate": "2012-01-25T11:50:18.199+00:00"
+     },
+     {
+      "friendId": 17592186048248,
+      "friendFirstName": "Abdulwahab",
+      "friendLastName": "Gillett",
+      "~knows|creationDate": "2012-01-13T05:30:57.120+00:00"
+     },
+     {
+      "friendId": 2199023258280,
+      "friendFirstName": "Macky",
+      "friendLastName": "Mendy",
+      "~knows|creationDate": "2012-01-28T14:54:44.545+00:00"
+     },
+     {
+      "friendId": 4398046512826,
+      "friendFirstName": "Bingbing",
+      "friendLastName": "Liu",
+      "~knows|creationDate": "2012-01-24T08:39:59.737+00:00"
+     }
+    ]
+   }
+  ]
+ }
+}

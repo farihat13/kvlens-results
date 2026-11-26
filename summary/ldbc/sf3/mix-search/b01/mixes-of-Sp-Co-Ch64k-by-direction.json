@@ -1,0 +1,270 @@
+{
+ "rows": [
+  {
+   "assignment": {
+    "Forum props": "Ch64k",
+    "Message props": "Ch64k",
+    "Person props": "Co",
+    "Place props": "Ch64k",
+    "Tag props": "Ch64k",
+    "containerOf in-lists": "Ch64k",
+    "containerOf out-lists": "Co",
+    "hasCreator in-lists": "Co",
+    "hasCreator out-lists": "Ch64k",
+    "hasInterest out-lists": "Ch64k",
+    "hasMember out-lists": "Ch64k",
+    "hasModerator in-lists": "Ch64k",
+    "hasTag in-lists": "Co",
+    "hasTag out-lists": "Ch64k",
+    "hasType in-lists": "Co",
+    "isLocatedIn in-lists": "Ch64k",
+    "isLocatedIn out-lists": "Ch64k",
+    "isPartOf in-lists": "Co",
+    "isPartOf out-lists": "Ch64k",
+    "knows in-lists": "Ch64k",
+    "knows out-lists": "Ch64k",
+    "likes in-lists": "Ch64k",
+    "likes out-lists": "Co",
+    "replyOf in-lists": "Ch64k",
+    "replyOf out-lists": "Ch64k"
+   },
+   "benchmark": "ldbc",
+   "bytes_reference": "props_split_adj_condensed",
+   "capture": "<elsewhere>/captures/grid",
+   "chunk_view": "half",
+   "command": "kvcost search-mix --dataset ldbc --sf 3 --from <elsewhere>/captures/grid --out <elsewhere>/ms --workload inputs/workloads/bi/b01.json --option-set per-type-and-direction --model wops_bytes4k --weighting additive",
+   "criterion": null,
+   "dominated": 31,
+   "fits": true,
+   "identity": {
+    "capture": "<elsewhere>/captures/grid",
+    "code_commit": "33e2eface9e15a199b08a7491967d0c7bef6fddb",
+    "code_dirty": false,
+    "cost_cache_keys": [
+     "11a6c1826aeaf1c78692b9c577ad89a2",
+     "16528bc5bffe5051eb8d36dc0a26b1c5",
+     "1a259f43562ad6eb8d69c0664093623f",
+     "25f6d3dfe2c6672ae9b0498f6407ae86",
+     "349de9ac9c83c99417c9cee451254303",
+     "43e4ab93e8928c73525106975f9d4a4b",
+     "45ccec3c6fef1586718ee24046f4e8b3",
+     "49aacc7be540b13a2dacc78f56a635f6",
+     "835d98ffd2611c986650eb1103c53a9f",
+     "937a37a2ec020ed0ae30b1232f69db11",
+     "999ce8c88c90b7308919be426849221a",
+     "9f20ce6c81d9f0399eea37f0281fd70a",
+     "b3a69dfe0e3057ba79149ec9fa309be2",
+     "ba996a0569d748831418da0a8520a617",
+     "bd90f367c234fdb9d9980eea1113945e",
+     "c97c5291b62c7fcbe5fef86a241a5415",
+     "f5f96a2e3091fc93717f3e61523b714d"
+    ],
+    "counting": {
+     "bi": [
+      "{\"format\": 3, \"seam\": 4, \"write_format\": 1, \"write_seam\": 1}"
+     ]
+    },
+    "measurement_version": {
+     "bi": [
+      7
+     ]
+    },
+    "pick_record": "inputs/picks/pick_record.json",
+    "pick_record_commit": "dd7a258cbb65b8591db261af75228e0c6e3ba804",
+    "plan_files_commit": "45b248fff7ef890c2967e591585e974763a57b01",
+    "source_kinds": {
+     "bi": {
+      "props_chunked_adj_chunked": "measured",
+      "props_chunked_adj_condensed": "composed",
+      "props_chunked_adj_split": "composed",
+      "props_condensed_adj_chunked": "composed",
+      "props_condensed_adj_condensed": "measured",
+      "props_condensed_adj_split": "composed",
+      "props_split_adj_chunked": "composed",
+      "props_split_adj_condensed": "composed",
+      "props_split_adj_split": "measured"
+     }
+    }
+   },
+   "lanes": {
+    "D": 0.0,
+    "G": 3732.8,
+    "N": 7777903.4,
+    "P": 0.0,
+    "S": 110449.40000000001,
+    "get_key": 37328.0,
+    "get_miss_key": 0.0,
+    "get_value": 556926.2,
+    "miss_key_bytes": 3426.2,
+    "next_miss_key": 660.8000000000001,
+    "read_bytes": 5193688486.2,
+    "read_ops": 203006.17400000003,
+    "scan_key": 164344290.79999998,
+    "scan_value": 5028746515.000001,
+    "seek_miss_key": 2765.4,
+    "write_bytes": 0.0,
+    "write_key": 0.0,
+    "write_ops": 0.0,
+    "write_rmw_bytes": 0.0,
+    "write_rmw_miss_key_bytes": 0.0,
+    "write_rmw_ops": 0.0,
+    "write_value": 0.0
+   },
+   "limit": null,
+   "max_nodes": null,
+   "model": "wops_bytes4k",
+   "nodes": 69,
+   "option_set": "per-type-and-direction",
+   "per_part": {
+    "('adj', 'containerOf', 'in')": {
+     "bytes": 45722945.2,
+     "ops": 1063.26
+    },
+    "('adj', 'containerOf', 'out')": {
+     "bytes": 17663.6,
+     "ops": 88.0
+    },
+    "('adj', 'hasCreator', 'in')": {
+     "bytes": 9117988.8,
+     "ops": 10490.920000000002
+    },
+    "('adj', 'hasCreator', 'out')": {
+     "bytes": 435662248.6,
+     "ops": 13966.260000000002
+    },
+    "('adj', 'hasInterest', 'out')": {
+     "bytes": 1783826.0,
+     "ops": 103.40000000000002
+    },
+    "('adj', 'hasMember', 'out')": {
+     "bytes": 67703800.60000001,
+     "ops": 1344.64
+    },
+    "('adj', 'hasModerator', 'in')": {
+     "bytes": 857182.0000000001,
+     "ops": 191.40000000000003
+    },
+    "('adj', 'hasTag', 'in')": {
+     "bytes": 4742953.600000001,
+     "ops": 982.5200000000002
+    },
+    "('adj', 'hasTag', 'out')": {
+     "bytes": 40674694.800000004,
+     "ops": 1895.52
+    },
+    "('adj', 'hasType', 'in')": {
+     "bytes": 1345.4,
+     "ops": 3.3000000000000003
+    },
+    "('adj', 'isLocatedIn', 'in')": {
+     "bytes": 288747.2,
+     "ops": 5.94
+    },
+    "('adj', 'isLocatedIn', 'out')": {
+     "bytes": 241498.8,
+     "ops": 11.88
+    },
+    "('adj', 'isPartOf', 'in')": {
+     "bytes": 684.2000000000002,
+     "ops": 6.6000000000000005
+    },
+    "('adj', 'isPartOf', 'out')": {
+     "bytes": 5213.6,
+     "ops": 0.8800000000000001
+    },
+    "('adj', 'knows', 'in')": {
+     "bytes": 40657135.6,
+     "ops": 1375.44
+    },
+    "('adj', 'knows', 'out')": {
+     "bytes": 44120579.2,
+     "ops": 1469.38
+    },
+    "('adj', 'likes', 'in')": {
+     "bytes": 175098552.4,
+     "ops": 18903.500000000004
+    },
+    "('adj', 'likes', 'out')": {
+     "bytes": 4504073.8,
+     "ops": 1038.1800000000003
+    },
+    "('adj', 'replyOf', 'in')": {
+     "bytes": 63154924.0,
+     "ops": 2173.6
+    },
+    "('adj', 'replyOf', 'out')": {
+     "bytes": 665971778.2,
+     "ops": 15296.82
+    },
+    "('props', 'Forum')": {
+     "bytes": 8888892.6,
+     "ops": 19.57
+    },
+    "('props', 'Message')": {
+     "bytes": 3418587030.0,
+     "ops": 51129.659999999996
+    },
+    "('props', 'Person')": {
+     "bytes": 594254.2,
+     "ops": 3732.8
+    },
+    "('props', 'Place')": {
+     "bytes": 53122.00000000001,
+     "ops": 1.1
+    },
+    "('props', 'Tag')": {
+     "bytes": 2200749.2,
+     "ops": 44.660000000000004
+    },
+    "None": {
+     "bytes": 163036602.60000002,
+     "ops": 77666.944
+    }
+   },
+   "plan_rule": "record=inputs/picks/pick_record.json; anchor=True; pin=True; in_sample=None; historical=False",
+   "proven": true,
+   "question": "fewest",
+   "reference_bytes": 6680990999.799999,
+   "run_id": "20261105T031103Z-7e2198",
+   "scale": "3",
+   "score": {
+    "additive_reference": "props_chunked_adj_chunked",
+    "form": "additive",
+    "queries": 17,
+    "value": 0.9934510930999582
+   },
+   "sizes": [],
+   "solver": "cost-cache",
+   "start": {
+    "best_uniform": "chunked/chunked",
+    "two_step": {
+     "moves": 0,
+     "start_total": [
+      17.0,
+      60366.26600934312
+     ],
+     "total": [
+      16.88866858269929,
+      59167.25869430177
+     ]
+    },
+    "used": "the two-step mix"
+   },
+   "times": {
+    "cost_cache_s": 1.386,
+    "cost_s": 0.017,
+    "solve_s": 0.005,
+    "start_s": 0.001
+   },
+   "totals": {
+    "bytes": 5193688486.2,
+    "wops": 203006.17400000003,
+    "wops_bytes4k": 1470996.527076172
+   },
+   "walk_seconds": null,
+   "weighting": "additive",
+   "weights": "1:1.1:0.01",
+   "workload": "b01"
+  }
+ ]
+}

@@ -1,0 +1,118 @@
+{
+ "query_sha": "e8d54b8612751a91",
+ "params": {
+  "personId": "person_30786325579101",
+  "month": 7
+ },
+ "data": {
+  "schema_sha256": "673074740eea54e4ba1fdc94eebf2087531b3007af7da660afffb3d1e8df0d1e",
+  "schema_path": "nebulagraph/schema/schema.gql",
+  "sf": "0.1",
+  "created": "2026-11-21T03:27:06Z",
+  "git_sha": "92777160"
+ },
+ "fetched_at": "2026-11-21T01:04:46",
+ "raw": {
+  "keys": [
+   "personId",
+   "personFirstName",
+   "personLastName",
+   "commonInterestScore",
+   "personGender",
+   "personCityName",
+   "personIdInt"
+  ],
+  "rows": [
+   {
+    "personId": "person_10995116278223",
+    "personFirstName": "Guy",
+    "personLastName": "Akongo",
+    "commonInterestScore": 0,
+    "personGender": "female",
+    "personCityName": "Mokolo",
+    "personIdInt": 10995116278223
+   },
+   {
+    "personId": "person_19791209301505",
+    "personFirstName": "Henry",
+    "personLastName": "Smith",
+    "commonInterestScore": 0,
+    "personGender": "male",
+    "personCityName": "Coventry",
+    "personIdInt": 19791209301505
+   },
+   {
+    "personId": "person_32985348833798",
+    "personFirstName": "Otto",
+    "personLastName": "Kerndlova",
+    "commonInterestScore": 0,
+    "personGender": "male",
+    "personCityName": "\u010cesk\u00e9_Bud\u011bjovice",
+    "personIdInt": 32985348833798
+   },
+   {
+    "personId": "person_6597069767635",
+    "personFirstName": "Thomas Ilenda",
+    "personLastName": "Lita",
+    "commonInterestScore": -1,
+    "personGender": "female",
+    "personCityName": "Bandundu",
+    "personIdInt": 6597069767635
+   },
+   {
+    "personId": "person_19791209300656",
+    "personFirstName": "Francis",
+    "personLastName": "Aquino",
+    "commonInterestScore": -1,
+    "personGender": "male",
+    "personCityName": "Iligan",
+    "personIdInt": 19791209300656
+   },
+   {
+    "personId": "person_30786325578904",
+    "personFirstName": "Giuseppe",
+    "personLastName": "Donati",
+    "commonInterestScore": -2,
+    "personGender": "male",
+    "personCityName": "Turin",
+    "personIdInt": 30786325578904
+   },
+   {
+    "personId": "person_24189255811227",
+    "personFirstName": "Bacary",
+    "personLastName": "Diop",
+    "commonInterestScore": -4,
+    "personGender": "male",
+    "personCityName": "Diourbel",
+    "personIdInt": 24189255811227
+   },
+   {
+    "personId": "person_17592186045405",
+    "personFirstName": "Wei",
+    "personLastName": "Li",
+    "commonInterestScore": -5,
+    "personGender": "female",
+    "personCityName": "Luoyang",
+    "personIdInt": 17592186045405
+   },
+   {
+    "personId": "person_13194139533984",
+    "personFirstName": "Annemarie",
+    "personLastName": "Bos",
+    "commonInterestScore": -8,
+    "personGender": "female",
+    "personCityName": "Utrecht",
+    "personIdInt": 13194139533984
+   },
+   {
+    "personId": "person_26388279068275",
+    "personFirstName": "Jean",
+    "personLastName": "Berty",
+    "commonInterestScore": -13,
+    "personGender": "male",
+    "personCityName": "Buea",
+    "personIdInt": 26388279068275
+   }
+  ]
+ }
+}

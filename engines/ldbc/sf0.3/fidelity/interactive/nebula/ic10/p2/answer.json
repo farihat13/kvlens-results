@@ -1,0 +1,118 @@
+{
+ "query_sha": "e8d54b8612751a91",
+ "params": {
+  "personId": "person_2199023259220",
+  "month": 11
+ },
+ "data": {
+  "schema_sha256": "673074740eea54e4ba1fdc94eebf2087531b3007af7da660afffb3d1e8df0d1e",
+  "schema_path": "nebulagraph/schema/schema.gql",
+  "sf": "0.3",
+  "created": "2026-11-21T03:42:54Z",
+  "git_sha": "1d6662c2"
+ },
+ "fetched_at": "2026-11-20T23:51:16",
+ "raw": {
+  "keys": [
+   "personId",
+   "personFirstName",
+   "personLastName",
+   "commonInterestScore",
+   "personGender",
+   "personCityName",
+   "personIdInt"
+  ],
+  "rows": [
+   {
+    "personId": "person_15393162789614",
+    "personFirstName": "Adi",
+    "personLastName": "Cohen",
+    "commonInterestScore": 0,
+    "personGender": "female",
+    "personCityName": "Jerusalem",
+    "personIdInt": 15393162789614
+   },
+   {
+    "personId": "person_17592186045089",
+    "personFirstName": "Sven",
+    "personLastName": "Persson",
+    "commonInterestScore": 0,
+    "personGender": "male",
+    "personCityName": "Rovaniemi",
+    "personIdInt": 17592186045089
+   },
+   {
+    "personId": "person_19791209302241",
+    "personFirstName": "Dejiang",
+    "personLastName": "Lin",
+    "commonInterestScore": 0,
+    "personGender": "female",
+    "personCityName": "Yongkang_District",
+    "personIdInt": 19791209302241
+   },
+   {
+    "personId": "person_21990232558670",
+    "personFirstName": "Leonid",
+    "personLastName": "Kofler",
+    "commonInterestScore": 0,
+    "personGender": "male",
+    "personCityName": "Odessa",
+    "personIdInt": 21990232558670
+   },
+   {
+    "personId": "person_24189255814441",
+    "personFirstName": "Richard",
+    "personLastName": "Obuya",
+    "commonInterestScore": 0,
+    "personGender": "male",
+    "personCityName": "Nairobi",
+    "personIdInt": 24189255814441
+   },
+   {
+    "personId": "person_30786325579003",
+    "personFirstName": "Charles",
+    "personLastName": "Smith",
+    "commonInterestScore": 0,
+    "personGender": "male",
+    "personCityName": "Liverpool",
+    "personIdInt": 30786325579003
+   },
+   {
+    "personId": "person_32985348834262",
+    "personFirstName": "Roberto",
+    "personLastName": "Rojas",
+    "commonInterestScore": 0,
+    "personGender": "female",
+    "personCityName": "San_Mart\u00edn",
+    "personIdInt": 32985348834262
+   },
+   {
+    "personId": "person_32985348835135",
+    "personFirstName": "Nicholas",
+    "personLastName": "Davies",
+    "commonInterestScore": 0,
+    "personGender": "female",
+    "personCityName": "Liverpool",
+    "personIdInt": 32985348835135
+   },
+   {
+    "personId": "person_32985348834064",
+    "personFirstName": "Anatoly",
+    "personLastName": "Kogan",
+    "commonInterestScore": -1,
+    "personGender": "female",
+    "personCityName": "Dnipropetrovsk",
+    "personIdInt": 32985348834064
+   },
+   {
+    "personId": "person_10995116280019",
+    "personFirstName": "Kittipol",
+    "personLastName": "Aguilar",
+    "commonInterestScore": -2,
+    "personGender": "female",
+    "personCityName": "Nakhon_Pathom_Province",
+    "personIdInt": 10995116280019
+   }
+  ]
+ }
+}

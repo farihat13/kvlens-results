@@ -1,0 +1,81 @@
+{
+ "query_sha": "6ff3aa62b8626f5b",
+ "params": {
+  "personId": "person_30786325579745"
+ },
+ "data": {
+  "schema_sha256": "673074740eea54e4ba1fdc94eebf2087531b3007af7da660afffb3d1e8df0d1e",
+  "schema_path": "nebulagraph/schema/schema.gql",
+  "sf": "0.3",
+  "created": "2026-11-21T03:42:54Z",
+  "git_sha": "1d6662c2"
+ },
+ "fetched_at": "2026-11-21T00:08:15",
+ "raw": {
+  "keys": [
+   "friendId",
+   "friendFirstName",
+   "friendLastName",
+   "friendshipCreationDate",
+   "friendIdInt"
+  ],
+  "rows": [
+   {
+    "friendId": "person_10995116278973",
+    "friendFirstName": "Paolo",
+    "friendLastName": "Colombo",
+    "friendshipCreationDate": 1341262363164,
+    "friendIdInt": 10995116278973
+   },
+   {
+    "friendId": "person_13194139535371",
+    "friendFirstName": "Esti",
+    "friendLastName": "Bahaina",
+    "friendshipCreationDate": 1341177475231,
+    "friendIdInt": 13194139535371
+   },
+   {
+    "friendId": "person_15393162790347",
+    "friendFirstName": "Esti",
+    "friendLastName": "Verghese",
+    "friendshipCreationDate": 1340805756433,
+    "friendIdInt": 15393162790347
+   },
+   {
+    "friendId": "person_30786325579579",
+    "friendFirstName": "John",
+    "friendLastName": "Murray",
+    "friendshipCreationDate": 1340737609814,
+    "friendIdInt": 30786325579579
+   },
+   {
+    "friendId": "person_24189255813579",
+    "friendFirstName": "Alfred",
+    "friendLastName": "Jong",
+    "friendshipCreationDate": 1340428481526,
+    "friendIdInt": 24189255813579
+   },
+   {
+    "friendId": "person_26388279067534",
+    "friendFirstName": "Emperor of Brazil",
+    "friendLastName": "Dom Pedro II",
+    "friendshipCreationDate": 1340216192439,
+    "friendIdInt": 26388279067534
+   },
+   {
+    "friendId": "person_30786325579845",
+    "friendFirstName": "Arjun",
+    "friendLastName": "Khan",
+    "friendshipCreationDate": 1339782194665,
+    "friendIdInt": 30786325579845
+   },
+   {
+    "friendId": "person_17592186047267",
+    "friendFirstName": "Ali",
+    "friendLastName": "Hosseini",
+    "friendshipCreationDate": 1339386559032,
+    "friendIdInt": 17592186047267
+   }
+  ]
+ }
+}

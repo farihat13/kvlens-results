@@ -1,0 +1,81 @@
+{
+ "query_sha": "6ff3aa62b8626f5b",
+ "params": {
+  "personId": "person_13194139535032"
+ },
+ "data": {
+  "schema_sha256": "673074740eea54e4ba1fdc94eebf2087531b3007af7da660afffb3d1e8df0d1e",
+  "schema_path": "nebulagraph/schema/schema.gql",
+  "sf": "0.3",
+  "created": "2026-11-21T03:42:54Z",
+  "git_sha": "1d6662c2"
+ },
+ "fetched_at": "2026-11-21T00:02:42",
+ "raw": {
+  "keys": [
+   "friendId",
+   "friendFirstName",
+   "friendLastName",
+   "friendshipCreationDate",
+   "friendIdInt"
+  ],
+  "rows": [
+   {
+    "friendId": "person_26388279068150",
+    "friendFirstName": "Vladimir",
+    "friendLastName": "Kofler",
+    "friendshipCreationDate": 1330166412765,
+    "friendIdInt": 26388279068150
+   },
+   {
+    "friendId": "person_24189255811566",
+    "friendFirstName": "The",
+    "friendLastName": "Kunda",
+    "friendshipCreationDate": 1325046435869,
+    "friendIdInt": 24189255811566
+   },
+   {
+    "friendId": "person_24189255812607",
+    "friendFirstName": "Takeshi",
+    "friendLastName": "Yamamoto",
+    "friendshipCreationDate": 1324336858609,
+    "friendIdInt": 24189255812607
+   },
+   {
+    "friendId": "person_17592186048261",
+    "friendFirstName": "Anna",
+    "friendLastName": "Kogan",
+    "friendshipCreationDate": 1309382935095,
+    "friendIdInt": 17592186048261
+   },
+   {
+    "friendId": "person_17592186045238",
+    "friendFirstName": "Mihai",
+    "friendLastName": "David",
+    "friendshipCreationDate": 1306689657033,
+    "friendIdInt": 17592186045238
+   },
+   {
+    "friendId": "person_13194139535025",
+    "friendFirstName": "Yang",
+    "friendLastName": "Zhang",
+    "friendshipCreationDate": 1300594193258,
+    "friendIdInt": 13194139535025
+   },
+   {
+    "friendId": "person_1564",
+    "friendFirstName": "Emperor of Brazil",
+    "friendLastName": "Silva",
+    "friendshipCreationDate": 1299458826986,
+    "friendIdInt": 1564
+   },
+   {
+    "friendId": "person_4398046514487",
+    "friendFirstName": "Babar",
+    "friendLastName": "Malik",
+    "friendshipCreationDate": 1298597145971,
+    "friendIdInt": 4398046514487
+   }
+  ]
+ }
+}

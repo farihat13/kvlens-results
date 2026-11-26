@@ -1,0 +1,31 @@
+{
+ "query_sha": "cc60061064f78218",
+ "params": {
+  "personId": "24189255813168",
+  "firstName": "Moses"
+ },
+ "data_created": "",
+ "measured_at": "2026-11-23T13:10:30",
+ "raw": {
+  "get_bytes": 249871,
+  "get_count": 4471,
+  "get_found_count": 4471,
+  "get_latency_ns": 37192428,
+  "next_bytes": 0,
+  "next_count": 0,
+  "next_latency_ns": 0,
+  "seek_bytes": 5966379,
+  "seek_count": 2610,
+  "seek_latency_ns": 16710790,
+  "set_bytes": 0,
+  "set_count": 0,
+  "set_latency_ns": 0
+ },
+ "config": {
+  "cache_mode": "off",
+  "ineqfilterpath": "per_vertex",
+  "eqfilterpath": "per_vertex",
+  "typefilterpath": "index",
+  "detsort": "enable"
+ }
+}

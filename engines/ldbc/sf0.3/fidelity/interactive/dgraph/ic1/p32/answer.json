@@ -1,0 +1,123 @@
+{
+ "query_sha": "cc60061064f78218",
+ "params": {
+  "personId": "30786325579745",
+  "firstName": "Georgios"
+ },
+ "data": {
+  "schema_sha256": "03713a1e1c7b722e73bed6b150e079e69e9579c2a58c52e06f9d4384fdd4b80d",
+  "schema_path": "dgraph/schema/ldbcTypes.schema",
+  "sf": "0.3",
+  "created": "2026-11-21T02:56:18Z",
+  "git_sha": "60910999"
+ },
+ "fetched_at": "2026-11-21T00:06:51",
+ "raw": {
+  "_l1_from_p": [],
+  "_l2_expand": [],
+  "_l3_expand": [],
+  "friends1": [],
+  "friends2": [
+   {
+    "companyCountryName": "Greece",
+    "companyName": "Viking_Hellas",
+    "friendBirthday": "1981-08-25T00:00:00Z",
+    "friendBrowserUsed": "Firefox",
+    "friendCityName": "Athens",
+    "friendCreationDate": "2010-05-01T07:15:22.253Z",
+    "friendDistance": 2,
+    "friendEmails": [
+     "Georgios2199023256086@graphic-designer.com",
+     "Georgios2199023256086@gmail.com",
+     "Georgios2199023256086@yahoo.com"
+    ],
+    "friendFirstName": "Georgios",
+    "friendGender": "female",
+    "friendId": 2199023256086,
+    "friendLanguages": [
+     "en",
+     "fr"
+    ],
+    "friendLastName": "Antoniou",
+    "friendLocationIp": "81.186.197.62",
+    "studyAt|classYear": "2001",
+    "uniCityName": "Athens",
+    "uniName": "National_and_Kapodistrian_University_of_Athens",
+    "workAt|workFrom": "2002"
+   }
+  ],
+  "friends3": [
+   {
+    "companyCountryName": "Greece",
+    "companyName": "Air_Greece",
+    "friendBirthday": "1988-08-29T00:00:00Z",
+    "friendBrowserUsed": "Chrome",
+    "friendCityName": "Patras",
+    "friendCreationDate": "2011-01-17T16:53:22.918Z",
+    "friendDistance": 3,
+    "friendEmails": [
+     "Georgios13194139533523@gmail.com"
+    ],
+    "friendFirstName": "Georgios",
+    "friendGender": "female",
+    "friendId": 13194139533523,
+    "friendLanguages": [
+     "en"
+    ],
+    "friendLastName": "Angello",
+    "friendLocationIp": "91.198.108.36",
+    "studyAt|classYear": "2007",
+    "uniCityName": "Crete",
+    "uniName": "MBS_College",
+    "workAt|workFrom": "2007"
+   },
+   {
+    "companyCountryName": "Canada",
+    "companyName": "Regional_1",
+    "friendBirthday": "1988-08-29T00:00:00Z",
+    "friendBrowserUsed": "Chrome",
+    "friendCityName": "Patras",
+    "friendCreationDate": "2011-01-17T16:53:22.918Z",
+    "friendDistance": 3,
+    "friendEmails": [
+     "Georgios13194139533523@gmail.com"
+    ],
+    "friendFirstName": "Georgios",
+    "friendGender": "female",
+    "friendId": 13194139533523,
+    "friendLanguages": [
+     "en"
+    ],
+    "friendLastName": "Angello",
+    "friendLocationIp": "91.198.108.36",
+    "studyAt|classYear": "2007",
+    "uniCityName": "Crete",
+    "uniName": "MBS_College",
+    "workAt|workFrom": "2009"
+   },
+   {
+    "friendBirthday": "1983-03-06T00:00:00Z",
+    "friendBrowserUsed": "Internet Explorer",
+    "friendCityName": "Larissa",
+    "friendCreationDate": "2012-01-04T21:11:34.868Z",
+    "friendDistance": 3,
+    "friendEmails": [
+     "Georgios24189255813658@yahoo.com",
+     "Georgios24189255813658@gmx.com",
+     "Georgios24189255813658@gmail.com"
+    ],
+    "friendFirstName": "Georgios",
+    "friendGender": "female",
+    "friendId": 24189255813658,
+    "friendLanguages": [
+     "en"
+    ],
+    "friendLastName": "Fampas",
+    "friendLocationIp": "46.177.109.152",
+    "studyAt|classYear": "2002",
+    "uniCityName": "Piraeus",
+    "uniName": "Technological_Educational_Institute_of_Piraeus"
+   }
+  ]
+ }
+}

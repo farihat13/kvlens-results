@@ -1,0 +1,108 @@
+{
+ "query_sha": "4dcea213e133d224",
+ "params": {
+  "messageId": "msg_549756718979"
+ },
+ "data": {
+  "schema_sha256": "673074740eea54e4ba1fdc94eebf2087531b3007af7da660afffb3d1e8df0d1e",
+  "schema_path": "nebulagraph/schema/schema.gql",
+  "sf": "0.3",
+  "created": "2026-11-21T03:42:54Z",
+  "git_sha": "1d6662c2"
+ },
+ "fetched_at": "2026-11-20T23:59:59",
+ "raw": {
+  "keys": [
+   "commentId",
+   "commentContent",
+   "commentCreationDate",
+   "replyAuthorId",
+   "replyAuthorFirstName",
+   "replyAuthorLastName",
+   "knows",
+   "replyAuthorIdInt"
+  ],
+  "rows": [
+   {
+    "commentId": "msg_549756718995",
+    "commentContent": "About Nero, ecember 37 \u2013 9About Henry VIII of England, ccomplished kiAbout David Ho",
+    "commentCreationDate": 1308191468506,
+    "replyAuthorId": "person_4398046513245",
+    "replyAuthorFirstName": "Pavel",
+    "replyAuthorLastName": "Kurkov\u00e1",
+    "knows": false,
+    "replyAuthorIdInt": 4398046513245
+   },
+   {
+    "commentId": "msg_549756718980",
+    "commentContent": "LOL",
+    "commentCreationDate": 1308124986691,
+    "replyAuthorId": "person_1103",
+    "replyAuthorFirstName": "Mehmet",
+    "replyAuthorLastName": "Ayhan",
+    "knows": true,
+    "replyAuthorIdInt": 1103
+   },
+   {
+    "commentId": "msg_549756718981",
+    "commentContent": "cool",
+    "commentCreationDate": 1308122702007,
+    "replyAuthorId": "person_17592186045382",
+    "replyAuthorFirstName": "Karl",
+    "replyAuthorLastName": "Kurkov\u00e1",
+    "knows": true,
+    "replyAuthorIdInt": 17592186045382
+   },
+   {
+    "commentId": "msg_549756718982",
+    "commentContent": "roflol",
+    "commentCreationDate": 1308122235999,
+    "replyAuthorId": "person_4398046513245",
+    "replyAuthorFirstName": "Pavel",
+    "replyAuthorLastName": "Kurkov\u00e1",
+    "knows": false,
+    "replyAuthorIdInt": 4398046513245
+   },
+   {
+    "commentId": "msg_549756718988",
+    "commentContent": "I see",
+    "commentCreationDate": 1308120788267,
+    "replyAuthorId": "person_3606",
+    "replyAuthorFirstName": "Andrew",
+    "replyAuthorLastName": "Kibona",
+    "knows": false,
+    "replyAuthorIdInt": 3606
+   },
+   {
+    "commentId": "msg_549756718990",
+    "commentContent": "good",
+    "commentCreationDate": 1308120101658,
+    "replyAuthorId": "person_4398046513245",
+    "replyAuthorFirstName": "Pavel",
+    "replyAuthorLastName": "Kurkov\u00e1",
+    "knows": false,
+    "replyAuthorIdInt": 4398046513245
+   },
+   {
+    "commentId": "msg_549756718991",
+    "commentContent": "roflol",
+    "commentCreationDate": 1308119458449,
+    "replyAuthorId": "person_6597069767149",
+    "replyAuthorFirstName": "Bangguo",
+    "replyAuthorLastName": "Hu",
+    "knows": false,
+    "replyAuthorIdInt": 6597069767149
+   },
+   {
+    "commentId": "msg_549756718983",
+    "commentContent": "yes",
+    "commentCreationDate": 1308116042273,
+    "replyAuthorId": "person_2330",
+    "replyAuthorFirstName": "Zhong",
+    "replyAuthorLastName": "Wang",
+    "knows": false,
+    "replyAuthorIdInt": 2330
+   }
+  ]
+ }
+}

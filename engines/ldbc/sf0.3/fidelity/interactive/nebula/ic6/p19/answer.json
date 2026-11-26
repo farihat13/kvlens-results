@@ -1,0 +1,63 @@
+{
+ "query_sha": "ad17deb8111088bd",
+ "params": {
+  "personId": "person_2199023256742",
+  "tagName": "Andrew_Johnson"
+ },
+ "data": {
+  "schema_sha256": "673074740eea54e4ba1fdc94eebf2087531b3007af7da660afffb3d1e8df0d1e",
+  "schema_path": "nebulagraph/schema/schema.gql",
+  "sf": "0.3",
+  "created": "2026-11-21T03:42:54Z",
+  "git_sha": "1d6662c2"
+ },
+ "fetched_at": "2026-11-21T00:00:58",
+ "raw": {
+  "keys": [
+   "tagName",
+   "postCount"
+  ],
+  "rows": [
+   {
+    "tagName": "Chiang_Kai-shek",
+    "postCount": 4
+   },
+   {
+    "tagName": "Jorge_Luis_Borges",
+    "postCount": 4
+   },
+   {
+    "tagName": "Muammar_Gaddafi",
+    "postCount": 3
+   },
+   {
+    "tagName": "Boris_Karloff",
+    "postCount": 2
+   },
+   {
+    "tagName": "Charles_Dickens",
+    "postCount": 2
+   },
+   {
+    "tagName": "Dare_You_to_Move",
+    "postCount": 2
+   },
+   {
+    "tagName": "Erich_von_Stroheim",
+    "postCount": 2
+   },
+   {
+    "tagName": "Hamid_Karzai",
+    "postCount": 2
+   },
+   {
+    "tagName": "Johnny_Cash",
+    "postCount": 2
+   },
+   {
+    "tagName": "Karol_Ku\u010dera",
+    "postCount": 2
+   }
+  ]
+ }
+}

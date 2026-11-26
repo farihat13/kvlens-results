@@ -1,0 +1,733 @@
+{
+ "query_sha": "e98a92aa07772002",
+ "params": {
+  "personId": "8796093025406",
+  "startDate": "2012-05-01T00:00:00Z",
+  "endDate": "2012-06-08T00:00:00Z"
+ },
+ "data": {
+  "schema_sha256": "03713a1e1c7b722e73bed6b150e079e69e9579c2a58c52e06f9d4384fdd4b80d",
+  "schema_path": "dgraph/schema/ldbcTypes.schema",
+  "sf": "0.3",
+  "created": "2026-11-21T02:56:18Z",
+  "git_sha": "60910999"
+ },
+ "fetched_at": "2026-11-21T00:07:18",
+ "raw": {
+  "_l1": [],
+  "tags": [
+   {
+    "tagName": "Imelda_Marcos",
+    "postCount": 111
+   },
+   {
+    "tagName": "Manuel_Noriega",
+    "postCount": 69
+   },
+   {
+    "tagName": "Alejandro_Falla",
+    "postCount": 7
+   },
+   {
+    "tagName": "Hassan_II_of_Morocco",
+    "postCount": 5
+   },
+   {
+    "tagName": "Vinicius_de_Moraes",
+    "postCount": 1
+   },
+   {
+    "tagName": "Fire_Burning",
+    "postCount": 1
+   },
+   {
+    "tagName": "Blame_It",
+    "postCount": 1
+   },
+   {
+    "tagName": "If_I_Die_Young",
+    "postCount": 1
+   },
+   {
+    "tagName": "Anytime_You_Need_a_Friend",
+    "postCount": 1
+   },
+   {
+    "tagName": "Muswell_Hillbillies",
+    "postCount": 1
+   },
+   {
+    "tagName": "Moment_of_Glory",
+    "postCount": 1
+   },
+   {
+    "tagName": "No_Security",
+    "postCount": 1
+   },
+   {
+    "tagName": "Fevers_and_Mirrors",
+    "postCount": 1
+   },
+   {
+    "tagName": "Playing_the_Angel",
+    "postCount": 1
+   },
+   {
+    "tagName": "Caroline,_No",
+    "postCount": 1
+   },
+   {
+    "tagName": "Hot_in_the_City",
+    "postCount": 1
+   },
+   {
+    "tagName": "Piggies",
+    "postCount": 1
+   },
+   {
+    "tagName": "Rubber_Ball",
+    "postCount": 1
+   },
+   {
+    "tagName": "If_I_Loved_You",
+    "postCount": 1
+   },
+   {
+    "tagName": "If_God_Will_Send_His_Angels",
+    "postCount": 1
+   },
+   {
+    "tagName": "Ascension_Island",
+    "postCount": 1
+   },
+   {
+    "tagName": "Just_a_Day",
+    "postCount": 1
+   },
+   {
+    "tagName": "Ein_bi\u00dfchen_Frieden",
+    "postCount": 1
+   },
+   {
+    "tagName": "Woman_in_Love",
+    "postCount": 1
+   },
+   {
+    "tagName": "I_Want_You_Back",
+    "postCount": 1
+   },
+   {
+    "tagName": "Dead_Leaves_and_the_Dirty_Ground",
+    "postCount": 1
+   },
+   {
+    "tagName": "Thank_Me_Later",
+    "postCount": 1
+   },
+   {
+    "tagName": "Blurry",
+    "postCount": 1
+   },
+   {
+    "tagName": "The_Carnival_Is_Over",
+    "postCount": 1
+   },
+   {
+    "tagName": "Canton_of_Neuch\u00e2tel",
+    "postCount": 1
+   },
+   {
+    "tagName": "Youth_and_Young_Manhood",
+    "postCount": 1
+   },
+   {
+    "tagName": "Human_Behaviour",
+    "postCount": 1
+   },
+   {
+    "tagName": "Something_About_the_Way_You_Look_Tonight",
+    "postCount": 1
+   },
+   {
+    "tagName": "Mostasteless",
+    "postCount": 1
+   },
+   {
+    "tagName": "Gone_Again",
+    "postCount": 1
+   },
+   {
+    "tagName": "If_You_Go_Away",
+    "postCount": 1
+   },
+   {
+    "tagName": "A_Little_Bitty_Tear",
+    "postCount": 1
+   },
+   {
+    "tagName": "J.E._Heartbreak",
+    "postCount": 1
+   },
+   {
+    "tagName": "When_You_Were_Mine",
+    "postCount": 1
+   },
+   {
+    "tagName": "Fly_from_Here",
+    "postCount": 1
+   },
+   {
+    "tagName": "Seventeen_Provinces",
+    "postCount": 1
+   },
+   {
+    "tagName": "The_Blueprint_2.1",
+    "postCount": 1
+   },
+   {
+    "tagName": "Taken_by_Force",
+    "postCount": 1
+   },
+   {
+    "tagName": "Leave_the_Pieces",
+    "postCount": 1
+   },
+   {
+    "tagName": "Tweekend",
+    "postCount": 1
+   },
+   {
+    "tagName": "The_Winner_Takes_It_All",
+    "postCount": 1
+   },
+   {
+    "tagName": "Bringing_Down_the_Horse",
+    "postCount": 1
+   },
+   {
+    "tagName": "Does_This_Look_Infected?",
+    "postCount": 1
+   },
+   {
+    "tagName": "Chechen_Republic_of_Ichkeria",
+    "postCount": 1
+   },
+   {
+    "tagName": "Respect_Yourself",
+    "postCount": 1
+   },
+   {
+    "tagName": "Run_Devil_Run",
+    "postCount": 1
+   },
+   {
+    "tagName": "Mr._Lonely",
+    "postCount": 1
+   },
+   {
+    "tagName": "Demanufacture",
+    "postCount": 1
+   },
+   {
+    "tagName": "Fine_Line",
+    "postCount": 1
+   },
+   {
+    "tagName": "Ice_on_Fire",
+    "postCount": 1
+   },
+   {
+    "tagName": "Estranged",
+    "postCount": 1
+   },
+   {
+    "tagName": "Dennis_Hopper",
+    "postCount": 1
+   },
+   {
+    "tagName": "Bennie_and_the_Jets",
+    "postCount": 1
+   },
+   {
+    "tagName": "Something_Like_Human",
+    "postCount": 1
+   },
+   {
+    "tagName": "Their_Satanic_Majesties_Request",
+    "postCount": 1
+   },
+   {
+    "tagName": "Grand_Champ",
+    "postCount": 1
+   },
+   {
+    "tagName": "Portable_Sounds",
+    "postCount": 1
+   },
+   {
+    "tagName": "Need_You_Now",
+    "postCount": 1
+   },
+   {
+    "tagName": "Voice_of_the_Heart",
+    "postCount": 1
+   },
+   {
+    "tagName": "Todo_Cambi\u00f3",
+    "postCount": 1
+   },
+   {
+    "tagName": "Tin_Machine_Live:_Oy_Vey,_Baby",
+    "postCount": 1
+   },
+   {
+    "tagName": "Emirate_of_Sicily",
+    "postCount": 1
+   },
+   {
+    "tagName": "Retrospective_I",
+    "postCount": 1
+   },
+   {
+    "tagName": "Wrap_Her_Up",
+    "postCount": 1
+   },
+   {
+    "tagName": "Windowlicker",
+    "postCount": 1
+   },
+   {
+    "tagName": "Duchy_of_Courland_and_Semigallia",
+    "postCount": 1
+   },
+   {
+    "tagName": "Dick_in_a_Box",
+    "postCount": 1
+   },
+   {
+    "tagName": "The_Purple_People_Eater",
+    "postCount": 1
+   },
+   {
+    "tagName": "Trick_Me",
+    "postCount": 1
+   },
+   {
+    "tagName": "Southern_Accents",
+    "postCount": 1
+   },
+   {
+    "tagName": "The_Reminder",
+    "postCount": 1
+   },
+   {
+    "tagName": "Minstrel_in_the_Gallery",
+    "postCount": 1
+   },
+   {
+    "tagName": "Spiritual_Machines",
+    "postCount": 1
+   },
+   {
+    "tagName": "Advance_and_Vanquish",
+    "postCount": 1
+   },
+   {
+    "tagName": "Love_at_First_Sting",
+    "postCount": 1
+   },
+   {
+    "tagName": "Raining_Blood",
+    "postCount": 1
+   },
+   {
+    "tagName": "From_tha_Chuuuch_to_da_Palace",
+    "postCount": 1
+   },
+   {
+    "tagName": "Restless_and_Wild",
+    "postCount": 1
+   },
+   {
+    "tagName": "Cowboy_Take_Me_Away",
+    "postCount": 1
+   },
+   {
+    "tagName": "Helen_Wheels",
+    "postCount": 1
+   },
+   {
+    "tagName": "Singles_Collection:_The_London_Years",
+    "postCount": 1
+   },
+   {
+    "tagName": "November_Rain",
+    "postCount": 1
+   },
+   {
+    "tagName": "Istina",
+    "postCount": 1
+   },
+   {
+    "tagName": "Street_Survivors",
+    "postCount": 1
+   },
+   {
+    "tagName": "Laugh,_Laugh",
+    "postCount": 1
+   },
+   {
+    "tagName": "You_Are_My_World",
+    "postCount": 1
+   },
+   {
+    "tagName": "A_Little_Good_News",
+    "postCount": 1
+   },
+   {
+    "tagName": "Electrolite",
+    "postCount": 1
+   },
+   {
+    "tagName": "Hot_in_the_Shade",
+    "postCount": 1
+   },
+   {
+    "tagName": "Number_One_Spot",
+    "postCount": 1
+   },
+   {
+    "tagName": "The_Streak",
+    "postCount": 1
+   },
+   {
+    "tagName": "Talk_on_Corners",
+    "postCount": 1
+   },
+   {
+    "tagName": "An_Innocent_Man",
+    "postCount": 1
+   },
+   {
+    "tagName": "A_Whiter_Shade_of_Pale",
+    "postCount": 1
+   },
+   {
+    "tagName": "Disco_Lady",
+    "postCount": 1
+   },
+   {
+    "tagName": "The_Young_and_the_Hopeless",
+    "postCount": 1
+   },
+   {
+    "tagName": "Heroes_and_Villains",
+    "postCount": 1
+   },
+   {
+    "tagName": "Islamic_Courts_Union",
+    "postCount": 1
+   },
+   {
+    "tagName": "Bertel_Thorvaldsen",
+    "postCount": 1
+   },
+   {
+    "tagName": "Geogaddi",
+    "postCount": 1
+   },
+   {
+    "tagName": "Akkadian_Empire",
+    "postCount": 1
+   },
+   {
+    "tagName": "The_Sensual_World",
+    "postCount": 1
+   },
+   {
+    "tagName": "In_My_Darkest_Hour",
+    "postCount": 1
+   },
+   {
+    "tagName": "Bigmouth_Strikes_Again",
+    "postCount": 1
+   },
+   {
+    "tagName": "Lonely_No_More",
+    "postCount": 1
+   },
+   {
+    "tagName": "Ten_Years_and_Running",
+    "postCount": 1
+   },
+   {
+    "tagName": "Because_the_Night",
+    "postCount": 1
+   },
+   {
+    "tagName": "Round_Round",
+    "postCount": 1
+   },
+   {
+    "tagName": "Five_Miles_Out",
+    "postCount": 1
+   },
+   {
+    "tagName": "Let_It_Happen",
+    "postCount": 1
+   },
+   {
+    "tagName": "Drowned_World/Substitute_for_Love",
+    "postCount": 1
+   },
+   {
+    "tagName": "Songs_from_the_Wood",
+    "postCount": 1
+   },
+   {
+    "tagName": "Doo-Wops_&_Hooligans",
+    "postCount": 1
+   },
+   {
+    "tagName": "Sticky_Fingers",
+    "postCount": 1
+   },
+   {
+    "tagName": "Version_2.0",
+    "postCount": 1
+   },
+   {
+    "tagName": "Hellbilly_Deluxe",
+    "postCount": 1
+   },
+   {
+    "tagName": "Jenny_from_the_Block",
+    "postCount": 1
+   },
+   {
+    "tagName": "Kelis_Was_Here",
+    "postCount": 1
+   },
+   {
+    "tagName": "Be_My_Baby",
+    "postCount": 1
+   },
+   {
+    "tagName": "I-Empire",
+    "postCount": 1
+   },
+   {
+    "tagName": "Ghetto_Musick_Prototype",
+    "postCount": 1
+   },
+   {
+    "tagName": "What_Separates_Me_from_You",
+    "postCount": 1
+   },
+   {
+    "tagName": "In_the_Zone",
+    "postCount": 1
+   },
+   {
+    "tagName": "Jack_&_Diane",
+    "postCount": 1
+   },
+   {
+    "tagName": "Free_City_of_L\u00fcbeck",
+    "postCount": 1
+   },
+   {
+    "tagName": "Rough_Justice",
+    "postCount": 1
+   },
+   {
+    "tagName": "Best_of_The_Corrs",
+    "postCount": 1
+   },
+   {
+    "tagName": "Every_Mile_a_Memory",
+    "postCount": 1
+   },
+   {
+    "tagName": "Olivia_Newton-John",
+    "postCount": 1
+   },
+   {
+    "tagName": "A_Real_Diamond_in_the_Rough",
+    "postCount": 1
+   },
+   {
+    "tagName": "Killer_Queen",
+    "postCount": 1
+   },
+   {
+    "tagName": "Another_View",
+    "postCount": 1
+   },
+   {
+    "tagName": "Come_Around_Sundown",
+    "postCount": 1
+   },
+   {
+    "tagName": "S&M_Airlines",
+    "postCount": 1
+   },
+   {
+    "tagName": "Eagles_Live",
+    "postCount": 1
+   },
+   {
+    "tagName": "When_the_Tigers_Broke_Free",
+    "postCount": 1
+   },
+   {
+    "tagName": "The_Hits/The_B-Sides",
+    "postCount": 1
+   },
+   {
+    "tagName": "Rumours",
+    "postCount": 1
+   },
+   {
+    "tagName": "Karn_Evil_9",
+    "postCount": 1
+   },
+   {
+    "tagName": "Punk_Goes_Pop_2",
+    "postCount": 1
+   },
+   {
+    "tagName": "Coffee_&_TV",
+    "postCount": 1
+   },
+   {
+    "tagName": "25_or_6_to_4",
+    "postCount": 1
+   },
+   {
+    "tagName": "My_Name_Is_Mud",
+    "postCount": 1
+   },
+   {
+    "tagName": "Sexual_Healing",
+    "postCount": 1
+   },
+   {
+    "tagName": "Let_It_Whip",
+    "postCount": 1
+   },
+   {
+    "tagName": "Fuck_tha_Police",
+    "postCount": 1
+   },
+   {
+    "tagName": "Final_Straw",
+    "postCount": 1
+   },
+   {
+    "tagName": "Mercosur",
+    "postCount": 1
+   },
+   {
+    "tagName": "Flowers_in_the_Rain",
+    "postCount": 1
+   },
+   {
+    "tagName": "Wonderwall_Music",
+    "postCount": 1
+   },
+   {
+    "tagName": "Tubular_Bells_III",
+    "postCount": 1
+   },
+   {
+    "tagName": "Empire_Burlesque",
+    "postCount": 1
+   },
+   {
+    "tagName": "The_Ecstatic",
+    "postCount": 1
+   },
+   {
+    "tagName": "I_Want_to_See_the_Bright_Lights_Tonight",
+    "postCount": 1
+   },
+   {
+    "tagName": "Year_Zero_Remixed",
+    "postCount": 1
+   },
+   {
+    "tagName": "I_Kissed_a_Girl",
+    "postCount": 1
+   },
+   {
+    "tagName": "Transfiguration_of_Vincent",
+    "postCount": 1
+   },
+   {
+    "tagName": "Boss_of_Me",
+    "postCount": 1
+   },
+   {
+    "tagName": "Sarah_Vaughan",
+    "postCount": 1
+   },
+   {
+    "tagName": "Ebony_and_Ivory",
+    "postCount": 1
+   },
+   {
+    "tagName": "Satellite_of_Love",
+    "postCount": 1
+   },
+   {
+    "tagName": "Francis_A._&_Edward_K.",
+    "postCount": 1
+   },
+   {
+    "tagName": "Up_on_the_House_Top",
+    "postCount": 1
+   },
+   {
+    "tagName": "Stranger_on_the_Shore",
+    "postCount": 1
+   },
+   {
+    "tagName": "Smooth_Criminal",
+    "postCount": 1
+   },
+   {
+    "tagName": "For_Emily,_Whenever_I_May_Find_Her",
+    "postCount": 1
+   },
+   {
+    "tagName": "My_World_Is_Empty_Without_You",
+    "postCount": 1
+   },
+   {
+    "tagName": "The_Who_Sell_Out",
+    "postCount": 1
+   },
+   {
+    "tagName": "Anthems_of_Rebellion",
+    "postCount": 1
+   },
+   {
+    "tagName": "British_Ceylon",
+    "postCount": 1
+   },
+   {
+    "tagName": "The_Least_We_Can_Do_Is_Wave_to_Each_Other",
+    "postCount": 1
+   },
+   {
+    "tagName": "Shooting_Rubberbands_at_the_Stars",
+    "postCount": 1
+   },
+   {
+    "tagName": "Something_Happened_on_the_Way_to_Heaven",
+    "postCount": 1
+   }
+  ]
+ }
+}

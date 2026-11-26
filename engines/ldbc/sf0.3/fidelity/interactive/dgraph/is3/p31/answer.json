@@ -1,0 +1,76 @@
+{
+ "query_sha": "00f75f489d160871",
+ "params": {
+  "personId": "30786325579380"
+ },
+ "data": {
+  "schema_sha256": "03713a1e1c7b722e73bed6b150e079e69e9579c2a58c52e06f9d4384fdd4b80d",
+  "schema_path": "dgraph/schema/ldbcTypes.schema",
+  "sf": "0.3",
+  "created": "2026-11-21T02:56:18Z",
+  "git_sha": "60910999"
+ },
+ "fetched_at": "2026-11-21T00:06:49",
+ "raw": {
+  "person": [
+   {
+    "~knows": [
+     {
+      "friendId": 19791209301554,
+      "friendFirstName": "Carlos",
+      "friendLastName": "Santos",
+      "~knows|creationDate": "2012-06-19T07:19:18.372+00:00"
+     },
+     {
+      "friendId": 17592186047327,
+      "friendFirstName": "Paulo",
+      "friendLastName": "Souza",
+      "~knows|creationDate": "2012-06-22T22:34:04.468+00:00"
+     },
+     {
+      "friendId": 1274,
+      "friendFirstName": "Roberto",
+      "friendLastName": "Fernandez",
+      "~knows|creationDate": "2012-07-14T12:14:09.672+00:00"
+     },
+     {
+      "friendId": 17592186045382,
+      "friendFirstName": "Karl",
+      "friendLastName": "Kurkov\u00e1",
+      "~knows|creationDate": "2012-07-16T03:28:54.418+00:00"
+     },
+     {
+      "friendId": 19791209302403,
+      "friendFirstName": "Bibit",
+      "friendLastName": "Balawan",
+      "~knows|creationDate": "2012-07-08T09:10:51.168+00:00"
+     },
+     {
+      "friendId": 19791209302163,
+      "friendFirstName": "Samuel",
+      "friendLastName": "Chago",
+      "~knows|creationDate": "2012-07-13T13:21:00.552+00:00"
+     },
+     {
+      "friendId": 2199023256668,
+      "friendFirstName": "Rodrigo",
+      "friendLastName": "Costa",
+      "~knows|creationDate": "2012-07-11T19:49:09.826+00:00"
+     },
+     {
+      "friendId": 21990232558713,
+      "friendFirstName": "William",
+      "friendLastName": "Wilson",
+      "~knows|creationDate": "2012-06-30T07:47:24.241+00:00"
+     },
+     {
+      "friendId": 17592186046293,
+      "friendFirstName": "Jorge",
+      "friendLastName": "Gonzalez",
+      "~knows|creationDate": "2012-07-11T12:20:08.983+00:00"
+     }
+    ]
+   }
+  ]
+ }
+}

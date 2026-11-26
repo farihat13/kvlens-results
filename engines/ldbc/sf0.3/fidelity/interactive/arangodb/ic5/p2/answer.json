@@ -1,0 +1,117 @@
+{
+ "query_sha": "c6f5f65c1aeaf2fe",
+ "params": {
+  "personId": 8796093023094,
+  "minDate": 1345593600000
+ },
+ "data": {
+  "schema_sha256": "b8e206f17e60692c830ba0c3c675fbc481a22f26011282ce523890eb09be8a74",
+  "schema_path": "arangodb/schema/ldbc_schema.json",
+  "sf": "0.3",
+  "created": "2026-11-21T03:01:29Z",
+  "git_sha": "60910999"
+ },
+ "fetched_at": "2026-11-20T23:52:05",
+ "raw": [
+  {
+   "forumTitle": "Group for Andy_Ram in Pamplona",
+   "postCount": 2,
+   "forumId": 687194801502
+  },
+  {
+   "forumTitle": "Group for Adolf_Hitler in Zhangzhou",
+   "postCount": 1,
+   "forumId": 206158461568
+  },
+  {
+   "forumTitle": "Group for Alberto_Fujimori in Curitiba",
+   "postCount": 1,
+   "forumId": 412316885392
+  },
+  {
+   "forumTitle": "Group for Dylan_Thomas in Nueva_Esparta",
+   "postCount": 1,
+   "forumId": 481036363535
+  },
+  {
+   "forumTitle": "Group for Andy_Ram in Los_Ba\u00f1os",
+   "postCount": 1,
+   "forumId": 481036368058
+  },
+  {
+   "forumTitle": "Group for Ringo_Starr in Aligarh",
+   "postCount": 1,
+   "forumId": 618475321330
+  },
+  {
+   "forumTitle": "Group for Max_Mirnyi in Fushun",
+   "postCount": 1,
+   "forumId": 687194802035
+  },
+  {
+   "forumTitle": "Group for Gaetano_Donizetti in Yantai",
+   "postCount": 1,
+   "forumId": 755914248348
+  },
+  {
+   "forumTitle": "Group for Alicia_Keys in Kodambakkam",
+   "postCount": 1,
+   "forumId": 755914277561
+  },
+  {
+   "forumTitle": "Group for Plutarch in Dunhuang",
+   "postCount": 1,
+   "forumId": 824633725393
+  },
+  {
+   "forumTitle": "Group for Fran\u00e7ois_Mitterrand in Greifswald",
+   "postCount": 1,
+   "forumId": 893353213764
+  },
+  {
+   "forumTitle": "Group for Ovid in Dunhuang",
+   "postCount": 1,
+   "forumId": 962072678867
+  },
+  {
+   "forumTitle": "Group for John_Ford in Kunming",
+   "postCount": 1,
+   "forumId": 962072680041
+  },
+  {
+   "forumTitle": "Group for Ronald_Reagan in Leeds",
+   "postCount": 1,
+   "forumId": 962072698370
+  },
+  {
+   "forumTitle": "Group for Franklin_D._Roosevelt in C\u00f3rdoba",
+   "postCount": 1,
+   "forumId": 1030792152591
+  },
+  {
+   "forumTitle": "Group for Jerry_Lee_Lewis in Villahermosa",
+   "postCount": 1,
+   "forumId": 1030792174485
+  },
+  {
+   "forumTitle": "Wall of Carmen Lepland",
+   "postCount": 0,
+   "forumId": 36
+  },
+  {
+   "forumTitle": "Album 10 of Khaled Aouadhi",
+   "postCount": 0,
+   "forumId": 910
+  },
+  {
+   "forumTitle": "Album 16 of Khaled Aouadhi",
+   "postCount": 0,
+   "forumId": 916
+  },
+  {
+   "forumTitle": "Album 19 of Abraham Mamo",
+   "postCount": 0,
+   "forumId": 1692
+  }
+ ]
+}

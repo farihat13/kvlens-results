@@ -1,0 +1,32 @@
+{
+ "query_sha": "8342c82fdf4c127f",
+ "params": {
+  "personId": 19791209300143,
+  "tagClassName": "BasketballPlayer"
+ },
+ "data_created": "2026-11-21T03:27:46Z",
+ "measured_at": "2026-11-21T01:02:12",
+ "raw": {
+  "get_count": 103109,
+  "get_found_count": 103109,
+  "get_time_ns": 139034112,
+  "get_bytes": 7538181,
+  "seek_count": 20296,
+  "seek_time_ns": 727621828,
+  "seek_bytes": 831877,
+  "next_count": 43114,
+  "next_time_ns": 5322610,
+  "next_bytes": 2370365,
+  "prev_count": 0,
+  "prev_time_ns": 0,
+  "prev_bytes": 0,
+  "put_count": 0,
+  "put_time_ns": 0,
+  "put_bytes": 0,
+  "delete_count": 0,
+  "delete_time_ns": 0,
+  "delete_bytes": 0,
+  "commit_count": 0,
+  "commit_time_ns": 0
+ }
+}

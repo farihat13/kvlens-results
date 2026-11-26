@@ -1,0 +1,362 @@
+{
+ "query_sha": "e534711ff51080e0",
+ "params": {
+  "personId": "24189255811500",
+  "maxDate": "2012-10-10T00:00:00Z"
+ },
+ "data": {
+  "schema_sha256": "03713a1e1c7b722e73bed6b150e079e69e9579c2a58c52e06f9d4384fdd4b80d",
+  "schema_path": "dgraph/schema/ldbcTypes.schema",
+  "sf": "0.1",
+  "created": "2026-11-21T03:25:44Z",
+  "git_sha": "92777160"
+ },
+ "fetched_at": "2026-11-21T01:08:23",
+ "raw": {
+  "_n1": [],
+  "posts": [
+   {
+    "friendFirstName": "Yang",
+    "friendId": 21990232555889,
+    "friendLastName": "Lei",
+    "messageContent": "About Jacques Chirac,  full terms, the first of seven years and the second of five years), aft",
+    "messageCreationDate": "2012-09-12T00:16:28.306Z",
+    "messageId": 1099511681326,
+    "messageImageFile": ""
+   },
+   {
+    "friendFirstName": "Mohamed",
+    "friendId": 4398046511684,
+    "friendLastName": "Aouadhi",
+    "messageContent": "About Diocletian, utocrat, elevating himself above the Empire's masses with imposing forms of court ceremo",
+    "messageCreationDate": "2012-09-11T16:51:42.05Z",
+    "messageId": 1099511772654,
+    "messageImageFile": ""
+   },
+   {
+    "friendFirstName": "Anh",
+    "friendId": 28587302322537,
+    "friendLastName": "Nguyen",
+    "messageContent": "About Mstislav Rostropovich, y recognized as a staunch advocate of human rights, and w",
+    "messageCreationDate": "2012-09-11T05:16:52.576Z",
+    "messageId": 1099511894685,
+    "messageImageFile": ""
+   },
+   {
+    "friendFirstName": "Anh",
+    "friendId": 28587302322537,
+    "friendLastName": "Nguyen",
+    "messageContent": "",
+    "messageCreationDate": "2012-09-10T23:26:34.458Z",
+    "messageId": 1099511895091,
+    "messageImageFile": "photo1099511895091.jpg"
+   },
+   {
+    "friendFirstName": "Anh",
+    "friendId": 28587302322537,
+    "friendLastName": "Nguyen",
+    "messageContent": "",
+    "messageCreationDate": "2012-09-10T23:26:33.458Z",
+    "messageId": 1099511895090,
+    "messageImageFile": "photo1099511895090.jpg"
+   },
+   {
+    "friendFirstName": "Anh",
+    "friendId": 28587302322537,
+    "friendLastName": "Nguyen",
+    "messageContent": "",
+    "messageCreationDate": "2012-09-10T23:26:32.458Z",
+    "messageId": 1099511895089,
+    "messageImageFile": "photo1099511895089.jpg"
+   },
+   {
+    "friendFirstName": "Emperor of Brazil",
+    "friendId": 26388279067534,
+    "friendLastName": "Dom Pedro II",
+    "messageContent": "About David Foster, D. T. Max, titled EverAbout Justin Timberlake, r Body. Timberlake ",
+    "messageCreationDate": "2012-09-10T09:45:28.024Z",
+    "messageId": 1099511851902,
+    "messageImageFile": ""
+   },
+   {
+    "friendFirstName": "Yang",
+    "friendId": 21990232555889,
+    "friendLastName": "Lei",
+    "messageContent": "About Jacques Chirac, ime Minister of France from 1974 to 1976 and from 1986 to 1988 (making him th",
+    "messageCreationDate": "2012-09-08T08:47:08.268Z",
+    "messageId": 1030792204688,
+    "messageImageFile": ""
+   },
+   {
+    "friendFirstName": "Anh",
+    "friendId": 28587302322537,
+    "friendLastName": "Nguyen",
+    "messageContent": "About Mstislav Rostropovich, ed to have been the greatest cellist of the second half of the 20th century, and one of",
+    "messageCreationDate": "2012-09-06T04:58:26.713Z",
+    "messageId": 1030792418232,
+    "messageImageFile": ""
+   },
+   {
+    "friendFirstName": "Emperor of Brazil",
+    "friendId": 26388279067534,
+    "friendLastName": "Dom Pedro II",
+    "messageContent": "About Napoleon, xists as to when the French Revolutionary Wars ended and the Napoleonic Wars began. An early",
+    "messageCreationDate": "2012-09-02T22:13:44.347Z",
+    "messageId": 1030792286894,
+    "messageImageFile": ""
+   },
+   {
+    "friendFirstName": "John",
+    "friendId": 21990232555834,
+    "friendLastName": "Garcia",
+    "messageContent": "",
+    "messageCreationDate": "2012-09-02T09:09:13.018Z",
+    "messageId": 1030792324356,
+    "messageImageFile": "photo1030792324356.jpg"
+   },
+   {
+    "friendFirstName": "John",
+    "friendId": 21990232555834,
+    "friendLastName": "Garcia",
+    "messageContent": "",
+    "messageCreationDate": "2012-09-02T09:09:12.018Z",
+    "messageId": 1030792324355,
+    "messageImageFile": "photo1030792324355.jpg"
+   },
+   {
+    "friendFirstName": "John",
+    "friendId": 21990232555834,
+    "friendLastName": "Garcia",
+    "messageContent": "",
+    "messageCreationDate": "2012-09-02T09:09:11.018Z",
+    "messageId": 1030792324354,
+    "messageImageFile": "photo1030792324354.jpg"
+   },
+   {
+    "friendFirstName": "John",
+    "friendId": 21990232555834,
+    "friendLastName": "Garcia",
+    "messageContent": "",
+    "messageCreationDate": "2012-09-02T09:09:10.018Z",
+    "messageId": 1030792324353,
+    "messageImageFile": "photo1030792324353.jpg"
+   },
+   {
+    "friendFirstName": "John",
+    "friendId": 21990232555834,
+    "friendLastName": "Garcia",
+    "messageContent": "",
+    "messageCreationDate": "2012-09-02T09:09:09.018Z",
+    "messageId": 1030792324352,
+    "messageImageFile": "photo1030792324352.jpg"
+   },
+   {
+    "friendFirstName": "John",
+    "friendId": 21990232555834,
+    "friendLastName": "Garcia",
+    "messageContent": "",
+    "messageCreationDate": "2012-09-02T09:09:08.018Z",
+    "messageId": 1030792324351,
+    "messageImageFile": "photo1030792324351.jpg"
+   },
+   {
+    "friendFirstName": "John",
+    "friendId": 21990232555834,
+    "friendLastName": "Garcia",
+    "messageContent": "",
+    "messageCreationDate": "2012-09-02T09:09:07.018Z",
+    "messageId": 1030792324350,
+    "messageImageFile": "photo1030792324350.jpg"
+   },
+   {
+    "friendFirstName": "John",
+    "friendId": 21990232555834,
+    "friendLastName": "Garcia",
+    "messageContent": "",
+    "messageCreationDate": "2012-09-02T09:09:06.018Z",
+    "messageId": 1030792324349,
+    "messageImageFile": "photo1030792324349.jpg"
+   },
+   {
+    "friendFirstName": "Jana",
+    "friendId": 30786325578676,
+    "friendLastName": "Kerndlova",
+    "messageContent": "About Shania Twain, l time. It has sold more than 40 million copies worldwide and is the ninth best-selling album in the U.S. Her fourth album, Up!, was released in November 2002. To date it has sold ",
+    "messageCreationDate": "2012-09-02T07:51:21.614Z",
+    "messageId": 1030792294142,
+    "messageImageFile": ""
+   },
+   {
+    "friendFirstName": "John",
+    "friendId": 26388279067039,
+    "friendLastName": "Aquino",
+    "messageContent": "",
+    "messageCreationDate": "2012-08-31T10:57:14.627Z",
+    "messageId": 1030792171451,
+    "messageImageFile": "photo1030792171451.jpg"
+   }
+  ],
+  "comments": [
+   {
+    "friendFirstName": "Yang",
+    "friendId": 21990232555889,
+    "friendLastName": "Lei",
+    "messageContent": "I see",
+    "messageCreationDate": "2012-09-13T06:04:54.012Z",
+    "messageId": 1099511959870
+   },
+   {
+    "friendFirstName": "Yang",
+    "friendId": 21990232555889,
+    "friendLastName": "Lei",
+    "messageContent": "no",
+    "messageCreationDate": "2012-09-12T20:41:56.388Z",
+    "messageId": 1099511806763
+   },
+   {
+    "friendFirstName": "Anh",
+    "friendId": 28587302322537,
+    "friendLastName": "Nguyen",
+    "messageContent": "ok",
+    "messageCreationDate": "2012-09-12T20:02:52.066Z",
+    "messageId": 1099511747466
+   },
+   {
+    "friendFirstName": "John",
+    "friendId": 21990232555834,
+    "friendLastName": "Garcia",
+    "messageContent": "great",
+    "messageCreationDate": "2012-09-12T19:14:57.492Z",
+    "messageId": 1099511998016
+   },
+   {
+    "friendFirstName": "John",
+    "friendId": 21990232555834,
+    "friendLastName": "Garcia",
+    "messageContent": "thanks",
+    "messageCreationDate": "2012-09-12T13:12:30.721Z",
+    "messageId": 1099511997980
+   },
+   {
+    "friendFirstName": "John",
+    "friendId": 26388279067039,
+    "friendLastName": "Aquino",
+    "messageContent": "About Sigmund Freud,  Freud's familyAbout William Morris, kien. He was alAbout Robert Chr",
+    "messageCreationDate": "2012-09-12T09:05:53.081Z",
+    "messageId": 1099511630978
+   },
+   {
+    "friendFirstName": "Emperor of Brazil",
+    "friendId": 26388279067534,
+    "friendLastName": "Dom Pedro II",
+    "messageContent": "About Bertolt Brecht, 1956) was a German poet, playwright, and About Signify, pr",
+    "messageCreationDate": "2012-09-12T08:55:16.256Z",
+    "messageId": 1099511758547
+   },
+   {
+    "friendFirstName": "Emperor of Brazil",
+    "friendId": 26388279067534,
+    "friendLastName": "Dom Pedro II",
+    "messageContent": "About Billy Joel, 's 50th anniversary, with Billy Joel positioned at No. 23",
+    "messageCreationDate": "2012-09-12T08:49:16.037Z",
+    "messageId": 1099511748313
+   },
+   {
+    "friendFirstName": "Anh",
+    "friendId": 28587302322537,
+    "friendLastName": "Nguyen",
+    "messageContent": "About Cicero, political career was his most important achieAbout Khazars, n. These wars ",
+    "messageCreationDate": "2012-09-12T07:51:47.202Z",
+    "messageId": 1099511871724
+   },
+   {
+    "friendFirstName": "Anh",
+    "friendId": 28587302322537,
+    "friendLastName": "Nguyen",
+    "messageContent": "no way!",
+    "messageCreationDate": "2012-09-12T05:46:04.164Z",
+    "messageId": 1099511871725
+   },
+   {
+    "friendFirstName": "John",
+    "friendId": 21990232555834,
+    "friendLastName": "Garcia",
+    "messageContent": "LOL",
+    "messageCreationDate": "2012-09-12T05:18:05.735Z",
+    "messageId": 1099511722704
+   },
+   {
+    "friendFirstName": "John",
+    "friendId": 26388279067039,
+    "friendLastName": "Aquino",
+    "messageContent": "no way!",
+    "messageCreationDate": "2012-09-12T04:53:16.18Z",
+    "messageId": 1099511722702
+   },
+   {
+    "friendFirstName": "Anh",
+    "friendId": 28587302322537,
+    "friendLastName": "Nguyen",
+    "messageContent": "About Khazars, ria was referred to as Eastern Tourkia, meanwhile Hungary was referred to as Western Tourkia in medieva",
+    "messageCreationDate": "2012-09-12T03:51:39.728Z",
+    "messageId": 1099511871719
+   },
+   {
+    "friendFirstName": "Jana",
+    "friendId": 30786325578676,
+    "friendLastName": "Kerndlova",
+    "messageContent": "thx",
+    "messageCreationDate": "2012-09-12T02:10:08.941Z",
+    "messageId": 1099511998001
+   },
+   {
+    "friendFirstName": "John",
+    "friendId": 26388279067039,
+    "friendLastName": "Aquino",
+    "messageContent": "good",
+    "messageCreationDate": "2012-09-11T21:40:50.326Z",
+    "messageId": 1099511722170
+   },
+   {
+    "friendFirstName": "John",
+    "friendId": 26388279067039,
+    "friendLastName": "Aquino",
+    "messageContent": "About Muttiah Muralitharan,  degrees, five degrees beAbout Tokugawa shogun",
+    "messageCreationDate": "2012-09-11T20:10:12.443Z",
+    "messageId": 1099511744077
+   },
+   {
+    "friendFirstName": "John",
+    "friendId": 21990232555834,
+    "friendLastName": "Garcia",
+    "messageContent": "About Rupert Murdoch, er electronic publishing technologies, he consolAbout Samuel L. Jackson,",
+    "messageCreationDate": "2012-09-11T15:58:11.403Z",
+    "messageId": 1099511695091
+   },
+   {
+    "friendFirstName": "Emperor of Brazil",
+    "friendId": 26388279067534,
+    "friendLastName": "Dom Pedro II",
+    "messageContent": "duh",
+    "messageCreationDate": "2012-09-11T10:02:31.785Z",
+    "messageId": 1099511628300
+   },
+   {
+    "friendFirstName": "Jana",
+    "friendId": 30786325578676,
+    "friendLastName": "Kerndlova",
+    "messageContent": "no way!",
+    "messageCreationDate": "2012-09-11T09:49:45.776Z",
+    "messageId": 1099511997815
+   },
+   {
+    "friendFirstName": "Anh",
+    "friendId": 28587302322537,
+    "friendLastName": "Nguyen",
+    "messageContent": "cool",
+    "messageCreationDate": "2012-09-11T04:21:05.831Z",
+    "messageId": 1099511997810
+   }
+  ]
+ }
+}

@@ -1,0 +1,362 @@
+{
+ "query_sha": "e534711ff51080e0",
+ "params": {
+  "personId": "4398046514167",
+  "maxDate": "2011-12-15T00:00:00Z"
+ },
+ "data": {
+  "schema_sha256": "03713a1e1c7b722e73bed6b150e079e69e9579c2a58c52e06f9d4384fdd4b80d",
+  "schema_path": "dgraph/schema/ldbcTypes.schema",
+  "sf": "0.3",
+  "created": "2026-11-21T02:56:18Z",
+  "git_sha": "60910999"
+ },
+ "fetched_at": "2026-11-20T23:53:12",
+ "raw": {
+  "_n1": [],
+  "posts": [
+   {
+    "friendFirstName": "Yang",
+    "friendId": 13194139535025,
+    "friendLastName": "Zhang",
+    "messageContent": "About Shakira, ieff, the First Lady of Iceland. http://www. haaretz. com/hasen/objects/pages/PrintArticleEn.",
+    "messageCreationDate": "2011-12-14T01:02:00.793Z",
+    "messageId": 755914511349,
+    "messageImageFile": ""
+   },
+   {
+    "friendFirstName": "Yang",
+    "friendId": 13194139535025,
+    "friendLastName": "Zhang",
+    "messageContent": "About Shakira, enter the Miss Guyana contest, where she won the Miss Guyana title. She ended up in third place ",
+    "messageCreationDate": "2011-12-13T18:49:38.973Z",
+    "messageId": 755914511261,
+    "messageImageFile": ""
+   },
+   {
+    "friendFirstName": "K.",
+    "friendId": 2199023256816,
+    "friendLastName": "Bose",
+    "messageContent": "About Humayun,  and also there are many stone carved and Persian language In India from the time of Humayun also thousands of Persian manuscript in India. Subsequently, in a very short t",
+    "messageCreationDate": "2011-12-12T12:39:31.398Z",
+    "messageId": 755915229848,
+    "messageImageFile": ""
+   },
+   {
+    "friendFirstName": "Rafael",
+    "friendId": 2783,
+    "friendLastName": "Alonso",
+    "messageContent": "About Augustine of Hippo, elieved that the grace of ChrisAbout Charles V, Holy Roman Empero",
+    "messageCreationDate": "2011-12-12T04:24:07.319Z",
+    "messageId": 755914756769,
+    "messageImageFile": ""
+   },
+   {
+    "friendFirstName": "Rafael",
+    "friendId": 2783,
+    "friendLastName": "Alonso",
+    "messageContent": "About Augustine of Hippo, d 28 August, the day of his death. He is the patron saint of brewers, printers, theologia",
+    "messageCreationDate": "2011-12-11T10:01:22.926Z",
+    "messageId": 755914754324,
+    "messageImageFile": ""
+   },
+   {
+    "friendFirstName": "Zheng",
+    "friendId": 8796093022764,
+    "friendLastName": "Xu",
+    "messageContent": "About Rub\u00e9n Blades, ns consider their second national antAbout Billie Holiday, ing, Good Morning Heartache, an",
+    "messageCreationDate": "2011-12-11T08:56:28.555Z",
+    "messageId": 755914269827,
+    "messageImageFile": ""
+   },
+   {
+    "friendFirstName": "K.",
+    "friendId": 2199023256816,
+    "friendLastName": "Bose",
+    "messageContent": "About Humayun,  the influences of Persian art, architecture, language and literature and also there are many",
+    "messageCreationDate": "2011-12-09T15:02:19.033Z",
+    "messageId": 755915230225,
+    "messageImageFile": ""
+   },
+   {
+    "friendFirstName": "K.",
+    "friendId": 2199023256816,
+    "friendLastName": "Bose",
+    "messageContent": "About Humayun, other Kamran Mirza, who was to become a rather bitter rival, obtained the sovereignty of Kabul and Lahore, the more northern parts of their father's empire. He originally ascended the throne at the age of 22 and ",
+    "messageCreationDate": "2011-12-08T21:20:06.362Z",
+    "messageId": 755915230401,
+    "messageImageFile": ""
+   },
+   {
+    "friendFirstName": "Jun",
+    "friendId": 2199023257255,
+    "friendLastName": "Wang",
+    "messageContent": "About Augustine of Hippo, dieval worldview. Augustine's City of God was closeAbout Lord Byron, on's t",
+    "messageCreationDate": "2011-12-08T09:18:06.615Z",
+    "messageId": 755915160402,
+    "messageImageFile": ""
+   },
+   {
+    "friendFirstName": "K.",
+    "friendId": 2199023256816,
+    "friendLastName": "Bose",
+    "messageContent": "About Humayun, hern India from 1530\u20131540 and again from 1555\u20131556. Like his father, Babur, he lost his kingdom early, b",
+    "messageCreationDate": "2011-12-07T21:09:18.614Z",
+    "messageId": 755915228983,
+    "messageImageFile": ""
+   },
+   {
+    "friendFirstName": "Abdul Rahman",
+    "friendId": 10995116280854,
+    "friendLastName": "Budjana",
+    "messageContent": "About Haile Gebrselassie, of 35, that mark still stAbout Poland, skiego is the national anAbout Done with Mirrors, the n",
+    "messageCreationDate": "2011-12-05T02:15:23.336Z",
+    "messageId": 755915021896,
+    "messageImageFile": ""
+   },
+   {
+    "friendFirstName": "Yang",
+    "friendId": 13194139535025,
+    "friendLastName": "Zhang",
+    "messageContent": "About Shakira, e in Downs Lane, Leatherhead, Surrey. She is good friends with Dorrit Moussaieff, the First Lady of Iceland.",
+    "messageCreationDate": "2011-12-04T12:24:49.123Z",
+    "messageId": 755914511824,
+    "messageImageFile": ""
+   },
+   {
+    "friendFirstName": "Abdul Rahman",
+    "friendId": 10995116280854,
+    "friendLastName": "Budjana",
+    "messageContent": "About Haile Gebrselassie, er part of his careeAbout Woody Guthrie, his illness, GuthrieAbout What a Wonderful World, ",
+    "messageCreationDate": "2011-12-04T11:13:53.336Z",
+    "messageId": 755915022297,
+    "messageImageFile": ""
+   },
+   {
+    "friendFirstName": "Rafael",
+    "friendId": 2783,
+    "friendLastName": "Alonso",
+    "messageContent": "About Augustine of Hippo, , St. AugustineAbout John Calvin, sbourg, where hAbout Raphael,",
+    "messageCreationDate": "2011-12-04T07:00:26.593Z",
+    "messageId": 755914754896,
+    "messageImageFile": ""
+   },
+   {
+    "friendFirstName": "Yang",
+    "friendId": 13194139535025,
+    "friendLastName": "Zhang",
+    "messageContent": "About Shakira, hakira Caine (born Shakira Baksh on 23 February 1947, also known as Shakira and Lady Micklewhite), is a",
+    "messageCreationDate": "2011-12-03T04:26:47.377Z",
+    "messageId": 755914512263,
+    "messageImageFile": ""
+   },
+   {
+    "friendFirstName": "Yang",
+    "friendId": 13194139535025,
+    "friendLastName": "Zhang",
+    "messageContent": "About Shakira, t turned out that she was living in London, England. A friend gave him her phone number. They live at thei",
+    "messageCreationDate": "2011-12-03T01:13:13.928Z",
+    "messageId": 755914511976,
+    "messageImageFile": ""
+   },
+   {
+    "friendFirstName": "Abdulwahab",
+    "friendId": 17592186048248,
+    "friendLastName": "Gillett",
+    "messageContent": "About Plato,  several fashions; this has led to several conventions regarding the naming and referencing of Plato's texts. ",
+    "messageCreationDate": "2011-12-02T19:08:16.331Z",
+    "messageId": 755914431437,
+    "messageImageFile": ""
+   },
+   {
+    "friendFirstName": "Abdul Rahman",
+    "friendId": 10995116280854,
+    "friendLastName": "Budjana",
+    "messageContent": "About Muttiah Muralitharan, ighest wicket-taker in Test cricket when he overtook the previous record-holder Sha",
+    "messageCreationDate": "2011-12-02T13:22:28.848Z",
+    "messageId": 755915021496,
+    "messageImageFile": ""
+   },
+   {
+    "friendFirstName": "K.",
+    "friendId": 2199023256816,
+    "friendLastName": "Bose",
+    "messageContent": "About Humayun, led an important change in Mughal court culture, as the Central Asian orig",
+    "messageCreationDate": "2011-12-02T10:00:41.377Z",
+    "messageId": 755915231414,
+    "messageImageFile": ""
+   },
+   {
+    "friendFirstName": "Rafael",
+    "friendId": 2783,
+    "friendLastName": "Alonso",
+    "messageContent": "About Augustine of Hippo,  the Augustinian religious order; his memorial is celebrated 28 AuAbout Juan Carlos I of Spain, anish Con",
+    "messageCreationDate": "2011-12-02T04:48:07.137Z",
+    "messageId": 755914755188,
+    "messageImageFile": ""
+   }
+  ],
+  "comments": [
+   {
+    "friendFirstName": "Rafael",
+    "friendId": 2783,
+    "friendLastName": "Alonso",
+    "messageContent": "maybe",
+    "messageCreationDate": "2011-12-14T19:56:44.611Z",
+    "messageId": 755914287841
+   },
+   {
+    "friendFirstName": "Yang",
+    "friendId": 13194139535025,
+    "friendLastName": "Zhang",
+    "messageContent": "thanks",
+    "messageCreationDate": "2011-12-14T17:31:38.359Z",
+    "messageId": 755914504825
+   },
+   {
+    "friendFirstName": "Rafael",
+    "friendId": 2783,
+    "friendLastName": "Alonso",
+    "messageContent": "About \u00c1lvaro Uribe, tics Uribe was a lawyer. He studied law at the University About Mercia, s one of the kingdoms o",
+    "messageCreationDate": "2011-12-14T14:41:13.161Z",
+    "messageId": 755914483067
+   },
+   {
+    "friendFirstName": "Yang",
+    "friendId": 13194139535025,
+    "friendLastName": "Zhang",
+    "messageContent": "About Bosnia and Herzegovina, ependence in 1992, which was followed About G",
+    "messageCreationDate": "2011-12-14T10:21:50.09Z",
+    "messageId": 755914338392
+   },
+   {
+    "friendFirstName": "K.",
+    "friendId": 2199023256816,
+    "friendLastName": "Bose",
+    "messageContent": "About Robert Lindstedt, rrently as of january 2012 ranked 10th in thAbout South Yemen,",
+    "messageCreationDate": "2011-12-14T09:36:20.154Z",
+    "messageId": 755914288642
+   },
+   {
+    "friendFirstName": "Yang",
+    "friendId": 13194139535025,
+    "friendLastName": "Zhang",
+    "messageContent": "I see",
+    "messageCreationDate": "2011-12-14T09:12:57.619Z",
+    "messageId": 755914331525
+   },
+   {
+    "friendFirstName": "Rafael",
+    "friendId": 2783,
+    "friendLastName": "Alonso",
+    "messageContent": "maybe",
+    "messageCreationDate": "2011-12-14T05:38:22.431Z",
+    "messageId": 755914287840
+   },
+   {
+    "friendFirstName": "K.",
+    "friendId": 2199023256816,
+    "friendLastName": "Bose",
+    "messageContent": "thanks",
+    "messageCreationDate": "2011-12-14T03:49:09.167Z",
+    "messageId": 755914838110
+   },
+   {
+    "friendFirstName": "Yang",
+    "friendId": 13194139535025,
+    "friendLastName": "Zhang",
+    "messageContent": "About The Open Door, xed to positive reviews from music critics who generally pra",
+    "messageCreationDate": "2011-12-14T02:06:23.595Z",
+    "messageId": 755914338389
+   },
+   {
+    "friendFirstName": "Rafael",
+    "friendId": 2783,
+    "friendLastName": "Alonso",
+    "messageContent": "thanks",
+    "messageCreationDate": "2011-12-14T02:05:24.165Z",
+    "messageId": 755914511279
+   },
+   {
+    "friendFirstName": "Yang",
+    "friendId": 13194139535025,
+    "friendLastName": "Zhang",
+    "messageContent": "About Ruhollah Khomeini, ing the revolution, Khomeini became thAbout Hyder",
+    "messageCreationDate": "2011-12-13T19:54:00.185Z",
+    "messageId": 755914504824
+   },
+   {
+    "friendFirstName": "Yang",
+    "friendId": 13194139535025,
+    "friendLastName": "Zhang",
+    "messageContent": "no",
+    "messageCreationDate": "2011-12-13T19:51:47.812Z",
+    "messageId": 755914838105
+   },
+   {
+    "friendFirstName": "K.",
+    "friendId": 2199023256816,
+    "friendLastName": "Bose",
+    "messageContent": "thanks",
+    "messageCreationDate": "2011-12-13T19:49:01.395Z",
+    "messageId": 755914838120
+   },
+   {
+    "friendFirstName": "Yang",
+    "friendId": 13194139535025,
+    "friendLastName": "Zhang",
+    "messageContent": "roflol",
+    "messageCreationDate": "2011-12-13T19:28:15.172Z",
+    "messageId": 755914517610
+   },
+   {
+    "friendFirstName": "Yang",
+    "friendId": 13194139535025,
+    "friendLastName": "Zhang",
+    "messageContent": "yes",
+    "messageCreationDate": "2011-12-13T18:08:17.05Z",
+    "messageId": 755914734255
+   },
+   {
+    "friendFirstName": "K.",
+    "friendId": 2199023256816,
+    "friendLastName": "Bose",
+    "messageContent": "thanks",
+    "messageCreationDate": "2011-12-13T16:21:19.266Z",
+    "messageId": 755915141634
+   },
+   {
+    "friendFirstName": "Yang",
+    "friendId": 13194139535025,
+    "friendLastName": "Zhang",
+    "messageContent": "no",
+    "messageCreationDate": "2011-12-13T15:33:23.995Z",
+    "messageId": 755914838107
+   },
+   {
+    "friendFirstName": "Yang",
+    "friendId": 13194139535025,
+    "friendLastName": "Zhang",
+    "messageContent": "duh",
+    "messageCreationDate": "2011-12-13T15:30:05.819Z",
+    "messageId": 755914805838
+   },
+   {
+    "friendFirstName": "Yang",
+    "friendId": 13194139535025,
+    "friendLastName": "Zhang",
+    "messageContent": "About Pope Pius XII, unist Party. Pius XII expAbout George H. W. Bush, sity. Graduating in 1948,About Bruce Springsteen, American life; he has solAbout Clark Gable,  Joa",
+    "messageCreationDate": "2011-12-13T14:32:01.388Z",
+    "messageId": 755914866298
+   },
+   {
+    "friendFirstName": "K.",
+    "friendId": 2199023256816,
+    "friendLastName": "Bose",
+    "messageContent": "About Hector Berlioz, lioz (11 December 1803 \u2013 8 MAbout Harry S. Truman, ss the w",
+    "messageCreationDate": "2011-12-13T14:09:43.913Z",
+    "messageId": 755914356328
+   }
+  ]
+ }
+}

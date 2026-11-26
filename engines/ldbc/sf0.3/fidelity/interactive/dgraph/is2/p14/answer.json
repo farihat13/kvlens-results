@@ -1,0 +1,312 @@
+{
+ "query_sha": "afd1398a68b07f16",
+ "params": {
+  "personId": "1129"
+ },
+ "data": {
+  "schema_sha256": "03713a1e1c7b722e73bed6b150e079e69e9579c2a58c52e06f9d4384fdd4b80d",
+  "schema_path": "dgraph/schema/ldbcTypes.schema",
+  "sf": "0.3",
+  "created": "2026-11-21T02:56:18Z",
+  "git_sha": "60910999"
+ },
+ "fetched_at": "2026-11-20T23:59:58",
+ "raw": {
+  "person": [
+   {
+    "messages": [
+     {
+      "messageId": 1099512505763,
+      "messageCreationDate": "2012-09-09T13:52:25.857Z",
+      "content": "About Phil Spector, rs Vol. 1 (Super 2307 008). Vol. 6 Various Artists - Ra",
+      "messageType": [
+       "comment"
+      ],
+      "originalPost": {
+       "postId": 1099512505761,
+       "postCreationDate": "2012-09-09T03:02:28.987Z",
+       "postContent": "About Adolf Hitler, tifying Adolf Hitler's political views. His writings and methods were often adapted to need and circum",
+       "originalPoster": [
+        {
+         "authorId": 26388279067159,
+         "authorFirstName": "John",
+         "authorLastName": "Brown"
+        }
+       ]
+      },
+      "selfAsOriginal": [
+       {
+        "authorId": 1129,
+        "authorFirstName": "Carmen",
+        "authorLastName": "Lepland"
+       }
+      ]
+     },
+     {
+      "messageId": 1030792435634,
+      "messageCreationDate": "2012-09-08T14:58:05.141Z",
+      "content": "yes",
+      "messageType": [
+       "comment"
+      ],
+      "originalPost": {
+       "postId": 1030792435627,
+       "postCreationDate": "2012-09-08T14:56:27.223Z",
+       "postContent": "About Gustav Mahler, e he earned his living as a conductor, About Justin Timberlake, elevision series The New Micke",
+       "originalPoster": [
+        {
+         "authorId": 6597069769310,
+         "authorFirstName": "Bichang",
+         "authorLastName": "Liu"
+        }
+       ]
+      },
+      "selfAsOriginal": [
+       {
+        "authorId": 1129,
+        "authorFirstName": "Carmen",
+        "authorLastName": "Lepland"
+       }
+      ]
+     },
+     {
+      "messageId": 1030793029635,
+      "messageCreationDate": "2012-08-27T10:50:12.853Z",
+      "content": "right",
+      "messageType": [
+       "comment"
+      ],
+      "selfAsOriginal": [
+       {
+        "authorId": 1129,
+        "authorFirstName": "Carmen",
+        "authorLastName": "Lepland"
+       }
+      ],
+      "parentComment": {
+       "dgraph.type": [
+        "comment"
+       ],
+       "grandParentPost": {
+        "postId": 1030793029621,
+        "originalPoster": [
+         {
+          "authorId": 21990232556992,
+          "authorFirstName": "Shweta",
+          "authorLastName": "Kumar"
+         }
+        ]
+       }
+      }
+     },
+     {
+      "messageId": 1030793029746,
+      "messageCreationDate": "2012-08-25T21:07:31.535Z",
+      "content": "maybe",
+      "messageType": [
+       "comment"
+      ],
+      "selfAsOriginal": [
+       {
+        "authorId": 1129,
+        "authorFirstName": "Carmen",
+        "authorLastName": "Lepland"
+       }
+      ],
+      "parentComment": {
+       "dgraph.type": [
+        "comment"
+       ],
+       "grandParentComment": {
+        "greatGrandParentPost": {
+         "postId": 1030793029731,
+         "originalPoster": [
+          {
+           "authorId": 24189255812580,
+           "authorFirstName": "Jorge",
+           "authorLastName": "Escobar"
+          }
+         ]
+        }
+       }
+      }
+     },
+     {
+      "messageId": 1030793027412,
+      "messageCreationDate": "2012-08-25T11:43:00.077Z",
+      "content": "great",
+      "messageType": [
+       "comment"
+      ],
+      "selfAsOriginal": [
+       {
+        "authorId": 1129,
+        "authorFirstName": "Carmen",
+        "authorLastName": "Lepland"
+       }
+      ],
+      "parentComment": {
+       "dgraph.type": [
+        "comment"
+       ],
+       "grandParentPost": {
+        "postId": 1030793027402,
+        "originalPoster": [
+         {
+          "authorId": 19791209302403,
+          "authorFirstName": "Bibit",
+          "authorLastName": "Balawan"
+         }
+        ]
+       }
+      }
+     },
+     {
+      "messageId": 1030792985033,
+      "messageCreationDate": "2012-08-11T08:54:39.152Z",
+      "content": "right",
+      "messageType": [
+       "comment"
+      ],
+      "originalPost": {
+       "postId": 1030792985027,
+       "postCreationDate": "2012-08-10T16:19:42.448Z",
+       "postContent": "About Pliny the Elder, amily from the eruption of Mount Vesuvius that had just destroyed the cities of Pompeii and Hercul",
+       "originalPoster": [
+        {
+         "authorId": 24189255813517,
+         "authorFirstName": "Farhad Nasher",
+         "authorLastName": "Zaland"
+        }
+       ]
+      },
+      "selfAsOriginal": [
+       {
+        "authorId": 1129,
+        "authorFirstName": "Carmen",
+        "authorLastName": "Lepland"
+       }
+      ]
+     },
+     {
+      "messageId": 1030792356636,
+      "messageCreationDate": "2012-08-08T04:49:34.37Z",
+      "content": "About Live at Mile High Music Festival, ales, the album debuted at #97 on the US charts",
+      "messageType": [
+       "comment"
+      ],
+      "selfAsOriginal": [
+       {
+        "authorId": 1129,
+        "authorFirstName": "Carmen",
+        "authorLastName": "Lepland"
+       }
+      ],
+      "parentComment": {
+       "dgraph.type": [
+        "comment"
+       ],
+       "grandParentPost": {
+        "postId": 1030792356631,
+        "originalPoster": [
+         {
+          "authorId": 1242,
+          "authorFirstName": "Hans",
+          "authorLastName": "Johansson"
+         }
+        ]
+       }
+      }
+     },
+     {
+      "messageId": 1030792985283,
+      "messageCreationDate": "2012-08-06T16:31:46.347Z",
+      "content": "right",
+      "messageType": [
+       "comment"
+      ],
+      "selfAsOriginal": [
+       {
+        "authorId": 1129,
+        "authorFirstName": "Carmen",
+        "authorLastName": "Lepland"
+       }
+      ],
+      "parentComment": {
+       "dgraph.type": [
+        "comment"
+       ],
+       "grandParentPost": {
+        "postId": 1030792985279,
+        "originalPoster": [
+         {
+          "authorId": 24189255813517,
+          "authorFirstName": "Farhad Nasher",
+          "authorLastName": "Zaland"
+         }
+        ]
+       }
+      }
+     },
+     {
+      "messageId": 1030792985167,
+      "messageCreationDate": "2012-08-04T23:17:10.81Z",
+      "content": "no",
+      "messageType": [
+       "comment"
+      ],
+      "selfAsOriginal": [
+       {
+        "authorId": 1129,
+        "authorFirstName": "Carmen",
+        "authorLastName": "Lepland"
+       }
+      ],
+      "parentComment": {
+       "dgraph.type": [
+        "comment"
+       ],
+       "grandParentPost": {
+        "postId": 1030792985162,
+        "originalPoster": [
+         {
+          "authorId": 24189255813517,
+          "authorFirstName": "Farhad Nasher",
+          "authorLastName": "Zaland"
+         }
+        ]
+       }
+      }
+     },
+     {
+      "messageId": 1030792985234,
+      "messageCreationDate": "2012-08-04T22:50:47.19Z",
+      "content": "no",
+      "messageType": [
+       "comment"
+      ],
+      "originalPost": {
+       "postId": 1030792985225,
+       "postCreationDate": "2012-08-04T22:39:50.871Z",
+       "postContent": "About Joni Mitchell, n SaskatAbout Sigmund Freud, ating psAbout Ehud Olmert, Olmert aA",
+       "originalPoster": [
+        {
+         "authorId": 24189255813517,
+         "authorFirstName": "Farhad Nasher",
+         "authorLastName": "Zaland"
+        }
+       ]
+      },
+      "selfAsOriginal": [
+       {
+        "authorId": 1129,
+        "authorFirstName": "Carmen",
+        "authorLastName": "Lepland"
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

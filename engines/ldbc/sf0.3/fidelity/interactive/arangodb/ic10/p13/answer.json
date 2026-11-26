@@ -1,0 +1,97 @@
+{
+ "query_sha": "c20c841713234a9d",
+ "params": {
+  "personId": 28587302322565,
+  "month": 11
+ },
+ "data": {
+  "schema_sha256": "b8e206f17e60692c830ba0c3c675fbc481a22f26011282ce523890eb09be8a74",
+  "schema_path": "arangodb/schema/ldbc_schema.json",
+  "sf": "0.3",
+  "created": "2026-11-21T03:01:29Z",
+  "git_sha": "60910999"
+ },
+ "fetched_at": "2026-11-20T23:56:32",
+ "raw": [
+  {
+   "personId": 10995116278210,
+   "personFirstName": "Billinjer C",
+   "personLastName": "Nguyen",
+   "commonInterestScore": 1,
+   "personGender": "female",
+   "personCityName": "Bi\u00ean_H\u00f2a"
+  },
+  {
+   "personId": 8796093024058,
+   "personFirstName": "Paul",
+   "personLastName": "Williams",
+   "commonInterestScore": 0,
+   "personGender": "female",
+   "personCityName": "Ann_Arbor"
+  },
+  {
+   "personId": 17592186045089,
+   "personFirstName": "Sven",
+   "personLastName": "Persson",
+   "commonInterestScore": 0,
+   "personGender": "male",
+   "personCityName": "Rovaniemi"
+  },
+  {
+   "personId": 21990232555692,
+   "personFirstName": "Bruno",
+   "personLastName": "Oliveira",
+   "commonInterestScore": 0,
+   "personGender": "male",
+   "personCityName": "S\u00e3o_Lu\u00eds"
+  },
+  {
+   "personId": 24189255812535,
+   "personFirstName": "Marko",
+   "personLastName": "Brajkovi\u010d",
+   "commonInterestScore": 0,
+   "personGender": "male",
+   "personCityName": "Ljubljana"
+  },
+  {
+   "personId": 28587302322814,
+   "personFirstName": "Alexander",
+   "personLastName": "Basov",
+   "commonInterestScore": 0,
+   "personGender": "male",
+   "personCityName": "Saint_Petersburg"
+  },
+  {
+   "personId": 30786325580446,
+   "personFirstName": "Karan",
+   "personLastName": "Rao",
+   "commonInterestScore": 0,
+   "personGender": "female",
+   "personCityName": "Bilaspur"
+  },
+  {
+   "personId": 21990232558393,
+   "personFirstName": "Binh",
+   "personLastName": "Do",
+   "commonInterestScore": -1,
+   "personGender": "male",
+   "personCityName": "M\u00f3ng_C\u00e1i"
+  },
+  {
+   "personId": 10995116280003,
+   "personFirstName": "A.",
+   "personLastName": "Khan",
+   "commonInterestScore": -3,
+   "personGender": "female",
+   "personCityName": "Rajasthan"
+  },
+  {
+   "personId": 32985348836239,
+   "personFirstName": "Otto",
+   "personLastName": "Kerndlova",
+   "commonInterestScore": -3,
+   "personGender": "male",
+   "personCityName": "Mlad\u00e1_Boleslav"
+  }
+ ]
+}

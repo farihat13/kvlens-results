@@ -1,0 +1,24 @@
+{
+ "query_sha": "726c2fd8c124bda0",
+ "params": {
+  "personId": "1129",
+  "tagName": "Herodotus"
+ },
+ "data_created": "2026-11-21T02:56:18Z",
+ "measured_at": "2026-11-20T23:07:54",
+ "raw": {
+  "get_bytes": 8004,
+  "get_count": 124,
+  "get_found_count": 124,
+  "get_latency_ns": 736234,
+  "next_bytes": 0,
+  "next_count": 0,
+  "next_latency_ns": 0,
+  "seek_bytes": 7139172,
+  "seek_count": 343374,
+  "seek_latency_ns": 3913718712,
+  "set_bytes": 0,
+  "set_count": 0,
+  "set_latency_ns": 0
+ }
+}

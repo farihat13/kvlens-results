@@ -1,0 +1,24 @@
+{
+ "query_sha": "726c2fd8c124bda0",
+ "params": {
+  "personId": "24189255813168",
+  "tagName": "Beyonc\u00e9_Knowles"
+ },
+ "data_created": "2026-11-21T02:56:18Z",
+ "measured_at": "2026-11-20T23:02:32",
+ "raw": {
+  "get_bytes": 12254,
+  "get_count": 188,
+  "get_found_count": 188,
+  "get_latency_ns": 1416559,
+  "next_bytes": 0,
+  "next_count": 0,
+  "next_latency_ns": 0,
+  "seek_bytes": 8971946,
+  "seek_count": 430780,
+  "seek_latency_ns": 5334736683,
+  "set_bytes": 0,
+  "set_count": 0,
+  "set_latency_ns": 0
+ }
+}

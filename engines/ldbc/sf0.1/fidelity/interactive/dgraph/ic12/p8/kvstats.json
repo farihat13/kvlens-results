@@ -1,0 +1,24 @@
+{
+ "query_sha": "445239913e42deb8",
+ "params": {
+  "personId": "2199023256520",
+  "tagClassName": "MilitaryUnit"
+ },
+ "data_created": "2026-11-21T03:25:44Z",
+ "measured_at": "2026-11-21T01:03:26",
+ "raw": {
+  "get_bytes": 927,
+  "get_count": 16,
+  "get_found_count": 16,
+  "get_latency_ns": 261900,
+  "next_bytes": 798503,
+  "next_count": 16080,
+  "next_latency_ns": 2593520,
+  "seek_bytes": 1904332,
+  "seek_count": 23954,
+  "seek_latency_ns": 227134714,
+  "set_bytes": 0,
+  "set_count": 0,
+  "set_latency_ns": 0
+ }
+}

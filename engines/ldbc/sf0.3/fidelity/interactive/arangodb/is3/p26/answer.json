@@ -1,0 +1,58 @@
+{
+ "query_sha": "aab56a2aedd27dfa",
+ "params": {
+  "personId": 8796093022749
+ },
+ "data": {
+  "schema_sha256": "b8e206f17e60692c830ba0c3c675fbc481a22f26011282ce523890eb09be8a74",
+  "schema_path": "arangodb/schema/ldbc_schema.json",
+  "sf": "0.3",
+  "created": "2026-11-21T03:01:29Z",
+  "git_sha": "60910999"
+ },
+ "fetched_at": "2026-11-21T00:05:26",
+ "raw": [
+  {
+   "friendId": 32985348833548,
+   "friendFirstName": "Aleksandr",
+   "friendLastName": "Bajt",
+   "friendshipCreationDate": 1345709923429
+  },
+  {
+   "friendId": 32985348836556,
+   "friendFirstName": "Maithripala",
+   "friendLastName": "Gunasekera",
+   "friendshipCreationDate": 1344909704986
+  },
+  {
+   "friendId": 32985348833438,
+   "friendFirstName": "Javed",
+   "friendLastName": "Khan",
+   "friendshipCreationDate": 1343145332127
+  },
+  {
+   "friendId": 26388279066936,
+   "friendFirstName": "Chen",
+   "friendLastName": "Zhang",
+   "friendshipCreationDate": 1329940329511
+  },
+  {
+   "friendId": 19791209302403,
+   "friendFirstName": "Bibit",
+   "friendLastName": "Balawan",
+   "friendshipCreationDate": 1312595806745
+  },
+  {
+   "friendId": 2194,
+   "friendFirstName": "Alexander",
+   "friendLastName": "Dobrunov",
+   "friendshipCreationDate": 1289179185989
+  },
+  {
+   "friendId": 2199023258028,
+   "friendFirstName": "Babar",
+   "friendLastName": "Khan",
+   "friendshipCreationDate": 1288065789176
+  }
+ ]
+}

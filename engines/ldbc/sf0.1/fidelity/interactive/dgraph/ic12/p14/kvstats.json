@@ -1,0 +1,24 @@
+{
+ "query_sha": "445239913e42deb8",
+ "params": {
+  "personId": "24189255811500",
+  "tagClassName": "GolfPlayer"
+ },
+ "data_created": "2026-11-21T03:25:44Z",
+ "measured_at": "2026-11-21T01:04:26",
+ "raw": {
+  "get_bytes": 982,
+  "get_count": 17,
+  "get_found_count": 17,
+  "get_latency_ns": 205790,
+  "next_bytes": 798503,
+  "next_count": 16080,
+  "next_latency_ns": 2844297,
+  "seek_bytes": 1775126,
+  "seek_count": 20983,
+  "seek_latency_ns": 171977435,
+  "set_bytes": 0,
+  "set_count": 0,
+  "set_latency_ns": 0
+ }
+}

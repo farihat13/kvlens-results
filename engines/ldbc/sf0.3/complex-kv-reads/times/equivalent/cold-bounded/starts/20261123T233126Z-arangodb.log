@@ -1,0 +1,810 @@
+== [arangodb] start (engine backup, sf0.3) via engines/arangodb/start-server.sh ==
+== [hook LC_PRE_RESTORE_CHECK] source 'engines/provenance.sh' && check_provenance arangodb
+   provenance OK (schema sha256 b8e206f17e60…)
+=== Resetting ArangoDB ===
+No arangod processes running
+=== Restoring backup (engines/arangodb/backup/runs-sf0.3) ===
+Block cache: 30 MB   in-memory (edge) cache: 0 MB
+=== Starting ArangoDB (mode=kvstats) ===
+=== Starting ArangoDB on port 8529 ===
+  log.level=info  rocksdb_cache=30MB  cache=0MB
+Waiting for ArangoDB to start...
+ArangoDB is ready (4s elapsed)
+{
+    "server": "arango",
+    "license": "community",
+    "version": "3.12.8",
+    "apiVersions": [
+        "v0"
+    ],
+    "deprecatedApiVersions": [],
+    "requestedApiVersion": "v0"
+}
+pinned: arangod (pid 2632934) on CPU 4
+== [hook LC_POST_START_CHECK] 'engines/../.venv/bin/python3' -m kvengines.verify_schema --db arangodb
+   verified: 9 persistent indexes match data/schema/arangodb/
+=== ArangoDB up on the engine backup (sf0.3); canonical indexes kept. ===
+== engine up: arangodb (sf0.3) at the .env-declared operating point (dgraph: ineq=index, localcache=disable). ==
+== [arangodb] start (engine backup, sf0.3) via engines/arangodb/start-server.sh ==
+== [hook LC_PRE_RESTORE_CHECK] source 'engines/provenance.sh' && check_provenance arangodb
+   provenance OK (schema sha256 b8e206f17e60…)
+=== Resetting ArangoDB ===
+No arangod processes running
+=== Restoring backup (engines/arangodb/backup/runs-sf0.3) ===
+Block cache: 30 MB   in-memory (edge) cache: 0 MB
+=== Starting ArangoDB (mode=kvstats) ===
+=== Starting ArangoDB on port 8529 ===
+  log.level=info  rocksdb_cache=30MB  cache=0MB
+Waiting for ArangoDB to start...
+ArangoDB is ready (2s elapsed)
+{
+    "server": "arango",
+    "license": "community",
+    "version": "3.12.8",
+    "apiVersions": [
+        "v0"
+    ],
+    "deprecatedApiVersions": [],
+    "requestedApiVersion": "v0"
+}
+pinned: arangod (pid 2633710) on CPU 4
+== [hook LC_POST_START_CHECK] 'engines/../.venv/bin/python3' -m kvengines.verify_schema --db arangodb
+   verified: 9 persistent indexes match data/schema/arangodb/
+=== ArangoDB up on the engine backup (sf0.3); canonical indexes kept. ===
+== engine up: arangodb (sf0.3) at the .env-declared operating point (dgraph: ineq=index, localcache=disable). ==
+== [arangodb] start (engine backup, sf0.3) via engines/arangodb/start-server.sh ==
+== [hook LC_PRE_RESTORE_CHECK] source 'engines/provenance.sh' && check_provenance arangodb
+   provenance OK (schema sha256 b8e206f17e60…)
+=== Resetting ArangoDB ===
+No arangod processes running
+=== Restoring backup (engines/arangodb/backup/runs-sf0.3) ===
+Block cache: 30 MB   in-memory (edge) cache: 0 MB
+=== Starting ArangoDB (mode=kvstats) ===
+=== Starting ArangoDB on port 8529 ===
+  log.level=info  rocksdb_cache=30MB  cache=0MB
+Waiting for ArangoDB to start...
+ArangoDB is ready (2s elapsed)
+{
+    "server": "arango",
+    "license": "community",
+    "version": "3.12.8",
+    "apiVersions": [
+        "v0"
+    ],
+    "deprecatedApiVersions": [],
+    "requestedApiVersion": "v0"
+}
+pinned: arangod (pid 2634473) on CPU 4
+== [hook LC_POST_START_CHECK] 'engines/../.venv/bin/python3' -m kvengines.verify_schema --db arangodb
+   verified: 9 persistent indexes match data/schema/arangodb/
+=== ArangoDB up on the engine backup (sf0.3); canonical indexes kept. ===
+== engine up: arangodb (sf0.3) at the .env-declared operating point (dgraph: ineq=index, localcache=disable). ==
+== [arangodb] start (engine backup, sf0.3) via engines/arangodb/start-server.sh ==
+== [hook LC_PRE_RESTORE_CHECK] source 'engines/provenance.sh' && check_provenance arangodb
+   provenance OK (schema sha256 b8e206f17e60…)
+=== Resetting ArangoDB ===
+No arangod processes running
+=== Restoring backup (engines/arangodb/backup/runs-sf0.3) ===
+Block cache: 30 MB   in-memory (edge) cache: 0 MB
+=== Starting ArangoDB (mode=kvstats) ===
+=== Starting ArangoDB on port 8529 ===
+  log.level=info  rocksdb_cache=30MB  cache=0MB
+Waiting for ArangoDB to start...
+ArangoDB is ready (2s elapsed)
+{
+    "server": "arango",
+    "license": "community",
+    "version": "3.12.8",
+    "apiVersions": [
+        "v0"
+    ],
+    "deprecatedApiVersions": [],
+    "requestedApiVersion": "v0"
+}
+pinned: arangod (pid 2635262) on CPU 4
+== [hook LC_POST_START_CHECK] 'engines/../.venv/bin/python3' -m kvengines.verify_schema --db arangodb
+   verified: 9 persistent indexes match data/schema/arangodb/
+=== ArangoDB up on the engine backup (sf0.3); canonical indexes kept. ===
+== engine up: arangodb (sf0.3) at the .env-declared operating point (dgraph: ineq=index, localcache=disable). ==
+== [arangodb] start (engine backup, sf0.3) via engines/arangodb/start-server.sh ==
+== [hook LC_PRE_RESTORE_CHECK] source 'engines/provenance.sh' && check_provenance arangodb
+   provenance OK (schema sha256 b8e206f17e60…)
+=== Resetting ArangoDB ===
+No arangod processes running
+=== Restoring backup (engines/arangodb/backup/runs-sf0.3) ===
+Block cache: 30 MB   in-memory (edge) cache: 0 MB
+=== Starting ArangoDB (mode=kvstats) ===
+=== Starting ArangoDB on port 8529 ===
+  log.level=info  rocksdb_cache=30MB  cache=0MB
+Waiting for ArangoDB to start...
+ArangoDB is ready (2s elapsed)
+{
+    "server": "arango",
+    "license": "community",
+    "version": "3.12.8",
+    "apiVersions": [
+        "v0"
+    ],
+    "deprecatedApiVersions": [],
+    "requestedApiVersion": "v0"
+}
+pinned: arangod (pid 2636039) on CPU 4
+== [hook LC_POST_START_CHECK] 'engines/../.venv/bin/python3' -m kvengines.verify_schema --db arangodb
+   verified: 9 persistent indexes match data/schema/arangodb/
+=== ArangoDB up on the engine backup (sf0.3); canonical indexes kept. ===
+== engine up: arangodb (sf0.3) at the .env-declared operating point (dgraph: ineq=index, localcache=disable). ==
+== [arangodb] start (engine backup, sf0.3) via engines/arangodb/start-server.sh ==
+== [hook LC_PRE_RESTORE_CHECK] source 'engines/provenance.sh' && check_provenance arangodb
+   provenance OK (schema sha256 b8e206f17e60…)
+=== Resetting ArangoDB ===
+No arangod processes running
+=== Restoring backup (engines/arangodb/backup/runs-sf0.3) ===
+Block cache: 30 MB   in-memory (edge) cache: 0 MB
+=== Starting ArangoDB (mode=kvstats) ===
+=== Starting ArangoDB on port 8529 ===
+  log.level=info  rocksdb_cache=30MB  cache=0MB
+Waiting for ArangoDB to start...
+ArangoDB is ready (2s elapsed)
+{
+    "server": "arango",
+    "license": "community",
+    "version": "3.12.8",
+    "apiVersions": [
+        "v0"
+    ],
+    "deprecatedApiVersions": [],
+    "requestedApiVersion": "v0"
+}
+pinned: arangod (pid 2636812) on CPU 4
+== [hook LC_POST_START_CHECK] 'engines/../.venv/bin/python3' -m kvengines.verify_schema --db arangodb
+   verified: 9 persistent indexes match data/schema/arangodb/
+=== ArangoDB up on the engine backup (sf0.3); canonical indexes kept. ===
+== engine up: arangodb (sf0.3) at the .env-declared operating point (dgraph: ineq=index, localcache=disable). ==
+== [arangodb] start (engine backup, sf0.3) via engines/arangodb/start-server.sh ==
+== [hook LC_PRE_RESTORE_CHECK] source 'engines/provenance.sh' && check_provenance arangodb
+   provenance OK (schema sha256 b8e206f17e60…)
+=== Resetting ArangoDB ===
+No arangod processes running
+=== Restoring backup (engines/arangodb/backup/runs-sf0.3) ===
+Block cache: 30 MB   in-memory (edge) cache: 0 MB
+=== Starting ArangoDB (mode=kvstats) ===
+=== Starting ArangoDB on port 8529 ===
+  log.level=info  rocksdb_cache=30MB  cache=0MB
+Waiting for ArangoDB to start...
+ArangoDB is ready (4s elapsed)
+{
+    "server": "arango",
+    "license": "community",
+    "version": "3.12.8",
+    "apiVersions": [
+        "v0"
+    ],
+    "deprecatedApiVersions": [],
+    "requestedApiVersion": "v0"
+}
+pinned: arangod (pid 2637570) on CPU 4
+== [hook LC_POST_START_CHECK] 'engines/../.venv/bin/python3' -m kvengines.verify_schema --db arangodb
+   verified: 9 persistent indexes match data/schema/arangodb/
+=== ArangoDB up on the engine backup (sf0.3); canonical indexes kept. ===
+== engine up: arangodb (sf0.3) at the .env-declared operating point (dgraph: ineq=index, localcache=disable). ==
+== [arangodb] start (engine backup, sf0.3) via engines/arangodb/start-server.sh ==
+== [hook LC_PRE_RESTORE_CHECK] source 'engines/provenance.sh' && check_provenance arangodb
+   provenance OK (schema sha256 b8e206f17e60…)
+=== Resetting ArangoDB ===
+No arangod processes running
+=== Restoring backup (engines/arangodb/backup/runs-sf0.3) ===
+Block cache: 30 MB   in-memory (edge) cache: 0 MB
+=== Starting ArangoDB (mode=kvstats) ===
+=== Starting ArangoDB on port 8529 ===
+  log.level=info  rocksdb_cache=30MB  cache=0MB
+Waiting for ArangoDB to start...
+ArangoDB is ready (4s elapsed)
+{
+    "server": "arango",
+    "license": "community",
+    "version": "3.12.8",
+    "apiVersions": [
+        "v0"
+    ],
+    "deprecatedApiVersions": [],
+    "requestedApiVersion": "v0"
+}
+pinned: arangod (pid 2638343) on CPU 4
+== [hook LC_POST_START_CHECK] 'engines/../.venv/bin/python3' -m kvengines.verify_schema --db arangodb
+   verified: 9 persistent indexes match data/schema/arangodb/
+=== ArangoDB up on the engine backup (sf0.3); canonical indexes kept. ===
+== engine up: arangodb (sf0.3) at the .env-declared operating point (dgraph: ineq=index, localcache=disable). ==
+== [arangodb] start (engine backup, sf0.3) via engines/arangodb/start-server.sh ==
+== [hook LC_PRE_RESTORE_CHECK] source 'engines/provenance.sh' && check_provenance arangodb
+   provenance OK (schema sha256 b8e206f17e60…)
+=== Resetting ArangoDB ===
+No arangod processes running
+=== Restoring backup (engines/arangodb/backup/runs-sf0.3) ===
+Block cache: 30 MB   in-memory (edge) cache: 0 MB
+=== Starting ArangoDB (mode=kvstats) ===
+=== Starting ArangoDB on port 8529 ===
+  log.level=info  rocksdb_cache=30MB  cache=0MB
+Waiting for ArangoDB to start...
+ArangoDB is ready (2s elapsed)
+{
+    "server": "arango",
+    "license": "community",
+    "version": "3.12.8",
+    "apiVersions": [
+        "v0"
+    ],
+    "deprecatedApiVersions": [],
+    "requestedApiVersion": "v0"
+}
+pinned: arangod (pid 2639145) on CPU 4
+== [hook LC_POST_START_CHECK] 'engines/../.venv/bin/python3' -m kvengines.verify_schema --db arangodb
+   verified: 9 persistent indexes match data/schema/arangodb/
+=== ArangoDB up on the engine backup (sf0.3); canonical indexes kept. ===
+== engine up: arangodb (sf0.3) at the .env-declared operating point (dgraph: ineq=index, localcache=disable). ==
+== [arangodb] start (engine backup, sf0.3) via engines/arangodb/start-server.sh ==
+== [hook LC_PRE_RESTORE_CHECK] source 'engines/provenance.sh' && check_provenance arangodb
+   provenance OK (schema sha256 b8e206f17e60…)
+=== Resetting ArangoDB ===
+No arangod processes running
+=== Restoring backup (engines/arangodb/backup/runs-sf0.3) ===
+Block cache: 30 MB   in-memory (edge) cache: 0 MB
+=== Starting ArangoDB (mode=kvstats) ===
+=== Starting ArangoDB on port 8529 ===
+  log.level=info  rocksdb_cache=30MB  cache=0MB
+Waiting for ArangoDB to start...
+ArangoDB is ready (2s elapsed)
+{
+    "server": "arango",
+    "license": "community",
+    "version": "3.12.8",
+    "apiVersions": [
+        "v0"
+    ],
+    "deprecatedApiVersions": [],
+    "requestedApiVersion": "v0"
+}
+pinned: arangod (pid 2639915) on CPU 4
+== [hook LC_POST_START_CHECK] 'engines/../.venv/bin/python3' -m kvengines.verify_schema --db arangodb
+   verified: 9 persistent indexes match data/schema/arangodb/
+=== ArangoDB up on the engine backup (sf0.3); canonical indexes kept. ===
+== engine up: arangodb (sf0.3) at the .env-declared operating point (dgraph: ineq=index, localcache=disable). ==
+== [arangodb] start (engine backup, sf0.3) via engines/arangodb/start-server.sh ==
+== [hook LC_PRE_RESTORE_CHECK] source 'engines/provenance.sh' && check_provenance arangodb
+   provenance OK (schema sha256 b8e206f17e60…)
+=== Resetting ArangoDB ===
+No arangod processes running
+=== Restoring backup (engines/arangodb/backup/runs-sf0.3) ===
+Block cache: 30 MB   in-memory (edge) cache: 0 MB
+=== Starting ArangoDB (mode=kvstats) ===
+=== Starting ArangoDB on port 8529 ===
+  log.level=info  rocksdb_cache=30MB  cache=0MB
+Waiting for ArangoDB to start...
+ArangoDB is ready (2s elapsed)
+{
+    "server": "arango",
+    "license": "community",
+    "version": "3.12.8",
+    "apiVersions": [
+        "v0"
+    ],
+    "deprecatedApiVersions": [],
+    "requestedApiVersion": "v0"
+}
+pinned: arangod (pid 2640680) on CPU 4
+== [hook LC_POST_START_CHECK] 'engines/../.venv/bin/python3' -m kvengines.verify_schema --db arangodb
+   verified: 9 persistent indexes match data/schema/arangodb/
+=== ArangoDB up on the engine backup (sf0.3); canonical indexes kept. ===
+== engine up: arangodb (sf0.3) at the .env-declared operating point (dgraph: ineq=index, localcache=disable). ==
+== [arangodb] start (engine backup, sf0.3) via engines/arangodb/start-server.sh ==
+== [hook LC_PRE_RESTORE_CHECK] source 'engines/provenance.sh' && check_provenance arangodb
+   provenance OK (schema sha256 b8e206f17e60…)
+=== Resetting ArangoDB ===
+No arangod processes running
+=== Restoring backup (engines/arangodb/backup/runs-sf0.3) ===
+Block cache: 30 MB   in-memory (edge) cache: 0 MB
+=== Starting ArangoDB (mode=kvstats) ===
+=== Starting ArangoDB on port 8529 ===
+  log.level=info  rocksdb_cache=30MB  cache=0MB
+Waiting for ArangoDB to start...
+ArangoDB is ready (2s elapsed)
+{
+    "server": "arango",
+    "license": "community",
+    "version": "3.12.8",
+    "apiVersions": [
+        "v0"
+    ],
+    "deprecatedApiVersions": [],
+    "requestedApiVersion": "v0"
+}
+pinned: arangod (pid 2641455) on CPU 4
+== [hook LC_POST_START_CHECK] 'engines/../.venv/bin/python3' -m kvengines.verify_schema --db arangodb
+   verified: 9 persistent indexes match data/schema/arangodb/
+=== ArangoDB up on the engine backup (sf0.3); canonical indexes kept. ===
+== engine up: arangodb (sf0.3) at the .env-declared operating point (dgraph: ineq=index, localcache=disable). ==
+== [arangodb] start (engine backup, sf0.3) via engines/arangodb/start-server.sh ==
+== [hook LC_PRE_RESTORE_CHECK] source 'engines/provenance.sh' && check_provenance arangodb
+   provenance OK (schema sha256 b8e206f17e60…)
+=== Resetting ArangoDB ===
+No arangod processes running
+=== Restoring backup (engines/arangodb/backup/runs-sf0.3) ===
+Block cache: 30 MB   in-memory (edge) cache: 0 MB
+=== Starting ArangoDB (mode=kvstats) ===
+=== Starting ArangoDB on port 8529 ===
+  log.level=info  rocksdb_cache=30MB  cache=0MB
+Waiting for ArangoDB to start...
+ArangoDB is ready (2s elapsed)
+{
+    "server": "arango",
+    "license": "community",
+    "version": "3.12.8",
+    "apiVersions": [
+        "v0"
+    ],
+    "deprecatedApiVersions": [],
+    "requestedApiVersion": "v0"
+}
+pinned: arangod (pid 2642225) on CPU 4
+== [hook LC_POST_START_CHECK] 'engines/../.venv/bin/python3' -m kvengines.verify_schema --db arangodb
+   verified: 9 persistent indexes match data/schema/arangodb/
+=== ArangoDB up on the engine backup (sf0.3); canonical indexes kept. ===
+== engine up: arangodb (sf0.3) at the .env-declared operating point (dgraph: ineq=index, localcache=disable). ==
+== [arangodb] start (engine backup, sf0.3) via engines/arangodb/start-server.sh ==
+== [hook LC_PRE_RESTORE_CHECK] source 'engines/provenance.sh' && check_provenance arangodb
+   provenance OK (schema sha256 b8e206f17e60…)
+=== Resetting ArangoDB ===
+No arangod processes running
+=== Restoring backup (engines/arangodb/backup/runs-sf0.3) ===
+Block cache: 30 MB   in-memory (edge) cache: 0 MB
+=== Starting ArangoDB (mode=kvstats) ===
+=== Starting ArangoDB on port 8529 ===
+  log.level=info  rocksdb_cache=30MB  cache=0MB
+Waiting for ArangoDB to start...
+ArangoDB is ready (4s elapsed)
+{
+    "server": "arango",
+    "license": "community",
+    "version": "3.12.8",
+    "apiVersions": [
+        "v0"
+    ],
+    "deprecatedApiVersions": [],
+    "requestedApiVersion": "v0"
+}
+pinned: arangod (pid 2643023) on CPU 4
+== [hook LC_POST_START_CHECK] 'engines/../.venv/bin/python3' -m kvengines.verify_schema --db arangodb
+   verified: 9 persistent indexes match data/schema/arangodb/
+=== ArangoDB up on the engine backup (sf0.3); canonical indexes kept. ===
+== engine up: arangodb (sf0.3) at the .env-declared operating point (dgraph: ineq=index, localcache=disable). ==
+== [arangodb] start (engine backup, sf0.3) via engines/arangodb/start-server.sh ==
+== [hook LC_PRE_RESTORE_CHECK] source 'engines/provenance.sh' && check_provenance arangodb
+   provenance OK (schema sha256 b8e206f17e60…)
+=== Resetting ArangoDB ===
+No arangod processes running
+=== Restoring backup (engines/arangodb/backup/runs-sf0.3) ===
+Block cache: 30 MB   in-memory (edge) cache: 0 MB
+=== Starting ArangoDB (mode=kvstats) ===
+=== Starting ArangoDB on port 8529 ===
+  log.level=info  rocksdb_cache=30MB  cache=0MB
+Waiting for ArangoDB to start...
+ArangoDB is ready (2s elapsed)
+{
+    "server": "arango",
+    "license": "community",
+    "version": "3.12.8",
+    "apiVersions": [
+        "v0"
+    ],
+    "deprecatedApiVersions": [],
+    "requestedApiVersion": "v0"
+}
+pinned: arangod (pid 2643797) on CPU 4
+== [hook LC_POST_START_CHECK] 'engines/../.venv/bin/python3' -m kvengines.verify_schema --db arangodb
+   verified: 9 persistent indexes match data/schema/arangodb/
+=== ArangoDB up on the engine backup (sf0.3); canonical indexes kept. ===
+== engine up: arangodb (sf0.3) at the .env-declared operating point (dgraph: ineq=index, localcache=disable). ==
+== [arangodb] start (engine backup, sf0.3) via engines/arangodb/start-server.sh ==
+== [hook LC_PRE_RESTORE_CHECK] source 'engines/provenance.sh' && check_provenance arangodb
+   provenance OK (schema sha256 b8e206f17e60…)
+=== Resetting ArangoDB ===
+No arangod processes running
+=== Restoring backup (engines/arangodb/backup/runs-sf0.3) ===
+Block cache: 30 MB   in-memory (edge) cache: 0 MB
+=== Starting ArangoDB (mode=kvstats) ===
+=== Starting ArangoDB on port 8529 ===
+  log.level=info  rocksdb_cache=30MB  cache=0MB
+Waiting for ArangoDB to start...
+ArangoDB is ready (4s elapsed)
+{
+    "server": "arango",
+    "license": "community",
+    "version": "3.12.8",
+    "apiVersions": [
+        "v0"
+    ],
+    "deprecatedApiVersions": [],
+    "requestedApiVersion": "v0"
+}
+pinned: arangod (pid 2644571) on CPU 4
+== [hook LC_POST_START_CHECK] 'engines/../.venv/bin/python3' -m kvengines.verify_schema --db arangodb
+   verified: 9 persistent indexes match data/schema/arangodb/
+=== ArangoDB up on the engine backup (sf0.3); canonical indexes kept. ===
+== engine up: arangodb (sf0.3) at the .env-declared operating point (dgraph: ineq=index, localcache=disable). ==
+== [arangodb] start (engine backup, sf0.3) via engines/arangodb/start-server.sh ==
+== [hook LC_PRE_RESTORE_CHECK] source 'engines/provenance.sh' && check_provenance arangodb
+   provenance OK (schema sha256 b8e206f17e60…)
+=== Resetting ArangoDB ===
+No arangod processes running
+=== Restoring backup (engines/arangodb/backup/runs-sf0.3) ===
+Block cache: 30 MB   in-memory (edge) cache: 0 MB
+=== Starting ArangoDB (mode=kvstats) ===
+=== Starting ArangoDB on port 8529 ===
+  log.level=info  rocksdb_cache=30MB  cache=0MB
+Waiting for ArangoDB to start...
+ArangoDB is ready (2s elapsed)
+{
+    "server": "arango",
+    "license": "community",
+    "version": "3.12.8",
+    "apiVersions": [
+        "v0"
+    ],
+    "deprecatedApiVersions": [],
+    "requestedApiVersion": "v0"
+}
+pinned: arangod (pid 2645343) on CPU 4
+== [hook LC_POST_START_CHECK] 'engines/../.venv/bin/python3' -m kvengines.verify_schema --db arangodb
+   verified: 9 persistent indexes match data/schema/arangodb/
+=== ArangoDB up on the engine backup (sf0.3); canonical indexes kept. ===
+== engine up: arangodb (sf0.3) at the .env-declared operating point (dgraph: ineq=index, localcache=disable). ==
+== [arangodb] start (engine backup, sf0.3) via engines/arangodb/start-server.sh ==
+== [hook LC_PRE_RESTORE_CHECK] source 'engines/provenance.sh' && check_provenance arangodb
+   provenance OK (schema sha256 b8e206f17e60…)
+=== Resetting ArangoDB ===
+No arangod processes running
+=== Restoring backup (engines/arangodb/backup/runs-sf0.3) ===
+Block cache: 30 MB   in-memory (edge) cache: 0 MB
+=== Starting ArangoDB (mode=kvstats) ===
+=== Starting ArangoDB on port 8529 ===
+  log.level=info  rocksdb_cache=30MB  cache=0MB
+Waiting for ArangoDB to start...
+ArangoDB is ready (2s elapsed)
+{
+    "server": "arango",
+    "license": "community",
+    "version": "3.12.8",
+    "apiVersions": [
+        "v0"
+    ],
+    "deprecatedApiVersions": [],
+    "requestedApiVersion": "v0"
+}
+pinned: arangod (pid 2646143) on CPU 4
+== [hook LC_POST_START_CHECK] 'engines/../.venv/bin/python3' -m kvengines.verify_schema --db arangodb
+   verified: 9 persistent indexes match data/schema/arangodb/
+=== ArangoDB up on the engine backup (sf0.3); canonical indexes kept. ===
+== engine up: arangodb (sf0.3) at the .env-declared operating point (dgraph: ineq=index, localcache=disable). ==
+== [arangodb] start (engine backup, sf0.3) via engines/arangodb/start-server.sh ==
+== [hook LC_PRE_RESTORE_CHECK] source 'engines/provenance.sh' && check_provenance arangodb
+   provenance OK (schema sha256 b8e206f17e60…)
+=== Resetting ArangoDB ===
+No arangod processes running
+=== Restoring backup (engines/arangodb/backup/runs-sf0.3) ===
+Block cache: 30 MB   in-memory (edge) cache: 0 MB
+=== Starting ArangoDB (mode=kvstats) ===
+=== Starting ArangoDB on port 8529 ===
+  log.level=info  rocksdb_cache=30MB  cache=0MB
+Waiting for ArangoDB to start...
+ArangoDB is ready (2s elapsed)
+{
+    "server": "arango",
+    "license": "community",
+    "version": "3.12.8",
+    "apiVersions": [
+        "v0"
+    ],
+    "deprecatedApiVersions": [],
+    "requestedApiVersion": "v0"
+}
+pinned: arangod (pid 2646914) on CPU 4
+== [hook LC_POST_START_CHECK] 'engines/../.venv/bin/python3' -m kvengines.verify_schema --db arangodb
+   verified: 9 persistent indexes match data/schema/arangodb/
+=== ArangoDB up on the engine backup (sf0.3); canonical indexes kept. ===
+== engine up: arangodb (sf0.3) at the .env-declared operating point (dgraph: ineq=index, localcache=disable). ==
+== [arangodb] start (engine backup, sf0.3) via engines/arangodb/start-server.sh ==
+== [hook LC_PRE_RESTORE_CHECK] source 'engines/provenance.sh' && check_provenance arangodb
+   provenance OK (schema sha256 b8e206f17e60…)
+=== Resetting ArangoDB ===
+No arangod processes running
+=== Restoring backup (engines/arangodb/backup/runs-sf0.3) ===
+Block cache: 30 MB   in-memory (edge) cache: 0 MB
+=== Starting ArangoDB (mode=kvstats) ===
+=== Starting ArangoDB on port 8529 ===
+  log.level=info  rocksdb_cache=30MB  cache=0MB
+Waiting for ArangoDB to start...
+ArangoDB is ready (2s elapsed)
+{
+    "server": "arango",
+    "license": "community",
+    "version": "3.12.8",
+    "apiVersions": [
+        "v0"
+    ],
+    "deprecatedApiVersions": [],
+    "requestedApiVersion": "v0"
+}
+pinned: arangod (pid 2647683) on CPU 4
+== [hook LC_POST_START_CHECK] 'engines/../.venv/bin/python3' -m kvengines.verify_schema --db arangodb
+   verified: 9 persistent indexes match data/schema/arangodb/
+=== ArangoDB up on the engine backup (sf0.3); canonical indexes kept. ===
+== engine up: arangodb (sf0.3) at the .env-declared operating point (dgraph: ineq=index, localcache=disable). ==
+== [arangodb] start (engine backup, sf0.3) via engines/arangodb/start-server.sh ==
+== [hook LC_PRE_RESTORE_CHECK] source 'engines/provenance.sh' && check_provenance arangodb
+   provenance OK (schema sha256 b8e206f17e60…)
+=== Resetting ArangoDB ===
+No arangod processes running
+=== Restoring backup (engines/arangodb/backup/runs-sf0.3) ===
+Block cache: 30 MB   in-memory (edge) cache: 0 MB
+=== Starting ArangoDB (mode=kvstats) ===
+=== Starting ArangoDB on port 8529 ===
+  log.level=info  rocksdb_cache=30MB  cache=0MB
+Waiting for ArangoDB to start...
+ArangoDB is ready (2s elapsed)
+{
+    "server": "arango",
+    "license": "community",
+    "version": "3.12.8",
+    "apiVersions": [
+        "v0"
+    ],
+    "deprecatedApiVersions": [],
+    "requestedApiVersion": "v0"
+}
+pinned: arangod (pid 2648454) on CPU 4
+== [hook LC_POST_START_CHECK] 'engines/../.venv/bin/python3' -m kvengines.verify_schema --db arangodb
+   verified: 9 persistent indexes match data/schema/arangodb/
+=== ArangoDB up on the engine backup (sf0.3); canonical indexes kept. ===
+== engine up: arangodb (sf0.3) at the .env-declared operating point (dgraph: ineq=index, localcache=disable). ==
+== [arangodb] start (engine backup, sf0.3) via engines/arangodb/start-server.sh ==
+== [hook LC_PRE_RESTORE_CHECK] source 'engines/provenance.sh' && check_provenance arangodb
+   provenance OK (schema sha256 b8e206f17e60…)
+=== Resetting ArangoDB ===
+No arangod processes running
+=== Restoring backup (engines/arangodb/backup/runs-sf0.3) ===
+Block cache: 30 MB   in-memory (edge) cache: 0 MB
+=== Starting ArangoDB (mode=kvstats) ===
+=== Starting ArangoDB on port 8529 ===
+  log.level=info  rocksdb_cache=30MB  cache=0MB
+Waiting for ArangoDB to start...
+ArangoDB is ready (2s elapsed)
+{
+    "server": "arango",
+    "license": "community",
+    "version": "3.12.8",
+    "apiVersions": [
+        "v0"
+    ],
+    "deprecatedApiVersions": [],
+    "requestedApiVersion": "v0"
+}
+pinned: arangod (pid 2649256) on CPU 4
+== [hook LC_POST_START_CHECK] 'engines/../.venv/bin/python3' -m kvengines.verify_schema --db arangodb
+   verified: 9 persistent indexes match data/schema/arangodb/
+=== ArangoDB up on the engine backup (sf0.3); canonical indexes kept. ===
+== engine up: arangodb (sf0.3) at the .env-declared operating point (dgraph: ineq=index, localcache=disable). ==
+== [arangodb] start (engine backup, sf0.3) via engines/arangodb/start-server.sh ==
+== [hook LC_PRE_RESTORE_CHECK] source 'engines/provenance.sh' && check_provenance arangodb
+   provenance OK (schema sha256 b8e206f17e60…)
+=== Resetting ArangoDB ===
+No arangod processes running
+=== Restoring backup (engines/arangodb/backup/runs-sf0.3) ===
+Block cache: 30 MB   in-memory (edge) cache: 0 MB
+=== Starting ArangoDB (mode=kvstats) ===
+=== Starting ArangoDB on port 8529 ===
+  log.level=info  rocksdb_cache=30MB  cache=0MB
+Waiting for ArangoDB to start...
+ArangoDB is ready (2s elapsed)
+{
+    "server": "arango",
+    "license": "community",
+    "version": "3.12.8",
+    "apiVersions": [
+        "v0"
+    ],
+    "deprecatedApiVersions": [],
+    "requestedApiVersion": "v0"
+}
+pinned: arangod (pid 2650027) on CPU 4
+== [hook LC_POST_START_CHECK] 'engines/../.venv/bin/python3' -m kvengines.verify_schema --db arangodb
+   verified: 9 persistent indexes match data/schema/arangodb/
+=== ArangoDB up on the engine backup (sf0.3); canonical indexes kept. ===
+== engine up: arangodb (sf0.3) at the .env-declared operating point (dgraph: ineq=index, localcache=disable). ==
+== [arangodb] start (engine backup, sf0.3) via engines/arangodb/start-server.sh ==
+== [hook LC_PRE_RESTORE_CHECK] source 'engines/provenance.sh' && check_provenance arangodb
+   provenance OK (schema sha256 b8e206f17e60…)
+=== Resetting ArangoDB ===
+No arangod processes running
+=== Restoring backup (engines/arangodb/backup/runs-sf0.3) ===
+Block cache: 30 MB   in-memory (edge) cache: 0 MB
+=== Starting ArangoDB (mode=kvstats) ===
+=== Starting ArangoDB on port 8529 ===
+  log.level=info  rocksdb_cache=30MB  cache=0MB
+Waiting for ArangoDB to start...
+ArangoDB is ready (2s elapsed)
+{
+    "server": "arango",
+    "license": "community",
+    "version": "3.12.8",
+    "apiVersions": [
+        "v0"
+    ],
+    "deprecatedApiVersions": [],
+    "requestedApiVersion": "v0"
+}
+pinned: arangod (pid 2650805) on CPU 4
+== [hook LC_POST_START_CHECK] 'engines/../.venv/bin/python3' -m kvengines.verify_schema --db arangodb
+   verified: 9 persistent indexes match data/schema/arangodb/
+=== ArangoDB up on the engine backup (sf0.3); canonical indexes kept. ===
+== engine up: arangodb (sf0.3) at the .env-declared operating point (dgraph: ineq=index, localcache=disable). ==
+== [arangodb] start (engine backup, sf0.3) via engines/arangodb/start-server.sh ==
+== [hook LC_PRE_RESTORE_CHECK] source 'engines/provenance.sh' && check_provenance arangodb
+   provenance OK (schema sha256 b8e206f17e60…)
+=== Resetting ArangoDB ===
+No arangod processes running
+=== Restoring backup (engines/arangodb/backup/runs-sf0.3) ===
+Block cache: 30 MB   in-memory (edge) cache: 0 MB
+=== Starting ArangoDB (mode=kvstats) ===
+=== Starting ArangoDB on port 8529 ===
+  log.level=info  rocksdb_cache=30MB  cache=0MB
+Waiting for ArangoDB to start...
+ArangoDB is ready (4s elapsed)
+{
+    "server": "arango",
+    "license": "community",
+    "version": "3.12.8",
+    "apiVersions": [
+        "v0"
+    ],
+    "deprecatedApiVersions": [],
+    "requestedApiVersion": "v0"
+}
+pinned: arangod (pid 2651606) on CPU 4
+== [hook LC_POST_START_CHECK] 'engines/../.venv/bin/python3' -m kvengines.verify_schema --db arangodb
+   verified: 9 persistent indexes match data/schema/arangodb/
+=== ArangoDB up on the engine backup (sf0.3); canonical indexes kept. ===
+== engine up: arangodb (sf0.3) at the .env-declared operating point (dgraph: ineq=index, localcache=disable). ==
+== [arangodb] start (engine backup, sf0.3) via engines/arangodb/start-server.sh ==
+== [hook LC_PRE_RESTORE_CHECK] source 'engines/provenance.sh' && check_provenance arangodb
+   provenance OK (schema sha256 b8e206f17e60…)
+=== Resetting ArangoDB ===
+No arangod processes running
+=== Restoring backup (engines/arangodb/backup/runs-sf0.3) ===
+Block cache: 30 MB   in-memory (edge) cache: 0 MB
+=== Starting ArangoDB (mode=kvstats) ===
+=== Starting ArangoDB on port 8529 ===
+  log.level=info  rocksdb_cache=30MB  cache=0MB
+Waiting for ArangoDB to start...
+ArangoDB is ready (2s elapsed)
+{
+    "server": "arango",
+    "license": "community",
+    "version": "3.12.8",
+    "apiVersions": [
+        "v0"
+    ],
+    "deprecatedApiVersions": [],
+    "requestedApiVersion": "v0"
+}
+pinned: arangod (pid 2652389) on CPU 4
+== [hook LC_POST_START_CHECK] 'engines/../.venv/bin/python3' -m kvengines.verify_schema --db arangodb
+   verified: 9 persistent indexes match data/schema/arangodb/
+=== ArangoDB up on the engine backup (sf0.3); canonical indexes kept. ===
+== engine up: arangodb (sf0.3) at the .env-declared operating point (dgraph: ineq=index, localcache=disable). ==
+== [arangodb] start (engine backup, sf0.3) via engines/arangodb/start-server.sh ==
+== [hook LC_PRE_RESTORE_CHECK] source 'engines/provenance.sh' && check_provenance arangodb
+   provenance OK (schema sha256 b8e206f17e60…)
+=== Resetting ArangoDB ===
+No arangod processes running
+=== Restoring backup (engines/arangodb/backup/runs-sf0.3) ===
+Block cache: 30 MB   in-memory (edge) cache: 0 MB
+=== Starting ArangoDB (mode=kvstats) ===
+=== Starting ArangoDB on port 8529 ===
+  log.level=info  rocksdb_cache=30MB  cache=0MB
+Waiting for ArangoDB to start...
+ArangoDB is ready (4s elapsed)
+{
+    "server": "arango",
+    "license": "community",
+    "version": "3.12.8",
+    "apiVersions": [
+        "v0"
+    ],
+    "deprecatedApiVersions": [],
+    "requestedApiVersion": "v0"
+}
+pinned: arangod (pid 2653163) on CPU 4
+== [hook LC_POST_START_CHECK] 'engines/../.venv/bin/python3' -m kvengines.verify_schema --db arangodb
+   verified: 9 persistent indexes match data/schema/arangodb/
+=== ArangoDB up on the engine backup (sf0.3); canonical indexes kept. ===
+== engine up: arangodb (sf0.3) at the .env-declared operating point (dgraph: ineq=index, localcache=disable). ==
+== [arangodb] start (engine backup, sf0.3) via engines/arangodb/start-server.sh ==
+== [hook LC_PRE_RESTORE_CHECK] source 'engines/provenance.sh' && check_provenance arangodb
+   provenance OK (schema sha256 b8e206f17e60…)
+=== Resetting ArangoDB ===
+No arangod processes running
+=== Restoring backup (engines/arangodb/backup/runs-sf0.3) ===
+Block cache: 30 MB   in-memory (edge) cache: 0 MB
+=== Starting ArangoDB (mode=kvstats) ===
+=== Starting ArangoDB on port 8529 ===
+  log.level=info  rocksdb_cache=30MB  cache=0MB
+Waiting for ArangoDB to start...
+ArangoDB is ready (2s elapsed)
+{
+    "server": "arango",
+    "license": "community",
+    "version": "3.12.8",
+    "apiVersions": [
+        "v0"
+    ],
+    "deprecatedApiVersions": [],
+    "requestedApiVersion": "v0"
+}
+pinned: arangod (pid 2653967) on CPU 4
+== [hook LC_POST_START_CHECK] 'engines/../.venv/bin/python3' -m kvengines.verify_schema --db arangodb
+   verified: 9 persistent indexes match data/schema/arangodb/
+=== ArangoDB up on the engine backup (sf0.3); canonical indexes kept. ===
+== engine up: arangodb (sf0.3) at the .env-declared operating point (dgraph: ineq=index, localcache=disable). ==
+== [arangodb] start (engine backup, sf0.3) via engines/arangodb/start-server.sh ==
+== [hook LC_PRE_RESTORE_CHECK] source 'engines/provenance.sh' && check_provenance arangodb
+   provenance OK (schema sha256 b8e206f17e60…)
+=== Resetting ArangoDB ===
+No arangod processes running
+=== Restoring backup (engines/arangodb/backup/runs-sf0.3) ===
+Block cache: 30 MB   in-memory (edge) cache: 0 MB
+=== Starting ArangoDB (mode=kvstats) ===
+=== Starting ArangoDB on port 8529 ===
+  log.level=info  rocksdb_cache=30MB  cache=0MB
+Waiting for ArangoDB to start...
+ArangoDB is ready (2s elapsed)
+{
+    "server": "arango",
+    "license": "community",
+    "version": "3.12.8",
+    "apiVersions": [
+        "v0"
+    ],
+    "deprecatedApiVersions": [],
+    "requestedApiVersion": "v0"
+}
+pinned: arangod (pid 2654748) on CPU 4
+== [hook LC_POST_START_CHECK] 'engines/../.venv/bin/python3' -m kvengines.verify_schema --db arangodb
+   verified: 9 persistent indexes match data/schema/arangodb/
+=== ArangoDB up on the engine backup (sf0.3); canonical indexes kept. ===
+== engine up: arangodb (sf0.3) at the .env-declared operating point (dgraph: ineq=index, localcache=disable). ==
+== [arangodb] start (engine backup, sf0.3) via engines/arangodb/start-server.sh ==
+== [hook LC_PRE_RESTORE_CHECK] source 'engines/provenance.sh' && check_provenance arangodb
+   provenance OK (schema sha256 b8e206f17e60…)
+=== Resetting ArangoDB ===
+No arangod processes running
+=== Restoring backup (engines/arangodb/backup/runs-sf0.3) ===
+Block cache: 30 MB   in-memory (edge) cache: 0 MB
+=== Starting ArangoDB (mode=kvstats) ===
+=== Starting ArangoDB on port 8529 ===
+  log.level=info  rocksdb_cache=30MB  cache=0MB
+Waiting for ArangoDB to start...
+ArangoDB is ready (2s elapsed)
+{
+    "server": "arango",
+    "license": "community",
+    "version": "3.12.8",
+    "apiVersions": [
+        "v0"
+    ],
+    "deprecatedApiVersions": [],
+    "requestedApiVersion": "v0"
+}
+pinned: arangod (pid 2655522) on CPU 4
+== [hook LC_POST_START_CHECK] 'engines/../.venv/bin/python3' -m kvengines.verify_schema --db arangodb
+   verified: 9 persistent indexes match data/schema/arangodb/
+=== ArangoDB up on the engine backup (sf0.3); canonical indexes kept. ===
+== engine up: arangodb (sf0.3) at the .env-declared operating point (dgraph: ineq=index, localcache=disable). ==

@@ -1,0 +1,58 @@
+{
+ "query_sha": "a0d4689e13d21a73",
+ "params": {
+  "personId": 2783,
+  "startDate": 1325376000000,
+  "durationDays": 30
+ },
+ "data": {
+  "schema_sha256": "b8e206f17e60692c830ba0c3c675fbc481a22f26011282ce523890eb09be8a74",
+  "schema_path": "arangodb/schema/ldbc_schema.json",
+  "sf": "0.3",
+  "created": "2026-11-21T03:01:29Z",
+  "git_sha": "60910999"
+ },
+ "fetched_at": "2026-11-20T23:58:43",
+ "raw": [
+  {
+   "tagName": "Alexander_Downer",
+   "postCount": 299
+  },
+  {
+   "tagName": "Bob_Geldof",
+   "postCount": 26
+  },
+  {
+   "tagName": "Mahmud_of_Ghazni",
+   "postCount": 7
+  },
+  {
+   "tagName": "Zine_El_Abidine_Ben_Ali",
+   "postCount": 7
+  },
+  {
+   "tagName": "Cry_Little_Sister",
+   "postCount": 4
+  },
+  {
+   "tagName": "Mayotte",
+   "postCount": 3
+  },
+  {
+   "tagName": "Drums_and_Wires",
+   "postCount": 2
+  },
+  {
+   "tagName": "Jesus_Walks",
+   "postCount": 2
+  },
+  {
+   "tagName": "Jimmy_Mack",
+   "postCount": 2
+  },
+  {
+   "tagName": "Lithuanian_Soviet_Socialist_Republic",
+   "postCount": 2
+  }
+ ]
+}

@@ -1,0 +1,153 @@
+{
+ "query_sha": "6935170dcded2085",
+ "params": {
+  "messageId": "824634360199"
+ },
+ "data": {
+  "schema_sha256": "03713a1e1c7b722e73bed6b150e079e69e9579c2a58c52e06f9d4384fdd4b80d",
+  "schema_path": "dgraph/schema/ldbcTypes.schema",
+  "sf": "0.3",
+  "created": "2026-11-21T02:56:18Z",
+  "git_sha": "60910999"
+ },
+ "fetched_at": "2026-11-21T00:04:11",
+ "raw": {
+  "origAuthor": [
+   {
+    "origAuthorId": 6597069766797
+   }
+  ],
+  "replies": [
+   {
+    "commentContent": "great",
+    "commentCreationDate": "2012-01-31T10:10:55.176Z",
+    "commentId": 824634360202,
+    "knowsCount": 0,
+    "knowsCount2": 1,
+    "replyAuthorFirstName": "Faisal",
+    "replyAuthorId": 21990232556585,
+    "replyAuthorLastName": "Malik"
+   },
+   {
+    "commentContent": "yes",
+    "commentCreationDate": "2012-01-30T20:21:51.245Z",
+    "commentId": 824634360207,
+    "knowsCount": 0,
+    "knowsCount2": 1,
+    "replyAuthorFirstName": "Jun",
+    "replyAuthorId": 21990232557038,
+    "replyAuthorLastName": "He"
+   },
+   {
+    "commentContent": "About Alexander Downer, y politician who was Foreign About Quincy Jones, ward. He was",
+    "commentCreationDate": "2012-01-30T19:29:19.004Z",
+    "commentId": 824634360212,
+    "knowsCount": 0,
+    "knowsCount2": 1,
+    "replyAuthorFirstName": "Jun",
+    "replyAuthorId": 21990232557038,
+    "replyAuthorLastName": "He"
+   },
+   {
+    "commentContent": "right",
+    "commentCreationDate": "2012-01-30T13:35:12.349Z",
+    "commentId": 824634360208,
+    "knowsCount": 0,
+    "knowsCount2": 1,
+    "replyAuthorFirstName": "Ben",
+    "replyAuthorId": 17592186047020,
+    "replyAuthorLastName": "Xu"
+   },
+   {
+    "commentContent": "I see",
+    "commentCreationDate": "2012-01-30T13:26:38.59Z",
+    "commentId": 824634360204,
+    "knowsCount": 0,
+    "knowsCount2": 1,
+    "replyAuthorFirstName": "Ai",
+    "replyAuthorId": 13194139534624,
+    "replyAuthorLastName": "Xu"
+   },
+   {
+    "commentContent": "good",
+    "commentCreationDate": "2012-01-30T11:55:15.723Z",
+    "commentId": 824634360211,
+    "knowsCount": 0,
+    "knowsCount2": 1,
+    "replyAuthorFirstName": "Bibit",
+    "replyAuthorId": 19791209302403,
+    "replyAuthorLastName": "Balawan"
+   },
+   {
+    "commentContent": "great",
+    "commentCreationDate": "2012-01-30T11:28:10.463Z",
+    "commentId": 824634360200,
+    "knowsCount": 1,
+    "knowsCount2": 0,
+    "replyAuthorFirstName": "Wei",
+    "replyAuthorId": 2608,
+    "replyAuthorLastName": "Zhu"
+   },
+   {
+    "commentContent": "no",
+    "commentCreationDate": "2012-01-30T11:20:04.206Z",
+    "commentId": 824634360210,
+    "knowsCount": 0,
+    "knowsCount2": 1,
+    "replyAuthorFirstName": "Hao",
+    "replyAuthorId": 21990232558726,
+    "replyAuthorLastName": "Zhang"
+   },
+   {
+    "commentContent": "thanks",
+    "commentCreationDate": "2012-01-30T11:03:18.988Z",
+    "commentId": 824634360206,
+    "knowsCount": 0,
+    "knowsCount2": 1,
+    "replyAuthorFirstName": "Abdul-Malik",
+    "replyAuthorId": 8796093022574,
+    "replyAuthorLastName": "Binalshibh"
+   },
+   {
+    "commentContent": "cool",
+    "commentCreationDate": "2012-01-30T10:59:21.667Z",
+    "commentId": 824634360205,
+    "knowsCount": 0,
+    "knowsCount2": 1,
+    "replyAuthorFirstName": "Hao",
+    "replyAuthorId": 21990232558726,
+    "replyAuthorLastName": "Zhang"
+   },
+   {
+    "commentContent": "cool",
+    "commentCreationDate": "2012-01-30T10:57:35.006Z",
+    "commentId": 824634360201,
+    "knowsCount": 0,
+    "knowsCount2": 1,
+    "replyAuthorFirstName": "Ali",
+    "replyAuthorId": 15393162788906,
+    "replyAuthorLastName": "Achiou"
+   },
+   {
+    "commentContent": "LOL",
+    "commentCreationDate": "2012-01-30T10:55:23.985Z",
+    "commentId": 824634360203,
+    "knowsCount": 0,
+    "knowsCount2": 1,
+    "replyAuthorFirstName": "Ganesh",
+    "replyAuthorId": 6597069770100,
+    "replyAuthorLastName": "Shrestha"
+   },
+   {
+    "commentContent": "thanks",
+    "commentCreationDate": "2012-01-30T10:55:00.484Z",
+    "commentId": 824634360209,
+    "knowsCount": 1,
+    "knowsCount2": 0,
+    "replyAuthorFirstName": "Andrea",
+    "replyAuthorId": 4398046513186,
+    "replyAuthorLastName": "Blanco"
+   }
+  ]
+ }
+}

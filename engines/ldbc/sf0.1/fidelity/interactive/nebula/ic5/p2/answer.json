@@ -1,0 +1,124 @@
+{
+ "query_sha": "0698d079766f4938",
+ "params": {
+  "personId": "person_32985348833679",
+  "minDate": 1347408000000
+ },
+ "data": {
+  "schema_sha256": "673074740eea54e4ba1fdc94eebf2087531b3007af7da660afffb3d1e8df0d1e",
+  "schema_path": "nebulagraph/schema/schema.gql",
+  "sf": "0.1",
+  "created": "2026-11-21T03:27:06Z",
+  "git_sha": "92777160"
+ },
+ "fetched_at": "2026-11-21T01:05:47",
+ "raw": {
+  "keys": [
+   "forumTitle",
+   "postCount",
+   "forumId"
+  ],
+  "rows": [
+   {
+    "forumTitle": "Album 18 of Gregorio Manalo",
+    "postCount": 0,
+    "forumId": 2934
+   },
+   {
+    "forumTitle": "Album 29 of Hans Johansson",
+    "postCount": 0,
+    "forumId": 3140
+   },
+   {
+    "forumTitle": "Album 31 of Peter Taylor",
+    "postCount": 0,
+    "forumId": 3526
+   },
+   {
+    "forumTitle": "Album 1 of Claude Radafison",
+    "postCount": 0,
+    "forumId": 3822
+   },
+   {
+    "forumTitle": "Album 10 of Emperor of Brazil Silva",
+    "postCount": 0,
+    "forumId": 8036
+   },
+   {
+    "forumTitle": "Album 16 of Mee Vongvichit",
+    "postCount": 0,
+    "forumId": 14923
+   },
+   {
+    "forumTitle": "Wall of Cesar Gonzales",
+    "postCount": 0,
+    "forumId": 68719478956
+   },
+   {
+    "forumTitle": "Wall of Kamal Aziz",
+    "postCount": 0,
+    "forumId": 68719483091
+   },
+   {
+    "forumTitle": "Album 2 of Rafael Magomaev",
+    "postCount": 0,
+    "forumId": 68719483766
+   },
+   {
+    "forumTitle": "Album 8 of Maria Alkaios",
+    "postCount": 0,
+    "forumId": 68719486327
+   },
+   {
+    "forumTitle": "Album 14 of Ashley Coetzee",
+    "postCount": 0,
+    "forumId": 68719486790
+   },
+   {
+    "forumTitle": "Album 16 of Peter Taylor",
+    "postCount": 0,
+    "forumId": 137438956983
+   },
+   {
+    "forumTitle": "Album 10 of Fritz Richter",
+    "postCount": 0,
+    "forumId": 137438959107
+   },
+   {
+    "forumTitle": "Album 29 of Kamal Aziz",
+    "postCount": 0,
+    "forumId": 137438959857
+   },
+   {
+    "forumTitle": "Wall of Jesus Mendez",
+    "postCount": 0,
+    "forumId": 137438960072
+   },
+   {
+    "forumTitle": "Wall of Wilhelm Schmidt",
+    "postCount": 0,
+    "forumId": 137438960303
+   },
+   {
+    "forumTitle": "Album 9 of Fritz Fischer",
+    "postCount": 0,
+    "forumId": 137438961048
+   },
+   {
+    "forumTitle": "Album 2 of Emperor of Brazil Silva",
+    "postCount": 0,
+    "forumId": 137438961500
+   },
+   {
+    "forumTitle": "Album 32 of Heinz Frank",
+    "postCount": 0,
+    "forumId": 137438965419
+   },
+   {
+    "forumTitle": "Album 20 of Gyula Laszlo",
+    "postCount": 0,
+    "forumId": 137438967584
+   }
+  ]
+ }
+}

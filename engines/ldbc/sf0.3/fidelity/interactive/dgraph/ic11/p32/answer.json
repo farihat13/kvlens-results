@@ -1,0 +1,36 @@
+{
+ "query_sha": "98c18d834b54beb1",
+ "params": {
+  "personId": "30786325579745",
+  "countryName": "Bosnia_and_Herzegovina",
+  "workFromYear": "2014"
+ },
+ "data": {
+  "schema_sha256": "03713a1e1c7b722e73bed6b150e079e69e9579c2a58c52e06f9d4384fdd4b80d",
+  "schema_path": "dgraph/schema/ldbcTypes.schema",
+  "sf": "0.3",
+  "created": "2026-11-21T02:56:18Z",
+  "git_sha": "60910999"
+ },
+ "fetched_at": "2026-11-21T00:06:56",
+ "raw": {
+  "_l1": [],
+  "_l2": [],
+  "results": [
+   {
+    "companyName": "Air_Srpska",
+    "personFirstName": "Nedeljko Baji\u0107",
+    "personId": 32985348834107,
+    "personLastName": "Mikulic",
+    "workAt|workFrom": "2012"
+   },
+   {
+    "companyName": "Icar_Air",
+    "personFirstName": "Ali",
+    "personId": 32985348833313,
+    "personLastName": "Ferrer",
+    "workAt|workFrom": "2003"
+   }
+  ]
+ }
+}

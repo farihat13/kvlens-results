@@ -1,0 +1,38 @@
+{
+ "query_sha": "ad58b82c66ab2c6f",
+ "params": {
+  "personId": "person_1129"
+ },
+ "data": {
+  "schema_sha256": "673074740eea54e4ba1fdc94eebf2087531b3007af7da660afffb3d1e8df0d1e",
+  "schema_path": "nebulagraph/schema/schema.gql",
+  "sf": "0.3",
+  "created": "2026-11-21T03:42:54Z",
+  "git_sha": "1d6662c2"
+ },
+ "fetched_at": "2026-11-20T23:59:58",
+ "raw": {
+  "keys": [
+   "firstName",
+   "lastName",
+   "birthday",
+   "locationIP",
+   "browserUsed",
+   "cityId",
+   "gender",
+   "creationDate"
+  ],
+  "rows": [
+   {
+    "firstName": "Carmen",
+    "lastName": "Lepland",
+    "birthday": 445910400000,
+    "locationIP": "195.20.151.175",
+    "browserUsed": "Internet Explorer",
+    "cityId": "place_519",
+    "gender": "female",
+    "creationDate": 1264660798781
+   }
+  ]
+ }
+}

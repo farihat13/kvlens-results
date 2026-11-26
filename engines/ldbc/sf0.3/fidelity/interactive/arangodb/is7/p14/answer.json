@@ -1,0 +1,88 @@
+{
+ "query_sha": "c060b3ffba4ba4fe",
+ "params": {
+  "messageId": 549756718979
+ },
+ "data": {
+  "schema_sha256": "b8e206f17e60692c830ba0c3c675fbc481a22f26011282ce523890eb09be8a74",
+  "schema_path": "arangodb/schema/ldbc_schema.json",
+  "sf": "0.3",
+  "created": "2026-11-21T03:01:29Z",
+  "git_sha": "60910999"
+ },
+ "fetched_at": "2026-11-20T23:59:59",
+ "raw": [
+  {
+   "commentId": 549756718995,
+   "commentContent": "About Nero, ecember 37 \u2013 9About Henry VIII of England, ccomplished kiAbout David Ho",
+   "commentCreationDate": 1308191468506,
+   "replyAuthorId": 4398046513245,
+   "replyAuthorFirstName": "Pavel",
+   "replyAuthorLastName": "Kurkov\u00e1",
+   "replyAuthorKnowsOriginalMessageAuthor": false
+  },
+  {
+   "commentId": 549756718980,
+   "commentContent": "LOL",
+   "commentCreationDate": 1308124986691,
+   "replyAuthorId": 1103,
+   "replyAuthorFirstName": "Mehmet",
+   "replyAuthorLastName": "Ayhan",
+   "replyAuthorKnowsOriginalMessageAuthor": true
+  },
+  {
+   "commentId": 549756718981,
+   "commentContent": "cool",
+   "commentCreationDate": 1308122702007,
+   "replyAuthorId": 17592186045382,
+   "replyAuthorFirstName": "Karl",
+   "replyAuthorLastName": "Kurkov\u00e1",
+   "replyAuthorKnowsOriginalMessageAuthor": true
+  },
+  {
+   "commentId": 549756718982,
+   "commentContent": "roflol",
+   "commentCreationDate": 1308122235999,
+   "replyAuthorId": 4398046513245,
+   "replyAuthorFirstName": "Pavel",
+   "replyAuthorLastName": "Kurkov\u00e1",
+   "replyAuthorKnowsOriginalMessageAuthor": false
+  },
+  {
+   "commentId": 549756718988,
+   "commentContent": "I see",
+   "commentCreationDate": 1308120788267,
+   "replyAuthorId": 3606,
+   "replyAuthorFirstName": "Andrew",
+   "replyAuthorLastName": "Kibona",
+   "replyAuthorKnowsOriginalMessageAuthor": false
+  },
+  {
+   "commentId": 549756718990,
+   "commentContent": "good",
+   "commentCreationDate": 1308120101658,
+   "replyAuthorId": 4398046513245,
+   "replyAuthorFirstName": "Pavel",
+   "replyAuthorLastName": "Kurkov\u00e1",
+   "replyAuthorKnowsOriginalMessageAuthor": false
+  },
+  {
+   "commentId": 549756718991,
+   "commentContent": "roflol",
+   "commentCreationDate": 1308119458449,
+   "replyAuthorId": 6597069767149,
+   "replyAuthorFirstName": "Bangguo",
+   "replyAuthorLastName": "Hu",
+   "replyAuthorKnowsOriginalMessageAuthor": false
+  },
+  {
+   "commentId": 549756718983,
+   "commentContent": "yes",
+   "commentCreationDate": 1308116042273,
+   "replyAuthorId": 2330,
+   "replyAuthorFirstName": "Zhong",
+   "replyAuthorLastName": "Wang",
+   "replyAuthorKnowsOriginalMessageAuthor": false
+  }
+ ]
+}

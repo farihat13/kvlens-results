@@ -1,0 +1,23 @@
+{
+ "query_sha": "8a4a590fc6308916",
+ "params": {
+  "messageId": "146216"
+ },
+ "data": {
+  "schema_sha256": "03713a1e1c7b722e73bed6b150e079e69e9579c2a58c52e06f9d4384fdd4b80d",
+  "schema_path": "dgraph/schema/ldbcTypes.schema",
+  "sf": "0.3",
+  "created": "2026-11-21T02:56:18Z",
+  "git_sha": "60910999"
+ },
+ "fetched_at": "2026-11-21T00:06:49",
+ "raw": {
+  "message": [
+   {
+    "id": 146216,
+    "content": "About Sigmund Freud, n to develop theories about thAbout Under Lock and Key, llboard 20",
+    "creationDate": "2010-02-21T23:08:31.76Z"
+   }
+  ]
+ }
+}

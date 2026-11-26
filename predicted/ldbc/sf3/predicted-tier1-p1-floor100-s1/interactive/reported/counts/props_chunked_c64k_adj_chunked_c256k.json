@@ -1,0 +1,130 @@
+{
+  "cell": "props_chunked_c64k_adj_chunked_c256k",
+  "sf": "",
+  "measured_as": "predicted",
+  "source": "predicted",
+  "complete": true,
+  "store": "meta-80a0d0634e4d",
+  "inputs": {
+    "stats": {
+      "path": "stats-tier1.json",
+      "sha256": "c89b3d21849179f1e1e4f1b4d901ea3468909f8532a889cc026896b4fb3761df"
+    },
+    "rules_off": [],
+    "requests": {
+      "count": 225,
+      "queries": [
+        "ic1",
+        "ic10",
+        "ic11",
+        "ic12",
+        "ic2",
+        "ic3",
+        "ic4",
+        "ic5",
+        "ic6",
+        "ic7",
+        "ic8",
+        "ic9",
+        "is1",
+        "is2",
+        "is3",
+        "is4",
+        "is5",
+        "is6",
+        "is7"
+      ],
+      "sha256": "57d5222e24d3e23e7e50d4f4cf06ab014fe43fe756a94336c615acd2f756c340"
+    }
+  },
+  "tally": {
+    "path": "meta-80a0d0634e4d.json",
+    "sha256": "971e9865f2bbe9a9f6d34fcd4edd1913f22c2388e92d7865255dad746d28fc38"
+  },
+  "spec": {
+    "adjacency": {
+      "group": "owner",
+      "owners": {
+        "pack": 262144
+      },
+      "split": "never"
+    },
+    "direction": "declared",
+    "index": {
+      "group": "item",
+      "owners": "one",
+      "scope": "type",
+      "split": "never",
+      "term": "exact"
+    },
+    "version": 1,
+    "vertex_props": {
+      "group": "owner",
+      "owners": {
+        "pack": 65536
+      },
+      "split": "never"
+    }
+  },
+  "schema": {
+    "path": "schema.json",
+    "hash": "6f05d59b2fd758cfc776f4841fdda2badf335889c2df8f93d10cc710fae532b8"
+  },
+  "runs": 225,
+  "steps": 1805,
+  "refused": [],
+  "wall_s": 0.3,
+  "binary": {
+    "allocator": {
+      "aggressive_decommit": 0,
+      "env": {},
+      "lib_sha256": "c3d7996e516f60360b9d6d591fea53e0b177df38a4bfa36296d713220741f42a",
+      "malloc_is_tcmalloc": true,
+      "name": "tcmalloc",
+      "release_rate": 0.0,
+      "version": "2.15-3build1"
+    },
+    "binary_dirty": false,
+    "binary_git_sha": "0d3168c9fc65270b1b1a6bd1c73202ce8ef790d0",
+    "block_cache_priority": {
+      "high_pri_pool_ratio": 0.5,
+      "index_filter_high_priority": true
+    },
+    "compiler": "GNU 13.3.0",
+    "flags": " -Wall -Wextra -Wno-unused-parameter -Wno-dangling-reference -O2 -g",
+    "host": {
+      "cpu": "AMD EPYC 9354P 32-Core Processor",
+      "kernel": "Linux 6.8.0-149-generic"
+    },
+    "ingest_index_filter_blocks": "partitioned",
+    "librocksdb_sha256": "5de397b9a75279a914a7fe663bddfc32f5db6b85aa17de3268ebaf654614dc68",
+    "rocksdb": "7.5.3",
+    "rocksdb_source": "7.5.3@540d5aae516265170564ec27b3e67a54a11b7045"
+  },
+  "workload": "interactive",
+  "tree": {
+    "git_sha": "33963a880da0b04bc80e78d962d0e6039d3b92fa",
+    "git_dirty": false
+  },
+  "plan_pipeline": 2,
+  "bodies": "all",
+  "inputs_key": "01dca5256d7060f3ce917d686c8267c1",
+  "bodies_left_out": {
+    "ic1": {
+      "index_eq+fetch_deferred": "measure-only",
+      "index_eq+fetch_inline": "measure-only"
+    },
+    "ic3": {
+      "ic3_exact_window(index_eq+index_eq+range_index)": "measure-only",
+      "index_eq+index_eq+range_index": "measure-only"
+    },
+    "ic5": {
+      "ic5": "measure-only"
+    },
+    "ic10": {
+      "filter_index+fetch_deferred": "measure-only",
+      "filter_index+fetch_inline": "measure-only",
+      "filter_probe+fetch_deferred": "measure-only"
+    }
+  }
+}

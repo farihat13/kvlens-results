@@ -1,0 +1,25 @@
+{
+ "query_sha": "98c18d834b54beb1",
+ "params": {
+  "personId": "2199023259220",
+  "countryName": "New_Zealand",
+  "workFromYear": "2014"
+ },
+ "data_created": "2026-11-21T02:56:18Z",
+ "measured_at": "2026-11-20T23:02:51",
+ "raw": {
+  "get_bytes": 953,
+  "get_count": 16,
+  "get_found_count": 16,
+  "get_latency_ns": 202600,
+  "next_bytes": 0,
+  "next_count": 0,
+  "next_latency_ns": 0,
+  "seek_bytes": 620668,
+  "seek_count": 3528,
+  "seek_latency_ns": 14757490,
+  "set_bytes": 0,
+  "set_count": 0,
+  "set_latency_ns": 0
+ }
+}

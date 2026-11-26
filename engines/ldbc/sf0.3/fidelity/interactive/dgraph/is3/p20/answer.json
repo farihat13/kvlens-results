@@ -1,0 +1,72 @@
+{
+ "query_sha": "00f75f489d160871",
+ "params": {
+  "personId": "13194139535032"
+ },
+ "data": {
+  "schema_sha256": "03713a1e1c7b722e73bed6b150e079e69e9579c2a58c52e06f9d4384fdd4b80d",
+  "schema_path": "dgraph/schema/ldbcTypes.schema",
+  "sf": "0.3",
+  "created": "2026-11-21T02:56:18Z",
+  "git_sha": "60910999"
+ },
+ "fetched_at": "2026-11-21T00:02:42",
+ "raw": {
+  "person": [
+   {
+    "knows": [
+     {
+      "friendId": 24189255812607,
+      "friendFirstName": "Takeshi",
+      "friendLastName": "Yamamoto",
+      "knows|creationDate": "2011-12-19T23:20:58.609+00:00"
+     },
+     {
+      "friendId": 17592186048261,
+      "friendFirstName": "Anna",
+      "friendLastName": "Kogan",
+      "knows|creationDate": "2011-06-29T21:28:55.095+00:00"
+     },
+     {
+      "friendId": 17592186045238,
+      "friendFirstName": "Mihai",
+      "friendLastName": "David",
+      "knows|creationDate": "2011-05-29T17:20:57.033+00:00"
+     },
+     {
+      "friendId": 24189255811566,
+      "friendFirstName": "The",
+      "friendLastName": "Kunda",
+      "knows|creationDate": "2011-12-28T04:27:15.869+00:00"
+     },
+     {
+      "friendId": 26388279068150,
+      "friendFirstName": "Vladimir",
+      "friendLastName": "Kofler",
+      "knows|creationDate": "2012-02-25T10:40:12.765+00:00"
+     }
+    ],
+    "~knows": [
+     {
+      "friendId": 1564,
+      "friendFirstName": "Emperor of Brazil",
+      "friendLastName": "Silva",
+      "~knows|creationDate": "2011-03-07T00:47:06.986+00:00"
+     },
+     {
+      "friendId": 13194139535025,
+      "friendFirstName": "Yang",
+      "friendLastName": "Zhang",
+      "~knows|creationDate": "2011-03-20T04:09:53.258+00:00"
+     },
+     {
+      "friendId": 4398046514487,
+      "friendFirstName": "Babar",
+      "friendLastName": "Malik",
+      "~knows|creationDate": "2011-02-25T01:25:45.971+00:00"
+     }
+    ]
+   }
+  ]
+ }
+}

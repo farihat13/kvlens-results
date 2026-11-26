@@ -1,0 +1,76 @@
+{
+ "query_sha": "aab56a2aedd27dfa",
+ "params": {
+  "personId": 8796093023655
+ },
+ "data": {
+  "schema_sha256": "b8e206f17e60692c830ba0c3c675fbc481a22f26011282ce523890eb09be8a74",
+  "schema_path": "arangodb/schema/ldbc_schema.json",
+  "sf": "0.1",
+  "created": "2026-11-21T03:27:46Z",
+  "git_sha": "92777160"
+ },
+ "fetched_at": "2026-11-21T01:08:19",
+ "raw": [
+  {
+   "friendId": 32985348834937,
+   "friendFirstName": "Juan",
+   "friendLastName": "Perez",
+   "friendshipCreationDate": 1346326284983
+  },
+  {
+   "friendId": 32985348833314,
+   "friendFirstName": "Roberto",
+   "friendLastName": "Diaz",
+   "friendshipCreationDate": 1345138540230
+  },
+  {
+   "friendId": 28587302322686,
+   "friendFirstName": "Alfredo",
+   "friendLastName": "Fernandez",
+   "friendshipCreationDate": 1334951692022
+  },
+  {
+   "friendId": 28587302322865,
+   "friendFirstName": "Michael",
+   "friendLastName": "Brown",
+   "friendshipCreationDate": 1334510220046
+  },
+  {
+   "friendId": 28587302322537,
+   "friendFirstName": "Anh",
+   "friendLastName": "Nguyen",
+   "friendshipCreationDate": 1333127690255
+  },
+  {
+   "friendId": 26388279067054,
+   "friendFirstName": "John",
+   "friendLastName": "Brown",
+   "friendshipCreationDate": 1328389916067
+  },
+  {
+   "friendId": 15393162790096,
+   "friendFirstName": "Tom",
+   "friendLastName": "Brown",
+   "friendshipCreationDate": 1300869861647
+  },
+  {
+   "friendId": 4398046512492,
+   "friendFirstName": "Tom",
+   "friendLastName": "Williams",
+   "friendshipCreationDate": 1287041890980
+  },
+  {
+   "friendId": 2199023256031,
+   "friendFirstName": "Rodrigo",
+   "friendLastName": "Balmaceda",
+   "friendshipCreationDate": 1285951546956
+  },
+  {
+   "friendId": 8796093023000,
+   "friendFirstName": "Peng",
+   "friendLastName": "Zhang",
+   "friendshipCreationDate": 1285006387612
+  }
+ ]
+}

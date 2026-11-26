@@ -1,0 +1,97 @@
+{
+ "query_sha": "c20c841713234a9d",
+ "params": {
+  "personId": 32985348834334,
+  "month": 5
+ },
+ "data": {
+  "schema_sha256": "b8e206f17e60692c830ba0c3c675fbc481a22f26011282ce523890eb09be8a74",
+  "schema_path": "arangodb/schema/ldbc_schema.json",
+  "sf": "0.3",
+  "created": "2026-11-21T03:01:29Z",
+  "git_sha": "60910999"
+ },
+ "fetched_at": "2026-11-20T23:54:52",
+ "raw": [
+  {
+   "personId": 28587302324631,
+   "personFirstName": "Edward",
+   "personLastName": "Adhia",
+   "commonInterestScore": 0,
+   "personGender": "male",
+   "personCityName": "Dodoma"
+  },
+  {
+   "personId": 30786325580021,
+   "personFirstName": "Fakhreddine",
+   "personLastName": "Aouadhi",
+   "commonInterestScore": 0,
+   "personGender": "female",
+   "personCityName": "Gabes"
+  },
+  {
+   "personId": 3781,
+   "personFirstName": "John",
+   "personLastName": "Harrison",
+   "commonInterestScore": -1,
+   "personGender": "male",
+   "personCityName": "Manchester"
+  },
+  {
+   "personId": 13194139535127,
+   "personFirstName": "Amit",
+   "personLastName": "Sharma",
+   "commonInterestScore": -1,
+   "personGender": "male",
+   "personCityName": "Vadodara"
+  },
+  {
+   "personId": 2199023256520,
+   "personFirstName": "Lei",
+   "personLastName": "Liu",
+   "commonInterestScore": -2,
+   "personGender": "male",
+   "personCityName": "Shenzhen"
+  },
+  {
+   "personId": 15393162788911,
+   "personFirstName": "Tissa",
+   "personLastName": "Perera",
+   "commonInterestScore": -2,
+   "personGender": "male",
+   "personCityName": "Nugegoda"
+  },
+  {
+   "personId": 28587302325108,
+   "personFirstName": "Lei",
+   "personLastName": "Wang",
+   "commonInterestScore": -2,
+   "personGender": "male",
+   "personCityName": "Qingdao"
+  },
+  {
+   "personId": 28587302323701,
+   "personFirstName": "Francis",
+   "personLastName": "Garcia",
+   "commonInterestScore": -3,
+   "personGender": "male",
+   "personCityName": "Iloilo_City"
+  },
+  {
+   "personId": 28587302324583,
+   "personFirstName": "Aleksandr",
+   "personLastName": "Akhmadiyeva",
+   "commonInterestScore": -3,
+   "personGender": "male",
+   "personCityName": "Almaty"
+  },
+  {
+   "personId": 1690,
+   "personFirstName": "Yitzhak",
+   "personLastName": "Peretz",
+   "commonInterestScore": -4,
+   "personGender": "female",
+   "personCityName": "Ifrane"
+  }
+ ]
+}

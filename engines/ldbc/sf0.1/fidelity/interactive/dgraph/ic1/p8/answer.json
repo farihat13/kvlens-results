@@ -1,0 +1,75 @@
+{
+ "query_sha": "cc60061064f78218",
+ "params": {
+  "personId": "19791209300317",
+  "firstName": "Geremi Sorele Njitap"
+ },
+ "data": {
+  "schema_sha256": "03713a1e1c7b722e73bed6b150e079e69e9579c2a58c52e06f9d4384fdd4b80d",
+  "schema_path": "dgraph/schema/ldbcTypes.schema",
+  "sf": "0.1",
+  "created": "2026-11-21T03:25:44Z",
+  "git_sha": "92777160"
+ },
+ "fetched_at": "2026-11-21T01:06:49",
+ "raw": {
+  "_l1_from_p": [],
+  "_l2_expand": [],
+  "_l3_expand": [],
+  "friends1": [],
+  "friends2": [
+   {
+    "companyCountryName": "Cameroon",
+    "companyName": "National_Airways_Cameroon",
+    "friendBirthday": "1983-06-06T00:00:00Z",
+    "friendBrowserUsed": "Firefox",
+    "friendCityName": "Garoua",
+    "friendCreationDate": "2010-11-27T21:57:51.212Z",
+    "friendDistance": 2,
+    "friendEmails": [
+     "Geremi.Sorele.Njitap10995116278142@gmail.com",
+     "Geremi.Sorele.Njitap10995116278142@gmx.com",
+     "Geremi.Sorele.Njitap10995116278142@yahoo.com"
+    ],
+    "friendFirstName": "Geremi Sorele Njitap",
+    "friendGender": "male",
+    "friendId": 10995116278142,
+    "friendLanguages": [
+     "en",
+     "fr"
+    ],
+    "friendLastName": "Anderson",
+    "friendLocationIp": "41.205.68.74",
+    "workAt|workFrom": "2002"
+   }
+  ],
+  "friends3": [
+   {
+    "companyCountryName": "Cameroon",
+    "companyName": "Section_Liaison_Air_Yaound\u00e9",
+    "friendBirthday": "1988-01-03T00:00:00Z",
+    "friendBrowserUsed": "Chrome",
+    "friendCityName": "Baffoussam",
+    "friendCreationDate": "2010-12-14T13:27:43.747Z",
+    "friendDistance": 3,
+    "friendEmails": [
+     "Geremi.Sorele.Njitap10995116279125@gmail.com",
+     "Geremi.Sorele.Njitap10995116279125@yahoo.com"
+    ],
+    "friendFirstName": "Geremi Sorele Njitap",
+    "friendGender": "male",
+    "friendId": 10995116279125,
+    "friendLanguages": [
+     "en",
+     "fr"
+    ],
+    "friendLastName": "Ako",
+    "friendLocationIp": "41.190.225.153",
+    "studyAt|classYear": "2009",
+    "uniCityName": "Buea",
+    "uniName": "University_of_Buea",
+    "workAt|workFrom": "2010"
+   }
+  ]
+ }
+}

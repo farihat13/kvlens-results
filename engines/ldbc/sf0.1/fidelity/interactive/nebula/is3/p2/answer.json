@@ -1,0 +1,102 @@
+{
+ "query_sha": "6ff3aa62b8626f5b",
+ "params": {
+  "personId": "person_24189255811707"
+ },
+ "data": {
+  "schema_sha256": "673074740eea54e4ba1fdc94eebf2087531b3007af7da660afffb3d1e8df0d1e",
+  "schema_path": "nebulagraph/schema/schema.gql",
+  "sf": "0.1",
+  "created": "2026-11-21T03:27:06Z",
+  "git_sha": "92777160"
+ },
+ "fetched_at": "2026-11-21T01:06:01",
+ "raw": {
+  "keys": [
+   "friendId",
+   "friendFirstName",
+   "friendLastName",
+   "friendshipCreationDate",
+   "friendIdInt"
+  ],
+  "rows": [
+   {
+    "friendId": "person_24189255811663",
+    "friendFirstName": "Chris",
+    "friendLastName": "Hall",
+    "friendshipCreationDate": 1323724578034,
+    "friendIdInt": 24189255811663
+   },
+   {
+    "friendId": "person_19791209300851",
+    "friendFirstName": "Yang",
+    "friendLastName": "Zhu",
+    "friendshipCreationDate": 1323271041815,
+    "friendIdInt": 19791209300851
+   },
+   {
+    "friendId": "person_19791209300852",
+    "friendFirstName": "Ge",
+    "friendLastName": "Wang",
+    "friendshipCreationDate": 1322946922661,
+    "friendIdInt": 19791209300852
+   },
+   {
+    "friendId": "person_13194139534548",
+    "friendFirstName": "Bing",
+    "friendLastName": "Zheng",
+    "friendshipCreationDate": 1322376541400,
+    "friendIdInt": 13194139534548
+   },
+   {
+    "friendId": "person_21990232557079",
+    "friendFirstName": "Jie",
+    "friendLastName": "Yang",
+    "friendshipCreationDate": 1322234202470,
+    "friendIdInt": 21990232557079
+   },
+   {
+    "friendId": "person_21990232555889",
+    "friendFirstName": "Yang",
+    "friendLastName": "Lei",
+    "friendshipCreationDate": 1322096458973,
+    "friendIdInt": 21990232555889
+   },
+   {
+    "friendId": "person_17592186045813",
+    "friendFirstName": "Lin",
+    "friendLastName": "Zhang",
+    "friendshipCreationDate": 1321687138599,
+    "friendIdInt": 17592186045813
+   },
+   {
+    "friendId": "person_19791209301522",
+    "friendFirstName": "Wei",
+    "friendLastName": "Wang",
+    "friendshipCreationDate": 1321676903855,
+    "friendIdInt": 19791209301522
+   },
+   {
+    "friendId": "person_10995116278915",
+    "friendFirstName": "Benedict",
+    "friendLastName": "Zhang",
+    "friendshipCreationDate": 1321600407178,
+    "friendIdInt": 10995116278915
+   },
+   {
+    "friendId": "person_10995116278570",
+    "friendFirstName": "Wei",
+    "friendLastName": "Liu",
+    "friendshipCreationDate": 1321435968741,
+    "friendIdInt": 10995116278570
+   },
+   {
+    "friendId": "person_17592186044425",
+    "friendFirstName": "Alim",
+    "friendLastName": "Guliyev",
+    "friendshipCreationDate": 1321111742695,
+    "friendIdInt": 17592186044425
+   }
+  ]
+ }
+}

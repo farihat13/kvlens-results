@@ -1,0 +1,63 @@
+{
+ "query_sha": "ad17deb8111088bd",
+ "params": {
+  "personId": "person_2199023259220",
+  "tagName": "Billie_Holiday"
+ },
+ "data": {
+  "schema_sha256": "673074740eea54e4ba1fdc94eebf2087531b3007af7da660afffb3d1e8df0d1e",
+  "schema_path": "nebulagraph/schema/schema.gql",
+  "sf": "0.3",
+  "created": "2026-11-21T03:42:54Z",
+  "git_sha": "1d6662c2"
+ },
+ "fetched_at": "2026-11-20T23:52:37",
+ "raw": {
+  "keys": [
+   "tagName",
+   "postCount"
+  ],
+  "rows": [
+   {
+    "tagName": "Ivan_Ljubi\u010di\u0107",
+    "postCount": 3
+   },
+   {
+    "tagName": "Abbas_I_of_Persia",
+    "postCount": 2
+   },
+   {
+    "tagName": "Ho_Chi_Minh",
+    "postCount": 2
+   },
+   {
+    "tagName": "1000_Years_of_Popular_Music",
+    "postCount": 1
+   },
+   {
+    "tagName": "A._R._Rahman",
+    "postCount": 1
+   },
+   {
+    "tagName": "A_Thousand_Leaves",
+    "postCount": 1
+   },
+   {
+    "tagName": "Aristophanes",
+    "postCount": 1
+   },
+   {
+    "tagName": "Arnold_Schoenberg",
+    "postCount": 1
+   },
+   {
+    "tagName": "Augustine_of_Hippo",
+    "postCount": 1
+   },
+   {
+    "tagName": "Aung_San_Suu_Kyi",
+    "postCount": 1
+   }
+  ]
+ }
+}

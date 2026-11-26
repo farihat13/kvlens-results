@@ -1,0 +1,135 @@
+{
+ "query_sha": "d7c0e0884773459a",
+ "params": {
+  "personId": "person_30786325579745",
+  "firstName": "Georgios"
+ },
+ "data": {
+  "schema_sha256": "673074740eea54e4ba1fdc94eebf2087531b3007af7da660afffb3d1e8df0d1e",
+  "schema_path": "nebulagraph/schema/schema.gql",
+  "sf": "0.3",
+  "created": "2026-11-21T03:42:54Z",
+  "git_sha": "1d6662c2"
+ },
+ "fetched_at": "2026-11-21T00:06:51",
+ "raw": {
+  "keys": [
+   "friendId",
+   "friendLastName",
+   "distanceFromPerson",
+   "friendBirthday",
+   "friendCreationDate",
+   "friendGender",
+   "friendBrowserUsed",
+   "friendLocationIp",
+   "friendEmails",
+   "friendLanguages",
+   "friendCityName",
+   "friendUniversities",
+   "friendCompanies",
+   "friendIdInt"
+  ],
+  "rows": [
+   {
+    "friendId": "person_2199023256086",
+    "friendLastName": "Antoniou",
+    "distanceFromPerson": 2,
+    "friendBirthday": 367545600000,
+    "friendCreationDate": 1272698122253,
+    "friendGender": "female",
+    "friendBrowserUsed": "Firefox",
+    "friendLocationIp": "81.186.197.62",
+    "friendEmails": [
+     "Georgios2199023256086@gmail.com",
+     "Georgios2199023256086@graphic-designer.com",
+     "Georgios2199023256086@yahoo.com"
+    ],
+    "friendLanguages": [
+     "en",
+     "fr"
+    ],
+    "friendCityName": "Athens",
+    "friendUniversities": [
+     [
+      "National_and_Kapodistrian_University_of_Athens",
+      2001,
+      "Athens"
+     ]
+    ],
+    "friendCompanies": [
+     [
+      "Viking_Hellas",
+      2002,
+      "Greece"
+     ]
+    ],
+    "friendIdInt": 2199023256086
+   },
+   {
+    "friendId": "person_13194139533523",
+    "friendLastName": "Angello",
+    "distanceFromPerson": 3,
+    "friendBirthday": 588816000000,
+    "friendCreationDate": 1295283202918,
+    "friendGender": "female",
+    "friendBrowserUsed": "Chrome",
+    "friendLocationIp": "91.198.108.36",
+    "friendEmails": [
+     "Georgios13194139533523@gmail.com"
+    ],
+    "friendLanguages": [
+     "en"
+    ],
+    "friendCityName": "Patras",
+    "friendUniversities": [
+     [
+      "MBS_College",
+      2007,
+      "Crete"
+     ]
+    ],
+    "friendCompanies": [
+     [
+      "Air_Greece",
+      2007,
+      "Greece"
+     ],
+     [
+      "Regional_1",
+      2009,
+      "Canada"
+     ]
+    ],
+    "friendIdInt": 13194139533523
+   },
+   {
+    "friendId": "person_24189255813658",
+    "friendLastName": "Fampas",
+    "distanceFromPerson": 3,
+    "friendBirthday": 415756800000,
+    "friendCreationDate": 1325711494868,
+    "friendGender": "female",
+    "friendBrowserUsed": "Internet Explorer",
+    "friendLocationIp": "46.177.109.152",
+    "friendEmails": [
+     "Georgios24189255813658@gmail.com",
+     "Georgios24189255813658@gmx.com",
+     "Georgios24189255813658@yahoo.com"
+    ],
+    "friendLanguages": [
+     "en"
+    ],
+    "friendCityName": "Larissa",
+    "friendUniversities": [
+     [
+      "Technological_Educational_Institute_of_Piraeus",
+      2002,
+      "Piraeus"
+     ]
+    ],
+    "friendCompanies": [],
+    "friendIdInt": 24189255813658
+   }
+  ]
+ }
+}

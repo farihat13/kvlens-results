@@ -1,0 +1,84 @@
+{
+ "query_sha": "00f75f489d160871",
+ "params": {
+  "personId": "8796093023655"
+ },
+ "data": {
+  "schema_sha256": "03713a1e1c7b722e73bed6b150e079e69e9579c2a58c52e06f9d4384fdd4b80d",
+  "schema_path": "dgraph/schema/ldbcTypes.schema",
+  "sf": "0.1",
+  "created": "2026-11-21T03:25:44Z",
+  "git_sha": "92777160"
+ },
+ "fetched_at": "2026-11-21T01:08:19",
+ "raw": {
+  "person": [
+   {
+    "knows": [
+     {
+      "friendId": 26388279067054,
+      "friendFirstName": "John",
+      "friendLastName": "Brown",
+      "knows|creationDate": "2012-02-04T21:11:56.067+00:00"
+     },
+     {
+      "friendId": 32985348833314,
+      "friendFirstName": "Roberto",
+      "friendLastName": "Diaz",
+      "knows|creationDate": "2012-08-16T17:35:40.230+00:00"
+     },
+     {
+      "friendId": 28587302322537,
+      "friendFirstName": "Anh",
+      "friendLastName": "Nguyen",
+      "knows|creationDate": "2012-03-30T17:14:50.255+00:00"
+     },
+     {
+      "friendId": 28587302322865,
+      "friendFirstName": "Michael",
+      "friendLastName": "Brown",
+      "knows|creationDate": "2012-04-15T17:17:00.046+00:00"
+     },
+     {
+      "friendId": 15393162790096,
+      "friendFirstName": "Tom",
+      "friendLastName": "Brown",
+      "knows|creationDate": "2011-03-23T08:44:21.647+00:00"
+     },
+     {
+      "friendId": 32985348834937,
+      "friendFirstName": "Juan",
+      "friendLastName": "Perez",
+      "knows|creationDate": "2012-08-30T11:31:24.983+00:00"
+     },
+     {
+      "friendId": 28587302322686,
+      "friendFirstName": "Alfredo",
+      "friendLastName": "Fernandez",
+      "knows|creationDate": "2012-04-20T19:54:52.022+00:00"
+     }
+    ],
+    "~knows": [
+     {
+      "friendId": 8796093023000,
+      "friendFirstName": "Peng",
+      "friendLastName": "Zhang",
+      "~knows|creationDate": "2010-09-20T18:13:07.612+00:00"
+     },
+     {
+      "friendId": 2199023256031,
+      "friendFirstName": "Rodrigo",
+      "friendLastName": "Balmaceda",
+      "~knows|creationDate": "2010-10-01T16:45:46.956+00:00"
+     },
+     {
+      "friendId": 4398046512492,
+      "friendFirstName": "Tom",
+      "friendLastName": "Williams",
+      "~knows|creationDate": "2010-10-14T07:38:10.980+00:00"
+     }
+    ]
+   }
+  ]
+ }
+}

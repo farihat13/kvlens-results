@@ -1,0 +1,242 @@
+{
+ "query_sha": "d8dd21d2a7dc0b5c",
+ "params": {
+  "personId": 30786325579380,
+  "firstName": "Albaye Papa"
+ },
+ "data_created": "2026-11-23T19:08:22Z",
+ "measured_at": "2026-11-23T13:11:11",
+ "raw": {
+  "get_count": 128803,
+  "get_miss_count": 0,
+  "get_key_bytes": 644123,
+  "get_value_bytes": 21406310,
+  "get_bytes": 22050433,
+  "get_latency_ns": 18688830,
+  "seek_count": 68303,
+  "seek_miss_count": 0,
+  "seek_key_bytes": 433827,
+  "seek_value_bytes": 1198863,
+  "seek_bytes": 1632690,
+  "seek_latency_ns": 21141097,
+  "next_count": 25738,
+  "next_miss_count": 0,
+  "next_key_bytes": 618340,
+  "next_value_bytes": 13622241,
+  "next_bytes": 14240581,
+  "next_latency_ns": 993738,
+  "prev_count": 0,
+  "prev_miss_count": 0,
+  "prev_key_bytes": 0,
+  "prev_value_bytes": 0,
+  "prev_bytes": 0,
+  "prev_latency_ns": 0,
+  "get_current_count": 0,
+  "get_current_miss_count": 0,
+  "get_current_key_bytes": 0,
+  "get_current_value_bytes": 0,
+  "get_current_bytes": 0,
+  "get_current_latency_ns": 0,
+  "other_count": 0,
+  "other_miss_count": 0,
+  "other_key_bytes": 0,
+  "other_value_bytes": 0,
+  "other_bytes": 0,
+  "other_latency_ns": 0,
+  "put_count": 0,
+  "put_miss_count": 0,
+  "put_key_bytes": 0,
+  "put_value_bytes": 0,
+  "put_bytes": 0,
+  "put_latency_ns": 0,
+  "del_count": 0,
+  "del_miss_count": 0,
+  "del_key_bytes": 0,
+  "del_value_bytes": 0,
+  "del_bytes": 0,
+  "del_latency_ns": 0,
+  "commit_count": 0,
+  "commit_latency_ns": 0,
+  "by_call": {
+   "mdb_get": {
+    "count": 128803,
+    "miss_count": 0,
+    "key_bytes": 644123,
+    "value_bytes": 21406310,
+    "latency_ns": 18688830
+   },
+   "cursor_set_key": {
+    "count": 0,
+    "miss_count": 0,
+    "key_bytes": 0,
+    "value_bytes": 0,
+    "latency_ns": 0
+   },
+   "cursor_set_range": {
+    "count": 68303,
+    "miss_count": 0,
+    "key_bytes": 433827,
+    "value_bytes": 1198863,
+    "latency_ns": 21141097
+   },
+   "cursor_first": {
+    "count": 0,
+    "miss_count": 0,
+    "key_bytes": 0,
+    "value_bytes": 0,
+    "latency_ns": 0
+   },
+   "cursor_last": {
+    "count": 0,
+    "miss_count": 0,
+    "key_bytes": 0,
+    "value_bytes": 0,
+    "latency_ns": 0
+   },
+   "cursor_next": {
+    "count": 25738,
+    "miss_count": 0,
+    "key_bytes": 618340,
+    "value_bytes": 13622241,
+    "latency_ns": 993738
+   },
+   "cursor_prev": {
+    "count": 0,
+    "miss_count": 0,
+    "key_bytes": 0,
+    "value_bytes": 0,
+    "latency_ns": 0
+   },
+   "cursor_get_current": {
+    "count": 0,
+    "miss_count": 0,
+    "key_bytes": 0,
+    "value_bytes": 0,
+    "latency_ns": 0
+   },
+   "cursor_other": {
+    "count": 0,
+    "miss_count": 0,
+    "key_bytes": 0,
+    "value_bytes": 0,
+    "latency_ns": 0
+   },
+   "mdb_put": {
+    "count": 0,
+    "miss_count": 0,
+    "key_bytes": 0,
+    "value_bytes": 0,
+    "latency_ns": 0
+   },
+   "cursor_put": {
+    "count": 0,
+    "miss_count": 0,
+    "key_bytes": 0,
+    "value_bytes": 0,
+    "latency_ns": 0
+   },
+   "mdb_del": {
+    "count": 0,
+    "miss_count": 0,
+    "key_bytes": 0,
+    "value_bytes": 0,
+    "latency_ns": 0
+   },
+   "cursor_del": {
+    "count": 0,
+    "miss_count": 0,
+    "key_bytes": 0,
+    "value_bytes": 0,
+    "latency_ns": 0
+   }
+  },
+  "by_table": {
+   "3203B31DFBF1664B5C7E1F582BC2EA18:_vertex_property_Person": {
+    "mdb_get": {
+     "count": 128749,
+     "miss_count": 0,
+     "key_bytes": 643745,
+     "value_bytes": 21402259,
+     "latency_ns": 18666854
+    }
+   },
+   "3203B31DFBF1664B5C7E1F582BC2EA18:_vertex_property_Organisation": {
+    "mdb_get": {
+     "count": 24,
+     "miss_count": 0,
+     "key_bytes": 120,
+     "value_bytes": 2550,
+     "latency_ns": 7618
+    }
+   },
+   "3203B31DFBF1664B5C7E1F582BC2EA18:_vertex_property_Place": {
+    "mdb_get": {
+     "count": 17,
+     "miss_count": 0,
+     "key_bytes": 85,
+     "value_bytes": 1265,
+     "latency_ns": 4383
+    }
+   },
+   "3203B31DFBF1664B5C7E1F582BC2EA18:_edge_property_STUDY_AT": {
+    "mdb_get": {
+     "count": 5,
+     "miss_count": 0,
+     "key_bytes": 70,
+     "value_bytes": 60,
+     "latency_ns": 3684
+    }
+   },
+   "3203B31DFBF1664B5C7E1F582BC2EA18:_edge_property_WORK_AT": {
+    "mdb_get": {
+     "count": 7,
+     "miss_count": 0,
+     "key_bytes": 98,
+     "value_bytes": 84,
+     "latency_ns": 5299
+    }
+   },
+   "3203B31DFBF1664B5C7E1F582BC2EA18:_graph_": {
+    "cursor_set_range": {
+     "count": 68302,
+     "miss_count": 0,
+     "key_bytes": 433819,
+     "value_bytes": 1198847,
+     "latency_ns": 21140344
+    },
+    "cursor_next": {
+     "count": 25737,
+     "miss_count": 0,
+     "key_bytes": 618332,
+     "value_bytes": 13622225,
+     "latency_ns": 993527
+    }
+   },
+   "3203B31DFBF1664B5C7E1F582BC2EA18:Person_@lgraph@_id_@lgraph@_vertex_index": {
+    "cursor_set_range": {
+     "count": 1,
+     "miss_count": 0,
+     "key_bytes": 8,
+     "value_bytes": 16,
+     "latency_ns": 753
+    },
+    "cursor_next": {
+     "count": 1,
+     "miss_count": 0,
+     "key_bytes": 8,
+     "value_bytes": 16,
+     "latency_ns": 211
+    }
+   },
+   ".meta:_user_table_": {
+    "mdb_get": {
+     "count": 1,
+     "miss_count": 0,
+     "key_bytes": 5,
+     "value_bytes": 92,
+     "latency_ns": 992
+    }
+   }
+  }
+ }
+}

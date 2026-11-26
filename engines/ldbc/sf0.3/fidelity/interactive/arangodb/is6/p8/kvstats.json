@@ -1,0 +1,31 @@
+{
+ "query_sha": "747d3ef5f99ad699",
+ "params": {
+  "messageId": 5445
+ },
+ "data_created": "2026-11-21T03:01:29Z",
+ "measured_at": "2026-11-20T23:06:00",
+ "raw": {
+  "get_count": 13,
+  "get_found_count": 12,
+  "get_time_ns": 57228,
+  "get_bytes": 1117,
+  "seek_count": 5,
+  "seek_time_ns": 405220,
+  "seek_bytes": 113,
+  "next_count": 3,
+  "next_time_ns": 1611,
+  "next_bytes": 0,
+  "prev_count": 0,
+  "prev_time_ns": 0,
+  "prev_bytes": 0,
+  "put_count": 0,
+  "put_time_ns": 0,
+  "put_bytes": 0,
+  "delete_count": 0,
+  "delete_time_ns": 0,
+  "delete_bytes": 0,
+  "commit_count": 0,
+  "commit_time_ns": 0
+ }
+}

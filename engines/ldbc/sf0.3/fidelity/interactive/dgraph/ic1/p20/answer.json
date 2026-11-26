@@ -1,0 +1,129 @@
+{
+ "query_sha": "cc60061064f78218",
+ "params": {
+  "personId": "13194139535032",
+  "firstName": "Daniil"
+ },
+ "data": {
+  "schema_sha256": "03713a1e1c7b722e73bed6b150e079e69e9579c2a58c52e06f9d4384fdd4b80d",
+  "schema_path": "dgraph/schema/ldbcTypes.schema",
+  "sf": "0.3",
+  "created": "2026-11-21T02:56:18Z",
+  "git_sha": "60910999"
+ },
+ "fetched_at": "2026-11-21T00:01:19",
+ "raw": {
+  "_l1_from_p": [],
+  "_l2_expand": [],
+  "_l3_expand": [],
+  "friends1": [],
+  "friends2": [],
+  "friends3": [
+   {
+    "companyCountryName": "Russia",
+    "companyName": "Aviacon_Zitotrans",
+    "friendBirthday": "1986-07-03T00:00:00Z",
+    "friendBrowserUsed": "Chrome",
+    "friendCityName": "Zaoksky",
+    "friendCreationDate": "2011-06-29T07:51:03.82Z",
+    "friendDistance": 3,
+    "friendEmails": [
+     "Daniil17592186047036@zoho.com",
+     "Daniil17592186047036@hotmail.com",
+     "Daniil17592186047036@gmail.com"
+    ],
+    "friendFirstName": "Daniil",
+    "friendGender": "male",
+    "friendId": 17592186047036,
+    "friendLanguages": [
+     "en",
+     "ru"
+    ],
+    "friendLastName": "Ivanov",
+    "friendLocationIp": "31.8.228.66",
+    "studyAt|classYear": "2006",
+    "uniCityName": "Volgograd",
+    "uniName": "Volgograd_State_University",
+    "workAt|workFrom": "2007"
+   },
+   {
+    "companyCountryName": "Russia",
+    "companyName": "UTair_Aviation",
+    "friendBirthday": "1986-07-03T00:00:00Z",
+    "friendBrowserUsed": "Chrome",
+    "friendCityName": "Zaoksky",
+    "friendCreationDate": "2011-06-29T07:51:03.82Z",
+    "friendDistance": 3,
+    "friendEmails": [
+     "Daniil17592186047036@zoho.com",
+     "Daniil17592186047036@hotmail.com",
+     "Daniil17592186047036@gmail.com"
+    ],
+    "friendFirstName": "Daniil",
+    "friendGender": "male",
+    "friendId": 17592186047036,
+    "friendLanguages": [
+     "en",
+     "ru"
+    ],
+    "friendLastName": "Ivanov",
+    "friendLocationIp": "31.8.228.66",
+    "studyAt|classYear": "2006",
+    "uniCityName": "Volgograd",
+    "uniName": "Volgograd_State_University",
+    "workAt|workFrom": "2007"
+   },
+   {
+    "companyCountryName": "Russia",
+    "companyName": "Kuban_Airlines",
+    "friendBirthday": "1986-07-03T00:00:00Z",
+    "friendBrowserUsed": "Chrome",
+    "friendCityName": "Zaoksky",
+    "friendCreationDate": "2011-06-29T07:51:03.82Z",
+    "friendDistance": 3,
+    "friendEmails": [
+     "Daniil17592186047036@zoho.com",
+     "Daniil17592186047036@hotmail.com",
+     "Daniil17592186047036@gmail.com"
+    ],
+    "friendFirstName": "Daniil",
+    "friendGender": "male",
+    "friendId": 17592186047036,
+    "friendLanguages": [
+     "en",
+     "ru"
+    ],
+    "friendLastName": "Ivanov",
+    "friendLocationIp": "31.8.228.66",
+    "studyAt|classYear": "2006",
+    "uniCityName": "Volgograd",
+    "uniName": "Volgograd_State_University",
+    "workAt|workFrom": "2006"
+   },
+   {
+    "friendBirthday": "1987-10-24T00:00:00Z",
+    "friendBrowserUsed": "Safari",
+    "friendCityName": "Ufa",
+    "friendCreationDate": "2010-01-16T17:55:38.998Z",
+    "friendDistance": 3,
+    "friendEmails": [
+     "Daniil2292@gmx.com",
+     "Daniil2292@hotmail.com",
+     "Daniil2292@gmail.com"
+    ],
+    "friendFirstName": "Daniil",
+    "friendGender": "male",
+    "friendId": 2292,
+    "friendLanguages": [
+     "en",
+     "ru"
+    ],
+    "friendLastName": "Popov",
+    "friendLocationIp": "31.7.233.110",
+    "studyAt|classYear": "2008",
+    "uniCityName": "Yekaterinburg",
+    "uniName": "Ural_State_Mining_University"
+   }
+  ]
+ }
+}

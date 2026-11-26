@@ -1,0 +1,118 @@
+{
+ "query_sha": "e8d54b8612751a91",
+ "params": {
+  "personId": "person_15393162789696",
+  "month": 7
+ },
+ "data": {
+  "schema_sha256": "673074740eea54e4ba1fdc94eebf2087531b3007af7da660afffb3d1e8df0d1e",
+  "schema_path": "nebulagraph/schema/schema.gql",
+  "sf": "0.1",
+  "created": "2026-11-21T03:27:06Z",
+  "git_sha": "92777160"
+ },
+ "fetched_at": "2026-11-21T01:08:21",
+ "raw": {
+  "keys": [
+   "personId",
+   "personFirstName",
+   "personLastName",
+   "commonInterestScore",
+   "personGender",
+   "personCityName",
+   "personIdInt"
+  ],
+  "rows": [
+   {
+    "personId": "person_32985348834823",
+    "personFirstName": "Roberto",
+    "personLastName": "Amen\u00e1bar",
+    "commonInterestScore": 0,
+    "personGender": "male",
+    "personCityName": "Osorno",
+    "personIdInt": 32985348834823
+   },
+   {
+    "personId": "person_19791209301112",
+    "personFirstName": "Jose",
+    "personLastName": "Gonzalez",
+    "commonInterestScore": -1,
+    "personGender": "male",
+    "personCityName": "Tlalpan",
+    "personIdInt": 19791209301112
+   },
+   {
+    "personId": "person_19791209301505",
+    "personFirstName": "Henry",
+    "personLastName": "Smith",
+    "commonInterestScore": -2,
+    "personGender": "male",
+    "personCityName": "Coventry",
+    "personIdInt": 19791209301505
+   },
+   {
+    "personId": "person_28587302322854",
+    "personFirstName": "Boy",
+    "personLastName": "Gonzales",
+    "commonInterestScore": -2,
+    "personGender": "male",
+    "personCityName": "Cebu_City",
+    "personIdInt": 28587302322854
+   },
+   {
+    "personId": "person_15393162790168",
+    "personFirstName": "Moses",
+    "personLastName": "Znaimer",
+    "commonInterestScore": -3,
+    "personGender": "male",
+    "personCityName": "Dushanbe",
+    "personIdInt": 15393162790168
+   },
+   {
+    "personId": "person_24189255811227",
+    "personFirstName": "Bacary",
+    "personLastName": "Diop",
+    "commonInterestScore": -4,
+    "personGender": "male",
+    "personCityName": "Diourbel",
+    "personIdInt": 24189255811227
+   },
+   {
+    "personId": "person_13194139533391",
+    "personFirstName": "Jose",
+    "personLastName": "Pereira",
+    "commonInterestScore": -5,
+    "personGender": "male",
+    "personCityName": "Coimbra",
+    "personIdInt": 13194139533391
+   },
+   {
+    "personId": "person_17592186045405",
+    "personFirstName": "Wei",
+    "personLastName": "Li",
+    "commonInterestScore": -5,
+    "personGender": "female",
+    "personCityName": "Luoyang",
+    "personIdInt": 17592186045405
+   },
+   {
+    "personId": "person_26388279067734",
+    "personFirstName": "Zheng",
+    "personLastName": "Li",
+    "commonInterestScore": -7,
+    "personGender": "female",
+    "personCityName": "Ankang",
+    "personIdInt": 26388279067734
+   },
+   {
+    "personId": "person_26388279068275",
+    "personFirstName": "Jean",
+    "personLastName": "Berty",
+    "commonInterestScore": -11,
+    "personGender": "male",
+    "personCityName": "Buea",
+    "personIdInt": 26388279068275
+   }
+  ]
+ }
+}

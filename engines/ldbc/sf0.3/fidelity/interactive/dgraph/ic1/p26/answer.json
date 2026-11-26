@@ -1,0 +1,246 @@
+{
+ "query_sha": "cc60061064f78218",
+ "params": {
+  "personId": "8796093022749",
+  "firstName": "Ahmad Rafiq"
+ },
+ "data": {
+  "schema_sha256": "03713a1e1c7b722e73bed6b150e079e69e9579c2a58c52e06f9d4384fdd4b80d",
+  "schema_path": "dgraph/schema/ldbcTypes.schema",
+  "sf": "0.3",
+  "created": "2026-11-21T02:56:18Z",
+  "git_sha": "60910999"
+ },
+ "fetched_at": "2026-11-21T00:04:12",
+ "raw": {
+  "_l1_from_p": [],
+  "_l2_expand": [],
+  "_l3_expand": [],
+  "friends1": [],
+  "friends2": [
+   {
+    "friendBirthday": "1986-10-28T00:00:00Z",
+    "friendBrowserUsed": "Firefox",
+    "friendCityName": "Jimbaran",
+    "friendCreationDate": "2011-05-12T04:46:14.04Z",
+    "friendDistance": 2,
+    "friendEmails": [
+     "Ahmad.Rafiq17592186047098@gmail.com",
+     "Ahmad.Rafiq17592186047098@whoever.com",
+     "Ahmad.Rafiq17592186047098@gmx.com"
+    ],
+    "friendFirstName": "Ahmad Rafiq",
+    "friendGender": "male",
+    "friendId": 17592186047098,
+    "friendLanguages": [
+     "en",
+     "jv"
+    ],
+    "friendLastName": "Anwar",
+    "friendLocationIp": "27.121.83.35",
+    "studyAt|classYear": "2006",
+    "uniCityName": "Manado",
+    "uniName": "Mount_Klabat_College"
+   },
+   {
+    "companyCountryName": "Indonesia",
+    "companyName": "Pelita_Air_Service",
+    "friendBirthday": "1989-01-10T00:00:00Z",
+    "friendBrowserUsed": "Chrome",
+    "friendCityName": "Banda_Aceh",
+    "friendCreationDate": "2011-12-23T08:50:05.545Z",
+    "friendDistance": 2,
+    "friendEmails": [
+     "Ahmad.Rafiq24189255812419@yahoo.com",
+     "Ahmad.Rafiq24189255812419@gmail.com"
+    ],
+    "friendFirstName": "Ahmad Rafiq",
+    "friendGender": "male",
+    "friendId": 24189255812419,
+    "friendLanguages": [
+     "en",
+     "nl",
+     "jv"
+    ],
+    "friendLastName": "Irama",
+    "friendLocationIp": "103.22.165.62",
+    "studyAt|classYear": "2010",
+    "uniCityName": "Bangkalan",
+    "uniName": "Trunojoyo_University",
+    "workAt|workFrom": "2011"
+   }
+  ],
+  "friends3": [
+   {
+    "companyCountryName": "Indonesia",
+    "companyName": "Lion_Air",
+    "friendBirthday": "1982-12-17T00:00:00Z",
+    "friendBrowserUsed": "Firefox",
+    "friendCityName": "Ambon",
+    "friendCreationDate": "2011-03-09T15:05:09.458Z",
+    "friendDistance": 3,
+    "friendEmails": [
+     "Ahmad.Rafiq15393162792659@gmail.com"
+    ],
+    "friendFirstName": "Ahmad Rafiq",
+    "friendGender": "male",
+    "friendId": 15393162792659,
+    "friendLanguages": [
+     "en",
+     "nl",
+     "jv"
+    ],
+    "friendLastName": "Balawan",
+    "friendLocationIp": "101.255.118.75",
+    "workAt|workFrom": "2009"
+   },
+   {
+    "companyCountryName": "Indonesia",
+    "companyName": "Republic_Express_Airlines",
+    "friendBirthday": "1982-12-17T00:00:00Z",
+    "friendBrowserUsed": "Firefox",
+    "friendCityName": "Ambon",
+    "friendCreationDate": "2011-03-09T15:05:09.458Z",
+    "friendDistance": 3,
+    "friendEmails": [
+     "Ahmad.Rafiq15393162792659@gmail.com"
+    ],
+    "friendFirstName": "Ahmad Rafiq",
+    "friendGender": "male",
+    "friendId": 15393162792659,
+    "friendLanguages": [
+     "en",
+     "nl",
+     "jv"
+    ],
+    "friendLastName": "Balawan",
+    "friendLocationIp": "101.255.118.75",
+    "workAt|workFrom": "2009"
+   },
+   {
+    "companyCountryName": "Indonesia",
+    "companyName": "Jatayu_Airlines",
+    "friendBirthday": "1982-12-17T00:00:00Z",
+    "friendBrowserUsed": "Firefox",
+    "friendCityName": "Ambon",
+    "friendCreationDate": "2011-03-09T15:05:09.458Z",
+    "friendDistance": 3,
+    "friendEmails": [
+     "Ahmad.Rafiq15393162792659@gmail.com"
+    ],
+    "friendFirstName": "Ahmad Rafiq",
+    "friendGender": "male",
+    "friendId": 15393162792659,
+    "friendLanguages": [
+     "en",
+     "nl",
+     "jv"
+    ],
+    "friendLastName": "Balawan",
+    "friendLocationIp": "101.255.118.75",
+    "workAt|workFrom": "2009"
+   },
+   {
+    "companyCountryName": "Indonesia",
+    "companyName": "Kal_Star_Aviation",
+    "friendBirthday": "1982-12-17T00:00:00Z",
+    "friendBrowserUsed": "Firefox",
+    "friendCityName": "Ambon",
+    "friendCreationDate": "2011-03-09T15:05:09.458Z",
+    "friendDistance": 3,
+    "friendEmails": [
+     "Ahmad.Rafiq15393162792659@gmail.com"
+    ],
+    "friendFirstName": "Ahmad Rafiq",
+    "friendGender": "male",
+    "friendId": 15393162792659,
+    "friendLanguages": [
+     "en",
+     "nl",
+     "jv"
+    ],
+    "friendLastName": "Balawan",
+    "friendLocationIp": "101.255.118.75",
+    "workAt|workFrom": "2003"
+   },
+   {
+    "companyCountryName": "Indonesia",
+    "companyName": "Wings_Abadi_Air",
+    "friendBirthday": "1984-01-09T00:00:00Z",
+    "friendBrowserUsed": "Firefox",
+    "friendCityName": "Tangerang",
+    "friendCreationDate": "2010-03-28T07:16:53.514Z",
+    "friendDistance": 3,
+    "friendEmails": [
+     "Ahmad.Rafiq2199023255821@gmail.com",
+     "Ahmad.Rafiq2199023255821@yahoo.com"
+    ],
+    "friendFirstName": "Ahmad Rafiq",
+    "friendGender": "male",
+    "friendId": 2199023255821,
+    "friendLanguages": [
+     "en",
+     "jv"
+    ],
+    "friendLastName": "Irama",
+    "friendLocationIp": "58.145.168.50",
+    "studyAt|classYear": "2005",
+    "uniCityName": "Bangkalan",
+    "uniName": "Trunojoyo_University",
+    "workAt|workFrom": "2005"
+   },
+   {
+    "companyCountryName": "Indonesia",
+    "companyName": "Citilink",
+    "friendBirthday": "1984-01-09T00:00:00Z",
+    "friendBrowserUsed": "Firefox",
+    "friendCityName": "Tangerang",
+    "friendCreationDate": "2010-03-28T07:16:53.514Z",
+    "friendDistance": 3,
+    "friendEmails": [
+     "Ahmad.Rafiq2199023255821@gmail.com",
+     "Ahmad.Rafiq2199023255821@yahoo.com"
+    ],
+    "friendFirstName": "Ahmad Rafiq",
+    "friendGender": "male",
+    "friendId": 2199023255821,
+    "friendLanguages": [
+     "en",
+     "jv"
+    ],
+    "friendLastName": "Irama",
+    "friendLocationIp": "58.145.168.50",
+    "studyAt|classYear": "2005",
+    "uniCityName": "Bangkalan",
+    "uniName": "Trunojoyo_University",
+    "workAt|workFrom": "2005"
+   },
+   {
+    "companyCountryName": "Indonesia",
+    "companyName": "Premiair",
+    "friendBirthday": "1984-01-09T00:00:00Z",
+    "friendBrowserUsed": "Firefox",
+    "friendCityName": "Tangerang",
+    "friendCreationDate": "2010-03-28T07:16:53.514Z",
+    "friendDistance": 3,
+    "friendEmails": [
+     "Ahmad.Rafiq2199023255821@gmail.com",
+     "Ahmad.Rafiq2199023255821@yahoo.com"
+    ],
+    "friendFirstName": "Ahmad Rafiq",
+    "friendGender": "male",
+    "friendId": 2199023255821,
+    "friendLanguages": [
+     "en",
+     "jv"
+    ],
+    "friendLastName": "Irama",
+    "friendLocationIp": "58.145.168.50",
+    "studyAt|classYear": "2005",
+    "uniCityName": "Bangkalan",
+    "uniName": "Trunojoyo_University",
+    "workAt|workFrom": "2006"
+   }
+  ]
+ }
+}

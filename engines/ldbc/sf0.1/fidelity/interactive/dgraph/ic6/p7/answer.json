@@ -1,0 +1,177 @@
+{
+ "query_sha": "726c2fd8c124bda0",
+ "params": {
+  "personId": "2199023256919",
+  "tagName": "League_of_Nations"
+ },
+ "data": {
+  "schema_sha256": "03713a1e1c7b722e73bed6b150e079e69e9579c2a58c52e06f9d4384fdd4b80d",
+  "schema_path": "dgraph/schema/ldbcTypes.schema",
+  "sf": "0.1",
+  "created": "2026-11-21T03:25:44Z",
+  "git_sha": "92777160"
+ },
+ "fetched_at": "2026-11-21T01:06:40",
+ "raw": {
+  "_l1": [],
+  "_l2": [],
+  "tags": [
+   {
+    "tagName": "The_New_Game",
+    "postCount": 1
+   },
+   {
+    "tagName": "You_Make_Me_Sick",
+    "postCount": 1
+   },
+   {
+    "tagName": "Polish_government-in-exile",
+    "postCount": 1
+   },
+   {
+    "tagName": "Edward_I_of_England",
+    "postCount": 1
+   },
+   {
+    "tagName": "Electorate_of_Saxony",
+    "postCount": 1
+   },
+   {
+    "tagName": "Donald_Duck",
+    "postCount": 1
+   },
+   {
+    "tagName": "Pakistan",
+    "postCount": 1
+   },
+   {
+    "tagName": "Karol_Ku\u010dera",
+    "postCount": 1
+   },
+   {
+    "tagName": "Big_Bad_John",
+    "postCount": 1
+   },
+   {
+    "tagName": "Bonaire",
+    "postCount": 1
+   },
+   {
+    "tagName": "Wilhelm_II,_German_Emperor",
+    "postCount": 1
+   },
+   {
+    "tagName": "Second_French_Empire",
+    "postCount": 1
+   },
+   {
+    "tagName": "Indo-Parthian_Kingdom",
+    "postCount": 1
+   },
+   {
+    "tagName": "Solomon",
+    "postCount": 1
+   },
+   {
+    "tagName": "Nicole_Kidman",
+    "postCount": 1
+   },
+   {
+    "tagName": "Northern_Ireland",
+    "postCount": 1
+   },
+   {
+    "tagName": "Portuguese_Empire",
+    "postCount": 1
+   },
+   {
+    "tagName": "Johnny_Cash",
+    "postCount": 1
+   },
+   {
+    "tagName": "The_War_Report_2:_Report_the_War",
+    "postCount": 1
+   },
+   {
+    "tagName": "Jawaharlal_Nehru",
+    "postCount": 1
+   },
+   {
+    "tagName": "Muammar_Gaddafi",
+    "postCount": 1
+   },
+   {
+    "tagName": "Genghis_Khan",
+    "postCount": 1
+   },
+   {
+    "tagName": "Palestinian_territories",
+    "postCount": 1
+   },
+   {
+    "tagName": "Life_thru_a_Lens",
+    "postCount": 1
+   },
+   {
+    "tagName": "John_Milton",
+    "postCount": 1
+   },
+   {
+    "tagName": "Andy_Roddick",
+    "postCount": 1
+   },
+   {
+    "tagName": "Thomas_More",
+    "postCount": 1
+   },
+   {
+    "tagName": "Dimitri_Tiomkin",
+    "postCount": 1
+   },
+   {
+    "tagName": "David_Lloyd_George",
+    "postCount": 1
+   },
+   {
+    "tagName": "Paula_Abdul",
+    "postCount": 1
+   },
+   {
+    "tagName": "Robert_E._Lee",
+    "postCount": 1
+   },
+   {
+    "tagName": "Plymouth_Colony",
+    "postCount": 1
+   },
+   {
+    "tagName": "All_You_Need_Is_Love",
+    "postCount": 1
+   },
+   {
+    "tagName": "Jack_Kerouac",
+    "postCount": 1
+   },
+   {
+    "tagName": "Juan_Carlos_I_of_Spain",
+    "postCount": 1
+   },
+   {
+    "tagName": "John_Cage",
+    "postCount": 1
+   },
+   {
+    "tagName": "Smells_Like_Teen_Spirit",
+    "postCount": 1
+   },
+   {
+    "tagName": "Juan_Pablo_Montoya",
+    "postCount": 1
+   },
+   {
+    "tagName": "Ehud_Olmert",
+    "postCount": 1
+   }
+  ]
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "query_sha": "ca817504079a16c1",
+ "params": {
+  "personId": 13194139535032,
+  "tagName": "Friedrich_Engels"
+ },
+ "data_created": "2026-11-21T03:01:29Z",
+ "measured_at": "2026-11-20T23:09:32",
+ "raw": {
+  "get_count": 1250589,
+  "get_found_count": 1250589,
+  "get_time_ns": 2089861769,
+  "get_bytes": 114444345,
+  "seek_count": 101600,
+  "seek_time_ns": 7453856147,
+  "seek_bytes": 1083741,
+  "next_count": 420853,
+  "next_time_ns": 50521658,
+  "next_bytes": 21460900,
+  "prev_count": 0,
+  "prev_time_ns": 0,
+  "prev_bytes": 0,
+  "put_count": 0,
+  "put_time_ns": 0,
+  "put_bytes": 0,
+  "delete_count": 0,
+  "delete_time_ns": 0,
+  "delete_bytes": 0,
+  "commit_count": 0,
+  "commit_time_ns": 0
+ }
+}

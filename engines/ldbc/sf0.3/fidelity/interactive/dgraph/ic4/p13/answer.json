@@ -1,0 +1,145 @@
+{
+ "query_sha": "e98a92aa07772002",
+ "params": {
+  "personId": "10995116280854",
+  "startDate": "2011-05-01T00:00:00Z",
+  "endDate": "2011-06-04T00:00:00Z"
+ },
+ "data": {
+  "schema_sha256": "03713a1e1c7b722e73bed6b150e079e69e9579c2a58c52e06f9d4384fdd4b80d",
+  "schema_path": "dgraph/schema/ldbcTypes.schema",
+  "sf": "0.3",
+  "created": "2026-11-21T02:56:18Z",
+  "git_sha": "60910999"
+ },
+ "fetched_at": "2026-11-20T23:56:59",
+ "raw": {
+  "_l1": [],
+  "tags": [
+   {
+    "tagName": "Shigeru_Miyamoto",
+    "postCount": 5
+   },
+   {
+    "tagName": "John_Leguizamo",
+    "postCount": 4
+   },
+   {
+    "tagName": "Peter_Hain",
+    "postCount": 2
+   },
+   {
+    "tagName": "Hot_in_Herre",
+    "postCount": 1
+   },
+   {
+    "tagName": "Mixed_Up",
+    "postCount": 1
+   },
+   {
+    "tagName": "T.I._vs._T.I.P.",
+    "postCount": 1
+   },
+   {
+    "tagName": "Bring_the_Noise",
+    "postCount": 1
+   },
+   {
+    "tagName": "South_Yemen",
+    "postCount": 1
+   },
+   {
+    "tagName": "Technologic",
+    "postCount": 1
+   },
+   {
+    "tagName": "The_W",
+    "postCount": 1
+   },
+   {
+    "tagName": "Electoral_Palatinate",
+    "postCount": 1
+   },
+   {
+    "tagName": "Blue_Moves",
+    "postCount": 1
+   },
+   {
+    "tagName": "Who_Made_Who",
+    "postCount": 1
+   },
+   {
+    "tagName": "Carole_King",
+    "postCount": 1
+   },
+   {
+    "tagName": "Edward_II_of_England",
+    "postCount": 1
+   },
+   {
+    "tagName": "Drums_and_Wires",
+    "postCount": 1
+   },
+   {
+    "tagName": "Be_Yourself_Tonight",
+    "postCount": 1
+   },
+   {
+    "tagName": "Mr._Saxobeat",
+    "postCount": 1
+   },
+   {
+    "tagName": "Whenever,_Wherever",
+    "postCount": 1
+   },
+   {
+    "tagName": "If_It_Makes_You_Happy",
+    "postCount": 1
+   },
+   {
+    "tagName": "Doctor_Jones",
+    "postCount": 1
+   },
+   {
+    "tagName": "Hold_Me_Tight",
+    "postCount": 1
+   },
+   {
+    "tagName": "Getback",
+    "postCount": 1
+   },
+   {
+    "tagName": "She_Wants_to_Move",
+    "postCount": 1
+   },
+   {
+    "tagName": "Rockferry",
+    "postCount": 1
+   },
+   {
+    "tagName": "Save_the_Last_Dance_for_Me",
+    "postCount": 1
+   },
+   {
+    "tagName": "Free_City_of_L\u00fcbeck",
+    "postCount": 1
+   },
+   {
+    "tagName": "T-Pain",
+    "postCount": 1
+   },
+   {
+    "tagName": "The_Hell_Song",
+    "postCount": 1
+   },
+   {
+    "tagName": "20_Jazz_Funk_Greats",
+    "postCount": 1
+   },
+   {
+    "tagName": "Ebony_and_Ivory",
+    "postCount": 1
+   }
+  ]
+ }
+}

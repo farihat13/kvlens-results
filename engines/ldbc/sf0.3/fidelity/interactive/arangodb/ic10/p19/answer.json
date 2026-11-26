@@ -1,0 +1,97 @@
+{
+ "query_sha": "c20c841713234a9d",
+ "params": {
+  "personId": 2199023256742,
+  "month": 11
+ },
+ "data": {
+  "schema_sha256": "b8e206f17e60692c830ba0c3c675fbc481a22f26011282ce523890eb09be8a74",
+  "schema_path": "arangodb/schema/ldbc_schema.json",
+  "sf": "0.3",
+  "created": "2026-11-21T03:01:29Z",
+  "git_sha": "60910999"
+ },
+ "fetched_at": "2026-11-21T00:00:02",
+ "raw": [
+  {
+   "personId": 13194139534569,
+   "personFirstName": "Abdul-Malik",
+   "personLastName": "Hamdan",
+   "commonInterestScore": 0,
+   "personGender": "male",
+   "personCityName": "Sana'a"
+  },
+  {
+   "personId": 24189255814441,
+   "personFirstName": "Richard",
+   "personLastName": "Obuya",
+   "commonInterestScore": 0,
+   "personGender": "male",
+   "personCityName": "Nairobi"
+  },
+  {
+   "personId": 24189255814900,
+   "personFirstName": "Wei",
+   "personLastName": "Yang",
+   "commonInterestScore": 0,
+   "personGender": "female",
+   "personCityName": "Fenyang"
+  },
+  {
+   "personId": 28587302322814,
+   "personFirstName": "Alexander",
+   "personLastName": "Basov",
+   "commonInterestScore": 0,
+   "personGender": "male",
+   "personCityName": "Saint_Petersburg"
+  },
+  {
+   "personId": 30786325580446,
+   "personFirstName": "Karan",
+   "personLastName": "Rao",
+   "commonInterestScore": 0,
+   "personGender": "female",
+   "personCityName": "Bilaspur"
+  },
+  {
+   "personId": 30786325578215,
+   "personFirstName": "Hermann",
+   "personLastName": "Muller",
+   "commonInterestScore": -1,
+   "personGender": "male",
+   "personCityName": "Freiburg_im_Breisgau"
+  },
+  {
+   "personId": 10995116280019,
+   "personFirstName": "Kittipol",
+   "personLastName": "Aguilar",
+   "commonInterestScore": -2,
+   "personGender": "female",
+   "personCityName": "Nakhon_Pathom_Province"
+  },
+  {
+   "personId": 17592186047500,
+   "personFirstName": "Carlos Roberto",
+   "personLastName": "Flores",
+   "commonInterestScore": -2,
+   "personGender": "male",
+   "personCityName": "Tegucigalpa"
+  },
+  {
+   "personId": 19791209301329,
+   "personFirstName": "Bingbing",
+   "personLastName": "Chen",
+   "commonInterestScore": -2,
+   "personGender": "female",
+   "personCityName": "Bijie"
+  },
+  {
+   "personId": 26388279067805,
+   "personFirstName": "Chi",
+   "personLastName": "Li",
+   "commonInterestScore": -2,
+   "personGender": "male",
+   "personCityName": "Chibi"
+  }
+ ]
+}

@@ -1,0 +1,81 @@
+{
+ "query_sha": "6ff3aa62b8626f5b",
+ "params": {
+  "personId": "person_2199023256919"
+ },
+ "data": {
+  "schema_sha256": "673074740eea54e4ba1fdc94eebf2087531b3007af7da660afffb3d1e8df0d1e",
+  "schema_path": "nebulagraph/schema/schema.gql",
+  "sf": "0.1",
+  "created": "2026-11-21T03:27:06Z",
+  "git_sha": "92777160"
+ },
+ "fetched_at": "2026-11-21T01:06:48",
+ "raw": {
+  "keys": [
+   "friendId",
+   "friendFirstName",
+   "friendLastName",
+   "friendshipCreationDate",
+   "friendIdInt"
+  ],
+  "rows": [
+   {
+    "friendId": "person_32985348833438",
+    "friendFirstName": "Javed",
+    "friendLastName": "Khan",
+    "friendshipCreationDate": 1344345135267,
+    "friendIdInt": 32985348833438
+   },
+   {
+    "friendId": "person_32985348834483",
+    "friendFirstName": "Michel",
+    "friendLastName": "Breton",
+    "friendshipCreationDate": 1344002843748,
+    "friendIdInt": 32985348834483
+   },
+   {
+    "friendId": "person_28587302323441",
+    "friendFirstName": "Aleksandr",
+    "friendLastName": "Aubakirov",
+    "friendshipCreationDate": 1334400747530,
+    "friendIdInt": 28587302323441
+   },
+   {
+    "friendId": "person_24189255811566",
+    "friendFirstName": "The",
+    "friendLastName": "Kunda",
+    "friendshipCreationDate": 1322926616723,
+    "friendIdInt": 24189255811566
+   },
+   {
+    "friendId": "person_21990232556410",
+    "friendFirstName": "Aa Ngurah",
+    "friendLastName": "Gallagher",
+    "friendshipCreationDate": 1316299036170,
+    "friendIdInt": 21990232556410
+   },
+   {
+    "friendId": "person_17592186045896",
+    "friendFirstName": "Wilhelm",
+    "friendLastName": "Engel",
+    "friendshipCreationDate": 1309567414693,
+    "friendIdInt": 17592186045896
+   },
+   {
+    "friendId": "person_17592186044425",
+    "friendFirstName": "Alim",
+    "friendLastName": "Guliyev",
+    "friendshipCreationDate": 1307938171303,
+    "friendIdInt": 17592186044425
+   },
+   {
+    "friendId": "person_10995116277820",
+    "friendFirstName": "Paul",
+    "friendLastName": "Becker",
+    "friendshipCreationDate": 1294410581037,
+    "friendIdInt": 10995116277820
+   }
+  ]
+ }
+}

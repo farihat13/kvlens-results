@@ -1,0 +1,27 @@
+{
+ "query_sha": "907f15bd35b7d66e",
+ "params": {
+  "personId": "26388279066795",
+  "startDate": "2012-01-01T00:00:00Z",
+  "countryXName": "Republic_of_Macedonia",
+  "countryYName": "Norway",
+  "endDate": "2012-02-04T00:00:00Z"
+ },
+ "data_created": "2026-11-21T03:25:44Z",
+ "measured_at": "2026-11-21T01:03:56",
+ "raw": {
+  "get_bytes": 36308372,
+  "get_count": 541916,
+  "get_found_count": 541916,
+  "get_latency_ns": 30657881110,
+  "next_bytes": 0,
+  "next_count": 0,
+  "next_latency_ns": 0,
+  "seek_bytes": 15745370,
+  "seek_count": 272629,
+  "seek_latency_ns": 12128375868,
+  "set_bytes": 0,
+  "set_count": 0,
+  "set_latency_ns": 0
+ }
+}

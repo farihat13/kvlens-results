@@ -1,0 +1,93 @@
+{
+ "query_sha": "6935170dcded2085",
+ "params": {
+  "messageId": "549756084251"
+ },
+ "data": {
+  "schema_sha256": "03713a1e1c7b722e73bed6b150e079e69e9579c2a58c52e06f9d4384fdd4b80d",
+  "schema_path": "dgraph/schema/ldbcTypes.schema",
+  "sf": "0.1",
+  "created": "2026-11-21T03:25:44Z",
+  "git_sha": "92777160"
+ },
+ "fetched_at": "2026-11-21T01:08:54",
+ "raw": {
+  "origAuthor": [
+   {
+    "origAuthorId": 6597069767341
+   }
+  ],
+  "replies": [
+   {
+    "commentContent": "cool",
+    "commentCreationDate": "2011-06-20T23:45:18.975Z",
+    "commentId": 549756084266,
+    "knowsCount": 0,
+    "knowsCount2": 1,
+    "replyAuthorFirstName": "Hans",
+    "replyAuthorId": 10995116277788,
+    "replyAuthorLastName": "Johansson"
+   },
+   {
+    "commentContent": "I see",
+    "commentCreationDate": "2011-06-20T22:43:18.656Z",
+    "commentId": 549756084252,
+    "knowsCount": 0,
+    "knowsCount2": 1,
+    "replyAuthorFirstName": "Johan",
+    "replyAuthorId": 15393162790223,
+    "replyAuthorLastName": "Nilsson"
+   },
+   {
+    "commentContent": "About Tsardom of Russia, from the Rurik to the Romanov dynasties, drawn-out military conflict with the Polish-Li",
+    "commentCreationDate": "2011-06-20T14:46:22.721Z",
+    "commentId": 549756084254,
+    "knowsCount": 0,
+    "knowsCount2": 1,
+    "replyAuthorFirstName": "Hans",
+    "replyAuthorId": 17592186045047,
+    "replyAuthorLastName": "Berg"
+   },
+   {
+    "commentContent": "no",
+    "commentCreationDate": "2011-06-20T11:48:44.958Z",
+    "commentId": 549756084259,
+    "knowsCount": 1,
+    "knowsCount2": 0,
+    "replyAuthorFirstName": "Binh",
+    "replyAuthorId": 4398046512532,
+    "replyAuthorLastName": "Nguyen"
+   },
+   {
+    "commentContent": "duh",
+    "commentCreationDate": "2011-06-20T09:43:50.557Z",
+    "commentId": 549756084264,
+    "knowsCount": 0,
+    "knowsCount2": 1,
+    "replyAuthorFirstName": "Jose",
+    "replyAuthorId": 13194139534451,
+    "replyAuthorLastName": "Martinez"
+   },
+   {
+    "commentContent": "About Romania, on by area, and has the seventh largest population of the European Union with over 19 million people. Its capital and largest city is Bucharest, the te",
+    "commentCreationDate": "2011-06-20T06:23:06.621Z",
+    "commentId": 549756084255,
+    "knowsCount": 1,
+    "knowsCount2": 0,
+    "replyAuthorFirstName": "Ali",
+    "replyAuthorId": 6597069766944,
+    "replyAuthorLastName": "Karimi"
+   },
+   {
+    "commentContent": "cool",
+    "commentCreationDate": "2011-06-20T04:43:10.799Z",
+    "commentId": 549756084253,
+    "knowsCount": 0,
+    "knowsCount2": 1,
+    "replyAuthorFirstName": "Hans",
+    "replyAuthorId": 10995116277788,
+    "replyAuthorLastName": "Johansson"
+   }
+  ]
+ }
+}

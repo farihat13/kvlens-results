@@ -1,0 +1,769 @@
+{
+ "query_sha": "e98a92aa07772002",
+ "params": {
+  "personId": "26388279068863",
+  "startDate": "2012-01-01T00:00:00Z",
+  "endDate": "2012-02-08T00:00:00Z"
+ },
+ "data": {
+  "schema_sha256": "03713a1e1c7b722e73bed6b150e079e69e9579c2a58c52e06f9d4384fdd4b80d",
+  "schema_path": "dgraph/schema/ldbcTypes.schema",
+  "sf": "0.3",
+  "created": "2026-11-21T02:56:18Z",
+  "git_sha": "60910999"
+ },
+ "fetched_at": "2026-11-21T00:05:56",
+ "raw": {
+  "_l1": [],
+  "tags": [
+   {
+    "tagName": "Alexander_Downer",
+    "postCount": 26
+   },
+   {
+    "tagName": "Andrey_Kolmogorov",
+    "postCount": 9
+   },
+   {
+    "tagName": "Cry_Little_Sister",
+    "postCount": 4
+   },
+   {
+    "tagName": "Kingdom_of_the_Two_Sicilies",
+    "postCount": 3
+   },
+   {
+    "tagName": "Emirate_of_Granada",
+    "postCount": 2
+   },
+   {
+    "tagName": "Hard_Rock_Hallelujah",
+    "postCount": 2
+   },
+   {
+    "tagName": "Spirits_Having_Flown",
+    "postCount": 2
+   },
+   {
+    "tagName": "Khanate_of_Khiva",
+    "postCount": 2
+   },
+   {
+    "tagName": "A_New_World_Record",
+    "postCount": 2
+   },
+   {
+    "tagName": "Wuyue",
+    "postCount": 2
+   },
+   {
+    "tagName": "Tina_Live_in_Europe",
+    "postCount": 2
+   },
+   {
+    "tagName": "Colonel_Bogey_March",
+    "postCount": 2
+   },
+   {
+    "tagName": "Sex_&_Drugs_&_Rock_&_Roll",
+    "postCount": 2
+   },
+   {
+    "tagName": "David_Lloyd_George",
+    "postCount": 2
+   },
+   {
+    "tagName": "My_Back_Pages",
+    "postCount": 2
+   },
+   {
+    "tagName": "Guelders",
+    "postCount": 2
+   },
+   {
+    "tagName": "Australian_Antarctic_Territory",
+    "postCount": 2
+   },
+   {
+    "tagName": "Layla",
+    "postCount": 2
+   },
+   {
+    "tagName": "Madagascar",
+    "postCount": 2
+   },
+   {
+    "tagName": "Saxe-Coburg_and_Gotha",
+    "postCount": 2
+   },
+   {
+    "tagName": "Kabul_Shahi",
+    "postCount": 2
+   },
+   {
+    "tagName": "Aristophanes",
+    "postCount": 2
+   },
+   {
+    "tagName": "Ammon",
+    "postCount": 2
+   },
+   {
+    "tagName": "Transcaucasian_Socialist_Federative_Soviet_Republic",
+    "postCount": 2
+   },
+   {
+    "tagName": "With_or_Without_You",
+    "postCount": 1
+   },
+   {
+    "tagName": "Cole_Porter",
+    "postCount": 1
+   },
+   {
+    "tagName": "I_Only_Want_to_Be_with_You",
+    "postCount": 1
+   },
+   {
+    "tagName": "Pull_the_Pin",
+    "postCount": 1
+   },
+   {
+    "tagName": "Sounds_Like_a_Melody",
+    "postCount": 1
+   },
+   {
+    "tagName": "Over_the_Wall",
+    "postCount": 1
+   },
+   {
+    "tagName": "Whatever_Gets_You_thru_the_Night",
+    "postCount": 1
+   },
+   {
+    "tagName": "Private_Dancer",
+    "postCount": 1
+   },
+   {
+    "tagName": "Just_a_Day",
+    "postCount": 1
+   },
+   {
+    "tagName": "Unpretty",
+    "postCount": 1
+   },
+   {
+    "tagName": "The_Adventures_of_Grandmaster_Flash_on_the_Wheels_of_Steel",
+    "postCount": 1
+   },
+   {
+    "tagName": "Jungleland",
+    "postCount": 1
+   },
+   {
+    "tagName": "Low-Life",
+    "postCount": 1
+   },
+   {
+    "tagName": "Go_Away_Little_Girl",
+    "postCount": 1
+   },
+   {
+    "tagName": "Rokstarr",
+    "postCount": 1
+   },
+   {
+    "tagName": "Let_Me_Hold_You",
+    "postCount": 1
+   },
+   {
+    "tagName": "Sunga_Empire",
+    "postCount": 1
+   },
+   {
+    "tagName": "Damn_I_Wish_I_Was_Your_Lover",
+    "postCount": 1
+   },
+   {
+    "tagName": "New_Clear_Days",
+    "postCount": 1
+   },
+   {
+    "tagName": "Fighting_Temptation",
+    "postCount": 1
+   },
+   {
+    "tagName": "Rust_in_Peace",
+    "postCount": 1
+   },
+   {
+    "tagName": "Sergei_Prokofiev",
+    "postCount": 1
+   },
+   {
+    "tagName": "Past_Masters",
+    "postCount": 1
+   },
+   {
+    "tagName": "Dance_into_the_Light",
+    "postCount": 1
+   },
+   {
+    "tagName": "Songhai_Empire",
+    "postCount": 1
+   },
+   {
+    "tagName": "American_Made_Music_to_Strip_By",
+    "postCount": 1
+   },
+   {
+    "tagName": "100_Million",
+    "postCount": 1
+   },
+   {
+    "tagName": "Hollaback_Girl",
+    "postCount": 1
+   },
+   {
+    "tagName": "Bleed_American",
+    "postCount": 1
+   },
+   {
+    "tagName": "Live_Seventy_Nine",
+    "postCount": 1
+   },
+   {
+    "tagName": "Slip_Stitch_and_Pass",
+    "postCount": 1
+   },
+   {
+    "tagName": "Build_Me_Up_Buttercup",
+    "postCount": 1
+   },
+   {
+    "tagName": "Memoirs_of_an_Imperfect_Angel",
+    "postCount": 1
+   },
+   {
+    "tagName": "Disconnection_Notice",
+    "postCount": 1
+   },
+   {
+    "tagName": "The_Very_Best_of_Meat_Loaf",
+    "postCount": 1
+   },
+   {
+    "tagName": "Wisin_vs._Yandel:_Los_Extraterrestres",
+    "postCount": 1
+   },
+   {
+    "tagName": "James,_son_of_Zebedee",
+    "postCount": 1
+   },
+   {
+    "tagName": "Kakatiya_dynasty",
+    "postCount": 1
+   },
+   {
+    "tagName": "Live_on_Two_Legs",
+    "postCount": 1
+   },
+   {
+    "tagName": "Ultimate_Alternative_Wavers",
+    "postCount": 1
+   },
+   {
+    "tagName": "Tribute_to_the_Gods",
+    "postCount": 1
+   },
+   {
+    "tagName": "The_Way_You_Look_Tonight",
+    "postCount": 1
+   },
+   {
+    "tagName": "Libertango",
+    "postCount": 1
+   },
+   {
+    "tagName": "Something_Like_Human",
+    "postCount": 1
+   },
+   {
+    "tagName": "Brass_in_Pocket",
+    "postCount": 1
+   },
+   {
+    "tagName": "Kara-Khitan_Khanate",
+    "postCount": 1
+   },
+   {
+    "tagName": "Secret_World_Live",
+    "postCount": 1
+   },
+   {
+    "tagName": "Postcards_from_a_Young_Man",
+    "postCount": 1
+   },
+   {
+    "tagName": "Kirghiz_Soviet_Socialist_Republic",
+    "postCount": 1
+   },
+   {
+    "tagName": "Blame_It_on_the_Boogie",
+    "postCount": 1
+   },
+   {
+    "tagName": "Bona_Drag",
+    "postCount": 1
+   },
+   {
+    "tagName": "Dancing_with_Myself",
+    "postCount": 1
+   },
+   {
+    "tagName": "Lose_Yourself",
+    "postCount": 1
+   },
+   {
+    "tagName": "The_Battle_of_New_Orleans",
+    "postCount": 1
+   },
+   {
+    "tagName": "Voulez-Vous",
+    "postCount": 1
+   },
+   {
+    "tagName": "With_a_Little_Help_from_My_Friends",
+    "postCount": 1
+   },
+   {
+    "tagName": "Be_Without_You",
+    "postCount": 1
+   },
+   {
+    "tagName": "By_All_Means_Necessary",
+    "postCount": 1
+   },
+   {
+    "tagName": "The_Black_and_White_Album",
+    "postCount": 1
+   },
+   {
+    "tagName": "Jerome_Kern",
+    "postCount": 1
+   },
+   {
+    "tagName": "Pervez_Musharraf",
+    "postCount": 1
+   },
+   {
+    "tagName": "Amused_to_Death",
+    "postCount": 1
+   },
+   {
+    "tagName": "Wooly_Bully",
+    "postCount": 1
+   },
+   {
+    "tagName": "Another_Brick_in_the_Wall",
+    "postCount": 1
+   },
+   {
+    "tagName": "Darkness_on_the_Edge_of_Town",
+    "postCount": 1
+   },
+   {
+    "tagName": "All_Apologies",
+    "postCount": 1
+   },
+   {
+    "tagName": "Shadow_of_the_Day",
+    "postCount": 1
+   },
+   {
+    "tagName": "Heat_of_the_Moment",
+    "postCount": 1
+   },
+   {
+    "tagName": "Mack_the_Knife",
+    "postCount": 1
+   },
+   {
+    "tagName": "Parthian_Empire",
+    "postCount": 1
+   },
+   {
+    "tagName": "Empire_of_Nicaea",
+    "postCount": 1
+   },
+   {
+    "tagName": "Da_Real_World",
+    "postCount": 1
+   },
+   {
+    "tagName": "To_the_Moon_and_Back",
+    "postCount": 1
+   },
+   {
+    "tagName": "Kingdom_of_Nekor",
+    "postCount": 1
+   },
+   {
+    "tagName": "Yoko_Ono/Plastic_Ono_Band",
+    "postCount": 1
+   },
+   {
+    "tagName": "Stand_Back",
+    "postCount": 1
+   },
+   {
+    "tagName": "Madeleine_Albright",
+    "postCount": 1
+   },
+   {
+    "tagName": "Whatcha_Gonna_Do_About_It",
+    "postCount": 1
+   },
+   {
+    "tagName": "Being_Somebody",
+    "postCount": 1
+   },
+   {
+    "tagName": "Insomniatic",
+    "postCount": 1
+   },
+   {
+    "tagName": "If_I_Had_a_Hammer",
+    "postCount": 1
+   },
+   {
+    "tagName": "On_the_Night",
+    "postCount": 1
+   },
+   {
+    "tagName": "Jay-Z",
+    "postCount": 1
+   },
+   {
+    "tagName": "Republic_of_Genoa",
+    "postCount": 1
+   },
+   {
+    "tagName": "Khanate_of_Kokand",
+    "postCount": 1
+   },
+   {
+    "tagName": "Duchy_of_Swabia",
+    "postCount": 1
+   },
+   {
+    "tagName": "Jermaine_Dupri",
+    "postCount": 1
+   },
+   {
+    "tagName": "Poison_Arrow",
+    "postCount": 1
+   },
+   {
+    "tagName": "Principality_of_Achaea",
+    "postCount": 1
+   },
+   {
+    "tagName": "Ten_Thousand_Fists",
+    "postCount": 1
+   },
+   {
+    "tagName": "4th_Time_Around",
+    "postCount": 1
+   },
+   {
+    "tagName": "Victor_H\u0103nescu",
+    "postCount": 1
+   },
+   {
+    "tagName": "Crimean_Khanate",
+    "postCount": 1
+   },
+   {
+    "tagName": "Nigga_Please",
+    "postCount": 1
+   },
+   {
+    "tagName": "Burrito_Deluxe",
+    "postCount": 1
+   },
+   {
+    "tagName": "Carry_That_Weight",
+    "postCount": 1
+   },
+   {
+    "tagName": "Cardinal_Richelieu",
+    "postCount": 1
+   },
+   {
+    "tagName": "Islamic_Emirate_of_Afghanistan",
+    "postCount": 1
+   },
+   {
+    "tagName": "Steal_My_Sunshine",
+    "postCount": 1
+   },
+   {
+    "tagName": "I_Got_Id",
+    "postCount": 1
+   },
+   {
+    "tagName": "General_Government",
+    "postCount": 1
+   },
+   {
+    "tagName": "Share_My_World",
+    "postCount": 1
+   },
+   {
+    "tagName": "Former_Qin",
+    "postCount": 1
+   },
+   {
+    "tagName": "Factory_Showroom",
+    "postCount": 1
+   },
+   {
+    "tagName": "Concert:_The_Cure_Live",
+    "postCount": 1
+   },
+   {
+    "tagName": "French_Third_Republic",
+    "postCount": 1
+   },
+   {
+    "tagName": "Mingus_Ah_Um",
+    "postCount": 1
+   },
+   {
+    "tagName": "Great_Seljuq_Empire",
+    "postCount": 1
+   },
+   {
+    "tagName": "Ballad_of_the_Green_Berets",
+    "postCount": 1
+   },
+   {
+    "tagName": "Robert_Altman",
+    "postCount": 1
+   },
+   {
+    "tagName": "The_Argument",
+    "postCount": 1
+   },
+   {
+    "tagName": "Pandyan_Dynasty",
+    "postCount": 1
+   },
+   {
+    "tagName": "Turks_and_Caicos_Islands",
+    "postCount": 1
+   },
+   {
+    "tagName": "The_Eminem_Show",
+    "postCount": 1
+   },
+   {
+    "tagName": "When_I_Get_You_Alone",
+    "postCount": 1
+   },
+   {
+    "tagName": "Uyghur_Khaganate",
+    "postCount": 1
+   },
+   {
+    "tagName": "Still_Got_the_Blues",
+    "postCount": 1
+   },
+   {
+    "tagName": "U_Gotta_Feel_Me",
+    "postCount": 1
+   },
+   {
+    "tagName": "Principality_of_Bayreuth",
+    "postCount": 1
+   },
+   {
+    "tagName": "The_Arockalypse",
+    "postCount": 1
+   },
+   {
+    "tagName": "Born_This_Way",
+    "postCount": 1
+   },
+   {
+    "tagName": "Chungking_Express",
+    "postCount": 1
+   },
+   {
+    "tagName": "Save_the_Best_for_Last",
+    "postCount": 1
+   },
+   {
+    "tagName": "British_Antarctic_Territory",
+    "postCount": 1
+   },
+   {
+    "tagName": "Someone_to_Call_My_Lover",
+    "postCount": 1
+   },
+   {
+    "tagName": "Liang_Dynasty",
+    "postCount": 1
+   },
+   {
+    "tagName": "Wasted_Years",
+    "postCount": 1
+   },
+   {
+    "tagName": "Portuguese_India",
+    "postCount": 1
+   },
+   {
+    "tagName": "I_Feel_Love",
+    "postCount": 1
+   },
+   {
+    "tagName": "Chinese_Democracy",
+    "postCount": 1
+   },
+   {
+    "tagName": "Hip_to_Be_Square",
+    "postCount": 1
+   },
+   {
+    "tagName": "Coffee_&_TV",
+    "postCount": 1
+   },
+   {
+    "tagName": "American_Samoa",
+    "postCount": 1
+   },
+   {
+    "tagName": "Woodstock:_Music_from_the_Original_Soundtrack_and_More",
+    "postCount": 1
+   },
+   {
+    "tagName": "Nous_les_amoureux",
+    "postCount": 1
+   },
+   {
+    "tagName": "David",
+    "postCount": 1
+   },
+   {
+    "tagName": "New_Maps_of_Hell",
+    "postCount": 1
+   },
+   {
+    "tagName": "Duchy_of_Bavaria",
+    "postCount": 1
+   },
+   {
+    "tagName": "Jesus_Walks",
+    "postCount": 1
+   },
+   {
+    "tagName": "Little_Jeannie",
+    "postCount": 1
+   },
+   {
+    "tagName": "Sheryl_Crow",
+    "postCount": 1
+   },
+   {
+    "tagName": "Get_Your_Wings",
+    "postCount": 1
+   },
+   {
+    "tagName": "The_Sunset_Tree",
+    "postCount": 1
+   },
+   {
+    "tagName": "Ghost_of_a_Rose",
+    "postCount": 1
+   },
+   {
+    "tagName": "Misery_Business",
+    "postCount": 1
+   },
+   {
+    "tagName": "Free_City_of_Danzig",
+    "postCount": 1
+   },
+   {
+    "tagName": "Lifes_Rich_Pageant",
+    "postCount": 1
+   },
+   {
+    "tagName": "Gimme_Shelter",
+    "postCount": 1
+   },
+   {
+    "tagName": "On_a_Plain",
+    "postCount": 1
+   },
+   {
+    "tagName": "Wallachia",
+    "postCount": 1
+   },
+   {
+    "tagName": "Redemption_Song",
+    "postCount": 1
+   },
+   {
+    "tagName": "Redneck_Woman",
+    "postCount": 1
+   },
+   {
+    "tagName": "The_Wheels_on_the_Bus",
+    "postCount": 1
+   },
+   {
+    "tagName": "Ebony_and_Ivory",
+    "postCount": 1
+   },
+   {
+    "tagName": "Lithuanian_Soviet_Socialist_Republic",
+    "postCount": 1
+   },
+   {
+    "tagName": "Marinid_dynasty",
+    "postCount": 1
+   },
+   {
+    "tagName": "Al_otro_lado_del_r\u00edo",
+    "postCount": 1
+   },
+   {
+    "tagName": "Sunday_Morning_Call",
+    "postCount": 1
+   },
+   {
+    "tagName": "Diddy_Wah_Diddy",
+    "postCount": 1
+   },
+   {
+    "tagName": "Astonishing_Panorama_of_the_Endtimes",
+    "postCount": 1
+   },
+   {
+    "tagName": "The_Lonesome_Jubilee",
+    "postCount": 1
+   },
+   {
+    "tagName": "Under_Rug_Swept",
+    "postCount": 1
+   },
+   {
+    "tagName": "Hohenzollern-Sigmaringen",
+    "postCount": 1
+   }
+  ]
+ }
+}

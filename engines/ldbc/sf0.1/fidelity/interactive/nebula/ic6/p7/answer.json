@@ -1,0 +1,63 @@
+{
+ "query_sha": "ad17deb8111088bd",
+ "params": {
+  "personId": "person_2199023256919",
+  "tagName": "League_of_Nations"
+ },
+ "data": {
+  "schema_sha256": "673074740eea54e4ba1fdc94eebf2087531b3007af7da660afffb3d1e8df0d1e",
+  "schema_path": "nebulagraph/schema/schema.gql",
+  "sf": "0.1",
+  "created": "2026-11-21T03:27:06Z",
+  "git_sha": "92777160"
+ },
+ "fetched_at": "2026-11-21T01:06:41",
+ "raw": {
+  "keys": [
+   "tagName",
+   "postCount"
+  ],
+  "rows": [
+   {
+    "tagName": "All_You_Need_Is_Love",
+    "postCount": 1
+   },
+   {
+    "tagName": "Andy_Roddick",
+    "postCount": 1
+   },
+   {
+    "tagName": "Big_Bad_John",
+    "postCount": 1
+   },
+   {
+    "tagName": "Bonaire",
+    "postCount": 1
+   },
+   {
+    "tagName": "David_Lloyd_George",
+    "postCount": 1
+   },
+   {
+    "tagName": "Dimitri_Tiomkin",
+    "postCount": 1
+   },
+   {
+    "tagName": "Donald_Duck",
+    "postCount": 1
+   },
+   {
+    "tagName": "Edward_I_of_England",
+    "postCount": 1
+   },
+   {
+    "tagName": "Ehud_Olmert",
+    "postCount": 1
+   },
+   {
+    "tagName": "Electorate_of_Saxony",
+    "postCount": 1
+   }
+  ]
+ }
+}

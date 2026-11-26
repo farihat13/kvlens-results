@@ -1,0 +1,78 @@
+{
+ "query_sha": "758b65813d7ffbd6",
+ "params": {
+  "personId": 19791209300317,
+  "firstName": "Geremi Sorele Njitap"
+ },
+ "data": {
+  "schema_sha256": "b8e206f17e60692c830ba0c3c675fbc481a22f26011282ce523890eb09be8a74",
+  "schema_path": "arangodb/schema/ldbc_schema.json",
+  "sf": "0.1",
+  "created": "2026-11-21T03:27:46Z",
+  "git_sha": "92777160"
+ },
+ "fetched_at": "2026-11-21T01:06:49",
+ "raw": [
+  {
+   "friendId": 10995116278142,
+   "friendLastName": "Anderson",
+   "distanceFromPerson": 2,
+   "friendBirthday": 423705600000,
+   "friendCreationDate": 1290895071212,
+   "friendGender": "male",
+   "friendBrowserUsed": "Firefox",
+   "friendLocationIp": "41.205.68.74",
+   "friendEmails": [
+    "Geremi.Sorele.Njitap10995116278142@gmail.com",
+    "Geremi.Sorele.Njitap10995116278142@gmx.com",
+    "Geremi.Sorele.Njitap10995116278142@yahoo.com"
+   ],
+   "friendLanguages": [
+    "fr",
+    "en"
+   ],
+   "friendCityName": "Garoua",
+   "friendUniversities": [],
+   "friendCompanies": [
+    [
+     "National_Airways_Cameroon",
+     2002,
+     "Cameroon"
+    ]
+   ]
+  },
+  {
+   "friendId": 10995116279125,
+   "friendLastName": "Ako",
+   "distanceFromPerson": 3,
+   "friendBirthday": 568166400000,
+   "friendCreationDate": 1292333263747,
+   "friendGender": "male",
+   "friendBrowserUsed": "Chrome",
+   "friendLocationIp": "41.190.225.153",
+   "friendEmails": [
+    "Geremi.Sorele.Njitap10995116279125@gmail.com",
+    "Geremi.Sorele.Njitap10995116279125@yahoo.com"
+   ],
+   "friendLanguages": [
+    "fr",
+    "en"
+   ],
+   "friendCityName": "Baffoussam",
+   "friendUniversities": [
+    [
+     "University_of_Buea",
+     2009,
+     "Buea"
+    ]
+   ],
+   "friendCompanies": [
+    [
+     "Section_Liaison_Air_Yaound\u00e9",
+     2010,
+     "Cameroon"
+    ]
+   ]
+  }
+ ]
+}

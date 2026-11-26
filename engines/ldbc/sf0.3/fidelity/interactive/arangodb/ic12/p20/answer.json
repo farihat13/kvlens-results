@@ -1,0 +1,71 @@
+{
+ "query_sha": "8342c82fdf4c127f",
+ "params": {
+  "personId": 19791209300324,
+  "tagClassName": "Band"
+ },
+ "data": {
+  "schema_sha256": "b8e206f17e60692c830ba0c3c675fbc481a22f26011282ce523890eb09be8a74",
+  "schema_path": "arangodb/schema/ldbc_schema.json",
+  "sf": "0.3",
+  "created": "2026-11-21T03:01:29Z",
+  "git_sha": "60910999"
+ },
+ "fetched_at": "2026-11-21T00:01:29",
+ "raw": [
+  {
+   "personId": 2194,
+   "personFirstName": "Alexander",
+   "personLastName": "Dobrunov",
+   "tagNames": [
+    "The_Everly_Brothers"
+   ],
+   "replyCount": 4
+  },
+  {
+   "personId": 4398046512826,
+   "personFirstName": "Bingbing",
+   "personLastName": "Liu",
+   "tagNames": [
+    "The_Everly_Brothers"
+   ],
+   "replyCount": 2
+  },
+  {
+   "personId": 8796093023851,
+   "personFirstName": "Evangelos",
+   "personLastName": "Dionysiou",
+   "tagNames": [
+    "The_Everly_Brothers"
+   ],
+   "replyCount": 2
+  },
+  {
+   "personId": 19791209300631,
+   "personFirstName": "Naresh",
+   "personLastName": "Singh",
+   "tagNames": [
+    "The_Everly_Brothers"
+   ],
+   "replyCount": 2
+  },
+  {
+   "personId": 4398046513186,
+   "personFirstName": "Andrea",
+   "personLastName": "Blanco",
+   "tagNames": [
+    "The_Everly_Brothers"
+   ],
+   "replyCount": 1
+  },
+  {
+   "personId": 8796093025074,
+   "personFirstName": "Eve-Mary Thai",
+   "personLastName": "Hoang",
+   "tagNames": [
+    "The_Everly_Brothers"
+   ],
+   "replyCount": 1
+  }
+ ]
+}

@@ -1,0 +1,27 @@
+{
+ "query_sha": "907f15bd35b7d66e",
+ "params": {
+  "personId": "32985348833679",
+  "startDate": "2011-03-01T00:00:00Z",
+  "countryXName": "Switzerland",
+  "countryYName": "Uruguay",
+  "endDate": "2011-04-08T00:00:00Z"
+ },
+ "data_created": "2026-11-21T03:25:44Z",
+ "measured_at": "2026-11-21T01:02:42",
+ "raw": {
+  "get_bytes": 37205100,
+  "get_count": 555300,
+  "get_found_count": 555300,
+  "get_latency_ns": 30999893345,
+  "next_bytes": 0,
+  "next_count": 0,
+  "next_latency_ns": 0,
+  "seek_bytes": 16185473,
+  "seek_count": 279317,
+  "seek_latency_ns": 12225807584,
+  "set_bytes": 0,
+  "set_count": 0,
+  "set_latency_ns": 0
+ }
+}

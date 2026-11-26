@@ -1,0 +1,38 @@
+{
+ "query_sha": "4dcea213e133d224",
+ "params": {
+  "messageId": "msg_32489"
+ },
+ "data": {
+  "schema_sha256": "673074740eea54e4ba1fdc94eebf2087531b3007af7da660afffb3d1e8df0d1e",
+  "schema_path": "nebulagraph/schema/schema.gql",
+  "sf": "0.1",
+  "created": "2026-11-21T03:27:06Z",
+  "git_sha": "92777160"
+ },
+ "fetched_at": "2026-11-21T01:06:01",
+ "raw": {
+  "keys": [
+   "commentId",
+   "commentContent",
+   "commentCreationDate",
+   "replyAuthorId",
+   "replyAuthorFirstName",
+   "replyAuthorLastName",
+   "knows",
+   "replyAuthorIdInt"
+  ],
+  "rows": [
+   {
+    "commentId": "msg_32492",
+    "commentContent": "About Gold Cobra, which featured the single Shotgun and received mixed to p",
+    "commentCreationDate": 1264234665304,
+    "replyAuthorId": "person_143",
+    "replyAuthorFirstName": "Maria",
+    "replyAuthorLastName": "Alkaios",
+    "knows": false,
+    "replyAuthorIdInt": 143
+   }
+  ]
+ }
+}

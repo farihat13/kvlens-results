@@ -1,0 +1,66 @@
+{
+ "query_sha": "00f75f489d160871",
+ "params": {
+  "personId": "8796093022749"
+ },
+ "data": {
+  "schema_sha256": "03713a1e1c7b722e73bed6b150e079e69e9579c2a58c52e06f9d4384fdd4b80d",
+  "schema_path": "dgraph/schema/ldbcTypes.schema",
+  "sf": "0.3",
+  "created": "2026-11-21T02:56:18Z",
+  "git_sha": "60910999"
+ },
+ "fetched_at": "2026-11-21T00:05:26",
+ "raw": {
+  "person": [
+   {
+    "knows": [
+     {
+      "friendId": 32985348833548,
+      "friendFirstName": "Aleksandr",
+      "friendLastName": "Bajt",
+      "knows|creationDate": "2012-08-23T08:18:43.429+00:00"
+     },
+     {
+      "friendId": 32985348833438,
+      "friendFirstName": "Javed",
+      "friendLastName": "Khan",
+      "knows|creationDate": "2012-07-24T15:55:32.127+00:00"
+     },
+     {
+      "friendId": 26388279066936,
+      "friendFirstName": "Chen",
+      "friendLastName": "Zhang",
+      "knows|creationDate": "2012-02-22T19:52:09.511+00:00"
+     },
+     {
+      "friendId": 32985348836556,
+      "friendFirstName": "Maithripala",
+      "friendLastName": "Gunasekera",
+      "knows|creationDate": "2012-08-14T02:01:44.986+00:00"
+     },
+     {
+      "friendId": 19791209302403,
+      "friendFirstName": "Bibit",
+      "friendLastName": "Balawan",
+      "knows|creationDate": "2011-08-06T01:56:46.745+00:00"
+     }
+    ],
+    "~knows": [
+     {
+      "friendId": 2199023258028,
+      "friendFirstName": "Babar",
+      "friendLastName": "Khan",
+      "~knows|creationDate": "2010-10-26T04:03:09.176+00:00"
+     },
+     {
+      "friendId": 2194,
+      "friendFirstName": "Alexander",
+      "friendLastName": "Dobrunov",
+      "~knows|creationDate": "2010-11-08T01:19:45.989+00:00"
+     }
+    ]
+   }
+  ]
+ }
+}

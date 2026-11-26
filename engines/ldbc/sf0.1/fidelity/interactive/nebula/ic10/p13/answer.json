@@ -1,0 +1,118 @@
+{
+ "query_sha": "e8d54b8612751a91",
+ "params": {
+  "personId": "person_6597069767668",
+  "month": 10
+ },
+ "data": {
+  "schema_sha256": "673074740eea54e4ba1fdc94eebf2087531b3007af7da660afffb3d1e8df0d1e",
+  "schema_path": "nebulagraph/schema/schema.gql",
+  "sf": "0.1",
+  "created": "2026-11-21T03:27:06Z",
+  "git_sha": "92777160"
+ },
+ "fetched_at": "2026-11-21T01:07:30",
+ "raw": {
+  "keys": [
+   "personId",
+   "personFirstName",
+   "personLastName",
+   "commonInterestScore",
+   "personGender",
+   "personCityName",
+   "personIdInt"
+  ],
+  "rows": [
+   {
+    "personId": "person_30786325577834",
+    "personFirstName": "Fernanda",
+    "personLastName": "Alves",
+    "commonInterestScore": 0,
+    "personGender": "male",
+    "personCityName": "Santos",
+    "personIdInt": 30786325577834
+   },
+   {
+    "personId": "person_8796093022290",
+    "personFirstName": "Alexei",
+    "personLastName": "Codreanu",
+    "commonInterestScore": -1,
+    "personGender": "male",
+    "personCityName": "Bender",
+    "personIdInt": 8796093022290
+   },
+   {
+    "personId": "person_15393162789614",
+    "personFirstName": "Adi",
+    "personLastName": "Cohen",
+    "commonInterestScore": -1,
+    "personGender": "female",
+    "personCityName": "Jerusalem",
+    "personIdInt": 15393162789614
+   },
+   {
+    "personId": "person_24189255811103",
+    "personFirstName": "Otto",
+    "personLastName": "Richter",
+    "commonInterestScore": -1,
+    "personGender": "male",
+    "personCityName": "Ludwigsburg",
+    "personIdInt": 24189255811103
+   },
+   {
+    "personId": "person_30786325578608",
+    "personFirstName": "Babar",
+    "personLastName": "Hussain",
+    "commonInterestScore": -1,
+    "personGender": "female",
+    "personCityName": "Ahmedpur_Sial",
+    "personIdInt": 30786325578608
+   },
+   {
+    "personId": "person_17592186045803",
+    "personFirstName": "Radu",
+    "personLastName": "Antonescu",
+    "commonInterestScore": -3,
+    "personGender": "female",
+    "personCityName": "Constan\u021ba",
+    "personIdInt": 17592186045803
+   },
+   {
+    "personId": "person_2199023256388",
+    "personFirstName": "Celso",
+    "personLastName": "Nascimento",
+    "commonInterestScore": -5,
+    "personGender": "male",
+    "personCityName": "Niter\u00f3i",
+    "personIdInt": 2199023256388
+   },
+   {
+    "personId": "person_10995116278336",
+    "personFirstName": "Joseph",
+    "personLastName": "Linchuk",
+    "commonInterestScore": -5,
+    "personGender": "male",
+    "personCityName": "Bobruysk",
+    "personIdInt": 10995116278336
+   },
+   {
+    "personId": "person_21990232556891",
+    "personFirstName": "Jim",
+    "personLastName": "Smith",
+    "commonInterestScore": -5,
+    "personGender": "female",
+    "personCityName": "Lubbock",
+    "personIdInt": 21990232556891
+   },
+   {
+    "personId": "person_13194139533648",
+    "personFirstName": "K.",
+    "personLastName": "Kumar",
+    "commonInterestScore": -7,
+    "personGender": "female",
+    "personCityName": "Balasore",
+    "personIdInt": 13194139533648
+   }
+  ]
+ }
+}

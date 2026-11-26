@@ -1,0 +1,23 @@
+{
+ "query_sha": "afd1398a68b07f16",
+ "params": {
+  "personId": "24189255811707"
+ },
+ "data_created": "2026-11-21T03:25:44Z",
+ "measured_at": "2026-11-21T01:02:53",
+ "raw": {
+  "get_bytes": 10278,
+  "get_count": 166,
+  "get_found_count": 163,
+  "get_latency_ns": 1756370,
+  "next_bytes": 700638,
+  "next_count": 1028,
+  "next_latency_ns": 17709774,
+  "seek_bytes": 1836434,
+  "seek_count": 1112,
+  "seek_latency_ns": 7906290,
+  "set_bytes": 0,
+  "set_count": 0,
+  "set_latency_ns": 0
+ }
+}

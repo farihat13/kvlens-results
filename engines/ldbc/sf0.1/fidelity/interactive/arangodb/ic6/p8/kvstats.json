@@ -1,0 +1,32 @@
+{
+ "query_sha": "ca817504079a16c1",
+ "params": {
+  "personId": 19791209300317,
+  "tagName": "Nat_King_Cole"
+ },
+ "data_created": "2026-11-21T03:27:46Z",
+ "measured_at": "2026-11-21T01:03:44",
+ "raw": {
+  "get_count": 484553,
+  "get_found_count": 484553,
+  "get_time_ns": 693266779,
+  "get_bytes": 44139082,
+  "seek_count": 44994,
+  "seek_time_ns": 1666954068,
+  "seek_bytes": 374189,
+  "next_count": 151644,
+  "next_time_ns": 16821696,
+  "next_bytes": 7772645,
+  "prev_count": 0,
+  "prev_time_ns": 0,
+  "prev_bytes": 0,
+  "put_count": 0,
+  "put_time_ns": 0,
+  "put_bytes": 0,
+  "delete_count": 0,
+  "delete_time_ns": 0,
+  "delete_bytes": 0,
+  "commit_count": 0,
+  "commit_time_ns": 0
+ }
+}

@@ -1,0 +1,24 @@
+{
+ "query_sha": "cc60061064f78218",
+ "params": {
+  "personId": "13194139535032",
+  "firstName": "Daniil"
+ },
+ "data_created": "2026-11-21T02:56:18Z",
+ "measured_at": "2026-11-20T23:08:55",
+ "raw": {
+  "get_bytes": 1579,
+  "get_count": 26,
+  "get_found_count": 26,
+  "get_latency_ns": 1073248,
+  "next_bytes": 0,
+  "next_count": 0,
+  "next_latency_ns": 0,
+  "seek_bytes": 4693298,
+  "seek_count": 1886,
+  "seek_latency_ns": 8923028,
+  "set_bytes": 0,
+  "set_count": 0,
+  "set_latency_ns": 0
+ }
+}

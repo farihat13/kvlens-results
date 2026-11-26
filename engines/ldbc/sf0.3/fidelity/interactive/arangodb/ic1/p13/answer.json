@@ -1,0 +1,108 @@
+{
+ "query_sha": "758b65813d7ffbd6",
+ "params": {
+  "personId": 28587302322565,
+  "firstName": "Diego"
+ },
+ "data": {
+  "schema_sha256": "b8e206f17e60692c830ba0c3c675fbc481a22f26011282ce523890eb09be8a74",
+  "schema_path": "arangodb/schema/ldbc_schema.json",
+  "sf": "0.3",
+  "created": "2026-11-21T03:01:29Z",
+  "git_sha": "60910999"
+ },
+ "fetched_at": "2026-11-20T23:56:30",
+ "raw": [
+  {
+   "friendId": 10995116280870,
+   "friendLastName": "Gonzalez",
+   "distanceFromPerson": 2,
+   "friendBirthday": 470620800000,
+   "friendCreationDate": 1289692870509,
+   "friendGender": "male",
+   "friendBrowserUsed": "Chrome",
+   "friendLocationIp": "131.178.75.37",
+   "friendEmails": [
+    "Diego10995116280870@gmx.com",
+    "Diego10995116280870@zoho.com"
+   ],
+   "friendLanguages": [
+    "es",
+    "en"
+   ],
+   "friendCityName": "Culiac\u00e1n",
+   "friendUniversities": [
+    [
+     "Instituto_Tecnol\u00f3gico_Superior_de_Irapuato",
+     2006,
+     "Irapuato"
+    ]
+   ],
+   "friendCompanies": [
+    [
+     "ARD_Charters",
+     2007,
+     "Mexico"
+    ],
+    [
+     "Estafeta_Carga_A\u00e9rea",
+     2007,
+     "Mexico"
+    ],
+    [
+     "Jetclub",
+     2007,
+     "Mexico"
+    ],
+    [
+     "Avioquintana",
+     2007,
+     "Mexico"
+    ]
+   ]
+  },
+  {
+   "friendId": 26388279069410,
+   "friendLastName": "Aguirre",
+   "distanceFromPerson": 3,
+   "friendBirthday": 465004800000,
+   "friendCreationDate": 1326213875436,
+   "friendGender": "male",
+   "friendBrowserUsed": "Chrome",
+   "friendLocationIp": "62.97.147.67",
+   "friendEmails": [
+    "Diego26388279069410@gmx.com"
+   ],
+   "friendLanguages": [
+    "es",
+    "ca",
+    "en"
+   ],
+   "friendCityName": "Bilbao",
+   "friendUniversities": [
+    [
+     "University_of_the_Basque_Country",
+     2002,
+     "Bilbao"
+    ]
+   ],
+   "friendCompanies": [
+    [
+     "Mayoral_Executive_Jet",
+     2004,
+     "Spain"
+    ],
+    [
+     "Futura_International_Airways",
+     2004,
+     "Spain"
+    ],
+    [
+     "Pyrenair",
+     2004,
+     "Spain"
+    ]
+   ]
+  }
+ ]
+}

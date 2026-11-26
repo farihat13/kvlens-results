@@ -1,0 +1,32 @@
+{
+ "query_sha": "a0fe1ffc71b46f10",
+ "params": {
+  "messageId": "msg_5522"
+ },
+ "data": {
+  "schema_sha256": "673074740eea54e4ba1fdc94eebf2087531b3007af7da660afffb3d1e8df0d1e",
+  "schema_path": "nebulagraph/schema/schema.gql",
+  "sf": "0.3",
+  "created": "2026-11-21T03:42:54Z",
+  "git_sha": "1d6662c2"
+ },
+ "fetched_at": "2026-11-20T23:58:14",
+ "raw": {
+  "keys": [
+   "forumId",
+   "forumTitle",
+   "moderatorId",
+   "moderatorFirstName",
+   "moderatorLastName"
+  ],
+  "rows": [
+   {
+    "forumId": "forum_307",
+    "forumTitle": "Wall of Juan Diaz",
+    "moderatorId": "person_2099",
+    "moderatorFirstName": "Juan",
+    "moderatorLastName": "Diaz"
+   }
+  ]
+ }
+}

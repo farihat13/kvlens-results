@@ -1,0 +1,102 @@
+{
+ "query_sha": "6ff3aa62b8626f5b",
+ "params": {
+  "personId": "person_19791209300317"
+ },
+ "data": {
+  "schema_sha256": "673074740eea54e4ba1fdc94eebf2087531b3007af7da660afffb3d1e8df0d1e",
+  "schema_path": "nebulagraph/schema/schema.gql",
+  "sf": "0.1",
+  "created": "2026-11-21T03:27:06Z",
+  "git_sha": "92777160"
+ },
+ "fetched_at": "2026-11-21T01:07:27",
+ "raw": {
+  "keys": [
+   "friendId",
+   "friendFirstName",
+   "friendLastName",
+   "friendshipCreationDate",
+   "friendIdInt"
+  ],
+  "rows": [
+   {
+    "friendId": "person_26388279067551",
+    "friendFirstName": "Anand",
+    "friendLastName": "Rao",
+    "friendshipCreationDate": 1330583764677,
+    "friendIdInt": 26388279067551
+   },
+   {
+    "friendId": "person_24189255811862",
+    "friendFirstName": "Kalu",
+    "friendLastName": "Bembo-Leta",
+    "friendshipCreationDate": 1322317123714,
+    "friendIdInt": 24189255811862
+   },
+   {
+    "friendId": "person_21990232555524",
+    "friendFirstName": "Bryn",
+    "friendLastName": "Davies",
+    "friendshipCreationDate": 1318866545132,
+    "friendIdInt": 21990232555524
+   },
+   {
+    "friendId": "person_21990232556410",
+    "friendFirstName": "Aa Ngurah",
+    "friendLastName": "Gallagher",
+    "friendshipCreationDate": 1315570035171,
+    "friendIdInt": 21990232556410
+   },
+   {
+    "friendId": "person_13194139533574",
+    "friendFirstName": "Benhalima",
+    "friendLastName": "Ferrer",
+    "friendshipCreationDate": 1314420725626,
+    "friendIdInt": 13194139533574
+   },
+   {
+    "friendId": "person_8796093022367",
+    "friendFirstName": "David",
+    "friendLastName": "Alonso",
+    "friendshipCreationDate": 1313930958037,
+    "friendIdInt": 8796093022367
+   },
+   {
+    "friendId": "person_19791209300796",
+    "friendFirstName": "Leandro",
+    "friendLastName": "Silva",
+    "friendshipCreationDate": 1313705400763,
+    "friendIdInt": 19791209300796
+   },
+   {
+    "friendId": "person_17592186045497",
+    "friendFirstName": "Keisuke",
+    "friendLastName": "Sato",
+    "friendshipCreationDate": 1313328016528,
+    "friendIdInt": 17592186045497
+   },
+   {
+    "friendId": "person_13194139534279",
+    "friendFirstName": "Isabel",
+    "friendLastName": "Fernandez",
+    "friendshipCreationDate": 1312762728571,
+    "friendIdInt": 13194139534279
+   },
+   {
+    "friendId": "person_2199023256881",
+    "friendFirstName": "Ammar",
+    "friendLastName": "David",
+    "friendshipCreationDate": 1312760256340,
+    "friendIdInt": 2199023256881
+   },
+   {
+    "friendId": "person_2199023256277",
+    "friendFirstName": "Allister",
+    "friendLastName": "Miller",
+    "friendshipCreationDate": 1312720693623,
+    "friendIdInt": 2199023256277
+   }
+  ]
+ }
+}

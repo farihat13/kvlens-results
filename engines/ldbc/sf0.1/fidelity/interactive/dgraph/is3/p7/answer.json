@@ -1,0 +1,70 @@
+{
+ "query_sha": "00f75f489d160871",
+ "params": {
+  "personId": "2199023256919"
+ },
+ "data": {
+  "schema_sha256": "03713a1e1c7b722e73bed6b150e079e69e9579c2a58c52e06f9d4384fdd4b80d",
+  "schema_path": "dgraph/schema/ldbcTypes.schema",
+  "sf": "0.1",
+  "created": "2026-11-21T03:25:44Z",
+  "git_sha": "92777160"
+ },
+ "fetched_at": "2026-11-21T01:06:48",
+ "raw": {
+  "person": [
+   {
+    "knows": [
+     {
+      "friendId": 32985348833438,
+      "friendFirstName": "Javed",
+      "friendLastName": "Khan",
+      "knows|creationDate": "2012-08-07T13:12:15.267+00:00"
+     },
+     {
+      "friendId": 21990232556410,
+      "friendFirstName": "Aa Ngurah",
+      "friendLastName": "Gallagher",
+      "knows|creationDate": "2011-09-17T22:37:16.170+00:00"
+     },
+     {
+      "friendId": 24189255811566,
+      "friendFirstName": "The",
+      "friendLastName": "Kunda",
+      "knows|creationDate": "2011-12-03T15:36:56.723+00:00"
+     },
+     {
+      "friendId": 17592186045896,
+      "friendFirstName": "Wilhelm",
+      "friendLastName": "Engel",
+      "knows|creationDate": "2011-07-02T00:43:34.693+00:00"
+     },
+     {
+      "friendId": 17592186044425,
+      "friendFirstName": "Alim",
+      "friendLastName": "Guliyev",
+      "knows|creationDate": "2011-06-13T04:09:31.303+00:00"
+     },
+     {
+      "friendId": 28587302323441,
+      "friendFirstName": "Aleksandr",
+      "friendLastName": "Aubakirov",
+      "knows|creationDate": "2012-04-14T10:52:27.530+00:00"
+     },
+     {
+      "friendId": 32985348834483,
+      "friendFirstName": "Michel",
+      "friendLastName": "Breton",
+      "knows|creationDate": "2012-08-03T14:07:23.748+00:00"
+     },
+     {
+      "friendId": 10995116277820,
+      "friendFirstName": "Paul",
+      "friendLastName": "Becker",
+      "knows|creationDate": "2011-01-07T14:29:41.037+00:00"
+     }
+    ]
+   }
+  ]
+ }
+}

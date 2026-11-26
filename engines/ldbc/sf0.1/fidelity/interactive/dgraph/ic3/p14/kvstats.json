@@ -1,0 +1,27 @@
+{
+ "query_sha": "907f15bd35b7d66e",
+ "params": {
+  "personId": "28587302322817",
+  "startDate": "2011-05-01T00:00:00Z",
+  "countryXName": "Chad",
+  "countryYName": "Angola",
+  "endDate": "2011-06-04T00:00:00Z"
+ },
+ "data_created": "2026-11-21T03:25:44Z",
+ "measured_at": "2026-11-21T01:04:29",
+ "raw": {
+  "get_bytes": 35286220,
+  "get_count": 526660,
+  "get_found_count": 526660,
+  "get_latency_ns": 30898761280,
+  "next_bytes": 0,
+  "next_count": 0,
+  "next_latency_ns": 0,
+  "seek_bytes": 15358393,
+  "seek_count": 264979,
+  "seek_latency_ns": 12697857168,
+  "set_bytes": 0,
+  "set_count": 0,
+  "set_latency_ns": 0
+ }
+}

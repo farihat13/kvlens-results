@@ -1,0 +1,81 @@
+{
+ "query_sha": "6ff3aa62b8626f5b",
+ "params": {
+  "personId": "person_32985348834334"
+ },
+ "data": {
+  "schema_sha256": "673074740eea54e4ba1fdc94eebf2087531b3007af7da660afffb3d1e8df0d1e",
+  "schema_path": "nebulagraph/schema/schema.gql",
+  "sf": "0.3",
+  "created": "2026-11-21T03:42:54Z",
+  "git_sha": "1d6662c2"
+ },
+ "fetched_at": "2026-11-20T23:56:28",
+ "raw": {
+  "keys": [
+   "friendId",
+   "friendFirstName",
+   "friendLastName",
+   "friendshipCreationDate",
+   "friendIdInt"
+  ],
+  "rows": [
+   {
+    "friendId": "person_2199023256077",
+    "friendFirstName": "Ibrahim Bare",
+    "friendLastName": "Ousmane",
+    "friendshipCreationDate": 1347201214032,
+    "friendIdInt": 2199023256077
+   },
+   {
+    "friendId": "person_10995116281209",
+    "friendFirstName": "Abdou",
+    "friendLastName": "Diouf",
+    "friendshipCreationDate": 1346965049636,
+    "friendIdInt": 10995116281209
+   },
+   {
+    "friendId": "person_30786325578585",
+    "friendFirstName": "Ayesha",
+    "friendLastName": "Butt",
+    "friendshipCreationDate": 1346626325033,
+    "friendIdInt": 30786325578585
+   },
+   {
+    "friendId": "person_1564",
+    "friendFirstName": "Emperor of Brazil",
+    "friendLastName": "Silva",
+    "friendshipCreationDate": 1346608394807,
+    "friendIdInt": 1564
+   },
+   {
+    "friendId": "person_459",
+    "friendFirstName": "Jharana Bajracharya Rashid",
+    "friendLastName": "Shrestha",
+    "friendshipCreationDate": 1346608117613,
+    "friendIdInt": 459
+   },
+   {
+    "friendId": "person_8796093023851",
+    "friendFirstName": "Evangelos",
+    "friendLastName": "Dionysiou",
+    "friendshipCreationDate": 1346379741109,
+    "friendIdInt": 8796093023851
+   },
+   {
+    "friendId": "person_2199023258743",
+    "friendFirstName": "Dominique",
+    "friendLastName": "Dia",
+    "friendshipCreationDate": 1346323797114,
+    "friendIdInt": 2199023258743
+   },
+   {
+    "friendId": "person_13194139534520",
+    "friendFirstName": "Rafael",
+    "friendLastName": "Santos",
+    "friendshipCreationDate": 1345718585275,
+    "friendIdInt": 13194139534520
+   }
+  ]
+ }
+}

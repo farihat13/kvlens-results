@@ -1,0 +1,78 @@
+{
+ "query_sha": "00f75f489d160871",
+ "params": {
+  "personId": "28587302322565"
+ },
+ "data": {
+  "schema_sha256": "03713a1e1c7b722e73bed6b150e079e69e9579c2a58c52e06f9d4384fdd4b80d",
+  "schema_path": "dgraph/schema/ldbcTypes.schema",
+  "sf": "0.3",
+  "created": "2026-11-21T02:56:18Z",
+  "git_sha": "60910999"
+ },
+ "fetched_at": "2026-11-20T23:58:14",
+ "raw": {
+  "person": [
+   {
+    "knows": [
+     {
+      "friendId": 32985348835870,
+      "friendFirstName": "Alberto",
+      "friendLastName": "Arango",
+      "knows|creationDate": "2012-08-26T22:24:47.373+00:00"
+     },
+     {
+      "friendId": 30786325581473,
+      "friendFirstName": "Paul",
+      "friendLastName": "Williams",
+      "knows|creationDate": "2012-06-20T23:05:25.881+00:00"
+     }
+    ],
+    "~knows": [
+     {
+      "friendId": 24189255812733,
+      "friendFirstName": "Alejandro",
+      "friendLastName": "Gonzalez",
+      "~knows|creationDate": "2012-04-10T11:02:11.504+00:00"
+     },
+     {
+      "friendId": 24189255813524,
+      "friendFirstName": "Ahmad",
+      "friendLastName": "Motamed",
+      "~knows|creationDate": "2012-05-06T15:25:51.500+00:00"
+     },
+     {
+      "friendId": 17592186046393,
+      "friendFirstName": "Sergio",
+      "friendLastName": "Mendez",
+      "~knows|creationDate": "2012-05-01T05:37:54.965+00:00"
+     },
+     {
+      "friendId": 10995116279934,
+      "friendFirstName": "Gisela",
+      "friendLastName": "Aguirre",
+      "~knows|creationDate": "2012-04-10T18:33:39.486+00:00"
+     },
+     {
+      "friendId": 6597069767242,
+      "friendFirstName": "Salim Ahmed",
+      "friendLastName": "Binalshibh",
+      "~knows|creationDate": "2012-05-07T14:22:19.949+00:00"
+     },
+     {
+      "friendId": 21990232558653,
+      "friendFirstName": "Ning",
+      "friendLastName": "Chen",
+      "~knows|creationDate": "2012-04-29T08:42:07.293+00:00"
+     },
+     {
+      "friendId": 2194,
+      "friendFirstName": "Alexander",
+      "friendLastName": "Dobrunov",
+      "~knows|creationDate": "2012-04-16T19:33:44.248+00:00"
+     }
+    ]
+   }
+  ]
+ }
+}

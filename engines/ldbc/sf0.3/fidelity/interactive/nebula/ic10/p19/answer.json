@@ -1,0 +1,118 @@
+{
+ "query_sha": "e8d54b8612751a91",
+ "params": {
+  "personId": "person_2199023256742",
+  "month": 11
+ },
+ "data": {
+  "schema_sha256": "673074740eea54e4ba1fdc94eebf2087531b3007af7da660afffb3d1e8df0d1e",
+  "schema_path": "nebulagraph/schema/schema.gql",
+  "sf": "0.3",
+  "created": "2026-11-21T03:42:54Z",
+  "git_sha": "1d6662c2"
+ },
+ "fetched_at": "2026-11-21T00:00:04",
+ "raw": {
+  "keys": [
+   "personId",
+   "personFirstName",
+   "personLastName",
+   "commonInterestScore",
+   "personGender",
+   "personCityName",
+   "personIdInt"
+  ],
+  "rows": [
+   {
+    "personId": "person_13194139534569",
+    "personFirstName": "Abdul-Malik",
+    "personLastName": "Hamdan",
+    "commonInterestScore": 0,
+    "personGender": "male",
+    "personCityName": "Sana'a",
+    "personIdInt": 13194139534569
+   },
+   {
+    "personId": "person_24189255814441",
+    "personFirstName": "Richard",
+    "personLastName": "Obuya",
+    "commonInterestScore": 0,
+    "personGender": "male",
+    "personCityName": "Nairobi",
+    "personIdInt": 24189255814441
+   },
+   {
+    "personId": "person_24189255814900",
+    "personFirstName": "Wei",
+    "personLastName": "Yang",
+    "commonInterestScore": 0,
+    "personGender": "female",
+    "personCityName": "Fenyang",
+    "personIdInt": 24189255814900
+   },
+   {
+    "personId": "person_28587302322814",
+    "personFirstName": "Alexander",
+    "personLastName": "Basov",
+    "commonInterestScore": 0,
+    "personGender": "male",
+    "personCityName": "Saint_Petersburg",
+    "personIdInt": 28587302322814
+   },
+   {
+    "personId": "person_30786325580446",
+    "personFirstName": "Karan",
+    "personLastName": "Rao",
+    "commonInterestScore": 0,
+    "personGender": "female",
+    "personCityName": "Bilaspur",
+    "personIdInt": 30786325580446
+   },
+   {
+    "personId": "person_30786325578215",
+    "personFirstName": "Hermann",
+    "personLastName": "Muller",
+    "commonInterestScore": -1,
+    "personGender": "male",
+    "personCityName": "Freiburg_im_Breisgau",
+    "personIdInt": 30786325578215
+   },
+   {
+    "personId": "person_10995116280019",
+    "personFirstName": "Kittipol",
+    "personLastName": "Aguilar",
+    "commonInterestScore": -2,
+    "personGender": "female",
+    "personCityName": "Nakhon_Pathom_Province",
+    "personIdInt": 10995116280019
+   },
+   {
+    "personId": "person_17592186047500",
+    "personFirstName": "Carlos Roberto",
+    "personLastName": "Flores",
+    "commonInterestScore": -2,
+    "personGender": "male",
+    "personCityName": "Tegucigalpa",
+    "personIdInt": 17592186047500
+   },
+   {
+    "personId": "person_19791209301329",
+    "personFirstName": "Bingbing",
+    "personLastName": "Chen",
+    "commonInterestScore": -2,
+    "personGender": "female",
+    "personCityName": "Bijie",
+    "personIdInt": 19791209301329
+   },
+   {
+    "personId": "person_26388279067805",
+    "personFirstName": "Chi",
+    "personLastName": "Li",
+    "commonInterestScore": -2,
+    "personGender": "male",
+    "personCityName": "Chibi",
+    "personIdInt": 26388279067805
+   }
+  ]
+ }
+}

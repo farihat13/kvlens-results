@@ -1,0 +1,64 @@
+{
+ "query_sha": "aab56a2aedd27dfa",
+ "params": {
+  "personId": 2199023256742
+ },
+ "data": {
+  "schema_sha256": "b8e206f17e60692c830ba0c3c675fbc481a22f26011282ce523890eb09be8a74",
+  "schema_path": "arangodb/schema/ldbc_schema.json",
+  "sf": "0.3",
+  "created": "2026-11-21T03:01:29Z",
+  "git_sha": "60910999"
+ },
+ "fetched_at": "2026-11-21T00:01:18",
+ "raw": [
+  {
+   "friendId": 21990232555586,
+   "friendFirstName": "Deepak",
+   "friendLastName": "Khan",
+   "friendshipCreationDate": 1315925975178
+  },
+  {
+   "friendId": 19791209303331,
+   "friendFirstName": "Abhishek",
+   "friendLastName": "Irani",
+   "friendshipCreationDate": 1313451412151
+  },
+  {
+   "friendId": 19791209302403,
+   "friendFirstName": "Bibit",
+   "friendLastName": "Balawan",
+   "friendshipCreationDate": 1311423314796
+  },
+  {
+   "friendId": 13194139537010,
+   "friendFirstName": "Rahul",
+   "friendLastName": "Rao",
+   "friendshipCreationDate": 1298317280180
+  },
+  {
+   "friendId": 8796093024661,
+   "friendFirstName": "Rahul",
+   "friendLastName": "Sharma",
+   "friendshipCreationDate": 1285785042828
+  },
+  {
+   "friendId": 2199023258513,
+   "friendFirstName": "Pol",
+   "friendLastName": "Dany",
+   "friendshipCreationDate": 1273603449984
+  },
+  {
+   "friendId": 459,
+   "friendFirstName": "Jharana Bajracharya Rashid",
+   "friendLastName": "Shrestha",
+   "friendshipCreationDate": 1272401220261
+  },
+  {
+   "friendId": 2199023259200,
+   "friendFirstName": "V.",
+   "friendLastName": "Joshi",
+   "friendshipCreationDate": 1272359005949
+  }
+ ]
+}

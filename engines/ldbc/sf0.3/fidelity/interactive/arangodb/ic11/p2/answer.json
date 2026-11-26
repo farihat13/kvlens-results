@@ -1,0 +1,46 @@
+{
+ "query_sha": "a28ac6b26a8dcd82",
+ "params": {
+  "personId": 2199023259220,
+  "countryName": "New_Zealand",
+  "workFromYear": 2014
+ },
+ "data": {
+  "schema_sha256": "b8e206f17e60692c830ba0c3c675fbc481a22f26011282ce523890eb09be8a74",
+  "schema_path": "arangodb/schema/ldbc_schema.json",
+  "sf": "0.3",
+  "created": "2026-11-21T03:01:29Z",
+  "git_sha": "60910999"
+ },
+ "fetched_at": "2026-11-20T23:51:17",
+ "raw": [
+  {
+   "personId": 26388279067248,
+   "personFirstName": "John",
+   "personLastName": "Kumar",
+   "organizationName": "Freedom_Air_(New_Zealand)",
+   "organizationWorkFrom": 1998
+  },
+  {
+   "personId": 6597069767572,
+   "personFirstName": "Babar",
+   "personLastName": "Iqbal",
+   "organizationName": "Great_Barrier_Airlines",
+   "organizationWorkFrom": 2008
+  },
+  {
+   "personId": 17592186047200,
+   "personFirstName": "Victor",
+   "personLastName": "Codreanu",
+   "organizationName": "Salt_Air",
+   "organizationWorkFrom": 2009
+  },
+  {
+   "personId": 6597069769791,
+   "personFirstName": "Mehmet",
+   "personLastName": "Arikan",
+   "organizationName": "Pacific_Blue_Airlines",
+   "organizationWorkFrom": 2010
+  }
+ ]
+}

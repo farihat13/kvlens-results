@@ -1,0 +1,118 @@
+{
+ "query_sha": "e8d54b8612751a91",
+ "params": {
+  "personId": "person_2199023259063",
+  "month": 5
+ },
+ "data": {
+  "schema_sha256": "673074740eea54e4ba1fdc94eebf2087531b3007af7da660afffb3d1e8df0d1e",
+  "schema_path": "nebulagraph/schema/schema.gql",
+  "sf": "0.3",
+  "created": "2026-11-21T03:42:54Z",
+  "git_sha": "1d6662c2"
+ },
+ "fetched_at": "2026-11-20T23:53:04",
+ "raw": {
+  "keys": [
+   "personId",
+   "personFirstName",
+   "personLastName",
+   "commonInterestScore",
+   "personGender",
+   "personCityName",
+   "personIdInt"
+  ],
+  "rows": [
+   {
+    "personId": "person_6597069766733",
+    "personFirstName": "Karl",
+    "personLastName": "Fischer",
+    "commonInterestScore": 60,
+    "personGender": "female",
+    "personCityName": "Ludwigsburg",
+    "personIdInt": 6597069766733
+   },
+   {
+    "personId": "person_21990232556962",
+    "personFirstName": "Zheng",
+    "personLastName": "Zhang",
+    "commonInterestScore": 0,
+    "personGender": "female",
+    "personCityName": "Shanghai",
+    "personIdInt": 21990232556962
+   },
+   {
+    "personId": "person_30786325578525",
+    "personFirstName": "Wei",
+    "personLastName": "Zhang",
+    "commonInterestScore": 0,
+    "personGender": "female",
+    "personCityName": "Anda",
+    "personIdInt": 30786325578525
+   },
+   {
+    "personId": "person_30786325580021",
+    "personFirstName": "Fakhreddine",
+    "personLastName": "Aouadhi",
+    "commonInterestScore": 0,
+    "personGender": "female",
+    "personCityName": "Gabes",
+    "personIdInt": 30786325580021
+   },
+   {
+    "personId": "person_30786325580521",
+    "personFirstName": "A. K.",
+    "personLastName": "Kapoor",
+    "commonInterestScore": 0,
+    "personGender": "female",
+    "personCityName": "Ujjain",
+    "personIdInt": 30786325580521
+   },
+   {
+    "personId": "person_30786325580641",
+    "personFirstName": "Rafael",
+    "personLastName": "Oliveira",
+    "commonInterestScore": 0,
+    "personGender": "male",
+    "personCityName": "Bag\u00e9",
+    "personIdInt": 30786325580641
+   },
+   {
+    "personId": "person_30786325580763",
+    "personFirstName": "Aditya",
+    "personLastName": "Sen",
+    "commonInterestScore": 0,
+    "personGender": "female",
+    "personCityName": "Shillong",
+    "personIdInt": 30786325580763
+   },
+   {
+    "personId": "person_32985348834824",
+    "personFirstName": "Lei",
+    "personLastName": "Chen",
+    "commonInterestScore": 0,
+    "personGender": "male",
+    "personCityName": "Fuqing",
+    "personIdInt": 32985348834824
+   },
+   {
+    "personId": "person_4398046514157",
+    "personFirstName": "Kirill",
+    "personLastName": "Ivanov",
+    "commonInterestScore": -1,
+    "personGender": "male",
+    "personCityName": "Ulan-Ude",
+    "personIdInt": 4398046514157
+   },
+   {
+    "personId": "person_24189255811398",
+    "personFirstName": "Jose",
+    "personLastName": "Escobar",
+    "commonInterestScore": -1,
+    "personGender": "female",
+    "personCityName": "Armenia",
+    "personIdInt": 24189255811398
+   }
+  ]
+ }
+}

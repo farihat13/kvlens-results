@@ -1,0 +1,72 @@
+{
+ "query_sha": "00f75f489d160871",
+ "params": {
+  "personId": "2199023256742"
+ },
+ "data": {
+  "schema_sha256": "03713a1e1c7b722e73bed6b150e079e69e9579c2a58c52e06f9d4384fdd4b80d",
+  "schema_path": "dgraph/schema/ldbcTypes.schema",
+  "sf": "0.3",
+  "created": "2026-11-21T02:56:18Z",
+  "git_sha": "60910999"
+ },
+ "fetched_at": "2026-11-21T00:01:18",
+ "raw": {
+  "person": [
+   {
+    "knows": [
+     {
+      "friendId": 13194139537010,
+      "friendFirstName": "Rahul",
+      "friendLastName": "Rao",
+      "knows|creationDate": "2011-02-21T19:41:20.180+00:00"
+     },
+     {
+      "friendId": 19791209303331,
+      "friendFirstName": "Abhishek",
+      "friendLastName": "Irani",
+      "knows|creationDate": "2011-08-15T23:36:52.151+00:00"
+     },
+     {
+      "friendId": 8796093024661,
+      "friendFirstName": "Rahul",
+      "friendLastName": "Sharma",
+      "knows|creationDate": "2010-09-29T18:30:42.828+00:00"
+     },
+     {
+      "friendId": 19791209302403,
+      "friendFirstName": "Bibit",
+      "friendLastName": "Balawan",
+      "knows|creationDate": "2011-07-23T12:15:14.796+00:00"
+     },
+     {
+      "friendId": 2199023259200,
+      "friendFirstName": "V.",
+      "friendLastName": "Joshi",
+      "knows|creationDate": "2010-04-27T09:03:25.949+00:00"
+     },
+     {
+      "friendId": 2199023258513,
+      "friendFirstName": "Pol",
+      "friendLastName": "Dany",
+      "knows|creationDate": "2010-05-11T18:44:09.984+00:00"
+     },
+     {
+      "friendId": 21990232555586,
+      "friendFirstName": "Deepak",
+      "friendLastName": "Khan",
+      "knows|creationDate": "2011-09-13T14:59:35.178+00:00"
+     }
+    ],
+    "~knows": [
+     {
+      "friendId": 459,
+      "friendFirstName": "Jharana Bajracharya Rashid",
+      "friendLastName": "Shrestha",
+      "~knows|creationDate": "2010-04-27T20:47:00.261+00:00"
+     }
+    ]
+   }
+  ]
+ }
+}

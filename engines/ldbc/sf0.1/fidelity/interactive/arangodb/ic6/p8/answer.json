@@ -1,0 +1,57 @@
+{
+ "query_sha": "ca817504079a16c1",
+ "params": {
+  "personId": 19791209300317,
+  "tagName": "Nat_King_Cole"
+ },
+ "data": {
+  "schema_sha256": "b8e206f17e60692c830ba0c3c675fbc481a22f26011282ce523890eb09be8a74",
+  "schema_path": "arangodb/schema/ldbc_schema.json",
+  "sf": "0.1",
+  "created": "2026-11-21T03:27:46Z",
+  "git_sha": "92777160"
+ },
+ "fetched_at": "2026-11-21T01:07:18",
+ "raw": [
+  {
+   "tagName": "Achtung_Baby",
+   "postCount": 1
+  },
+  {
+   "tagName": "Alexander_Downer",
+   "postCount": 1
+  },
+  {
+   "tagName": "American_Samoa",
+   "postCount": 1
+  },
+  {
+   "tagName": "Arantxa_S\u00e1nchez_Vicario",
+   "postCount": 1
+  },
+  {
+   "tagName": "Arthur_Wellesley,_1st_Duke_of_Wellington",
+   "postCount": 1
+  },
+  {
+   "tagName": "Backwoods_Barbie",
+   "postCount": 1
+  },
+  {
+   "tagName": "D._H._Lawrence",
+   "postCount": 1
+  },
+  {
+   "tagName": "Danish_West_Indies",
+   "postCount": 1
+  },
+  {
+   "tagName": "Everybody_Hurts",
+   "postCount": 1
+  },
+  {
+   "tagName": "Hassan_II_of_Morocco",
+   "postCount": 1
+  }
+ ]
+}

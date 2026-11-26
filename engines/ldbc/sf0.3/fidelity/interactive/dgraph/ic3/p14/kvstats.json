@@ -1,0 +1,27 @@
+{
+ "query_sha": "907f15bd35b7d66e",
+ "params": {
+  "personId": "4398046513140",
+  "startDate": "2011-04-01T00:00:00Z",
+  "countryXName": "Norway",
+  "countryYName": "El_Salvador",
+  "endDate": "2011-04-29T00:00:00Z"
+ },
+ "data_created": "2026-11-21T02:56:18Z",
+ "measured_at": "2026-11-20T23:07:17",
+ "raw": {
+  "get_bytes": 43570548,
+  "get_count": 629972,
+  "get_found_count": 629972,
+  "get_latency_ns": 31065755075,
+  "next_bytes": 0,
+  "next_count": 0,
+  "next_latency_ns": 0,
+  "seek_bytes": 18322025,
+  "seek_count": 316442,
+  "seek_latency_ns": 12524205001,
+  "set_bytes": 0,
+  "set_count": 0,
+  "set_latency_ns": 0
+ }
+}

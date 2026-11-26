@@ -1,0 +1,229 @@
+{
+ "query_sha": "e98a92aa07772002",
+ "params": {
+  "personId": "30786325579845",
+  "startDate": "2011-05-01T00:00:00Z",
+  "endDate": "2011-06-08T00:00:00Z"
+ },
+ "data": {
+  "schema_sha256": "03713a1e1c7b722e73bed6b150e079e69e9579c2a58c52e06f9d4384fdd4b80d",
+  "schema_path": "dgraph/schema/ldbcTypes.schema",
+  "sf": "0.3",
+  "created": "2026-11-21T02:56:18Z",
+  "git_sha": "60910999"
+ },
+ "fetched_at": "2026-11-20T23:53:32",
+ "raw": {
+  "_l1": [],
+  "tags": [
+   {
+    "tagName": "Shigeru_Miyamoto",
+    "postCount": 5
+   },
+   {
+    "tagName": "Guy_Sebastian",
+    "postCount": 5
+   },
+   {
+    "tagName": "Alfonso_X_of_Castile",
+    "postCount": 4
+   },
+   {
+    "tagName": "Province_of_Carolina",
+    "postCount": 2
+   },
+   {
+    "tagName": "Belisarius",
+    "postCount": 2
+   },
+   {
+    "tagName": "Free_City_of_L\u00fcbeck",
+    "postCount": 2
+   },
+   {
+    "tagName": "Peter_Hain",
+    "postCount": 2
+   },
+   {
+    "tagName": "Patrick_Vieira",
+    "postCount": 2
+   },
+   {
+    "tagName": "Wishing_on_a_Star",
+    "postCount": 2
+   },
+   {
+    "tagName": "Dominik_Hrbat\u00fd",
+    "postCount": 2
+   },
+   {
+    "tagName": "Whenever,_Wherever",
+    "postCount": 1
+   },
+   {
+    "tagName": "Kingdom_of_Croatia-Slavonia",
+    "postCount": 1
+   },
+   {
+    "tagName": "Bring_the_Noise",
+    "postCount": 1
+   },
+   {
+    "tagName": "Technologic",
+    "postCount": 1
+   },
+   {
+    "tagName": "Full_Moon_Fever",
+    "postCount": 1
+   },
+   {
+    "tagName": "Beautiful_Liar",
+    "postCount": 1
+   },
+   {
+    "tagName": "Free_Nelson_Mandela",
+    "postCount": 1
+   },
+   {
+    "tagName": "Schaumburg-Lippe",
+    "postCount": 1
+   },
+   {
+    "tagName": "In_the_Wee_Small_Hours",
+    "postCount": 1
+   },
+   {
+    "tagName": "Genesis_Live",
+    "postCount": 1
+   },
+   {
+    "tagName": "Hot_in_Herre",
+    "postCount": 1
+   },
+   {
+    "tagName": "Drums_and_Wires",
+    "postCount": 1
+   },
+   {
+    "tagName": "Democratic_Republic_of_Armenia",
+    "postCount": 1
+   },
+   {
+    "tagName": "Mr._Saxobeat",
+    "postCount": 1
+   },
+   {
+    "tagName": "Konbaung_Dynasty",
+    "postCount": 1
+   },
+   {
+    "tagName": "Bishopric_of_W\u00fcrzburg",
+    "postCount": 1
+   },
+   {
+    "tagName": "If_It_Makes_You_Happy",
+    "postCount": 1
+   },
+   {
+    "tagName": "She_Wants_to_Move",
+    "postCount": 1
+   },
+   {
+    "tagName": "Dookie",
+    "postCount": 1
+   },
+   {
+    "tagName": "Getback",
+    "postCount": 1
+   },
+   {
+    "tagName": "Bad_Romance",
+    "postCount": 1
+   },
+   {
+    "tagName": "T.I._vs._T.I.P.",
+    "postCount": 1
+   },
+   {
+    "tagName": "Save_the_Last_Dance_for_Me",
+    "postCount": 1
+   },
+   {
+    "tagName": "Suffragette_City",
+    "postCount": 1
+   },
+   {
+    "tagName": "My_December",
+    "postCount": 1
+   },
+   {
+    "tagName": "Pleased_to_Meet_Me",
+    "postCount": 1
+   },
+   {
+    "tagName": "Central_African_Republic",
+    "postCount": 1
+   },
+   {
+    "tagName": "Edward_II_of_England",
+    "postCount": 1
+   },
+   {
+    "tagName": "Ian_Fleming",
+    "postCount": 1
+   },
+   {
+    "tagName": "First_Bulgarian_Empire",
+    "postCount": 1
+   },
+   {
+    "tagName": "Samanids",
+    "postCount": 1
+   },
+   {
+    "tagName": "Name_of_the_Game",
+    "postCount": 1
+   },
+   {
+    "tagName": "Prince-Bishopric_of_M\u00fcnster",
+    "postCount": 1
+   },
+   {
+    "tagName": "Mr_Crowley",
+    "postCount": 1
+   },
+   {
+    "tagName": "Kingdom_of_Fouta_Tooro",
+    "postCount": 1
+   },
+   {
+    "tagName": "Meat_Loaf",
+    "postCount": 1
+   },
+   {
+    "tagName": "Paint_It,_Black",
+    "postCount": 1
+   },
+   {
+    "tagName": "How_Do_I_Live",
+    "postCount": 1
+   },
+   {
+    "tagName": "Jonas_Bj\u00f6rkman",
+    "postCount": 1
+   },
+   {
+    "tagName": "20_Jazz_Funk_Greats",
+    "postCount": 1
+   },
+   {
+    "tagName": "Talk_Talk_Talk",
+    "postCount": 1
+   },
+   {
+    "tagName": "Good_Vibrations",
+    "postCount": 1
+   }
+  ]
+ }
+}

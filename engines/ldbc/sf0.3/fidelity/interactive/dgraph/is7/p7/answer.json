@@ -1,0 +1,43 @@
+{
+ "query_sha": "6935170dcded2085",
+ "params": {
+  "messageId": "343598113697"
+ },
+ "data": {
+  "schema_sha256": "03713a1e1c7b722e73bed6b150e079e69e9579c2a58c52e06f9d4384fdd4b80d",
+  "schema_path": "dgraph/schema/ldbcTypes.schema",
+  "sf": "0.3",
+  "created": "2026-11-21T02:56:18Z",
+  "git_sha": "60910999"
+ },
+ "fetched_at": "2026-11-20T23:54:50",
+ "raw": {
+  "origAuthor": [
+   {
+    "origAuthorId": 4398046511667
+   }
+  ],
+  "replies": [
+   {
+    "commentContent": "ok",
+    "commentCreationDate": "2010-11-13T04:23:23.787Z",
+    "commentId": 343598113698,
+    "knowsCount": 1,
+    "knowsCount2": 0,
+    "replyAuthorFirstName": "V.",
+    "replyAuthorId": 2199023259200,
+    "replyAuthorLastName": "Joshi"
+   },
+   {
+    "commentContent": "maybe",
+    "commentCreationDate": "2010-11-12T20:35:01.838Z",
+    "commentId": 343598113699,
+    "knowsCount": 0,
+    "knowsCount2": 0,
+    "replyAuthorFirstName": "Karl",
+    "replyAuthorId": 6597069766733,
+    "replyAuthorLastName": "Fischer"
+   }
+  ]
+ }
+}

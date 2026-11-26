@@ -1,0 +1,97 @@
+{
+ "query_sha": "c20c841713234a9d",
+ "params": {
+  "personId": 30786325579745,
+  "month": 12
+ },
+ "data": {
+  "schema_sha256": "b8e206f17e60692c830ba0c3c675fbc481a22f26011282ce523890eb09be8a74",
+  "schema_path": "arangodb/schema/ldbc_schema.json",
+  "sf": "0.3",
+  "created": "2026-11-21T03:01:29Z",
+  "git_sha": "60910999"
+ },
+ "fetched_at": "2026-11-21T00:06:53",
+ "raw": [
+  {
+   "personId": 15393162792505,
+   "personFirstName": "Mike",
+   "personLastName": "Jones",
+   "commonInterestScore": 10,
+   "personGender": "female",
+   "personCityName": "Minneapolis"
+  },
+  {
+   "personId": 1222,
+   "personFirstName": "Ali",
+   "personLastName": "Brar",
+   "commonInterestScore": 6,
+   "personGender": "female",
+   "personCityName": "Thika"
+  },
+  {
+   "personId": 21990232555771,
+   "personFirstName": "Ion",
+   "personLastName": "Bologan",
+   "commonInterestScore": 0,
+   "personGender": "female",
+   "personCityName": "Chi\u015fin\u0103u"
+  },
+  {
+   "personId": 24189255812587,
+   "personFirstName": "Janos",
+   "personLastName": "Farkas",
+   "commonInterestScore": 0,
+   "personGender": "female",
+   "personCityName": "Salg\u00f3tarj\u00e1n"
+  },
+  {
+   "personId": 28587302324313,
+   "personFirstName": "Ashley",
+   "personLastName": "Hassan",
+   "commonInterestScore": 0,
+   "personGender": "female",
+   "personCityName": "Penang"
+  },
+  {
+   "personId": 30786325579215,
+   "personFirstName": "Angel",
+   "personLastName": "Caveda",
+   "commonInterestScore": 0,
+   "personGender": "male",
+   "personCityName": "Mettu"
+  },
+  {
+   "personId": 32985348833467,
+   "personFirstName": "A.",
+   "personLastName": "Gallagher",
+   "commonInterestScore": 0,
+   "personGender": "female",
+   "personCityName": "Bengkulu"
+  },
+  {
+   "personId": 32985348837023,
+   "personFirstName": "Abdulwahab",
+   "personLastName": "Alhouthi",
+   "commonInterestScore": 0,
+   "personGender": "female",
+   "personCityName": "Aden"
+  },
+  {
+   "personId": 10995116277820,
+   "personFirstName": "Paul",
+   "personLastName": "Becker",
+   "commonInterestScore": -1,
+   "personGender": "female",
+   "personCityName": "Weimar"
+  },
+  {
+   "personId": 28587302324192,
+   "personFirstName": "Rico",
+   "personLastName": "Fernandez",
+   "commonInterestScore": -1,
+   "personGender": "male",
+   "personCityName": "Tacloban"
+  }
+ ]
+}

@@ -1,0 +1,88 @@
+{
+ "query_sha": "6ff3aa62b8626f5b",
+ "params": {
+  "personId": "person_30786325579101"
+ },
+ "data": {
+  "schema_sha256": "673074740eea54e4ba1fdc94eebf2087531b3007af7da660afffb3d1e8df0d1e",
+  "schema_path": "nebulagraph/schema/schema.gql",
+  "sf": "0.1",
+  "created": "2026-11-21T03:27:06Z",
+  "git_sha": "92777160"
+ },
+ "fetched_at": "2026-11-21T01:05:28",
+ "raw": {
+  "keys": [
+   "friendId",
+   "friendFirstName",
+   "friendLastName",
+   "friendshipCreationDate",
+   "friendIdInt"
+  ],
+  "rows": [
+   {
+    "friendId": "person_15393162790400",
+    "friendFirstName": "Jose",
+    "friendLastName": "Costa",
+    "friendshipCreationDate": 1339990667762,
+    "friendIdInt": 15393162790400
+   },
+   {
+    "friendId": "person_30786325577877",
+    "friendFirstName": "Gary",
+    "friendLastName": "Hill",
+    "friendshipCreationDate": 1339778802597,
+    "friendIdInt": 30786325577877
+   },
+   {
+    "friendId": "person_2199023256668",
+    "friendFirstName": "Rodrigo",
+    "friendLastName": "Costa",
+    "friendshipCreationDate": 1339722032599,
+    "friendIdInt": 2199023256668
+   },
+   {
+    "friendId": "person_6597069767708",
+    "friendFirstName": "Abdou",
+    "friendLastName": "Dia",
+    "friendshipCreationDate": 1339544863275,
+    "friendIdInt": 6597069767708
+   },
+   {
+    "friendId": "person_24189255812295",
+    "friendFirstName": "Francisco",
+    "friendLastName": "Sanchez",
+    "friendshipCreationDate": 1339426085482,
+    "friendIdInt": 24189255812295
+   },
+   {
+    "friendId": "person_10995116278925",
+    "friendFirstName": "Ken",
+    "friendLastName": "Kato",
+    "friendshipCreationDate": 1339423457250,
+    "friendIdInt": 10995116278925
+   },
+   {
+    "friendId": "person_987",
+    "friendFirstName": "Ali",
+    "friendLastName": "Diori",
+    "friendshipCreationDate": 1339122951688,
+    "friendIdInt": 987
+   },
+   {
+    "friendId": "person_17592186045748",
+    "friendFirstName": "David",
+    "friendLastName": "Stewart",
+    "friendshipCreationDate": 1338909166877,
+    "friendIdInt": 17592186045748
+   },
+   {
+    "friendId": "person_1355",
+    "friendFirstName": "Peter",
+    "friendLastName": "Taylor",
+    "friendshipCreationDate": 1338901140016,
+    "friendIdInt": 1355
+   }
+  ]
+ }
+}

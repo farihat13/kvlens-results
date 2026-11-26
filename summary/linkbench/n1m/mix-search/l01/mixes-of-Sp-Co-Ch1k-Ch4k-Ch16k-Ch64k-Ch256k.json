@@ -1,0 +1,462 @@
+{
+ "rows": [
+  {
+   "assignment": {
+    "Node props": "Co",
+    "link1 lists": "Sp",
+    "link2 lists": "Sp"
+   },
+   "benchmark": "linkbench",
+   "bytes_reference": "props_split_adj_condensed",
+   "capture": "<elsewhere>/captures/grid",
+   "chunk_view": "measured",
+   "command": "kvcost search-mix --dataset linkbench --sf n1m --from <elsewhere>/captures/grid --out <elsewhere>/mix-search-work --workload l01 --option-set per-type-any-size --size 1k=<elsewhere>/captures/grid_chunked_1k --size 4k=<elsewhere>/captures/grid_chunked_4k --size 16k=<elsewhere>/captures/grid_chunked_16k --size 256k=<elsewhere>/captures/grid_chunked_256k --model bill_exact --chunk-view measured",
+   "criterion": null,
+   "dominated": 15,
+   "fits": true,
+   "frequencies": "a16438482051743770dd6c7cf6756c719967b57234aa5168900acef2c1a22f6a",
+   "identity": {
+    "capture": "<elsewhere>/captures/grid",
+    "code_commit": "ee8ed54b9a4db7d9bd6bfbb317f7e27402e9111b",
+    "code_dirty": false,
+    "cost_cache_keys": [
+     "14cbad3cae183e4c4c7edab921e2188e",
+     "1736f0be8207d3c66cf62ee476bf4cab",
+     "44258722862104271af579205d05c287",
+     "45cd6bda6965a7d0b5a81619c123b382",
+     "5a29e94fcdb48f2547e0576bc360dc7a",
+     "5bd8fad4bdfbed909469a53d452d483a",
+     "60fd399dba298b42cc6d810627a3fc7f",
+     "6d5540e68ab8d41e13af0fed5ad797a5",
+     "71f7cd19a7f54717ac259a9572ca5196",
+     "9fecaf17383819f25e2d759be14887d7",
+     "be1238f90e6a2854a5f47463af51f28d",
+     "c357d246f5de6395b3728981b4873b67",
+     "caac34909ea49b19c2b2b83a3274eb27",
+     "d8ed07eba615308fa20cbff38cff9603",
+     "e329f02fabfbfaaf5a1455802e6602d6",
+     "ece9408a349ad2bb2799eb64a6bb974c"
+    ],
+    "counting": {
+     "chunked_c16k/linkbench": [
+      "{\"format\": 3, \"seam\": 4, \"write_format\": 1, \"write_seam\": 1}"
+     ],
+     "chunked_c16k/linkbench_writes": [
+      "{\"format\": 3, \"seam\": 4, \"write_format\": 1, \"write_seam\": 1}"
+     ],
+     "chunked_c1k/linkbench": [
+      "{\"format\": 3, \"seam\": 4, \"write_format\": 1, \"write_seam\": 1}"
+     ],
+     "chunked_c1k/linkbench_writes": [
+      "{\"format\": 3, \"seam\": 4, \"write_format\": 1, \"write_seam\": 1}"
+     ],
+     "chunked_c256k/linkbench": [
+      "{\"format\": 3, \"seam\": 4, \"write_format\": 1, \"write_seam\": 1}"
+     ],
+     "chunked_c256k/linkbench_writes": [
+      "{\"format\": 3, \"seam\": 4, \"write_format\": 1, \"write_seam\": 1}"
+     ],
+     "chunked_c4k/linkbench": [
+      "{\"format\": 3, \"seam\": 4, \"write_format\": 1, \"write_seam\": 1}"
+     ],
+     "chunked_c4k/linkbench_writes": [
+      "{\"format\": 3, \"seam\": 4, \"write_format\": 1, \"write_seam\": 1}"
+     ],
+     "linkbench": [
+      "{\"format\": 3, \"seam\": 4, \"write_format\": 1, \"write_seam\": 1}"
+     ],
+     "linkbench_writes": [
+      "{\"format\": 3, \"seam\": 4, \"write_format\": 1, \"write_seam\": 1}"
+     ]
+    },
+    "measurement_version": {
+     "chunked_c16k/linkbench": [
+      7
+     ],
+     "chunked_c16k/linkbench_writes": [
+      11
+     ],
+     "chunked_c1k/linkbench": [
+      7
+     ],
+     "chunked_c1k/linkbench_writes": [
+      11
+     ],
+     "chunked_c256k/linkbench": [
+      7
+     ],
+     "chunked_c256k/linkbench_writes": [
+      11
+     ],
+     "chunked_c4k/linkbench": [
+      7
+     ],
+     "chunked_c4k/linkbench_writes": [
+      11
+     ],
+     "linkbench": [
+      7
+     ],
+     "linkbench_writes": [
+      11
+     ]
+    },
+    "pick_record": "inputs/picks/picks.csv",
+    "pick_record_commit": "23c55d68bad41c859a4bef3bbe0aec807c24de5d",
+    "plan_files_commit": "a32431ea6f8fad881be856f26b09ed783d4c6e9b",
+    "source_kinds": {
+     "linkbench": {
+      "props_chunked_adj_chunked": "measured",
+      "props_chunked_adj_condensed": "measured",
+      "props_chunked_adj_split": "measured",
+      "props_condensed_adj_chunked": "measured",
+      "props_condensed_adj_condensed": "measured",
+      "props_condensed_adj_split": "measured",
+      "props_split_adj_chunked": "measured",
+      "props_split_adj_condensed": "measured",
+      "props_split_adj_split": "measured"
+     }
+    }
+   },
+   "lanes": {
+    "D": 1953.9999999998993,
+    "G": 26219.99999999673,
+    "N": 2392002.0000002515,
+    "P": 30363.00000000002,
+    "S": 56034.99999998212,
+    "bill_read_exact": 117222.99999997858,
+    "bill_read_lower": 117151.56665036922,
+    "bill_read_upper": 119300.19360350705,
+    "bill_write_exact": 32581.99999999987,
+    "bill_write_lower": 32435.682617187493,
+    "bill_write_upper": 35870.56542968773,
+    "get_key": 262943.9999999828,
+    "get_miss_key": 43833.00000000039,
+    "get_value": 5173698.000000065,
+    "miss_key_bytes": 1064665.0000000647,
+    "next_miss_key": 405459.999999996,
+    "read_bytes": 150612200.00001967,
+    "read_ops": 98517.52000002969,
+    "scan_key": 45448038.000005364,
+    "scan_value": 100852433.00000812,
+    "seek_miss_key": 659204.99999995,
+    "write_bytes": 3638851.0000000778,
+    "write_key": 493773.99999997957,
+    "write_ops": 32316.999999999916,
+    "write_rmw_bytes": 2233411.0000000503,
+    "write_rmw_miss_key_bytes": 43833.00000000039,
+    "write_rmw_ops": 13260.999999999613,
+    "write_value": 3145077.00000005
+   },
+   "limit": null,
+   "max_nodes": null,
+   "model": "bill_exact",
+   "nodes": 4,
+   "option_set": "per-type-any-size",
+   "per_part": {
+    "('adj', 'link1')": {
+     "bytes": 77137267.0000204,
+     "ops": 55182.400000019144
+    },
+    "('adj', 'link2')": {
+     "bytes": 71524904.99999927,
+     "ops": 53079.12000001353
+    },
+    "('props', 'Node')": {
+     "bytes": 7775256.000000101,
+     "ops": 32215.99999999608
+    },
+    "None": {
+     "bytes": 47033.99999999942,
+     "ops": 3617.99999999993
+    }
+   },
+   "plan_rule": "record=inputs/picks/picks.csv; anchor=True; pin=True; in_sample=True; historical=False",
+   "proven": true,
+   "question": "fewest",
+   "reference_bytes": 118664008.00000726,
+   "run_id": "20261114T002151Z-f3ef7f",
+   "scale": "n1m",
+   "score": null,
+   "sizes": [
+    [
+     "chunked_c1k",
+     "<elsewhere>/captures/grid_chunked_1k",
+     "props_chunked_c1k_adj_chunked_c1k"
+    ],
+    [
+     "chunked_c4k",
+     "<elsewhere>/captures/grid_chunked_4k",
+     "props_chunked_c4k_adj_chunked_c4k"
+    ],
+    [
+     "chunked_c16k",
+     "<elsewhere>/captures/grid_chunked_16k",
+     "props_chunked_c16k_adj_chunked_c16k"
+    ],
+    [
+     "chunked_c256k",
+     "<elsewhere>/captures/grid_chunked_256k",
+     "props_chunked_c256k_adj_chunked_c256k"
+    ]
+   ],
+   "solver": "cost-cache",
+   "start": {
+    "best_uniform": "condensed/split",
+    "two_step": {
+     "moves": 0,
+     "start_total": [
+      280132.9999999779,
+      156484462.0000198
+     ],
+     "total": [
+      280132.9999999779,
+      156484462.0000198
+     ]
+    },
+    "used": "the two-step mix"
+   },
+   "times": {
+    "cost_cache_s": 38.562,
+    "cost_s": 1.678,
+    "solve_s": 0.003,
+    "start_s": 0.0
+   },
+   "totals": {
+    "bill_exact": 280132.99999997794,
+    "bytes": 156484462.00001982,
+    "wops": 144095.5200000292
+   },
+   "walk_seconds": null,
+   "weighting": "sum",
+   "weights": "1:1.1:0.01",
+   "workload": "l01",
+   "workload_file": "l01"
+  },
+  {
+   "assignment": {
+    "Node props": "Co",
+    "link1 lists": "Co",
+    "link2 lists": "Co"
+   },
+   "benchmark": "linkbench",
+   "bytes_reference": "props_split_adj_condensed",
+   "capture": "<elsewhere>/lb/captures/grid",
+   "chunk_view": "half",
+   "command": "kvcost search-mix --option-set per-type-any-size --model wops_bytes4k --chunk-view half --table-cache <elsewhere>/mix/cache-lb --out <elsewhere>/mix/lb --dataset linkbench --sf n1m --params all --from <elsewhere>/lb/captures/grid --size 1k=<elsewhere>/lb/captures/grid_chunked_1k --size 4k=<elsewhere>/lb/captures/grid_chunked_4k --size 16k=<elsewhere>/lb/captures/grid_chunked_16k --size 256k=<elsewhere>/lb/captures/grid_chunked_256k --workload l01",
+   "criterion": null,
+   "dominated": 15,
+   "fits": true,
+   "identity": {
+    "capture": "<elsewhere>/lb/captures/grid",
+    "code_commit": "63e0a9e7e825afb0b10ed38a6ccbccc52e449b85",
+    "code_dirty": false,
+    "cost_cache_keys": [
+     "2235a931cbe403bfe8c568a0e07e20f3",
+     "25c857b7f933afc4fe36e1925611852d",
+     "27e1a3104d4dc9750c45bead4968e7af",
+     "300c95d6cc6b1a2e66c2de46bd98cbe6",
+     "319771b2d53fc1310965706ad67f6434",
+     "3284a5d3c6c38df070d868d060a3f626",
+     "387c8694a2920cb224a7fa4409c0c67b",
+     "3c28062e882683857b1d5d4e0e6343c9",
+     "53c6aca26e3ead04c392122676297705",
+     "59bd52067a631ee0a56b40412c505804",
+     "7783c188849db175c175063e43280a94",
+     "929a908518fbdbc2b97071b83b0cb75b",
+     "a7d93f9c15bdd709aca5b711a6c008d1",
+     "d2eec4a27b966ff4ba3418cb0b2919f4",
+     "ee6662935f9d08a29ab93871e9320538",
+     "ffcf17c35848d47c6afd71e4b1f35136"
+    ],
+    "counting": {
+     "chunked_c16k/linkbench": [
+      "{\"format\": 3, \"seam\": 4, \"write_format\": 1, \"write_seam\": 1}"
+     ],
+     "chunked_c16k/linkbench_writes": [
+      "{\"format\": 3, \"seam\": 4, \"write_format\": 1, \"write_seam\": 1}"
+     ],
+     "chunked_c1k/linkbench": [
+      "{\"format\": 3, \"seam\": 4, \"write_format\": 1, \"write_seam\": 1}"
+     ],
+     "chunked_c1k/linkbench_writes": [
+      "{\"format\": 3, \"seam\": 4, \"write_format\": 1, \"write_seam\": 1}"
+     ],
+     "chunked_c256k/linkbench": [
+      "{\"format\": 3, \"seam\": 4, \"write_format\": 1, \"write_seam\": 1}"
+     ],
+     "chunked_c256k/linkbench_writes": [
+      "{\"format\": 3, \"seam\": 4, \"write_format\": 1, \"write_seam\": 1}"
+     ],
+     "chunked_c4k/linkbench": [
+      "{\"format\": 3, \"seam\": 4, \"write_format\": 1, \"write_seam\": 1}"
+     ],
+     "chunked_c4k/linkbench_writes": [
+      "{\"format\": 3, \"seam\": 4, \"write_format\": 1, \"write_seam\": 1}"
+     ],
+     "linkbench": [
+      "{\"format\": 3, \"seam\": 4, \"write_format\": 1, \"write_seam\": 1}"
+     ],
+     "linkbench_writes": [
+      "{\"format\": 3, \"seam\": 4, \"write_format\": 1, \"write_seam\": 1}"
+     ]
+    },
+    "measurement_version": {
+     "chunked_c16k/linkbench": [
+      7
+     ],
+     "chunked_c16k/linkbench_writes": [
+      11
+     ],
+     "chunked_c1k/linkbench": [
+      7
+     ],
+     "chunked_c1k/linkbench_writes": [
+      11
+     ],
+     "chunked_c256k/linkbench": [
+      7
+     ],
+     "chunked_c256k/linkbench_writes": [
+      11
+     ],
+     "chunked_c4k/linkbench": [
+      7
+     ],
+     "chunked_c4k/linkbench_writes": [
+      11
+     ],
+     "linkbench": [
+      7
+     ],
+     "linkbench_writes": [
+      11
+     ]
+    },
+    "pick_record": "inputs/picks/pick_record.json",
+    "pick_record_commit": "c38f2dd980bbad39b599adfa822c0e46c483e30d",
+    "plan_files_commit": "2c4992dde9556a44af32e640ca1af86792f9b5d1",
+    "source_kinds": {
+     "linkbench": {
+      "props_chunked_adj_chunked": "measured",
+      "props_chunked_adj_condensed": "measured",
+      "props_chunked_adj_split": "measured",
+      "props_condensed_adj_chunked": "measured",
+      "props_condensed_adj_condensed": "measured",
+      "props_condensed_adj_split": "measured",
+      "props_split_adj_chunked": "measured",
+      "props_split_adj_condensed": "measured",
+      "props_split_adj_split": "measured"
+     }
+    }
+   },
+   "lanes": {
+    "D": 1953.9999999998993,
+    "G": 21266.999999996635,
+    "N": 203.0,
+    "P": 30363.00000000002,
+    "S": 76094.9999999822,
+    "get_key": 212669.99999998196,
+    "get_miss_key": 0.0,
+    "get_value": 5061570.000000064,
+    "miss_key_bytes": 381829.99999994825,
+    "next_miss_key": 176.00000000000003,
+    "read_bytes": 106007037.00000705,
+    "read_ops": 74599.53000001944,
+    "scan_key": 321959.0000000482,
+    "scan_value": 106383589.0000078,
+    "seek_miss_key": 519032.9999999468,
+    "write_bytes": 7633259.000000125,
+    "write_key": 351801.00000000244,
+    "write_ops": 32316.999999999916,
+    "write_rmw_bytes": 6491960.000000143,
+    "write_rmw_miss_key_bytes": 137378.99999999852,
+    "write_rmw_ops": 30374.000000000313,
+    "write_value": 7281458.000000051
+   },
+   "limit": null,
+   "max_nodes": null,
+   "model": "wops_bytes4k",
+   "nodes": 5,
+   "option_set": "per-type-any-size",
+   "per_part": {
+    "('adj', 'link1')": {
+     "bytes": 57867804.000006825,
+     "ops": 50945.360000005145
+    },
+    "('adj', 'link2')": {
+     "bytes": 54442162.00000038,
+     "ops": 50511.17000001798
+    },
+    "('props', 'Node')": {
+     "bytes": 7775256.000000101,
+     "ops": 32215.99999999608
+    },
+    "None": {
+     "bytes": 47033.99999999942,
+     "ops": 3617.99999999993
+    }
+   },
+   "plan_rule": "record=inputs/picks/pick_record.json; anchor=True; pin=True; in_sample=True; historical=False",
+   "proven": true,
+   "question": "fewest",
+   "reference_bytes": 118664008.00000726,
+   "run_id": "20261106T053639Z-e84ed6",
+   "scale": "n1m",
+   "score": null,
+   "sizes": [
+    [
+     "chunked_c1k",
+     "<elsewhere>/lb/captures/grid_chunked_1k",
+     "props_chunked_c1k_adj_chunked_c1k"
+    ],
+    [
+     "chunked_c4k",
+     "<elsewhere>/lb/captures/grid_chunked_4k",
+     "props_chunked_c4k_adj_chunked_c4k"
+    ],
+    [
+     "chunked_c16k",
+     "<elsewhere>/lb/captures/grid_chunked_16k",
+     "props_chunked_c16k_adj_chunked_c16k"
+    ],
+    [
+     "chunked_c256k",
+     "<elsewhere>/lb/captures/grid_chunked_256k",
+     "props_chunked_c256k_adj_chunked_c256k"
+    ]
+   ],
+   "solver": "cost-cache",
+   "start": {
+    "best_uniform": "condensed/condensed",
+    "two_step": {
+     "moves": 0,
+     "start_total": [
+      166619.69406252148,
+      120132256.00000732
+     ],
+     "total": [
+      166619.69406252148,
+      120132256.00000732
+     ]
+    },
+    "used": "the two-step mix"
+   },
+   "times": {
+    "cost_cache_s": 61.08,
+    "cost_s": 2.32,
+    "solve_s": 0.006,
+    "start_s": 0.0
+   },
+   "totals": {
+    "bytes": 120132256.00000732,
+    "wops": 137290.53000001967,
+    "wops_bytes4k": 166619.69406252145
+   },
+   "walk_seconds": null,
+   "weighting": "sum",
+   "weights": "1:1.1:0.01",
+   "workload": "l01"
+  }
+ ]
+}

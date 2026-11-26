@@ -1,0 +1,118 @@
+{
+ "query_sha": "e8d54b8612751a91",
+ "params": {
+  "personId": "person_24189255811707",
+  "month": 12
+ },
+ "data": {
+  "schema_sha256": "673074740eea54e4ba1fdc94eebf2087531b3007af7da660afffb3d1e8df0d1e",
+  "schema_path": "nebulagraph/schema/schema.gql",
+  "sf": "0.1",
+  "created": "2026-11-21T03:27:06Z",
+  "git_sha": "92777160"
+ },
+ "fetched_at": "2026-11-21T01:05:30",
+ "raw": {
+  "keys": [
+   "personId",
+   "personFirstName",
+   "personLastName",
+   "commonInterestScore",
+   "personGender",
+   "personCityName",
+   "personIdInt"
+  ],
+  "rows": [
+   {
+    "personId": "person_4398046512356",
+    "personFirstName": "Jie",
+    "personLastName": "Zhang",
+    "commonInterestScore": 31,
+    "personGender": "male",
+    "personCityName": "Xiangtan",
+    "personIdInt": 4398046512356
+   },
+   {
+    "personId": "person_6597069767831",
+    "personFirstName": "Bobby",
+    "personLastName": "Sotto",
+    "commonInterestScore": 2,
+    "personGender": "female",
+    "personCityName": "Bislig",
+    "personIdInt": 6597069767831
+   },
+   {
+    "personId": "person_19791209300372",
+    "personFirstName": "Hermann",
+    "personLastName": "Becker",
+    "commonInterestScore": 0,
+    "personGender": "male",
+    "personCityName": "Friedberg",
+    "personIdInt": 19791209300372
+   },
+   {
+    "personId": "person_30786325578935",
+    "personFirstName": "Ahmad",
+    "personLastName": "Mahmoud",
+    "commonInterestScore": 0,
+    "personGender": "female",
+    "personCityName": "Giza",
+    "personIdInt": 30786325578935
+   },
+   {
+    "personId": "person_21990232555658",
+    "personFirstName": "Juan",
+    "personLastName": "Aquino",
+    "commonInterestScore": -1,
+    "personGender": "female",
+    "personCityName": "Dumaguete",
+    "personIdInt": 21990232555658
+   },
+   {
+    "personId": "person_28587302322548",
+    "personFirstName": "Grigore",
+    "personLastName": "Bologan",
+    "commonInterestScore": -1,
+    "personGender": "female",
+    "personCityName": "Tiraspol",
+    "personIdInt": 28587302322548
+   },
+   {
+    "personId": "person_30786325577752",
+    "personFirstName": "Jie",
+    "personLastName": "Yang",
+    "commonInterestScore": -1,
+    "personGender": "male",
+    "personCityName": "Changzhou",
+    "personIdInt": 30786325577752
+   },
+   {
+    "personId": "person_24189255811694",
+    "personFirstName": "Victor",
+    "personLastName": "Hassan",
+    "commonInterestScore": -2,
+    "personGender": "female",
+    "personCityName": "Penang",
+    "personIdInt": 24189255811694
+   },
+   {
+    "personId": "person_24189255812361",
+    "personFirstName": "Luis",
+    "personLastName": "Cruz",
+    "commonInterestScore": -3,
+    "personGender": "male",
+    "personCityName": "Bislig",
+    "personIdInt": 24189255812361
+   },
+   {
+    "personId": "person_26388279067479",
+    "personFirstName": "Kenji",
+    "personLastName": "Abe",
+    "commonInterestScore": -3,
+    "personGender": "male",
+    "personCityName": "Toyoake",
+    "personIdInt": 26388279067479
+   }
+  ]
+ }
+}

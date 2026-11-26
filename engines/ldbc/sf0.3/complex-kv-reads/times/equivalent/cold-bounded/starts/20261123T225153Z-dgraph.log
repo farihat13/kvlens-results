@@ -1,0 +1,679 @@
+== [dgraph] start (engine backup, sf0.3) via engines/dgraph/start-server.sh ==
+== [hook LC_PRE_RESTORE_CHECK] source 'engines/provenance.sh' && check_provenance dgraph
+   provenance OK (schema sha256 03713a1e1c7b…)
+bash scripts/kill.sh
+All dgraph processes stopped.
+pinned: dgraph-kvstats (pid 2570851) on CPU 4
+pinned: dgraph-kvstats (pid 2570922) on CPU 4
+detsort: POST /detsort/enable → 200 OK (deterministic sort enable)
+eqfilterpath: POST /eqfilterpath/index → 200 OK
+typefilterpath: POST /typefilterpath/index → 200 OK
+ineqfilterpath: POST /ineqfilterpath/index → 200 OK
+localcache: PUT /localcache/disable → 200 OK
+rollup: PUT /rollup/pause → 200 OK (paused for stable kvstats)
+== [hook LC_POST_START_CHECK] 'engines/../.venv/bin/python3' -m kvengines.verify_schema --db dgraph
+   verified: 33 predicates match data/schema/dgraph/
+== engine up: dgraph (sf0.3) at the .env-declared operating point (dgraph: ineq=index, localcache=disable). ==
+== [dgraph] start (engine backup, sf0.3) via engines/dgraph/start-server.sh ==
+== [hook LC_PRE_RESTORE_CHECK] source 'engines/provenance.sh' && check_provenance dgraph
+   provenance OK (schema sha256 03713a1e1c7b…)
+bash scripts/kill.sh
+Stopping dgraph processes...
+All dgraph processes stopped.
+pinned: dgraph-kvstats (pid 2571741) on CPU 4
+pinned: dgraph-kvstats (pid 2571772) on CPU 4
+detsort: POST /detsort/enable → 200 OK (deterministic sort enable)
+eqfilterpath: POST /eqfilterpath/index → 200 OK
+typefilterpath: POST /typefilterpath/index → 200 OK
+ineqfilterpath: POST /ineqfilterpath/index → 200 OK
+localcache: PUT /localcache/disable → 200 OK
+rollup: PUT /rollup/pause → 200 OK (paused for stable kvstats)
+== [hook LC_POST_START_CHECK] 'engines/../.venv/bin/python3' -m kvengines.verify_schema --db dgraph
+   verified: 33 predicates match data/schema/dgraph/
+== engine up: dgraph (sf0.3) at the .env-declared operating point (dgraph: ineq=index, localcache=disable). ==
+== [dgraph] start (engine backup, sf0.3) via engines/dgraph/start-server.sh ==
+== [hook LC_PRE_RESTORE_CHECK] source 'engines/provenance.sh' && check_provenance dgraph
+   provenance OK (schema sha256 03713a1e1c7b…)
+bash scripts/kill.sh
+Stopping dgraph processes...
+All dgraph processes stopped.
+pinned: dgraph-kvstats (pid 2572347) on CPU 4
+pinned: dgraph-kvstats (pid 2572488) on CPU 4
+detsort: POST /detsort/enable → 200 OK (deterministic sort enable)
+eqfilterpath: POST /eqfilterpath/index → 200 OK
+typefilterpath: POST /typefilterpath/index → 200 OK
+ineqfilterpath: POST /ineqfilterpath/index → 200 OK
+localcache: PUT /localcache/disable → 200 OK
+rollup: PUT /rollup/pause → 200 OK (paused for stable kvstats)
+== [hook LC_POST_START_CHECK] 'engines/../.venv/bin/python3' -m kvengines.verify_schema --db dgraph
+   verified: 33 predicates match data/schema/dgraph/
+== engine up: dgraph (sf0.3) at the .env-declared operating point (dgraph: ineq=index, localcache=disable). ==
+== [dgraph] start (engine backup, sf0.3) via engines/dgraph/start-server.sh ==
+== [hook LC_PRE_RESTORE_CHECK] source 'engines/provenance.sh' && check_provenance dgraph
+   provenance OK (schema sha256 03713a1e1c7b…)
+bash scripts/kill.sh
+Stopping dgraph processes...
+All dgraph processes stopped.
+pinned: dgraph-kvstats (pid 2573279) on CPU 4
+pinned: dgraph-kvstats (pid 2573461) on CPU 4
+detsort: POST /detsort/enable → 200 OK (deterministic sort enable)
+eqfilterpath: POST /eqfilterpath/index → 200 OK
+typefilterpath: POST /typefilterpath/index → 200 OK
+ineqfilterpath: POST /ineqfilterpath/index → 200 OK
+localcache: PUT /localcache/disable → 200 OK
+rollup: PUT /rollup/pause → 200 OK (paused for stable kvstats)
+== [hook LC_POST_START_CHECK] 'engines/../.venv/bin/python3' -m kvengines.verify_schema --db dgraph
+   verified: 33 predicates match data/schema/dgraph/
+== engine up: dgraph (sf0.3) at the .env-declared operating point (dgraph: ineq=index, localcache=disable). ==
+== [dgraph] start (engine backup, sf0.3) via engines/dgraph/start-server.sh ==
+== [hook LC_PRE_RESTORE_CHECK] source 'engines/provenance.sh' && check_provenance dgraph
+   provenance OK (schema sha256 03713a1e1c7b…)
+bash scripts/kill.sh
+Stopping dgraph processes...
+All dgraph processes stopped.
+pinned: dgraph-kvstats (pid 2574103) on CPU 4
+pinned: dgraph-kvstats (pid 2574135) on CPU 4
+detsort: POST /detsort/enable → 200 OK (deterministic sort enable)
+eqfilterpath: POST /eqfilterpath/index → 200 OK
+typefilterpath: POST /typefilterpath/index → 200 OK
+ineqfilterpath: POST /ineqfilterpath/index → 200 OK
+localcache: PUT /localcache/disable → 200 OK
+rollup: PUT /rollup/pause → 200 OK (paused for stable kvstats)
+== [hook LC_POST_START_CHECK] 'engines/../.venv/bin/python3' -m kvengines.verify_schema --db dgraph
+   verified: 33 predicates match data/schema/dgraph/
+== engine up: dgraph (sf0.3) at the .env-declared operating point (dgraph: ineq=index, localcache=disable). ==
+== [dgraph] start (engine backup, sf0.3) via engines/dgraph/start-server.sh ==
+== [hook LC_PRE_RESTORE_CHECK] source 'engines/provenance.sh' && check_provenance dgraph
+   provenance OK (schema sha256 03713a1e1c7b…)
+bash scripts/kill.sh
+Stopping dgraph processes...
+All dgraph processes stopped.
+pinned: dgraph-kvstats (pid 2574662) on CPU 4
+pinned: dgraph-kvstats (pid 2574688) on CPU 4
+detsort: POST /detsort/enable → 200 OK (deterministic sort enable)
+eqfilterpath: POST /eqfilterpath/index → 200 OK
+typefilterpath: POST /typefilterpath/index → 200 OK
+ineqfilterpath: POST /ineqfilterpath/index → 200 OK
+localcache: PUT /localcache/disable → 200 OK
+rollup: PUT /rollup/pause → 200 OK (paused for stable kvstats)
+== [hook LC_POST_START_CHECK] 'engines/../.venv/bin/python3' -m kvengines.verify_schema --db dgraph
+   verified: 33 predicates match data/schema/dgraph/
+== engine up: dgraph (sf0.3) at the .env-declared operating point (dgraph: ineq=index, localcache=disable). ==
+== [dgraph] start (engine backup, sf0.3) via engines/dgraph/start-server.sh ==
+== [hook LC_PRE_RESTORE_CHECK] source 'engines/provenance.sh' && check_provenance dgraph
+   provenance OK (schema sha256 03713a1e1c7b…)
+bash scripts/kill.sh
+Stopping dgraph processes...
+All dgraph processes stopped.
+pinned: dgraph-kvstats (pid 2575175) on CPU 4
+pinned: dgraph-kvstats (pid 2575199) on CPU 4
+detsort: POST /detsort/enable → 200 OK (deterministic sort enable)
+eqfilterpath: POST /eqfilterpath/index → 200 OK
+typefilterpath: POST /typefilterpath/index → 200 OK
+ineqfilterpath: POST /ineqfilterpath/index → 200 OK
+localcache: PUT /localcache/disable → 200 OK
+rollup: PUT /rollup/pause → 200 OK (paused for stable kvstats)
+== [hook LC_POST_START_CHECK] 'engines/../.venv/bin/python3' -m kvengines.verify_schema --db dgraph
+   verified: 33 predicates match data/schema/dgraph/
+== engine up: dgraph (sf0.3) at the .env-declared operating point (dgraph: ineq=index, localcache=disable). ==
+== [dgraph] start (engine backup, sf0.3) via engines/dgraph/start-server.sh ==
+== [hook LC_PRE_RESTORE_CHECK] source 'engines/provenance.sh' && check_provenance dgraph
+   provenance OK (schema sha256 03713a1e1c7b…)
+bash scripts/kill.sh
+Stopping dgraph processes...
+All dgraph processes stopped.
+pinned: dgraph-kvstats (pid 2575693) on CPU 4
+pinned: dgraph-kvstats (pid 2575714) on CPU 4
+detsort: POST /detsort/enable → 200 OK (deterministic sort enable)
+eqfilterpath: POST /eqfilterpath/index → 200 OK
+typefilterpath: POST /typefilterpath/index → 200 OK
+ineqfilterpath: POST /ineqfilterpath/index → 200 OK
+localcache: PUT /localcache/disable → 200 OK
+rollup: PUT /rollup/pause → 200 OK (paused for stable kvstats)
+== [hook LC_POST_START_CHECK] 'engines/../.venv/bin/python3' -m kvengines.verify_schema --db dgraph
+   verified: 33 predicates match data/schema/dgraph/
+== engine up: dgraph (sf0.3) at the .env-declared operating point (dgraph: ineq=index, localcache=disable). ==
+== [dgraph] start (engine backup, sf0.3) via engines/dgraph/start-server.sh ==
+== [hook LC_PRE_RESTORE_CHECK] source 'engines/provenance.sh' && check_provenance dgraph
+   provenance OK (schema sha256 03713a1e1c7b…)
+bash scripts/kill.sh
+Stopping dgraph processes...
+All dgraph processes stopped.
+pinned: dgraph-kvstats (pid 2576195) on CPU 4
+pinned: dgraph-kvstats (pid 2576241) on CPU 4
+detsort: POST /detsort/enable → 200 OK (deterministic sort enable)
+eqfilterpath: POST /eqfilterpath/index → 200 OK
+typefilterpath: POST /typefilterpath/index → 200 OK
+ineqfilterpath: POST /ineqfilterpath/index → 200 OK
+localcache: PUT /localcache/disable → 200 OK
+rollup: PUT /rollup/pause → 200 OK (paused for stable kvstats)
+== [hook LC_POST_START_CHECK] 'engines/../.venv/bin/python3' -m kvengines.verify_schema --db dgraph
+   verified: 33 predicates match data/schema/dgraph/
+== engine up: dgraph (sf0.3) at the .env-declared operating point (dgraph: ineq=index, localcache=disable). ==
+== [dgraph] start (engine backup, sf0.3) via engines/dgraph/start-server.sh ==
+== [hook LC_PRE_RESTORE_CHECK] source 'engines/provenance.sh' && check_provenance dgraph
+   provenance OK (schema sha256 03713a1e1c7b…)
+bash scripts/kill.sh
+Stopping dgraph processes...
+All dgraph processes stopped.
+pinned: dgraph-kvstats (pid 2576723) on CPU 4
+pinned: dgraph-kvstats (pid 2576740) on CPU 4
+detsort: POST /detsort/enable → 200 OK (deterministic sort enable)
+eqfilterpath: POST /eqfilterpath/index → 200 OK
+typefilterpath: POST /typefilterpath/index → 200 OK
+ineqfilterpath: POST /ineqfilterpath/index → 200 OK
+localcache: PUT /localcache/disable → 200 OK
+rollup: PUT /rollup/pause → 200 OK (paused for stable kvstats)
+== [hook LC_POST_START_CHECK] 'engines/../.venv/bin/python3' -m kvengines.verify_schema --db dgraph
+   verified: 33 predicates match data/schema/dgraph/
+== engine up: dgraph (sf0.3) at the .env-declared operating point (dgraph: ineq=index, localcache=disable). ==
+== [dgraph] start (engine backup, sf0.3) via engines/dgraph/start-server.sh ==
+== [hook LC_PRE_RESTORE_CHECK] source 'engines/provenance.sh' && check_provenance dgraph
+   provenance OK (schema sha256 03713a1e1c7b…)
+bash scripts/kill.sh
+Stopping dgraph processes...
+All dgraph processes stopped.
+pinned: dgraph-kvstats (pid 2577290) on CPU 4
+pinned: dgraph-kvstats (pid 2577396) on CPU 4
+detsort: POST /detsort/enable → 200 OK (deterministic sort enable)
+eqfilterpath: POST /eqfilterpath/index → 200 OK
+typefilterpath: POST /typefilterpath/index → 200 OK
+ineqfilterpath: POST /ineqfilterpath/index → 200 OK
+localcache: PUT /localcache/disable → 200 OK
+rollup: PUT /rollup/pause → 200 OK (paused for stable kvstats)
+== [hook LC_POST_START_CHECK] 'engines/../.venv/bin/python3' -m kvengines.verify_schema --db dgraph
+   verified: 33 predicates match data/schema/dgraph/
+== engine up: dgraph (sf0.3) at the .env-declared operating point (dgraph: ineq=index, localcache=disable). ==
+== [dgraph] start (engine backup, sf0.3) via engines/dgraph/start-server.sh ==
+== [hook LC_PRE_RESTORE_CHECK] source 'engines/provenance.sh' && check_provenance dgraph
+   provenance OK (schema sha256 03713a1e1c7b…)
+bash scripts/kill.sh
+Stopping dgraph processes...
+All dgraph processes stopped.
+pinned: dgraph-kvstats (pid 2577893) on CPU 4
+pinned: dgraph-kvstats (pid 2577915) on CPU 4
+detsort: POST /detsort/enable → 200 OK (deterministic sort enable)
+eqfilterpath: POST /eqfilterpath/index → 200 OK
+typefilterpath: POST /typefilterpath/index → 200 OK
+ineqfilterpath: POST /ineqfilterpath/index → 200 OK
+localcache: PUT /localcache/disable → 200 OK
+rollup: PUT /rollup/pause → 200 OK (paused for stable kvstats)
+== [hook LC_POST_START_CHECK] 'engines/../.venv/bin/python3' -m kvengines.verify_schema --db dgraph
+   verified: 33 predicates match data/schema/dgraph/
+== engine up: dgraph (sf0.3) at the .env-declared operating point (dgraph: ineq=index, localcache=disable). ==
+== [dgraph] start (engine backup, sf0.3) via engines/dgraph/start-server.sh ==
+== [hook LC_PRE_RESTORE_CHECK] source 'engines/provenance.sh' && check_provenance dgraph
+   provenance OK (schema sha256 03713a1e1c7b…)
+bash scripts/kill.sh
+Stopping dgraph processes...
+All dgraph processes stopped.
+pinned: dgraph-kvstats (pid 2578406) on CPU 4
+pinned: dgraph-kvstats (pid 2578423) on CPU 4
+detsort: POST /detsort/enable → 200 OK (deterministic sort enable)
+eqfilterpath: POST /eqfilterpath/index → 200 OK
+typefilterpath: POST /typefilterpath/index → 200 OK
+ineqfilterpath: POST /ineqfilterpath/index → 200 OK
+localcache: PUT /localcache/disable → 200 OK
+rollup: PUT /rollup/pause → 200 OK (paused for stable kvstats)
+== [hook LC_POST_START_CHECK] 'engines/../.venv/bin/python3' -m kvengines.verify_schema --db dgraph
+   verified: 33 predicates match data/schema/dgraph/
+== engine up: dgraph (sf0.3) at the .env-declared operating point (dgraph: ineq=index, localcache=disable). ==
+== [dgraph] start (engine backup, sf0.3) via engines/dgraph/start-server.sh ==
+== [hook LC_PRE_RESTORE_CHECK] source 'engines/provenance.sh' && check_provenance dgraph
+   provenance OK (schema sha256 03713a1e1c7b…)
+bash scripts/kill.sh
+Stopping dgraph processes...
+All dgraph processes stopped.
+pinned: dgraph-kvstats (pid 2578891) on CPU 4
+pinned: dgraph-kvstats (pid 2578914) on CPU 4
+detsort: POST /detsort/enable → 200 OK (deterministic sort enable)
+eqfilterpath: POST /eqfilterpath/index → 200 OK
+typefilterpath: POST /typefilterpath/index → 200 OK
+ineqfilterpath: POST /ineqfilterpath/index → 200 OK
+localcache: PUT /localcache/disable → 200 OK
+rollup: PUT /rollup/pause → 200 OK (paused for stable kvstats)
+== [hook LC_POST_START_CHECK] 'engines/../.venv/bin/python3' -m kvengines.verify_schema --db dgraph
+   verified: 33 predicates match data/schema/dgraph/
+== engine up: dgraph (sf0.3) at the .env-declared operating point (dgraph: ineq=index, localcache=disable). ==
+== [dgraph] start (engine backup, sf0.3) via engines/dgraph/start-server.sh ==
+== [hook LC_PRE_RESTORE_CHECK] source 'engines/provenance.sh' && check_provenance dgraph
+   provenance OK (schema sha256 03713a1e1c7b…)
+bash scripts/kill.sh
+Stopping dgraph processes...
+All dgraph processes stopped.
+pinned: dgraph-kvstats (pid 2579421) on CPU 4
+pinned: dgraph-kvstats (pid 2579436) on CPU 4
+detsort: POST /detsort/enable → 200 OK (deterministic sort enable)
+eqfilterpath: POST /eqfilterpath/index → 200 OK
+typefilterpath: POST /typefilterpath/index → 200 OK
+ineqfilterpath: POST /ineqfilterpath/index → 200 OK
+localcache: PUT /localcache/disable → 200 OK
+rollup: PUT /rollup/pause → 200 OK (paused for stable kvstats)
+== [hook LC_POST_START_CHECK] 'engines/../.venv/bin/python3' -m kvengines.verify_schema --db dgraph
+   verified: 33 predicates match data/schema/dgraph/
+== engine up: dgraph (sf0.3) at the .env-declared operating point (dgraph: ineq=index, localcache=disable). ==
+== [dgraph] start (engine backup, sf0.3) via engines/dgraph/start-server.sh ==
+== [hook LC_PRE_RESTORE_CHECK] source 'engines/provenance.sh' && check_provenance dgraph
+   provenance OK (schema sha256 03713a1e1c7b…)
+bash scripts/kill.sh
+Stopping dgraph processes...
+All dgraph processes stopped.
+pinned: dgraph-kvstats (pid 2579914) on CPU 4
+pinned: dgraph-kvstats (pid 2579932) on CPU 4
+detsort: POST /detsort/enable → 200 OK (deterministic sort enable)
+eqfilterpath: POST /eqfilterpath/index → 200 OK
+typefilterpath: POST /typefilterpath/index → 200 OK
+ineqfilterpath: POST /ineqfilterpath/index → 200 OK
+localcache: PUT /localcache/disable → 200 OK
+rollup: PUT /rollup/pause → 200 OK (paused for stable kvstats)
+== [hook LC_POST_START_CHECK] 'engines/../.venv/bin/python3' -m kvengines.verify_schema --db dgraph
+   verified: 33 predicates match data/schema/dgraph/
+== engine up: dgraph (sf0.3) at the .env-declared operating point (dgraph: ineq=index, localcache=disable). ==
+== [dgraph] start (engine backup, sf0.3) via engines/dgraph/start-server.sh ==
+== [hook LC_PRE_RESTORE_CHECK] source 'engines/provenance.sh' && check_provenance dgraph
+   provenance OK (schema sha256 03713a1e1c7b…)
+bash scripts/kill.sh
+Stopping dgraph processes...
+All dgraph processes stopped.
+pinned: dgraph-kvstats (pid 2580436) on CPU 4
+pinned: dgraph-kvstats (pid 2580459) on CPU 4
+detsort: POST /detsort/enable → 200 OK (deterministic sort enable)
+eqfilterpath: POST /eqfilterpath/index → 200 OK
+typefilterpath: POST /typefilterpath/index → 200 OK
+ineqfilterpath: POST /ineqfilterpath/index → 200 OK
+localcache: PUT /localcache/disable → 200 OK
+rollup: PUT /rollup/pause → 200 OK (paused for stable kvstats)
+== [hook LC_POST_START_CHECK] 'engines/../.venv/bin/python3' -m kvengines.verify_schema --db dgraph
+   verified: 33 predicates match data/schema/dgraph/
+== engine up: dgraph (sf0.3) at the .env-declared operating point (dgraph: ineq=index, localcache=disable). ==
+== [dgraph] start (engine backup, sf0.3) via engines/dgraph/start-server.sh ==
+== [hook LC_PRE_RESTORE_CHECK] source 'engines/provenance.sh' && check_provenance dgraph
+   provenance OK (schema sha256 03713a1e1c7b…)
+bash scripts/kill.sh
+Stopping dgraph processes...
+All dgraph processes stopped.
+pinned: dgraph-kvstats (pid 2580951) on CPU 4
+pinned: dgraph-kvstats (pid 2580998) on CPU 4
+detsort: POST /detsort/enable → 200 OK (deterministic sort enable)
+eqfilterpath: POST /eqfilterpath/index → 200 OK
+typefilterpath: POST /typefilterpath/index → 200 OK
+ineqfilterpath: POST /ineqfilterpath/index → 200 OK
+localcache: PUT /localcache/disable → 200 OK
+rollup: PUT /rollup/pause → 200 OK (paused for stable kvstats)
+== [hook LC_POST_START_CHECK] 'engines/../.venv/bin/python3' -m kvengines.verify_schema --db dgraph
+   verified: 33 predicates match data/schema/dgraph/
+== engine up: dgraph (sf0.3) at the .env-declared operating point (dgraph: ineq=index, localcache=disable). ==
+== [dgraph] start (engine backup, sf0.3) via engines/dgraph/start-server.sh ==
+== [hook LC_PRE_RESTORE_CHECK] source 'engines/provenance.sh' && check_provenance dgraph
+   provenance OK (schema sha256 03713a1e1c7b…)
+bash scripts/kill.sh
+Stopping dgraph processes...
+All dgraph processes stopped.
+pinned: dgraph-kvstats (pid 2581574) on CPU 4
+pinned: dgraph-kvstats (pid 2581613) on CPU 4
+detsort: POST /detsort/enable → 200 OK (deterministic sort enable)
+eqfilterpath: POST /eqfilterpath/index → 200 OK
+typefilterpath: POST /typefilterpath/index → 200 OK
+ineqfilterpath: POST /ineqfilterpath/index → 200 OK
+localcache: PUT /localcache/disable → 200 OK
+rollup: PUT /rollup/pause → 200 OK (paused for stable kvstats)
+== [hook LC_POST_START_CHECK] 'engines/../.venv/bin/python3' -m kvengines.verify_schema --db dgraph
+   verified: 33 predicates match data/schema/dgraph/
+== engine up: dgraph (sf0.3) at the .env-declared operating point (dgraph: ineq=index, localcache=disable). ==
+== [dgraph] start (engine backup, sf0.3) via engines/dgraph/start-server.sh ==
+== [hook LC_PRE_RESTORE_CHECK] source 'engines/provenance.sh' && check_provenance dgraph
+   provenance OK (schema sha256 03713a1e1c7b…)
+bash scripts/kill.sh
+Stopping dgraph processes...
+All dgraph processes stopped.
+pinned: dgraph-kvstats (pid 2582137) on CPU 4
+pinned: dgraph-kvstats (pid 2582153) on CPU 4
+detsort: POST /detsort/enable → 200 OK (deterministic sort enable)
+eqfilterpath: POST /eqfilterpath/index → 200 OK
+typefilterpath: POST /typefilterpath/index → 200 OK
+ineqfilterpath: POST /ineqfilterpath/index → 200 OK
+localcache: PUT /localcache/disable → 200 OK
+rollup: PUT /rollup/pause → 200 OK (paused for stable kvstats)
+== [hook LC_POST_START_CHECK] 'engines/../.venv/bin/python3' -m kvengines.verify_schema --db dgraph
+   verified: 33 predicates match data/schema/dgraph/
+== engine up: dgraph (sf0.3) at the .env-declared operating point (dgraph: ineq=index, localcache=disable). ==
+== [dgraph] start (engine backup, sf0.3) via engines/dgraph/start-server.sh ==
+== [hook LC_PRE_RESTORE_CHECK] source 'engines/provenance.sh' && check_provenance dgraph
+   provenance OK (schema sha256 03713a1e1c7b…)
+bash scripts/kill.sh
+Stopping dgraph processes...
+All dgraph processes stopped.
+pinned: dgraph-kvstats (pid 2582653) on CPU 4
+pinned: dgraph-kvstats (pid 2582675) on CPU 4
+detsort: POST /detsort/enable → 200 OK (deterministic sort enable)
+eqfilterpath: POST /eqfilterpath/index → 200 OK
+typefilterpath: POST /typefilterpath/index → 200 OK
+ineqfilterpath: POST /ineqfilterpath/index → 200 OK
+localcache: PUT /localcache/disable → 200 OK
+rollup: PUT /rollup/pause → 200 OK (paused for stable kvstats)
+== [hook LC_POST_START_CHECK] 'engines/../.venv/bin/python3' -m kvengines.verify_schema --db dgraph
+   verified: 33 predicates match data/schema/dgraph/
+== engine up: dgraph (sf0.3) at the .env-declared operating point (dgraph: ineq=index, localcache=disable). ==
+== [dgraph] start (engine backup, sf0.3) via engines/dgraph/start-server.sh ==
+== [hook LC_PRE_RESTORE_CHECK] source 'engines/provenance.sh' && check_provenance dgraph
+   provenance OK (schema sha256 03713a1e1c7b…)
+bash scripts/kill.sh
+Stopping dgraph processes...
+All dgraph processes stopped.
+pinned: dgraph-kvstats (pid 2583234) on CPU 4
+pinned: dgraph-kvstats (pid 2583273) on CPU 4
+detsort: POST /detsort/enable → 200 OK (deterministic sort enable)
+eqfilterpath: POST /eqfilterpath/index → 200 OK
+typefilterpath: POST /typefilterpath/index → 200 OK
+ineqfilterpath: POST /ineqfilterpath/index → 200 OK
+localcache: PUT /localcache/disable → 200 OK
+rollup: PUT /rollup/pause → 200 OK (paused for stable kvstats)
+== [hook LC_POST_START_CHECK] 'engines/../.venv/bin/python3' -m kvengines.verify_schema --db dgraph
+   verified: 33 predicates match data/schema/dgraph/
+== engine up: dgraph (sf0.3) at the .env-declared operating point (dgraph: ineq=index, localcache=disable). ==
+== [dgraph] start (engine backup, sf0.3) via engines/dgraph/start-server.sh ==
+== [hook LC_PRE_RESTORE_CHECK] source 'engines/provenance.sh' && check_provenance dgraph
+   provenance OK (schema sha256 03713a1e1c7b…)
+bash scripts/kill.sh
+Stopping dgraph processes...
+All dgraph processes stopped.
+pinned: dgraph-kvstats (pid 2583791) on CPU 4
+pinned: dgraph-kvstats (pid 2583815) on CPU 4
+detsort: POST /detsort/enable → 200 OK (deterministic sort enable)
+eqfilterpath: POST /eqfilterpath/index → 200 OK
+typefilterpath: POST /typefilterpath/index → 200 OK
+ineqfilterpath: POST /ineqfilterpath/index → 200 OK
+localcache: PUT /localcache/disable → 200 OK
+rollup: PUT /rollup/pause → 200 OK (paused for stable kvstats)
+== [hook LC_POST_START_CHECK] 'engines/../.venv/bin/python3' -m kvengines.verify_schema --db dgraph
+   verified: 33 predicates match data/schema/dgraph/
+== engine up: dgraph (sf0.3) at the .env-declared operating point (dgraph: ineq=index, localcache=disable). ==
+== [dgraph] start (engine backup, sf0.3) via engines/dgraph/start-server.sh ==
+== [hook LC_PRE_RESTORE_CHECK] source 'engines/provenance.sh' && check_provenance dgraph
+   provenance OK (schema sha256 03713a1e1c7b…)
+bash scripts/kill.sh
+Stopping dgraph processes...
+All dgraph processes stopped.
+pinned: dgraph-kvstats (pid 2584428) on CPU 4
+pinned: dgraph-kvstats (pid 2584451) on CPU 4
+detsort: POST /detsort/enable → 200 OK (deterministic sort enable)
+eqfilterpath: POST /eqfilterpath/index → 200 OK
+typefilterpath: POST /typefilterpath/index → 200 OK
+ineqfilterpath: POST /ineqfilterpath/index → 200 OK
+localcache: PUT /localcache/disable → 200 OK
+rollup: PUT /rollup/pause → 200 OK (paused for stable kvstats)
+== [hook LC_POST_START_CHECK] 'engines/../.venv/bin/python3' -m kvengines.verify_schema --db dgraph
+   verified: 33 predicates match data/schema/dgraph/
+== engine up: dgraph (sf0.3) at the .env-declared operating point (dgraph: ineq=index, localcache=disable). ==
+== [dgraph] start (engine backup, sf0.3) via engines/dgraph/start-server.sh ==
+== [hook LC_PRE_RESTORE_CHECK] source 'engines/provenance.sh' && check_provenance dgraph
+   provenance OK (schema sha256 03713a1e1c7b…)
+bash scripts/kill.sh
+Stopping dgraph processes...
+All dgraph processes stopped.
+pinned: dgraph-kvstats (pid 2584988) on CPU 4
+pinned: dgraph-kvstats (pid 2585011) on CPU 4
+detsort: POST /detsort/enable → 200 OK (deterministic sort enable)
+eqfilterpath: POST /eqfilterpath/index → 200 OK
+typefilterpath: POST /typefilterpath/index → 200 OK
+ineqfilterpath: POST /ineqfilterpath/index → 200 OK
+localcache: PUT /localcache/disable → 200 OK
+rollup: PUT /rollup/pause → 200 OK (paused for stable kvstats)
+== [hook LC_POST_START_CHECK] 'engines/../.venv/bin/python3' -m kvengines.verify_schema --db dgraph
+   verified: 33 predicates match data/schema/dgraph/
+== engine up: dgraph (sf0.3) at the .env-declared operating point (dgraph: ineq=index, localcache=disable). ==
+== [dgraph] start (engine backup, sf0.3) via engines/dgraph/start-server.sh ==
+== [hook LC_PRE_RESTORE_CHECK] source 'engines/provenance.sh' && check_provenance dgraph
+   provenance OK (schema sha256 03713a1e1c7b…)
+bash scripts/kill.sh
+Stopping dgraph processes...
+All dgraph processes stopped.
+pinned: dgraph-kvstats (pid 2585521) on CPU 4
+pinned: dgraph-kvstats (pid 2585552) on CPU 4
+detsort: POST /detsort/enable → 200 OK (deterministic sort enable)
+eqfilterpath: POST /eqfilterpath/index → 200 OK
+typefilterpath: POST /typefilterpath/index → 200 OK
+ineqfilterpath: POST /ineqfilterpath/index → 200 OK
+localcache: PUT /localcache/disable → 200 OK
+rollup: PUT /rollup/pause → 200 OK (paused for stable kvstats)
+== [hook LC_POST_START_CHECK] 'engines/../.venv/bin/python3' -m kvengines.verify_schema --db dgraph
+   verified: 33 predicates match data/schema/dgraph/
+== engine up: dgraph (sf0.3) at the .env-declared operating point (dgraph: ineq=index, localcache=disable). ==
+== [dgraph] start (engine backup, sf0.3) via engines/dgraph/start-server.sh ==
+== [hook LC_PRE_RESTORE_CHECK] source 'engines/provenance.sh' && check_provenance dgraph
+   provenance OK (schema sha256 03713a1e1c7b…)
+bash scripts/kill.sh
+Stopping dgraph processes...
+All dgraph processes stopped.
+pinned: dgraph-kvstats (pid 2586086) on CPU 4
+pinned: dgraph-kvstats (pid 2586104) on CPU 4
+detsort: POST /detsort/enable → 200 OK (deterministic sort enable)
+eqfilterpath: POST /eqfilterpath/index → 200 OK
+typefilterpath: POST /typefilterpath/index → 200 OK
+ineqfilterpath: POST /ineqfilterpath/index → 200 OK
+localcache: PUT /localcache/disable → 200 OK
+rollup: PUT /rollup/pause → 200 OK (paused for stable kvstats)
+== [hook LC_POST_START_CHECK] 'engines/../.venv/bin/python3' -m kvengines.verify_schema --db dgraph
+   verified: 33 predicates match data/schema/dgraph/
+== engine up: dgraph (sf0.3) at the .env-declared operating point (dgraph: ineq=index, localcache=disable). ==
+== [dgraph] start (engine backup, sf0.3) via engines/dgraph/start-server.sh ==
+== [hook LC_PRE_RESTORE_CHECK] source 'engines/provenance.sh' && check_provenance dgraph
+   provenance OK (schema sha256 03713a1e1c7b…)
+bash scripts/kill.sh
+Stopping dgraph processes...
+All dgraph processes stopped.
+pinned: dgraph-kvstats (pid 2586679) on CPU 4
+pinned: dgraph-kvstats (pid 2586702) on CPU 4
+detsort: POST /detsort/enable → 200 OK (deterministic sort enable)
+eqfilterpath: POST /eqfilterpath/index → 200 OK
+typefilterpath: POST /typefilterpath/index → 200 OK
+ineqfilterpath: POST /ineqfilterpath/index → 200 OK
+localcache: PUT /localcache/disable → 200 OK
+rollup: PUT /rollup/pause → 200 OK (paused for stable kvstats)
+== [hook LC_POST_START_CHECK] 'engines/../.venv/bin/python3' -m kvengines.verify_schema --db dgraph
+   verified: 33 predicates match data/schema/dgraph/
+== engine up: dgraph (sf0.3) at the .env-declared operating point (dgraph: ineq=index, localcache=disable). ==
+== [dgraph] start (engine backup, sf0.3) via engines/dgraph/start-server.sh ==
+== [hook LC_PRE_RESTORE_CHECK] source 'engines/provenance.sh' && check_provenance dgraph
+   provenance OK (schema sha256 03713a1e1c7b…)
+bash scripts/kill.sh
+Stopping dgraph processes...
+All dgraph processes stopped.
+pinned: dgraph-kvstats (pid 2587234) on CPU 4
+pinned: dgraph-kvstats (pid 2587251) on CPU 4
+detsort: POST /detsort/enable → 200 OK (deterministic sort enable)
+eqfilterpath: POST /eqfilterpath/index → 200 OK
+typefilterpath: POST /typefilterpath/index → 200 OK
+ineqfilterpath: POST /ineqfilterpath/index → 200 OK
+localcache: PUT /localcache/disable → 200 OK
+rollup: PUT /rollup/pause → 200 OK (paused for stable kvstats)
+== [hook LC_POST_START_CHECK] 'engines/../.venv/bin/python3' -m kvengines.verify_schema --db dgraph
+   verified: 33 predicates match data/schema/dgraph/
+== engine up: dgraph (sf0.3) at the .env-declared operating point (dgraph: ineq=index, localcache=disable). ==
+== [dgraph] start (engine backup, sf0.3) via engines/dgraph/start-server.sh ==
+== [hook LC_PRE_RESTORE_CHECK] source 'engines/provenance.sh' && check_provenance dgraph
+   provenance OK (schema sha256 03713a1e1c7b…)
+bash scripts/kill.sh
+Stopping dgraph processes...
+All dgraph processes stopped.
+pinned: dgraph-kvstats (pid 2587815) on CPU 4
+pinned: dgraph-kvstats (pid 2587832) on CPU 4
+detsort: POST /detsort/enable → 200 OK (deterministic sort enable)
+eqfilterpath: POST /eqfilterpath/index → 200 OK
+typefilterpath: POST /typefilterpath/index → 200 OK
+ineqfilterpath: POST /ineqfilterpath/index → 200 OK
+localcache: PUT /localcache/disable → 200 OK
+rollup: PUT /rollup/pause → 200 OK (paused for stable kvstats)
+== [hook LC_POST_START_CHECK] 'engines/../.venv/bin/python3' -m kvengines.verify_schema --db dgraph
+   verified: 33 predicates match data/schema/dgraph/
+== engine up: dgraph (sf0.3) at the .env-declared operating point (dgraph: ineq=index, localcache=disable). ==
+== [dgraph] start (engine backup, sf0.3) via engines/dgraph/start-server.sh ==
+== [hook LC_PRE_RESTORE_CHECK] source 'engines/provenance.sh' && check_provenance dgraph
+   provenance OK (schema sha256 03713a1e1c7b…)
+bash scripts/kill.sh
+Stopping dgraph processes...
+All dgraph processes stopped.
+pinned: dgraph-kvstats (pid 2588394) on CPU 4
+pinned: dgraph-kvstats (pid 2588414) on CPU 4
+detsort: POST /detsort/enable → 200 OK (deterministic sort enable)
+eqfilterpath: POST /eqfilterpath/index → 200 OK
+typefilterpath: POST /typefilterpath/index → 200 OK
+ineqfilterpath: POST /ineqfilterpath/index → 200 OK
+localcache: PUT /localcache/disable → 200 OK
+rollup: PUT /rollup/pause → 200 OK (paused for stable kvstats)
+== [hook LC_POST_START_CHECK] 'engines/../.venv/bin/python3' -m kvengines.verify_schema --db dgraph
+   verified: 33 predicates match data/schema/dgraph/
+== engine up: dgraph (sf0.3) at the .env-declared operating point (dgraph: ineq=index, localcache=disable). ==
+== [dgraph] start (engine backup, sf0.3) via engines/dgraph/start-server.sh ==
+== [hook LC_PRE_RESTORE_CHECK] source 'engines/provenance.sh' && check_provenance dgraph
+   provenance OK (schema sha256 03713a1e1c7b…)
+bash scripts/kill.sh
+Stopping dgraph processes...
+All dgraph processes stopped.
+pinned: dgraph-kvstats (pid 2588932) on CPU 4
+pinned: dgraph-kvstats (pid 2588958) on CPU 4
+detsort: POST /detsort/enable → 200 OK (deterministic sort enable)
+eqfilterpath: POST /eqfilterpath/index → 200 OK
+typefilterpath: POST /typefilterpath/index → 200 OK
+ineqfilterpath: POST /ineqfilterpath/index → 200 OK
+localcache: PUT /localcache/disable → 200 OK
+rollup: PUT /rollup/pause → 200 OK (paused for stable kvstats)
+== [hook LC_POST_START_CHECK] 'engines/../.venv/bin/python3' -m kvengines.verify_schema --db dgraph
+   verified: 33 predicates match data/schema/dgraph/
+== engine up: dgraph (sf0.3) at the .env-declared operating point (dgraph: ineq=index, localcache=disable). ==
+== [dgraph] start (engine backup, sf0.3) via engines/dgraph/start-server.sh ==
+== [hook LC_PRE_RESTORE_CHECK] source 'engines/provenance.sh' && check_provenance dgraph
+   provenance OK (schema sha256 03713a1e1c7b…)
+bash scripts/kill.sh
+Stopping dgraph processes...
+All dgraph processes stopped.
+pinned: dgraph-kvstats (pid 2589424) on CPU 4
+pinned: dgraph-kvstats (pid 2589446) on CPU 4
+detsort: POST /detsort/enable → 200 OK (deterministic sort enable)
+eqfilterpath: POST /eqfilterpath/index → 200 OK
+typefilterpath: POST /typefilterpath/index → 200 OK
+ineqfilterpath: POST /ineqfilterpath/index → 200 OK
+localcache: PUT /localcache/disable → 200 OK
+rollup: PUT /rollup/pause → 200 OK (paused for stable kvstats)
+== [hook LC_POST_START_CHECK] 'engines/../.venv/bin/python3' -m kvengines.verify_schema --db dgraph
+   verified: 33 predicates match data/schema/dgraph/
+== engine up: dgraph (sf0.3) at the .env-declared operating point (dgraph: ineq=index, localcache=disable). ==
+== [dgraph] start (engine backup, sf0.3) via engines/dgraph/start-server.sh ==
+== [hook LC_PRE_RESTORE_CHECK] source 'engines/provenance.sh' && check_provenance dgraph
+   provenance OK (schema sha256 03713a1e1c7b…)
+bash scripts/kill.sh
+Stopping dgraph processes...
+All dgraph processes stopped.
+pinned: dgraph-kvstats (pid 2589951) on CPU 4
+pinned: dgraph-kvstats (pid 2589967) on CPU 4
+detsort: POST /detsort/enable → 200 OK (deterministic sort enable)
+eqfilterpath: POST /eqfilterpath/index → 200 OK
+typefilterpath: POST /typefilterpath/index → 200 OK
+ineqfilterpath: POST /ineqfilterpath/index → 200 OK
+localcache: PUT /localcache/disable → 200 OK
+rollup: PUT /rollup/pause → 200 OK (paused for stable kvstats)
+== [hook LC_POST_START_CHECK] 'engines/../.venv/bin/python3' -m kvengines.verify_schema --db dgraph
+   verified: 33 predicates match data/schema/dgraph/
+== engine up: dgraph (sf0.3) at the .env-declared operating point (dgraph: ineq=index, localcache=disable). ==
+== [dgraph] start (engine backup, sf0.3) via engines/dgraph/start-server.sh ==
+== [hook LC_PRE_RESTORE_CHECK] source 'engines/provenance.sh' && check_provenance dgraph
+   provenance OK (schema sha256 03713a1e1c7b…)
+bash scripts/kill.sh
+Stopping dgraph processes...
+All dgraph processes stopped.
+pinned: dgraph-kvstats (pid 2590444) on CPU 4
+pinned: dgraph-kvstats (pid 2590461) on CPU 4
+detsort: POST /detsort/enable → 200 OK (deterministic sort enable)
+eqfilterpath: POST /eqfilterpath/index → 200 OK
+typefilterpath: POST /typefilterpath/index → 200 OK
+ineqfilterpath: POST /ineqfilterpath/index → 200 OK
+localcache: PUT /localcache/disable → 200 OK
+rollup: PUT /rollup/pause → 200 OK (paused for stable kvstats)
+== [hook LC_POST_START_CHECK] 'engines/../.venv/bin/python3' -m kvengines.verify_schema --db dgraph
+   verified: 33 predicates match data/schema/dgraph/
+== engine up: dgraph (sf0.3) at the .env-declared operating point (dgraph: ineq=index, localcache=disable). ==
+== [dgraph] start (engine backup, sf0.3) via engines/dgraph/start-server.sh ==
+== [hook LC_PRE_RESTORE_CHECK] source 'engines/provenance.sh' && check_provenance dgraph
+   provenance OK (schema sha256 03713a1e1c7b…)
+bash scripts/kill.sh
+Stopping dgraph processes...
+All dgraph processes stopped.
+pinned: dgraph-kvstats (pid 2590961) on CPU 4
+pinned: dgraph-kvstats (pid 2590985) on CPU 4
+detsort: POST /detsort/enable → 200 OK (deterministic sort enable)
+eqfilterpath: POST /eqfilterpath/index → 200 OK
+typefilterpath: POST /typefilterpath/index → 200 OK
+ineqfilterpath: POST /ineqfilterpath/index → 200 OK
+localcache: PUT /localcache/disable → 200 OK
+rollup: PUT /rollup/pause → 200 OK (paused for stable kvstats)
+== [hook LC_POST_START_CHECK] 'engines/../.venv/bin/python3' -m kvengines.verify_schema --db dgraph
+   verified: 33 predicates match data/schema/dgraph/
+== engine up: dgraph (sf0.3) at the .env-declared operating point (dgraph: ineq=index, localcache=disable). ==
+== [dgraph] start (engine backup, sf0.3) via engines/dgraph/start-server.sh ==
+== [hook LC_PRE_RESTORE_CHECK] source 'engines/provenance.sh' && check_provenance dgraph
+   provenance OK (schema sha256 03713a1e1c7b…)
+bash scripts/kill.sh
+Stopping dgraph processes...
+All dgraph processes stopped.
+pinned: dgraph-kvstats (pid 2591484) on CPU 4
+pinned: dgraph-kvstats (pid 2591507) on CPU 4
+detsort: POST /detsort/enable → 200 OK (deterministic sort enable)
+eqfilterpath: POST /eqfilterpath/index → 200 OK
+typefilterpath: POST /typefilterpath/index → 200 OK
+ineqfilterpath: POST /ineqfilterpath/index → 200 OK
+localcache: PUT /localcache/disable → 200 OK
+rollup: PUT /rollup/pause → 200 OK (paused for stable kvstats)
+== [hook LC_POST_START_CHECK] 'engines/../.venv/bin/python3' -m kvengines.verify_schema --db dgraph
+   verified: 33 predicates match data/schema/dgraph/
+== engine up: dgraph (sf0.3) at the .env-declared operating point (dgraph: ineq=index, localcache=disable). ==
+== [dgraph] start (engine backup, sf0.3) via engines/dgraph/start-server.sh ==
+== [hook LC_PRE_RESTORE_CHECK] source 'engines/provenance.sh' && check_provenance dgraph
+   provenance OK (schema sha256 03713a1e1c7b…)
+bash scripts/kill.sh
+Stopping dgraph processes...
+All dgraph processes stopped.
+pinned: dgraph-kvstats (pid 2592005) on CPU 4
+pinned: dgraph-kvstats (pid 2592029) on CPU 4
+detsort: POST /detsort/enable → 200 OK (deterministic sort enable)
+eqfilterpath: POST /eqfilterpath/index → 200 OK
+typefilterpath: POST /typefilterpath/index → 200 OK
+ineqfilterpath: POST /ineqfilterpath/index → 200 OK
+localcache: PUT /localcache/disable → 200 OK
+rollup: PUT /rollup/pause → 200 OK (paused for stable kvstats)
+== [hook LC_POST_START_CHECK] 'engines/../.venv/bin/python3' -m kvengines.verify_schema --db dgraph
+   verified: 33 predicates match data/schema/dgraph/
+== engine up: dgraph (sf0.3) at the .env-declared operating point (dgraph: ineq=index, localcache=disable). ==
+== [dgraph] start (engine backup, sf0.3) via engines/dgraph/start-server.sh ==
+== [hook LC_PRE_RESTORE_CHECK] source 'engines/provenance.sh' && check_provenance dgraph
+   provenance OK (schema sha256 03713a1e1c7b…)
+bash scripts/kill.sh
+Stopping dgraph processes...
+All dgraph processes stopped.
+pinned: dgraph-kvstats (pid 2592503) on CPU 4
+pinned: dgraph-kvstats (pid 2592519) on CPU 4
+detsort: POST /detsort/enable → 200 OK (deterministic sort enable)
+eqfilterpath: POST /eqfilterpath/index → 200 OK
+typefilterpath: POST /typefilterpath/index → 200 OK
+ineqfilterpath: POST /ineqfilterpath/index → 200 OK
+localcache: PUT /localcache/disable → 200 OK
+rollup: PUT /rollup/pause → 200 OK (paused for stable kvstats)
+== [hook LC_POST_START_CHECK] 'engines/../.venv/bin/python3' -m kvengines.verify_schema --db dgraph
+   verified: 33 predicates match data/schema/dgraph/
+== engine up: dgraph (sf0.3) at the .env-declared operating point (dgraph: ineq=index, localcache=disable). ==
+== [dgraph] start (engine backup, sf0.3) via engines/dgraph/start-server.sh ==
+== [hook LC_PRE_RESTORE_CHECK] source 'engines/provenance.sh' && check_provenance dgraph
+   provenance OK (schema sha256 03713a1e1c7b…)
+bash scripts/kill.sh
+Stopping dgraph processes...
+All dgraph processes stopped.
+pinned: dgraph-kvstats (pid 2593015) on CPU 4
+pinned: dgraph-kvstats (pid 2593038) on CPU 4
+detsort: POST /detsort/enable → 200 OK (deterministic sort enable)
+eqfilterpath: POST /eqfilterpath/index → 200 OK
+typefilterpath: POST /typefilterpath/index → 200 OK
+ineqfilterpath: POST /ineqfilterpath/index → 200 OK
+localcache: PUT /localcache/disable → 200 OK
+rollup: PUT /rollup/pause → 200 OK (paused for stable kvstats)
+== [hook LC_POST_START_CHECK] 'engines/../.venv/bin/python3' -m kvengines.verify_schema --db dgraph
+   verified: 33 predicates match data/schema/dgraph/
+== engine up: dgraph (sf0.3) at the .env-declared operating point (dgraph: ineq=index, localcache=disable). ==

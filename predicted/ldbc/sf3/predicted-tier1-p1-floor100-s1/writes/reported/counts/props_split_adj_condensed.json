@@ -1,0 +1,98 @@
+{
+  "cell": "props_split_adj_condensed",
+  "sf": "",
+  "measured_as": "predicted",
+  "source": "predicted",
+  "complete": true,
+  "store": "meta-4368d205a869",
+  "inputs": {
+    "stats": {
+      "path": "stats-tier1.json",
+      "sha256": "c89b3d21849179f1e1e4f1b4d901ea3468909f8532a889cc026896b4fb3761df"
+    },
+    "rules_off": [],
+    "requests": {
+      "count": 40,
+      "queries": [
+        "iu1",
+        "iu2",
+        "iu3",
+        "iu4",
+        "iu5",
+        "iu6",
+        "iu7",
+        "iu8"
+      ],
+      "sha256": "b20be8529bf22240567bb5956c711c9ac25feabe7c2bd21823bf91afef00e8a2"
+    }
+  },
+  "tally": {
+    "path": "meta-4368d205a869.json",
+    "sha256": "4e5572468c322013c9caed0d50c9e87a8990984427eda27fdbaf5e3ba3e332d6"
+  },
+  "spec": {
+    "adjacency": {
+      "group": "owner",
+      "owners": "one",
+      "split": 524288
+    },
+    "direction": "declared",
+    "index": {
+      "group": "item",
+      "owners": "one",
+      "scope": "type",
+      "split": "never",
+      "term": "exact"
+    },
+    "version": 1,
+    "vertex_props": {
+      "group": "item",
+      "owners": "one",
+      "split": "never"
+    }
+  },
+  "schema": {
+    "path": "schema.json",
+    "hash": "6f05d59b2fd758cfc776f4841fdda2badf335889c2df8f93d10cc710fae532b8"
+  },
+  "runs": 40,
+  "steps": 170,
+  "refused": [],
+  "wall_s": 0.0,
+  "binary": {
+    "allocator": {
+      "aggressive_decommit": 0,
+      "env": {},
+      "lib_sha256": "c3d7996e516f60360b9d6d591fea53e0b177df38a4bfa36296d713220741f42a",
+      "malloc_is_tcmalloc": true,
+      "name": "tcmalloc",
+      "release_rate": 0.0,
+      "version": "2.15-3build1"
+    },
+    "binary_dirty": false,
+    "binary_git_sha": "0d3168c9fc65270b1b1a6bd1c73202ce8ef790d0",
+    "block_cache_priority": {
+      "high_pri_pool_ratio": 0.5,
+      "index_filter_high_priority": true
+    },
+    "compiler": "GNU 13.3.0",
+    "flags": " -Wall -Wextra -Wno-unused-parameter -Wno-dangling-reference -O2 -g",
+    "host": {
+      "cpu": "AMD EPYC 9354P 32-Core Processor",
+      "kernel": "Linux 6.8.0-149-generic"
+    },
+    "ingest_index_filter_blocks": "partitioned",
+    "librocksdb_sha256": "5de397b9a75279a914a7fe663bddfc32f5db6b85aa17de3268ebaf654614dc68",
+    "rocksdb": "7.5.3",
+    "rocksdb_source": "7.5.3@540d5aae516265170564ec27b3e67a54a11b7045"
+  },
+  "workload": "writes",
+  "tree": {
+    "git_sha": "33963a880da0b04bc80e78d962d0e6039d3b92fa",
+    "git_dirty": false
+  },
+  "plan_pipeline": 2,
+  "bodies": "all",
+  "inputs_key": "dabfcd428d13b12319bcde981219220c",
+  "bodies_left_out": {}
+}

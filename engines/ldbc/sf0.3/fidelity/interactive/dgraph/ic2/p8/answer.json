@@ -1,0 +1,362 @@
+{
+ "query_sha": "e534711ff51080e0",
+ "params": {
+  "personId": "8796093023199",
+  "maxDate": "2012-07-07T00:00:00Z"
+ },
+ "data": {
+  "schema_sha256": "03713a1e1c7b722e73bed6b150e079e69e9579c2a58c52e06f9d4384fdd4b80d",
+  "schema_path": "dgraph/schema/ldbcTypes.schema",
+  "sf": "0.3",
+  "created": "2026-11-21T02:56:18Z",
+  "git_sha": "60910999"
+ },
+ "fetched_at": "2026-11-20T23:55:00",
+ "raw": {
+  "_n1": [],
+  "posts": [
+   {
+    "friendFirstName": "Aamer",
+    "friendId": 4398046514593,
+    "friendLastName": "Qureshi",
+    "messageContent": "About Maria Theresa, tic Sanction of 1713 and spenAbout James Bond, ns. There have be",
+    "messageCreationDate": "2012-07-06T07:39:43.081Z",
+    "messageId": 962073340782,
+    "messageImageFile": ""
+   },
+   {
+    "friendFirstName": "Aamer",
+    "friendId": 4398046514593,
+    "friendLastName": "Qureshi",
+    "messageContent": "About Maria Theresa, d commerce and the development of agriculture, and reoAbout Winston Churchill,  which",
+    "messageCreationDate": "2012-07-05T23:05:24.513Z",
+    "messageId": 962073339651,
+    "messageImageFile": ""
+   },
+   {
+    "friendFirstName": "K.",
+    "friendId": 2199023256816,
+    "friendLastName": "Bose",
+    "messageContent": "About Humayun, ceful personality, patience and non-provocative methods of speech earned him the title \u2019Ins\u0101n-i-Kamil",
+    "messageCreationDate": "2012-07-05T20:29:53.232Z",
+    "messageId": 962073658583,
+    "messageImageFile": ""
+   },
+   {
+    "friendFirstName": "Yang",
+    "friendId": 10995116280436,
+    "friendLastName": "Zhang",
+    "messageContent": "About Josip Broz Tito,  internal policies successfully maintained the peaceful coexistence of t",
+    "messageCreationDate": "2012-07-05T11:26:33.894Z",
+    "messageId": 962072724237,
+    "messageImageFile": ""
+   },
+   {
+    "friendFirstName": "Ge",
+    "friendId": 4398046511596,
+    "friendLastName": "Wei",
+    "messageContent": "About Augustine of Hippo, nt Doctor of the Church, and About Napoleon, h Army, especially with the eAbout Socrate",
+    "messageCreationDate": "2012-07-04T07:50:44.764Z",
+    "messageId": 962073050059,
+    "messageImageFile": ""
+   },
+   {
+    "friendFirstName": "K.",
+    "friendId": 2199023256816,
+    "friendLastName": "Bose",
+    "messageContent": "About Twist and Shout, ached No. 1 on the UK charts with their version in January 1994. The Who perf",
+    "messageCreationDate": "2012-07-04T04:37:52.404Z",
+    "messageId": 962072726038,
+    "messageImageFile": ""
+   },
+   {
+    "friendFirstName": "Aamer",
+    "friendId": 4398046514593,
+    "friendLastName": "Qureshi",
+    "messageContent": "About Maria Theresa, ior to both Joseph and Leopold,About Pope John Paul II, eding five cent",
+    "messageCreationDate": "2012-07-03T02:04:11.363Z",
+    "messageId": 962073341689,
+    "messageImageFile": ""
+   },
+   {
+    "friendFirstName": "K.",
+    "friendId": 2199023256816,
+    "friendLastName": "Bose",
+    "messageContent": "About Humayun, Nasir ud-din Muhammad Humayun was the second Mughal Emperor who ruled ",
+    "messageCreationDate": "2012-07-01T14:38:35.159Z",
+    "messageId": 962073659098,
+    "messageImageFile": ""
+   },
+   {
+    "friendFirstName": "K.",
+    "friendId": 2199023256816,
+    "friendLastName": "Bose",
+    "messageContent": "About Humayun, em 15 years later. Humayun's return from Persia, accompanied by a large ",
+    "messageCreationDate": "2012-07-01T00:35:58.208Z",
+    "messageId": 962073661903,
+    "messageImageFile": ""
+   },
+   {
+    "friendFirstName": "Ge",
+    "friendId": 4398046511596,
+    "friendLastName": "Wei",
+    "messageContent": "About Augustine of Hippo, n Orthodox Church hAbout John Calvin, of French refugees.About Virgil, for three majo",
+    "messageCreationDate": "2012-06-30T03:32:11.62Z",
+    "messageId": 962073050028,
+    "messageImageFile": ""
+   },
+   {
+    "friendFirstName": "Ge",
+    "friendId": 4398046511596,
+    "friendLastName": "Wei",
+    "messageContent": "About Augustine of Hippo, rd by the Neo-PlAbout Napoleon,  began. An earlyAbout Georg Wilhelm Friedrich Hegel, ither pole ",
+    "messageCreationDate": "2012-06-29T02:19:47.168Z",
+    "messageId": 962073050555,
+    "messageImageFile": ""
+   },
+   {
+    "friendFirstName": "Aamer",
+    "friendId": 4398046514593,
+    "friendLastName": "Qureshi",
+    "messageContent": "About Maria Theresa, gnised during his lifetime. PruAbout Pope John Paul II, rst non-Italian since 1523. JohAbout Vladim",
+    "messageCreationDate": "2012-06-29T01:18:55.869Z",
+    "messageId": 962073341684,
+    "messageImageFile": ""
+   },
+   {
+    "friendFirstName": "Yang",
+    "friendId": 10995116280436,
+    "friendLastName": "Zhang",
+    "messageContent": "About George W. Bush, ticle is about the 2000 presidential campaign of George W. Bush, winner of the 2000 p",
+    "messageCreationDate": "2012-06-28T01:39:30.049Z",
+    "messageId": 962073610699,
+    "messageImageFile": ""
+   },
+   {
+    "friendFirstName": "Aamer",
+    "friendId": 4398046514593,
+    "friendLastName": "Qureshi",
+    "messageContent": "About Maria Theresa, vince of Silesia, sparking a nine-year conflict known as the War of the Austrian Succession. Maria Theresa would later unsuccessfully try to reconquer Silesia ",
+    "messageCreationDate": "2012-06-27T18:10:08.57Z",
+    "messageId": 962073339527,
+    "messageImageFile": ""
+   },
+   {
+    "friendFirstName": "Aamer",
+    "friendId": 4398046514593,
+    "friendLastName": "Qureshi",
+    "messageContent": "About Maria Theresa, nancial and educational reforms, with the assistancAbout James Bond, ctions of ",
+    "messageCreationDate": "2012-06-27T16:09:37.416Z",
+    "messageId": 962073340844,
+    "messageImageFile": ""
+   },
+   {
+    "friendFirstName": "K.",
+    "friendId": 2199023256816,
+    "friendLastName": "Bose",
+    "messageContent": "About Humayun, -provocative methods of speech earned him the title \u2019Ins\u0101n-i-Kamil (\u2018Perfect M",
+    "messageCreationDate": "2012-06-25T09:58:25.674Z",
+    "messageId": 962073661449,
+    "messageImageFile": ""
+   },
+   {
+    "friendFirstName": "K.",
+    "friendId": 2199023256816,
+    "friendLastName": "Bose",
+    "messageContent": "About Humayun, ed them 15 years later. Humayun's return from Persia, accompanied by a large re",
+    "messageCreationDate": "2012-06-25T00:21:26.825Z",
+    "messageId": 962073662017,
+    "messageImageFile": ""
+   },
+   {
+    "friendFirstName": "Ge",
+    "friendId": 4398046511596,
+    "friendLastName": "Wei",
+    "messageContent": "About Dionne Warwick, gles Charts. Warwick ranks second only to Aretha Franklin as the most-charted femal",
+    "messageCreationDate": "2012-06-24T12:23:40.96Z",
+    "messageId": 962073461259,
+    "messageImageFile": ""
+   },
+   {
+    "friendFirstName": "Aamer",
+    "friendId": 4398046514593,
+    "friendLastName": "Qureshi",
+    "messageContent": "About Maria Theresa, e reign securing it. Upon the death of her father, Saxony, PruAbout Sylvester Stallone, ing its film p",
+    "messageCreationDate": "2012-06-23T08:23:46.965Z",
+    "messageId": 962073340796,
+    "messageImageFile": ""
+   },
+   {
+    "friendFirstName": "K.",
+    "friendId": 2199023256816,
+    "friendLastName": "Bose",
+    "messageContent": "About Humayun, larger one. On the eve of his death in 1556, the Mughal empire spanned almost ",
+    "messageCreationDate": "2012-06-22T22:24:37.263Z",
+    "messageId": 962073659134,
+    "messageImageFile": ""
+   }
+  ],
+  "comments": [
+   {
+    "friendFirstName": "K.",
+    "friendId": 2199023256816,
+    "friendLastName": "Bose",
+    "messageContent": "About Franz Liszt, partures in harmony. He also played an iAbout George Strait,",
+    "messageCreationDate": "2012-07-06T23:55:57.565Z",
+    "messageId": 962073040064
+   },
+   {
+    "friendFirstName": "Aamer",
+    "friendId": 4398046514593,
+    "friendLastName": "Qureshi",
+    "messageContent": "About Dilip Kumar, omantic Andaz (19About Roger Waters, 04 he became engaAbout J",
+    "messageCreationDate": "2012-07-06T23:25:55.288Z",
+    "messageId": 962073410581
+   },
+   {
+    "friendFirstName": "K.",
+    "friendId": 2199023256816,
+    "friendLastName": "Bose",
+    "messageContent": "About Lord Byron, hird and final opera. He wrotAbout Lex Luthor, by Jerry Siegel and ",
+    "messageCreationDate": "2012-07-06T23:19:00.568Z",
+    "messageId": 962073325728
+   },
+   {
+    "friendFirstName": "Aamer",
+    "friendId": 4398046514593,
+    "friendLastName": "Qureshi",
+    "messageContent": "thanks",
+    "messageCreationDate": "2012-07-06T16:28:36.541Z",
+    "messageId": 962073029222
+   },
+   {
+    "friendFirstName": "K.",
+    "friendId": 2199023256816,
+    "friendLastName": "Bose",
+    "messageContent": "About Alanis Morissette, sold more thAbout Jacques Chirac, e subsequentAbout Dilip Kumar",
+    "messageCreationDate": "2012-07-06T16:13:34.48Z",
+    "messageId": 962072846530
+   },
+   {
+    "friendFirstName": "K.",
+    "friendId": 2199023256816,
+    "friendLastName": "Bose",
+    "messageContent": "good",
+    "messageCreationDate": "2012-07-06T13:02:50.633Z",
+    "messageId": 962072846539
+   },
+   {
+    "friendFirstName": "K.",
+    "friendId": 2199023256816,
+    "friendLastName": "Bose",
+    "messageContent": "no way!",
+    "messageCreationDate": "2012-07-06T10:04:11.648Z",
+    "messageId": 962072805640
+   },
+   {
+    "friendFirstName": "Jie",
+    "friendId": 30786325577752,
+    "friendLastName": "Yang",
+    "messageContent": "ok",
+    "messageCreationDate": "2012-07-06T08:43:50.057Z",
+    "messageId": 962073295955
+   },
+   {
+    "friendFirstName": "Aamer",
+    "friendId": 4398046514593,
+    "friendLastName": "Qureshi",
+    "messageContent": "yes",
+    "messageCreationDate": "2012-07-06T08:34:26.454Z",
+    "messageId": 962072689042
+   },
+   {
+    "friendFirstName": "Deepak",
+    "friendId": 21990232557419,
+    "friendLastName": "Kumar",
+    "messageContent": "no way!",
+    "messageCreationDate": "2012-07-06T06:25:16.778Z",
+    "messageId": 962073638910
+   },
+   {
+    "friendFirstName": "Yang",
+    "friendId": 10995116280436,
+    "friendLastName": "Zhang",
+    "messageContent": "thanks",
+    "messageCreationDate": "2012-07-06T06:17:02.226Z",
+    "messageId": 962073674117
+   },
+   {
+    "friendFirstName": "Aamer",
+    "friendId": 4398046514593,
+    "friendLastName": "Qureshi",
+    "messageContent": "roflol",
+    "messageCreationDate": "2012-07-06T04:00:12.946Z",
+    "messageId": 962073018552
+   },
+   {
+    "friendFirstName": "Ge",
+    "friendId": 4398046511596,
+    "friendLastName": "Wei",
+    "messageContent": "no way!",
+    "messageCreationDate": "2012-07-05T22:30:46.122Z",
+    "messageId": 962073461766
+   },
+   {
+    "friendFirstName": "Aamer",
+    "friendId": 4398046514593,
+    "friendLastName": "Qureshi",
+    "messageContent": "About No\u00ebl Coward,  major refurbishment in 2006, and was renamed the No\u00ebl Coward",
+    "messageCreationDate": "2012-07-05T22:25:59.413Z",
+    "messageId": 962072744924
+   },
+   {
+    "friendFirstName": "Dith",
+    "friendId": 2199023256300,
+    "friendLastName": "Sisamouth",
+    "messageContent": "thx",
+    "messageCreationDate": "2012-07-05T19:50:40.486Z",
+    "messageId": 962073638909
+   },
+   {
+    "friendFirstName": "Arjun",
+    "friendId": 10995116278184,
+    "friendLastName": "Kumar",
+    "messageContent": "no way!",
+    "messageCreationDate": "2012-07-05T17:54:46.28Z",
+    "messageId": 962073295960
+   },
+   {
+    "friendFirstName": "Hao",
+    "friendId": 28587302325151,
+    "friendLastName": "Xu",
+    "messageContent": "great",
+    "messageCreationDate": "2012-07-05T15:01:57.498Z",
+    "messageId": 962073120600
+   },
+   {
+    "friendFirstName": "Ge",
+    "friendId": 4398046511596,
+    "friendLastName": "Wei",
+    "messageContent": "About Dionne Warwick, griculture Organization, and a United States About Saving All My Lo",
+    "messageCreationDate": "2012-07-05T14:56:01.682Z",
+    "messageId": 962073461758
+   },
+   {
+    "friendFirstName": "Aamer",
+    "friendId": 4398046514593,
+    "friendLastName": "Qureshi",
+    "messageContent": "About Marin \u010cili\u0107, performance aAbout Johann Sebastian Bach, toph Bach tauAbout Taylor",
+    "messageCreationDate": "2012-07-05T14:48:37.383Z",
+    "messageId": 962073460708
+   },
+   {
+    "friendFirstName": "Aamer",
+    "friendId": 4398046514593,
+    "friendLastName": "Qureshi",
+    "messageContent": "no",
+    "messageCreationDate": "2012-07-05T14:08:05.775Z",
+    "messageId": 962073460701
+   }
+  ]
+ }
+}

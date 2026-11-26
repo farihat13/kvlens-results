@@ -1,0 +1,20 @@
+{
+ "query_sha": "0a9c88a67984b764",
+ "params": {
+  "messageId": 3
+ },
+ "data": {
+  "schema_sha256": "b8e206f17e60692c830ba0c3c675fbc481a22f26011282ce523890eb09be8a74",
+  "schema_path": "arangodb/schema/ldbc_schema.json",
+  "sf": "0.1",
+  "created": "2026-11-21T03:27:46Z",
+  "git_sha": "92777160"
+ },
+ "fetched_at": "2026-11-21T01:05:28",
+ "raw": [
+  {
+   "messageCreationDate": 1266179421451,
+   "messageContent": "About Rupert Murdoch, alised US citizen iAbout Napoleon, tinuation of the waAbout Ferdinand II of Aragon, (1"
+  }
+ ]
+}

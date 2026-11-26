@@ -1,0 +1,2 @@
+workload,option_set,question,model,limit,weighting,sizes,proven,nodes,fits,wops,bytes,score,assignment,link1 out-lists,link2 out-lists,Node props
+l01,per-type-and-direction,fewest,wops_bytes4k,,sum,,True,5,True,137290.53000001967,120132256.00000732,,link1 out-lists=condensed; link2 out-lists=condensed; Node props=condensed,condensed,condensed,condensed

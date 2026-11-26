@@ -1,0 +1,124 @@
+{
+ "query_sha": "0698d079766f4938",
+ "params": {
+  "personId": "person_26388279066795",
+  "minDate": 1341446400000
+ },
+ "data": {
+  "schema_sha256": "673074740eea54e4ba1fdc94eebf2087531b3007af7da660afffb3d1e8df0d1e",
+  "schema_path": "nebulagraph/schema/schema.gql",
+  "sf": "0.1",
+  "created": "2026-11-21T03:27:06Z",
+  "git_sha": "92777160"
+ },
+ "fetched_at": "2026-11-21T01:08:08",
+ "raw": {
+  "keys": [
+   "forumTitle",
+   "postCount",
+   "forumId"
+  ],
+  "rows": [
+   {
+    "forumTitle": "Group for David_Lloyd_George in Sampaloc",
+    "postCount": 5,
+    "forumId": 481036341689
+   },
+   {
+    "forumTitle": "Group for Mahathir_Mohamad in Pedro_Escobedo",
+    "postCount": 5,
+    "forumId": 618475303163
+   },
+   {
+    "forumTitle": "Group for Keith_Richards in Dehradun",
+    "postCount": 4,
+    "forumId": 137438961305
+   },
+   {
+    "forumTitle": "Group for Arnold_Schwarzenegger in Dehradun",
+    "postCount": 3,
+    "forumId": 343597391512
+   },
+   {
+    "forumTitle": "Group for Mahathir_Mohamad in Pedro_Escobedo",
+    "postCount": 3,
+    "forumId": 343597396217
+   },
+   {
+    "forumTitle": "Group for Bertolt_Brecht in Moravia",
+    "postCount": 3,
+    "forumId": 549755819470
+   },
+   {
+    "forumTitle": "Group for Saddam_Hussein in Kassel",
+    "postCount": 3,
+    "forumId": 687194774293
+   },
+   {
+    "forumTitle": "Group for Louis_Philippe_I in Padang",
+    "postCount": 3,
+    "forumId": 755914249191
+   },
+   {
+    "forumTitle": "Group for Samuel_L._Jackson in Tagbilaran",
+    "postCount": 3,
+    "forumId": 893353200951
+   },
+   {
+    "forumTitle": "Group for Benjamin_Harrison in Bristol",
+    "postCount": 2,
+    "forumId": 481036342093
+   },
+   {
+    "forumTitle": "Group for Benjamin_Disraeli in Pudong",
+    "postCount": 2,
+    "forumId": 549755814332
+   },
+   {
+    "forumTitle": "Group for Hilary_Duff in Belfast",
+    "postCount": 2,
+    "forumId": 687194770382
+   },
+   {
+    "forumTitle": "Group for Talk_on_Corners in Cagayan_de_Oro",
+    "postCount": 2,
+    "forumId": 687194782392
+   },
+   {
+    "forumTitle": "Group for George_Clooney in Narathiwat",
+    "postCount": 2,
+    "forumId": 755914249512
+   },
+   {
+    "forumTitle": "Group for Lucille_Ball in Dehradun",
+    "postCount": 1,
+    "forumId": 137438961303
+   },
+   {
+    "forumTitle": "Group for Kurt_Aland in Baiyin",
+    "postCount": 1,
+    "forumId": 412316865922
+   },
+   {
+    "forumTitle": "Group for Guy_Forget in Banda_Aceh",
+    "postCount": 1,
+    "forumId": 412316876157
+   },
+   {
+    "forumTitle": "Group for Ferdinand_II,_Holy_Roman_Emperor in Chennai",
+    "postCount": 1,
+    "forumId": 481036351856
+   },
+   {
+    "forumTitle": "Group for Henri_Matisse in Moravia",
+    "postCount": 1,
+    "forumId": 687194772941
+   },
+   {
+    "forumTitle": "Group for Paul_Keres in Antananarivo",
+    "postCount": 1,
+    "forumId": 687194773088
+   }
+  ]
+ }
+}

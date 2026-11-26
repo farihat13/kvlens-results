@@ -1,0 +1,28 @@
+{
+ "query_sha": "6f63960c0f9c5e7e",
+ "params": {
+  "personId": "2199023259063"
+ },
+ "data": {
+  "schema_sha256": "03713a1e1c7b722e73bed6b150e079e69e9579c2a58c52e06f9d4384fdd4b80d",
+  "schema_path": "dgraph/schema/ldbcTypes.schema",
+  "sf": "0.3",
+  "created": "2026-11-21T02:56:18Z",
+  "git_sha": "60910999"
+ },
+ "fetched_at": "2026-11-20T23:54:49",
+ "raw": {
+  "person": [
+   {
+    "birthday": "1980-08-27T00:00:00Z",
+    "browserUsed": "Firefox",
+    "cityId": 957,
+    "creationDate": "2010-03-29T04:47:21.924Z",
+    "firstName": "Rahim",
+    "gender": "female",
+    "lastName": "Qaderi",
+    "locationIP": "125.213.199.242"
+   }
+  ]
+ }
+}

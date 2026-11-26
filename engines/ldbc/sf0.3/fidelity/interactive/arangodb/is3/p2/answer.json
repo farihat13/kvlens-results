@@ -1,0 +1,70 @@
+{
+ "query_sha": "aab56a2aedd27dfa",
+ "params": {
+  "personId": 2199023259220
+ },
+ "data": {
+  "schema_sha256": "b8e206f17e60692c830ba0c3c675fbc481a22f26011282ce523890eb09be8a74",
+  "schema_path": "arangodb/schema/ldbc_schema.json",
+  "sf": "0.3",
+  "created": "2026-11-21T03:01:29Z",
+  "git_sha": "60910999"
+ },
+ "fetched_at": "2026-11-20T23:52:58",
+ "raw": [
+  {
+   "friendId": 32985348834483,
+   "friendFirstName": "Michel",
+   "friendLastName": "Breton",
+   "friendshipCreationDate": 1345301899089
+  },
+  {
+   "friendId": 32985348833548,
+   "friendFirstName": "Aleksandr",
+   "friendLastName": "Bajt",
+   "friendshipCreationDate": 1344237735772
+  },
+  {
+   "friendId": 30786325580396,
+   "friendFirstName": "Zaenal",
+   "friendLastName": "Balawan",
+   "friendshipCreationDate": 1339157708639
+  },
+  {
+   "friendId": 24189255814531,
+   "friendFirstName": "Aharon",
+   "friendLastName": "Bouzid",
+   "friendshipCreationDate": 1326273234602
+  },
+  {
+   "friendId": 24189255811566,
+   "friendFirstName": "The",
+   "friendLastName": "Kunda",
+   "friendshipCreationDate": 1324937704127
+  },
+  {
+   "friendId": 17592186048261,
+   "friendFirstName": "Anna",
+   "friendLastName": "Kogan",
+   "friendshipCreationDate": 1310411322367
+  },
+  {
+   "friendId": 10995116280854,
+   "friendFirstName": "Abdul Rahman",
+   "friendLastName": "Budjana",
+   "friendshipCreationDate": 1293536689857
+  },
+  {
+   "friendId": 4398046514593,
+   "friendFirstName": "Aamer",
+   "friendLastName": "Qureshi",
+   "friendshipCreationDate": 1279738843086
+  },
+  {
+   "friendId": 296,
+   "friendFirstName": "Zaenal",
+   "friendLastName": "Gallagher",
+   "friendshipCreationDate": 1271017282015
+  }
+ ]
+}

@@ -1,0 +1,46 @@
+{
+ "query_sha": "758b65813d7ffbd6",
+ "params": {
+  "personId": 24189255813168,
+  "firstName": "Moses"
+ },
+ "data": {
+  "schema_sha256": "b8e206f17e60692c830ba0c3c675fbc481a22f26011282ce523890eb09be8a74",
+  "schema_path": "arangodb/schema/ldbc_schema.json",
+  "sf": "0.3",
+  "created": "2026-11-21T03:01:29Z",
+  "git_sha": "60910999"
+ },
+ "fetched_at": "2026-11-20T23:49:14",
+ "raw": [
+  {
+   "friendId": 15393162790168,
+   "friendLastName": "Znaimer",
+   "distanceFromPerson": 2,
+   "friendBirthday": 335318400000,
+   "friendCreationDate": 1302490981291,
+   "friendGender": "male",
+   "friendBrowserUsed": "Firefox",
+   "friendLocationIp": "77.244.155.199",
+   "friendEmails": [
+    "Moses15393162790168@gmail.com",
+    "Moses15393162790168@yahoo.com",
+    "Moses15393162790168@zoho.com"
+   ],
+   "friendLanguages": [
+    "tg",
+    "ru",
+    "en"
+   ],
+   "friendCityName": "Dushanbe",
+   "friendUniversities": [],
+   "friendCompanies": [
+    [
+     "East_Air",
+     2012,
+     "Tajikistan"
+    ]
+   ]
+  }
+ ]
+}

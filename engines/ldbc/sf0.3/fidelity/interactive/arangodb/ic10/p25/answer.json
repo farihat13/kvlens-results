@@ -1,0 +1,97 @@
+{
+ "query_sha": "c20c841713234a9d",
+ "params": {
+  "personId": 26388279069094,
+  "month": 5
+ },
+ "data": {
+  "schema_sha256": "b8e206f17e60692c830ba0c3c675fbc481a22f26011282ce523890eb09be8a74",
+  "schema_path": "arangodb/schema/ldbc_schema.json",
+  "sf": "0.3",
+  "created": "2026-11-21T03:01:29Z",
+  "git_sha": "60910999"
+ },
+ "fetched_at": "2026-11-21T00:02:46",
+ "raw": [
+  {
+   "personId": 28587302324631,
+   "personFirstName": "Edward",
+   "personLastName": "Adhia",
+   "commonInterestScore": 0,
+   "personGender": "male",
+   "personCityName": "Dodoma"
+  },
+  {
+   "personId": 30786325580641,
+   "personFirstName": "Rafael",
+   "personLastName": "Oliveira",
+   "commonInterestScore": 0,
+   "personGender": "male",
+   "personCityName": "Bag\u00e9"
+  },
+  {
+   "personId": 32985348834284,
+   "personFirstName": "Bobby",
+   "personLastName": "Garcia",
+   "commonInterestScore": 0,
+   "personGender": "female",
+   "personCityName": "Legazpi"
+  },
+  {
+   "personId": 32985348834301,
+   "personFirstName": "Anh",
+   "personLastName": "Nguyen",
+   "commonInterestScore": 0,
+   "personGender": "male",
+   "personCityName": "T\u00e2n_An"
+  },
+  {
+   "personId": 32985348836386,
+   "personFirstName": "Jie",
+   "personLastName": "Li",
+   "commonInterestScore": 0,
+   "personGender": "male",
+   "personCityName": "Da'an"
+  },
+  {
+   "personId": 32985348836604,
+   "personFirstName": "David",
+   "personLastName": "Lawson",
+   "commonInterestScore": 0,
+   "personGender": "female",
+   "personCityName": "Geelong"
+  },
+  {
+   "personId": 26388279068724,
+   "personFirstName": "Ben",
+   "personLastName": "Li",
+   "commonInterestScore": -1,
+   "personGender": "male",
+   "personCityName": "Bei'an"
+  },
+  {
+   "personId": 17592186046182,
+   "personFirstName": "Karl",
+   "personLastName": "Muller",
+   "commonInterestScore": -2,
+   "personGender": "female",
+   "personCityName": "Aachen"
+  },
+  {
+   "personId": 21990232559368,
+   "personFirstName": "Ramon",
+   "personLastName": "Sotto",
+   "commonInterestScore": -2,
+   "personGender": "male",
+   "personCityName": "Lipa"
+  },
+  {
+   "personId": 26388279067637,
+   "personFirstName": "Ai",
+   "personLastName": "Yang",
+   "commonInterestScore": -2,
+   "personGender": "male",
+   "personCityName": "Anning"
+  }
+ ]
+}

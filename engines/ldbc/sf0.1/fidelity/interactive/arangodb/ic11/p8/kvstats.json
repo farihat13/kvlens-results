@@ -1,0 +1,33 @@
+{
+ "query_sha": "a28ac6b26a8dcd82",
+ "params": {
+  "personId": 19791209300317,
+  "countryName": "Norway",
+  "workFromYear": 2004
+ },
+ "data_created": "2026-11-21T03:27:46Z",
+ "measured_at": "2026-11-21T01:03:24",
+ "raw": {
+  "get_count": 5553,
+  "get_found_count": 5553,
+  "get_time_ns": 7447091,
+  "get_bytes": 630826,
+  "seek_count": 746,
+  "seek_time_ns": 27652877,
+  "seek_bytes": 31922,
+  "next_count": 1928,
+  "next_time_ns": 228366,
+  "next_bytes": 72769,
+  "prev_count": 0,
+  "prev_time_ns": 0,
+  "prev_bytes": 0,
+  "put_count": 0,
+  "put_time_ns": 0,
+  "put_bytes": 0,
+  "delete_count": 0,
+  "delete_time_ns": 0,
+  "delete_bytes": 0,
+  "commit_count": 0,
+  "commit_time_ns": 0
+ }
+}

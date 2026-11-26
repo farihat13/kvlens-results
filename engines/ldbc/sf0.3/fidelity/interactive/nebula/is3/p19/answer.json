@@ -1,0 +1,81 @@
+{
+ "query_sha": "6ff3aa62b8626f5b",
+ "params": {
+  "personId": "person_2199023256742"
+ },
+ "data": {
+  "schema_sha256": "673074740eea54e4ba1fdc94eebf2087531b3007af7da660afffb3d1e8df0d1e",
+  "schema_path": "nebulagraph/schema/schema.gql",
+  "sf": "0.3",
+  "created": "2026-11-21T03:42:54Z",
+  "git_sha": "1d6662c2"
+ },
+ "fetched_at": "2026-11-21T00:01:18",
+ "raw": {
+  "keys": [
+   "friendId",
+   "friendFirstName",
+   "friendLastName",
+   "friendshipCreationDate",
+   "friendIdInt"
+  ],
+  "rows": [
+   {
+    "friendId": "person_21990232555586",
+    "friendFirstName": "Deepak",
+    "friendLastName": "Khan",
+    "friendshipCreationDate": 1315925975178,
+    "friendIdInt": 21990232555586
+   },
+   {
+    "friendId": "person_19791209303331",
+    "friendFirstName": "Abhishek",
+    "friendLastName": "Irani",
+    "friendshipCreationDate": 1313451412151,
+    "friendIdInt": 19791209303331
+   },
+   {
+    "friendId": "person_19791209302403",
+    "friendFirstName": "Bibit",
+    "friendLastName": "Balawan",
+    "friendshipCreationDate": 1311423314796,
+    "friendIdInt": 19791209302403
+   },
+   {
+    "friendId": "person_13194139537010",
+    "friendFirstName": "Rahul",
+    "friendLastName": "Rao",
+    "friendshipCreationDate": 1298317280180,
+    "friendIdInt": 13194139537010
+   },
+   {
+    "friendId": "person_8796093024661",
+    "friendFirstName": "Rahul",
+    "friendLastName": "Sharma",
+    "friendshipCreationDate": 1285785042828,
+    "friendIdInt": 8796093024661
+   },
+   {
+    "friendId": "person_2199023258513",
+    "friendFirstName": "Pol",
+    "friendLastName": "Dany",
+    "friendshipCreationDate": 1273603449984,
+    "friendIdInt": 2199023258513
+   },
+   {
+    "friendId": "person_459",
+    "friendFirstName": "Jharana Bajracharya Rashid",
+    "friendLastName": "Shrestha",
+    "friendshipCreationDate": 1272401220261,
+    "friendIdInt": 459
+   },
+   {
+    "friendId": "person_2199023259200",
+    "friendFirstName": "V.",
+    "friendLastName": "Joshi",
+    "friendshipCreationDate": 1272359005949,
+    "friendIdInt": 2199023259200
+   }
+  ]
+ }
+}

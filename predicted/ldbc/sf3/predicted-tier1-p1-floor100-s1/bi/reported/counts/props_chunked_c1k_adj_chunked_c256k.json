@@ -1,0 +1,111 @@
+{
+  "cell": "props_chunked_c1k_adj_chunked_c256k",
+  "sf": "",
+  "measured_as": "predicted",
+  "source": "predicted",
+  "complete": true,
+  "store": "meta-28cf1f631d94",
+  "inputs": {
+    "stats": {
+      "path": "stats-tier1.json",
+      "sha256": "c89b3d21849179f1e1e4f1b4d901ea3468909f8532a889cc026896b4fb3761df"
+    },
+    "rules_off": [],
+    "requests": {
+      "count": 320,
+      "queries": [
+        "bi1",
+        "bi10",
+        "bi11",
+        "bi12",
+        "bi13",
+        "bi14",
+        "bi16",
+        "bi17",
+        "bi18",
+        "bi2",
+        "bi3",
+        "bi4",
+        "bi5",
+        "bi6",
+        "bi7",
+        "bi8",
+        "bi9"
+      ],
+      "sha256": "6ac570c0c97e4dc2b81d0826c93d379d9b4d42ffa6dde2c8a2a2d89ba2177e9d"
+    }
+  },
+  "tally": {
+    "path": "meta-28cf1f631d94.json",
+    "sha256": "5e6c9c8ea028047880f3bbf90aa84012877666c05bbafa0da07299fba250f096"
+  },
+  "spec": {
+    "adjacency": {
+      "group": "owner",
+      "owners": {
+        "pack": 262144
+      },
+      "split": "never"
+    },
+    "direction": "declared",
+    "index": {
+      "group": "item",
+      "owners": "one",
+      "scope": "type",
+      "split": "never",
+      "term": "exact"
+    },
+    "version": 1,
+    "vertex_props": {
+      "group": "owner",
+      "owners": {
+        "pack": 1024
+      },
+      "split": "never"
+    }
+  },
+  "schema": {
+    "path": "schema.json",
+    "hash": "6f05d59b2fd758cfc776f4841fdda2badf335889c2df8f93d10cc710fae532b8"
+  },
+  "runs": 320,
+  "steps": 3310,
+  "refused": [],
+  "wall_s": 0.8,
+  "binary": {
+    "allocator": {
+      "aggressive_decommit": 0,
+      "env": {},
+      "lib_sha256": "c3d7996e516f60360b9d6d591fea53e0b177df38a4bfa36296d713220741f42a",
+      "malloc_is_tcmalloc": true,
+      "name": "tcmalloc",
+      "release_rate": 0.0,
+      "version": "2.15-3build1"
+    },
+    "binary_dirty": false,
+    "binary_git_sha": "0d3168c9fc65270b1b1a6bd1c73202ce8ef790d0",
+    "block_cache_priority": {
+      "high_pri_pool_ratio": 0.5,
+      "index_filter_high_priority": true
+    },
+    "compiler": "GNU 13.3.0",
+    "flags": " -Wall -Wextra -Wno-unused-parameter -Wno-dangling-reference -O2 -g",
+    "host": {
+      "cpu": "AMD EPYC 9354P 32-Core Processor",
+      "kernel": "Linux 6.8.0-149-generic"
+    },
+    "ingest_index_filter_blocks": "partitioned",
+    "librocksdb_sha256": "5de397b9a75279a914a7fe663bddfc32f5db6b85aa17de3268ebaf654614dc68",
+    "rocksdb": "7.5.3",
+    "rocksdb_source": "7.5.3@540d5aae516265170564ec27b3e67a54a11b7045"
+  },
+  "workload": "bi",
+  "tree": {
+    "git_sha": "33963a880da0b04bc80e78d962d0e6039d3b92fa",
+    "git_dirty": false
+  },
+  "plan_pipeline": 2,
+  "bodies": "all",
+  "inputs_key": "353484ea855fcfe74aefca06f91f5ac5",
+  "bodies_left_out": {}
+}

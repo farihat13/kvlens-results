@@ -1,0 +1,97 @@
+{
+ "query_sha": "c20c841713234a9d",
+ "params": {
+  "personId": 2199023256919,
+  "month": 12
+ },
+ "data": {
+  "schema_sha256": "b8e206f17e60692c830ba0c3c675fbc481a22f26011282ce523890eb09be8a74",
+  "schema_path": "arangodb/schema/ldbc_schema.json",
+  "sf": "0.1",
+  "created": "2026-11-21T03:27:46Z",
+  "git_sha": "92777160"
+ },
+ "fetched_at": "2026-11-21T01:06:02",
+ "raw": [
+  {
+   "personId": 6597069766938,
+   "personFirstName": "Nirina",
+   "personLastName": "Simon",
+   "commonInterestScore": 0,
+   "personGender": "male",
+   "personCityName": "Ambovombe"
+  },
+  {
+   "personId": 19791209300372,
+   "personFirstName": "Hermann",
+   "personLastName": "Becker",
+   "commonInterestScore": 0,
+   "personGender": "male",
+   "personCityName": "Friedberg"
+  },
+  {
+   "personId": 24189255812419,
+   "personFirstName": "Ahmad Rafiq",
+   "personLastName": "Irama",
+   "commonInterestScore": 0,
+   "personGender": "male",
+   "personCityName": "Banda_Aceh"
+  },
+  {
+   "personId": 30786325578711,
+   "personFirstName": "Aad De",
+   "personLastName": "Bos",
+   "commonInterestScore": 0,
+   "personGender": "female",
+   "personCityName": "Maastricht"
+  },
+  {
+   "personId": 30786325579215,
+   "personFirstName": "Angel",
+   "personLastName": "Caveda",
+   "commonInterestScore": 0,
+   "personGender": "male",
+   "personCityName": "Mettu"
+  },
+  {
+   "personId": 32985348833467,
+   "personFirstName": "A.",
+   "personLastName": "Gallagher",
+   "commonInterestScore": 0,
+   "personGender": "female",
+   "personCityName": "Bengkulu"
+  },
+  {
+   "personId": 26388279067695,
+   "personFirstName": "Constantin",
+   "personLastName": "Popescu",
+   "commonInterestScore": -1,
+   "personGender": "female",
+   "personCityName": "Gala\u021bi"
+  },
+  {
+   "personId": 28587302322548,
+   "personFirstName": "Grigore",
+   "personLastName": "Bologan",
+   "commonInterestScore": -1,
+   "personGender": "female",
+   "personCityName": "Tiraspol"
+  },
+  {
+   "personId": 30786325577752,
+   "personFirstName": "Jie",
+   "personLastName": "Yang",
+   "commonInterestScore": -1,
+   "personGender": "male",
+   "personCityName": "Changzhou"
+  },
+  {
+   "personId": 28587302322487,
+   "personFirstName": "Henri",
+   "personLastName": "David",
+   "commonInterestScore": -2,
+   "personGender": "male",
+   "personCityName": "Aix-en-Provence"
+  }
+ ]
+}

@@ -1,0 +1,48 @@
+{
+ "query_sha": "4dcea213e133d224",
+ "params": {
+  "messageId": "msg_1099512706999"
+ },
+ "data": {
+  "schema_sha256": "673074740eea54e4ba1fdc94eebf2087531b3007af7da660afffb3d1e8df0d1e",
+  "schema_path": "nebulagraph/schema/schema.gql",
+  "sf": "0.3",
+  "created": "2026-11-21T03:42:54Z",
+  "git_sha": "1d6662c2"
+ },
+ "fetched_at": "2026-11-21T00:08:16",
+ "raw": {
+  "keys": [
+   "commentId",
+   "commentContent",
+   "commentCreationDate",
+   "replyAuthorId",
+   "replyAuthorFirstName",
+   "replyAuthorLastName",
+   "knows",
+   "replyAuthorIdInt"
+  ],
+  "rows": [
+   {
+    "commentId": "msg_1099512707000",
+    "commentContent": "yes",
+    "commentCreationDate": 1347227108807,
+    "replyAuthorId": "person_4398046513827",
+    "replyAuthorFirstName": "Paul",
+    "replyAuthorLastName": "Brown",
+    "knows": false,
+    "replyAuthorIdInt": 4398046513827
+   },
+   {
+    "commentId": "msg_1099512707001",
+    "commentContent": "LOL",
+    "commentCreationDate": 1347224123783,
+    "replyAuthorId": "person_21990232557681",
+    "replyAuthorFirstName": "Denis",
+    "replyAuthorLastName": "Murray",
+    "knows": false,
+    "replyAuthorIdInt": 21990232557681
+   }
+  ]
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "query_sha": "758b65813d7ffbd6",
+ "params": {
+  "personId": 30786325579745,
+  "firstName": "Georgios"
+ },
+ "data_created": "2026-11-23T09:40:48Z",
+ "measured_at": "2026-11-23T13:10:39",
+ "raw": {
+  "get_count": 137258,
+  "get_found_count": 137258,
+  "get_time_ns": 149124161,
+  "get_bytes": 20822635,
+  "seek_count": 2556,
+  "seek_time_ns": 20446059,
+  "seek_bytes": 139405,
+  "next_count": 68264,
+  "next_time_ns": 6365798,
+  "next_bytes": 3824129,
+  "prev_count": 0,
+  "prev_time_ns": 0,
+  "prev_bytes": 0,
+  "put_count": 0,
+  "put_time_ns": 0,
+  "put_bytes": 0,
+  "delete_count": 0,
+  "delete_time_ns": 0,
+  "delete_bytes": 0,
+  "commit_count": 0,
+  "commit_time_ns": 0
+ }
+}

@@ -1,0 +1,84 @@
+{
+ "query_sha": "00f75f489d160871",
+ "params": {
+  "personId": "15393162789696"
+ },
+ "data": {
+  "schema_sha256": "03713a1e1c7b722e73bed6b150e079e69e9579c2a58c52e06f9d4384fdd4b80d",
+  "schema_path": "dgraph/schema/ldbcTypes.schema",
+  "sf": "0.1",
+  "created": "2026-11-21T03:25:44Z",
+  "git_sha": "92777160"
+ },
+ "fetched_at": "2026-11-21T01:08:54",
+ "raw": {
+  "person": [
+   {
+    "knows": [
+     {
+      "friendId": 21990232555650,
+      "friendFirstName": "Miguel",
+      "friendLastName": "Rodriguez",
+      "knows|creationDate": "2011-10-12T17:35:57.000+00:00"
+     },
+     {
+      "friendId": 17592186044897,
+      "friendFirstName": "Antonio",
+      "friendLastName": "Alvarez",
+      "knows|creationDate": "2011-07-12T09:20:26.328+00:00"
+     },
+     {
+      "friendId": 21990232555639,
+      "friendFirstName": "Jie",
+      "friendLastName": "Yang",
+      "knows|creationDate": "2011-09-30T17:48:25.985+00:00"
+     },
+     {
+      "friendId": 32985348834053,
+      "friendFirstName": "James",
+      "friendLastName": "Wilson",
+      "knows|creationDate": "2012-07-21T20:36:44.436+00:00"
+     },
+     {
+      "friendId": 28587302322686,
+      "friendFirstName": "Alfredo",
+      "friendLastName": "Fernandez",
+      "knows|creationDate": "2012-05-09T22:27:37.948+00:00"
+     }
+    ],
+    "~knows": [
+     {
+      "friendId": 2199023256031,
+      "friendFirstName": "Rodrigo",
+      "friendLastName": "Balmaceda",
+      "~knows|creationDate": "2011-04-13T19:34:30.147+00:00"
+     },
+     {
+      "friendId": 1564,
+      "friendFirstName": "Emperor of Brazil",
+      "friendLastName": "Silva",
+      "~knows|creationDate": "2011-05-01T02:42:21.105+00:00"
+     },
+     {
+      "friendId": 4398046512492,
+      "friendFirstName": "Tom",
+      "friendLastName": "Williams",
+      "~knows|creationDate": "2011-04-15T22:08:15.675+00:00"
+     },
+     {
+      "friendId": 10995116278353,
+      "friendFirstName": "Otto",
+      "friendLastName": "Muller",
+      "~knows|creationDate": "2011-04-15T17:26:12.875+00:00"
+     },
+     {
+      "friendId": 6597069768129,
+      "friendFirstName": "Carlos",
+      "friendLastName": "Garcia",
+      "~knows|creationDate": "2011-04-16T13:19:17.454+00:00"
+     }
+    ]
+   }
+  ]
+ }
+}

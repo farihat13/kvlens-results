@@ -1,0 +1,63 @@
+{
+ "query_sha": "ad17deb8111088bd",
+ "params": {
+  "personId": "person_13194139535032",
+  "tagName": "Friedrich_Engels"
+ },
+ "data": {
+  "schema_sha256": "673074740eea54e4ba1fdc94eebf2087531b3007af7da660afffb3d1e8df0d1e",
+  "schema_path": "nebulagraph/schema/schema.gql",
+  "sf": "0.3",
+  "created": "2026-11-21T03:42:54Z",
+  "git_sha": "1d6662c2"
+ },
+ "fetched_at": "2026-11-21T00:02:24",
+ "raw": {
+  "keys": [
+   "tagName",
+   "postCount"
+  ],
+  "rows": [
+   {
+    "tagName": "Augustine_of_Hippo",
+    "postCount": 9
+   },
+   {
+    "tagName": "Genghis_Khan",
+    "postCount": 3
+   },
+   {
+    "tagName": "Franz_Schubert",
+    "postCount": 2
+   },
+   {
+    "tagName": "Immanuel_Kant",
+    "postCount": 2
+   },
+   {
+    "tagName": "Jorge_Luis_Borges",
+    "postCount": 2
+   },
+   {
+    "tagName": "Oliver_Cromwell",
+    "postCount": 2
+   },
+   {
+    "tagName": "Abraham_Lincoln",
+    "postCount": 1
+   },
+   {
+    "tagName": "Adolf_Hitler",
+    "postCount": 1
+   },
+   {
+    "tagName": "After_the_Dance",
+    "postCount": 1
+   },
+   {
+    "tagName": "Alexander_Downer",
+    "postCount": 1
+   }
+  ]
+ }
+}

@@ -1,0 +1,122 @@
+{
+ "format": "meta",
+ "tally_version": 2,
+ "spec": {
+  "adjacency": {
+   "group": "item",
+   "owners": "one",
+   "split": "never"
+  },
+  "direction": "declared",
+  "index": {
+   "group": "item",
+   "owners": "one",
+   "scope": "type",
+   "split": "never",
+   "term": "exact"
+  },
+  "version": 1,
+  "vertex_props": {
+   "group": "item",
+   "owners": "one",
+   "split": "never"
+  }
+ },
+ "records": {
+  "path": "<elsewhere>/rocksdb-cpp/linkbench/n1m/.records.jsonl",
+  "key_sha256": "46d3a4c2111fa762e72de74a8c1363466cefd96ffb3f395e5a629fe2ccc0538b",
+  "content_sha256": "2330c4acba5812cdb24b3dce9a5cbdc0143fec42aee6cb5137dacb58189db7ea",
+  "sources_sha256": "e43131e880ca48f018afa3f99aeed234de44085a66a392be294488304e3772ec",
+  "schema_sha256": "97187f580167806780ac2aff8c09946736fa32c8e12a9eccaa8be96bc70afc26",
+  "lines": 6249370
+ },
+ "groups": [
+  {
+   "part": "adjacency",
+   "type": "link1",
+   "direction": "out",
+   "owner": "Node",
+   "detail": "",
+   "keys": 2832817,
+   "key_bytes": 53823523,
+   "value_bytes": 119399552,
+   "payload_bytes": 105235467,
+   "framing_bytes": 67987608,
+   "empty_values": 0
+  },
+  {
+   "part": "adjacency",
+   "type": "link2",
+   "direction": "out",
+   "owner": "Node",
+   "detail": "",
+   "keys": 2416553,
+   "key_bytes": 45914507,
+   "value_bytes": 101889930,
+   "payload_bytes": 89807165,
+   "framing_bytes": 57997272,
+   "empty_values": 0
+  },
+  {
+   "part": "index",
+   "type": "Node",
+   "direction": "",
+   "owner": "",
+   "detail": "",
+   "keys": 1000000,
+   "key_bytes": 13000000,
+   "value_bytes": 0,
+   "payload_bytes": 0,
+   "framing_bytes": 13000000,
+   "empty_values": 0
+  },
+  {
+   "part": "vertex_props",
+   "type": "Node",
+   "direction": "",
+   "owner": "",
+   "detail": "",
+   "keys": 4000000,
+   "key_bytes": 44000000,
+   "value_bytes": 235082101,
+   "payload_bytes": 235082101,
+   "framing_bytes": 44000000,
+   "empty_values": 0
+  }
+ ],
+ "chunks": {},
+ "locality": [],
+ "totals": {
+  "keys": 10249370,
+  "key_bytes": 156738030,
+  "value_bytes": 456371583
+ },
+ "wall_s": 35.635892183,
+ "provenance": {
+  "allocator": {
+   "aggressive_decommit": 0,
+   "env": {},
+   "lib_sha256": "c3d7996e516f60360b9d6d591fea53e0b177df38a4bfa36296d713220741f42a",
+   "malloc_is_tcmalloc": true,
+   "name": "tcmalloc",
+   "release_rate": 0.0,
+   "version": "2.15-3build1"
+  },
+  "binary_dirty": false,
+  "binary_git_sha": "40cc7bb5f4e363209ed2b241b5b6b95203b2eca4",
+  "block_cache_priority": {
+   "high_pri_pool_ratio": 0.5,
+   "index_filter_high_priority": true
+  },
+  "compiler": "GNU 13.3.0",
+  "flags": " -Wall -Wextra -Wno-unused-parameter -Wno-dangling-reference -O2 -g",
+  "host": {
+   "cpu": "INTEL(R) XEON(R) GOLD 5512U",
+   "kernel": "Linux 6.8.0-147-generic"
+  },
+  "ingest_index_filter_blocks": "partitioned",
+  "librocksdb_sha256": "675ac4932eddf80145bf9c5e71f7c4d6bb3c4089d6eca0a0e2a5ebe454331729",
+  "rocksdb": "7.5.3",
+  "rocksdb_source": "7.5.3@540d5aae516265170564ec27b3e67a54a11b7045"
+ }
+}

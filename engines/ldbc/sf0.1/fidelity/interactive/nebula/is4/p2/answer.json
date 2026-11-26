@@ -1,0 +1,30 @@
+{
+ "query_sha": "90d81e5ff49d1a92",
+ "params": {
+  "messageId": "msg_32484"
+ },
+ "data": {
+  "schema_sha256": "673074740eea54e4ba1fdc94eebf2087531b3007af7da660afffb3d1e8df0d1e",
+  "schema_path": "nebulagraph/schema/schema.gql",
+  "sf": "0.1",
+  "created": "2026-11-21T03:27:06Z",
+  "git_sha": "92777160"
+ },
+ "fetched_at": "2026-11-21T01:06:01",
+ "raw": {
+  "keys": [
+   "messageCreationDate",
+   "messageContent",
+   "messageId",
+   "messageType"
+  ],
+  "rows": [
+   {
+    "messageCreationDate": 1264227615229,
+    "messageContent": "About Augustine of Hippo,  also considered a saint, his feast day being celebrated on 15 June.. He carries the additional",
+    "messageId": "msg_32484",
+    "messageType": "post"
+   }
+  ]
+ }
+}

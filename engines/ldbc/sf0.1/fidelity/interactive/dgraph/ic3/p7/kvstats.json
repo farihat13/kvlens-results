@@ -1,0 +1,27 @@
+{
+ "query_sha": "907f15bd35b7d66e",
+ "params": {
+  "personId": "26388279066869",
+  "startDate": "2012-01-01T00:00:00Z",
+  "countryXName": "Mongolia",
+  "countryYName": "Republic_of_Macedonia",
+  "endDate": "2012-02-03T00:00:00Z"
+ },
+ "data_created": "2026-11-21T03:25:44Z",
+ "measured_at": "2026-11-21T01:03:00",
+ "raw": {
+  "get_bytes": 35706712,
+  "get_count": 532936,
+  "get_found_count": 532936,
+  "get_latency_ns": 28652379811,
+  "next_bytes": 0,
+  "next_count": 0,
+  "next_latency_ns": 0,
+  "seek_bytes": 15536219,
+  "seek_count": 268115,
+  "seek_latency_ns": 10957348029,
+  "set_bytes": 0,
+  "set_count": 0,
+  "set_latency_ns": 0
+ }
+}

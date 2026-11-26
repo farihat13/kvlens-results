@@ -1,0 +1,97 @@
+{
+ "query_sha": "c20c841713234a9d",
+ "params": {
+  "personId": 24189255813168,
+  "month": 3
+ },
+ "data": {
+  "schema_sha256": "b8e206f17e60692c830ba0c3c675fbc481a22f26011282ce523890eb09be8a74",
+  "schema_path": "arangodb/schema/ldbc_schema.json",
+  "sf": "0.3",
+  "created": "2026-11-21T03:01:29Z",
+  "git_sha": "60910999"
+ },
+ "fetched_at": "2026-11-20T23:49:18",
+ "raw": [
+  {
+   "personId": 26388279068331,
+   "personFirstName": "Zheng",
+   "personLastName": "Zhu",
+   "commonInterestScore": 17,
+   "personGender": "female",
+   "personCityName": "Changyi"
+  },
+  {
+   "personId": 28587302322974,
+   "personFirstName": "Zhang",
+   "personLastName": "Li",
+   "commonInterestScore": 6,
+   "personGender": "male",
+   "personCityName": "Changchun"
+  },
+  {
+   "personId": 6597069767407,
+   "personFirstName": "Michael",
+   "personLastName": "Zhang",
+   "commonInterestScore": 4,
+   "personGender": "male",
+   "personCityName": "\u00dcr\u00fcmqi"
+  },
+  {
+   "personId": 13194139537109,
+   "personFirstName": "Lauri",
+   "personLastName": "Lampi",
+   "commonInterestScore": 0,
+   "personGender": "male",
+   "personCityName": "Helsinki"
+  },
+  {
+   "personId": 19791209301294,
+   "personFirstName": "Ole",
+   "personLastName": "Petersen",
+   "commonInterestScore": 0,
+   "personGender": "female",
+   "personCityName": "Copenhagen"
+  },
+  {
+   "personId": 21990232557705,
+   "personFirstName": "Ernest B",
+   "personLastName": "Goenka",
+   "commonInterestScore": 0,
+   "personGender": "female",
+   "personCityName": "Yangon"
+  },
+  {
+   "personId": 21990232559412,
+   "personFirstName": "James",
+   "personLastName": "Smith",
+   "commonInterestScore": 0,
+   "personGender": "male",
+   "personCityName": "Birmingham"
+  },
+  {
+   "personId": 30786325580802,
+   "personFirstName": "Abhishek",
+   "personLastName": "Singh",
+   "commonInterestScore": 0,
+   "personGender": "male",
+   "personCityName": "Dharwad"
+  },
+  {
+   "personId": 32985348833478,
+   "personFirstName": "Eddie",
+   "personLastName": "Aquino",
+   "commonInterestScore": 0,
+   "personGender": "female",
+   "personCityName": "Cabanatuan"
+  },
+  {
+   "personId": 32985348836078,
+   "personFirstName": "Jacques",
+   "personLastName": "Breton",
+   "commonInterestScore": 0,
+   "personGender": "female",
+   "personCityName": "Grenoble"
+  }
+ ]
+}

@@ -1,0 +1,95 @@
+{
+ "query_sha": "6ff3aa62b8626f5b",
+ "params": {
+  "personId": "person_8796093023655"
+ },
+ "data": {
+  "schema_sha256": "673074740eea54e4ba1fdc94eebf2087531b3007af7da660afffb3d1e8df0d1e",
+  "schema_path": "nebulagraph/schema/schema.gql",
+  "sf": "0.1",
+  "created": "2026-11-21T03:27:06Z",
+  "git_sha": "92777160"
+ },
+ "fetched_at": "2026-11-21T01:08:19",
+ "raw": {
+  "keys": [
+   "friendId",
+   "friendFirstName",
+   "friendLastName",
+   "friendshipCreationDate",
+   "friendIdInt"
+  ],
+  "rows": [
+   {
+    "friendId": "person_32985348834937",
+    "friendFirstName": "Juan",
+    "friendLastName": "Perez",
+    "friendshipCreationDate": 1346326284983,
+    "friendIdInt": 32985348834937
+   },
+   {
+    "friendId": "person_32985348833314",
+    "friendFirstName": "Roberto",
+    "friendLastName": "Diaz",
+    "friendshipCreationDate": 1345138540230,
+    "friendIdInt": 32985348833314
+   },
+   {
+    "friendId": "person_28587302322686",
+    "friendFirstName": "Alfredo",
+    "friendLastName": "Fernandez",
+    "friendshipCreationDate": 1334951692022,
+    "friendIdInt": 28587302322686
+   },
+   {
+    "friendId": "person_28587302322865",
+    "friendFirstName": "Michael",
+    "friendLastName": "Brown",
+    "friendshipCreationDate": 1334510220046,
+    "friendIdInt": 28587302322865
+   },
+   {
+    "friendId": "person_28587302322537",
+    "friendFirstName": "Anh",
+    "friendLastName": "Nguyen",
+    "friendshipCreationDate": 1333127690255,
+    "friendIdInt": 28587302322537
+   },
+   {
+    "friendId": "person_26388279067054",
+    "friendFirstName": "John",
+    "friendLastName": "Brown",
+    "friendshipCreationDate": 1328389916067,
+    "friendIdInt": 26388279067054
+   },
+   {
+    "friendId": "person_15393162790096",
+    "friendFirstName": "Tom",
+    "friendLastName": "Brown",
+    "friendshipCreationDate": 1300869861647,
+    "friendIdInt": 15393162790096
+   },
+   {
+    "friendId": "person_4398046512492",
+    "friendFirstName": "Tom",
+    "friendLastName": "Williams",
+    "friendshipCreationDate": 1287041890980,
+    "friendIdInt": 4398046512492
+   },
+   {
+    "friendId": "person_2199023256031",
+    "friendFirstName": "Rodrigo",
+    "friendLastName": "Balmaceda",
+    "friendshipCreationDate": 1285951546956,
+    "friendIdInt": 2199023256031
+   },
+   {
+    "friendId": "person_8796093023000",
+    "friendFirstName": "Peng",
+    "friendLastName": "Zhang",
+    "friendshipCreationDate": 1285006387612,
+    "friendIdInt": 8796093023000
+   }
+  ]
+ }
+}

@@ -1,0 +1,161 @@
+{
+  "cell": "props_condensed_adj_condensed",
+  "sf": "3",
+  "workload": "bi",
+  "nparam": 5,
+  "P": 8,
+  "free_rows": true,
+  "measurement_version": 7,
+  "counting": {
+    "seam": 4,
+    "format": 3,
+    "write_seam": 1,
+    "write_format": 1
+  },
+  "inputs": "23829158987577a0",
+  "cell_inputs": "5a2ac1c10814cff7",
+  "slice": {
+    "queries": null,
+    "params": null
+  },
+  "complete": true,
+  "resumed": 0,
+  "wall_s": 3047.1,
+  "exec": "serve",
+  "spec": {
+    "version": 1,
+    "direction": "declared",
+    "vertex_props": {
+      "group": "owner",
+      "owners": "one",
+      "split": "never"
+    },
+    "adjacency": {
+      "group": "owner",
+      "owners": "one",
+      "split": 524288
+    },
+    "index": {
+      "group": "item",
+      "owners": "one",
+      "split": "never",
+      "term": "exact",
+      "scope": "type"
+    }
+  },
+  "spec_path": "inputs/specs/grid/props_condensed_adj_condensed.json",
+  "store": "ldbc/sf3/meta-71de16feb8c5",
+  "store_manifest": {
+    "key_codec": "meta-v4-chunk-bytes",
+    "value_codec_hash": "bd8936e9678b0aa5",
+    "keys": 51893262,
+    "sst_bytes": 1223549956,
+    "ingest_counts": {
+      "vertices": 9281922,
+      "edges": 52695734,
+      "adjacency_split_units": 12,
+      "adjacency_parts": 56
+    },
+    "index_filter_blocks": "partitioned",
+    "compression": "snappy",
+    "bloom_bits_per_key": 0.0
+  },
+  "store_content": {
+    "schema": "38709a627d9ca5c4e642881a35b11e3039e41c7471fa0c5efd2faf6415a5e58c",
+    "records": "1bf087c2e188ee94cb56cb01842c74f5e612947715927a3ad80c4577de9d980e",
+    "keys": 51893262,
+    "ingest_counts": {
+      "vertices": 9281922,
+      "edges": 52695734,
+      "adjacency_split_units": 12,
+      "adjacency_parts": 56
+    }
+  },
+  "binary": {
+    "allocator": {
+      "aggressive_decommit": 0,
+      "env": {},
+      "lib_sha256": "c3d7996e516f60360b9d6d591fea53e0b177df38a4bfa36296d713220741f42a",
+      "malloc_is_tcmalloc": true,
+      "name": "tcmalloc",
+      "release_rate": 0.0,
+      "version": "2.15-3build1"
+    },
+    "binary_dirty": false,
+    "binary_git_sha": "e22430d124f05ed0e6dea30d3b55b2ffb65978d6",
+    "block_cache_priority": {
+      "high_pri_pool_ratio": 0.5,
+      "index_filter_high_priority": true
+    },
+    "build_key": "1446a3391164c90cd76e",
+    "compiler": "GNU 13.3.0",
+    "counting": {
+      "formats": {
+        "arangodb": {
+          "read": 3,
+          "write": 1
+        },
+        "arangodb_engine": {
+          "read": 3,
+          "write": 1
+        },
+        "dgraph": {
+          "read": 2,
+          "write": 1
+        },
+        "dgraph_engine": {
+          "read": 2,
+          "write": 1
+        },
+        "meta": {
+          "read": 3,
+          "write": 1
+        },
+        "nebula": {
+          "read": 3,
+          "write": 1
+        },
+        "nebula_engine": {
+          "read": 3,
+          "write": 1
+        },
+        "pertype_csr": {
+          "read": 2,
+          "write": 1
+        }
+      },
+      "seam": {
+        "read": 4,
+        "write": 1
+      }
+    },
+    "engine_key_layouts": {
+      "arangodb_engine": "realistic-v7",
+      "dgraph_engine": "realistic-engine-v1",
+      "nebula_engine": "realistic-v4"
+    },
+    "flags": " -Wall -Wextra -Wno-unused-parameter -Wno-dangling-reference -O2 -g",
+    "host": {
+      "cpu": "AMD EPYC 9354P 32-Core Processor",
+      "kernel": "Linux 6.8.0-149-generic"
+    },
+    "ingest_index_filter_blocks": "partitioned",
+    "key_layouts": {
+      "arangodb": "realistic-v7",
+      "dgraph": "realistic-part-start",
+      "meta": "meta-v4-chunk-bytes",
+      "nebula": "realistic-v4",
+      "pertype_csr": "realistic-v7"
+    },
+    "key_roles_version": 6,
+    "librocksdb_sha256": "5de397b9a75279a914a7fe663bddfc32f5db6b85aa17de3268ebaf654614dc68",
+    "rocksdb": "7.5.3",
+    "rocksdb_source": "7.5.3@540d5aae516265170564ec27b3e67a54a11b7045",
+    "tally_version": 2
+  },
+  "tree": {
+    "git_sha": "e22430d124f05ed0e6dea30d3b55b2ffb65978d6",
+    "git_dirty": false
+  },
+  "plan_pipeline": 2
+}

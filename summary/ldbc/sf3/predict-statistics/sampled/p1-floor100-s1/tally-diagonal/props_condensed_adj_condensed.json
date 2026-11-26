@@ -1,0 +1,811 @@
+{
+ "format": "meta",
+ "tally_version": 2,
+ "spec": {
+  "adjacency": {
+   "group": "owner",
+   "owners": "one",
+   "split": 524288
+  },
+  "direction": "declared",
+  "index": {
+   "group": "item",
+   "owners": "one",
+   "scope": "type",
+   "split": "never",
+   "term": "exact"
+  },
+  "version": 1,
+  "vertex_props": {
+   "group": "owner",
+   "owners": "one",
+   "split": "never"
+  }
+ },
+ "records": {
+  "path": "ldbc/sf3/records.jsonl",
+  "key_sha256": "29ec6511549b56e5b26f75cc1a9bae0ce66bd6a9f4c2b77a64d578b6e4003441",
+  "content_sha256": "1bf087c2e188ee94cb56cb01842c74f5e612947715927a3ad80c4577de9d980e",
+  "sources_sha256": "e5d78cedca79b2c33932c6b0bc4d2d2172cde9dcee7d062a9e8a567181529250",
+  "schema_sha256": "350effd0e7a096b146eb6a61ccac35055dd8e5bbce8b13274cca7bab5a5fdae8",
+  "lines": 61977656
+ },
+ "groups": [
+  {
+   "part": "adjacency",
+   "type": "containerOf",
+   "direction": "in",
+   "owner": "Message",
+   "detail": "",
+   "keys": 2596300,
+   "key_bytes": 28559300,
+   "value_bytes": 20492700,
+   "payload_bytes": 0,
+   "framing_bytes": 49052000,
+   "empty_values": 0
+  },
+  {
+   "part": "adjacency",
+   "type": "containerOf",
+   "direction": "out",
+   "owner": "Forum",
+   "detail": "",
+   "keys": 207300,
+   "key_bytes": 2280300,
+   "value_bytes": 4599200,
+   "payload_bytes": 0,
+   "framing_bytes": 6879500,
+   "empty_values": 0
+  },
+  {
+   "part": "adjacency",
+   "type": "hasCreator",
+   "direction": "in",
+   "owner": "Person",
+   "detail": "",
+   "keys": 22200,
+   "key_bytes": 244200,
+   "value_bytes": 21380800,
+   "payload_bytes": 0,
+   "framing_bytes": 21625000,
+   "empty_values": 0
+  },
+  {
+   "part": "adjacency",
+   "type": "hasCreator",
+   "direction": "out",
+   "owner": "Message",
+   "detail": "",
+   "keys": 9014800,
+   "key_bytes": 99162800,
+   "value_bytes": 67144700,
+   "payload_bytes": 0,
+   "framing_bytes": 166307500,
+   "empty_values": 0
+  },
+  {
+   "part": "adjacency",
+   "type": "hasInterest",
+   "direction": "out",
+   "owner": "Person",
+   "detail": "",
+   "keys": 22900,
+   "key_bytes": 251900,
+   "value_bytes": 797100,
+   "payload_bytes": 0,
+   "framing_bytes": 1049000,
+   "empty_values": 0
+  },
+  {
+   "part": "adjacency",
+   "type": "hasMember",
+   "direction": "in",
+   "owner": "Person",
+   "detail": "",
+   "keys": 22300,
+   "key_bytes": 245300,
+   "value_bytes": 57190700,
+   "payload_bytes": 44981600,
+   "framing_bytes": 12454400,
+   "empty_values": 0
+  },
+  {
+   "part": "adjacency",
+   "type": "hasMember",
+   "direction": "out",
+   "owner": "Forum",
+   "detail": "",
+   "keys": 196800,
+   "key_bytes": 2164800,
+   "value_bytes": 57882300,
+   "payload_bytes": 40371200,
+   "framing_bytes": 19675900,
+   "empty_values": 0
+  },
+  {
+   "part": "adjacency",
+   "type": "hasModerator",
+   "direction": "in",
+   "owner": "Person",
+   "detail": "",
+   "keys": 22900,
+   "key_bytes": 251900,
+   "value_bytes": 793100,
+   "payload_bytes": 0,
+   "framing_bytes": 1045000,
+   "empty_values": 0
+  },
+  {
+   "part": "adjacency",
+   "type": "hasModerator",
+   "direction": "out",
+   "owner": "Forum",
+   "detail": "",
+   "keys": 222900,
+   "key_bytes": 2451900,
+   "value_bytes": 1688100,
+   "payload_bytes": 0,
+   "framing_bytes": 4140000,
+   "empty_values": 0
+  },
+  {
+   "part": "adjacency",
+   "type": "hasTag",
+   "direction": "in",
+   "owner": "Tag",
+   "detail": "",
+   "keys": 13500,
+   "key_bytes": 148500,
+   "value_bytes": 28606700,
+   "payload_bytes": 0,
+   "framing_bytes": 28755200,
+   "empty_values": 0
+  },
+  {
+   "part": "adjacency",
+   "type": "hasTag",
+   "direction": "out",
+   "owner": "Forum",
+   "detail": "",
+   "keys": 222900,
+   "key_bytes": 2451900,
+   "value_bytes": 1577100,
+   "payload_bytes": 0,
+   "framing_bytes": 4029000,
+   "empty_values": 0
+  },
+  {
+   "part": "adjacency",
+   "type": "hasTag",
+   "direction": "out",
+   "owner": "Message",
+   "detail": "",
+   "keys": 2772100,
+   "key_bytes": 30493100,
+   "value_bytes": 24719700,
+   "payload_bytes": 0,
+   "framing_bytes": 55212800,
+   "empty_values": 0
+  },
+  {
+   "part": "adjacency",
+   "type": "hasType",
+   "direction": "in",
+   "owner": "TagClass",
+   "detail": "",
+   "keys": 62,
+   "key_bytes": 682,
+   "value_bytes": 16606,
+   "payload_bytes": 0,
+   "framing_bytes": 17288,
+   "empty_values": 0
+  },
+  {
+   "part": "adjacency",
+   "type": "hasType",
+   "direction": "out",
+   "owner": "Tag",
+   "detail": "",
+   "keys": 16500,
+   "key_bytes": 181500,
+   "value_bytes": 49500,
+   "payload_bytes": 0,
+   "framing_bytes": 231000,
+   "empty_values": 0
+  },
+  {
+   "part": "adjacency",
+   "type": "isLocatedIn",
+   "direction": "in",
+   "owner": "Place",
+   "detail": "",
+   "keys": 1299,
+   "key_bytes": 14293,
+   "value_bytes": 6693487,
+   "payload_bytes": 0,
+   "framing_bytes": 6707780,
+   "empty_values": 0
+  },
+  {
+   "part": "adjacency",
+   "type": "isLocatedIn",
+   "direction": "out",
+   "owner": "Message",
+   "detail": "",
+   "keys": 9014800,
+   "key_bytes": 99162800,
+   "value_bytes": 24385200,
+   "payload_bytes": 0,
+   "framing_bytes": 123548000,
+   "empty_values": 0
+  },
+  {
+   "part": "adjacency",
+   "type": "isLocatedIn",
+   "direction": "out",
+   "owner": "Organisation",
+   "detail": "",
+   "keys": 9307,
+   "key_bytes": 102381,
+   "value_bytes": 29831,
+   "payload_bytes": 0,
+   "framing_bytes": 132212,
+   "empty_values": 0
+  },
+  {
+   "part": "adjacency",
+   "type": "isLocatedIn",
+   "direction": "out",
+   "owner": "Person",
+   "detail": "",
+   "keys": 22900,
+   "key_bytes": 251900,
+   "value_bytes": 76600,
+   "payload_bytes": 0,
+   "framing_bytes": 328500,
+   "empty_values": 0
+  },
+  {
+   "part": "adjacency",
+   "type": "isPartOf",
+   "direction": "in",
+   "owner": "Place",
+   "detail": "",
+   "keys": 117,
+   "key_bytes": 1285,
+   "value_bytes": 1241,
+   "payload_bytes": 0,
+   "framing_bytes": 2526,
+   "empty_values": 0
+  },
+  {
+   "part": "adjacency",
+   "type": "isPartOf",
+   "direction": "out",
+   "owner": "Place",
+   "detail": "",
+   "keys": 1299,
+   "key_bytes": 14293,
+   "value_bytes": 3606,
+   "payload_bytes": 0,
+   "framing_bytes": 17899,
+   "empty_values": 0
+  },
+  {
+   "part": "adjacency",
+   "type": "isSubclassOf",
+   "direction": "in",
+   "owner": "TagClass",
+   "detail": "",
+   "keys": 19,
+   "key_bytes": 209,
+   "value_bytes": 110,
+   "payload_bytes": 0,
+   "framing_bytes": 319,
+   "empty_values": 0
+  },
+  {
+   "part": "adjacency",
+   "type": "isSubclassOf",
+   "direction": "out",
+   "owner": "TagClass",
+   "detail": "",
+   "keys": 70,
+   "key_bytes": 770,
+   "value_bytes": 207,
+   "payload_bytes": 0,
+   "framing_bytes": 977,
+   "empty_values": 0
+  },
+  {
+   "part": "adjacency",
+   "type": "knows",
+   "direction": "in",
+   "owner": "Person",
+   "detail": "",
+   "keys": 19600,
+   "key_bytes": 215600,
+   "value_bytes": 5689600,
+   "payload_bytes": 4104800,
+   "framing_bytes": 1800400,
+   "empty_values": 0
+  },
+  {
+   "part": "adjacency",
+   "type": "knows",
+   "direction": "out",
+   "owner": "Person",
+   "detail": "",
+   "keys": 19600,
+   "key_bytes": 215600,
+   "value_bytes": 8327400,
+   "payload_bytes": 6221600,
+   "framing_bytes": 2321400,
+   "empty_values": 0
+  },
+  {
+   "part": "adjacency",
+   "type": "likes",
+   "direction": "in",
+   "owner": "Message",
+   "detail": "",
+   "keys": 367500,
+   "key_bytes": 4042500,
+   "value_bytes": 76819200,
+   "payload_bytes": 56216800,
+   "framing_bytes": 24644900,
+   "empty_values": 0
+  },
+  {
+   "part": "adjacency",
+   "type": "likes",
+   "direction": "out",
+   "owner": "Person",
+   "detail": "",
+   "keys": 22300,
+   "key_bytes": 245300,
+   "value_bytes": 86823900,
+   "payload_bytes": 65268800,
+   "framing_bytes": 21800400,
+   "empty_values": 0
+  },
+  {
+   "part": "adjacency",
+   "type": "replyOf",
+   "direction": "in",
+   "owner": "Message",
+   "detail": "",
+   "keys": 1992000,
+   "key_bytes": 21912000,
+   "value_bytes": 20385700,
+   "payload_bytes": 0,
+   "framing_bytes": 42297700,
+   "empty_values": 0
+  },
+  {
+   "part": "adjacency",
+   "type": "replyOf",
+   "direction": "out",
+   "owner": "Message",
+   "detail": "",
+   "keys": 6418500,
+   "key_bytes": 70603500,
+   "value_bytes": 57668900,
+   "payload_bytes": 0,
+   "framing_bytes": 128272400,
+   "empty_values": 0
+  },
+  {
+   "part": "adjacency",
+   "type": "studyAt",
+   "direction": "out",
+   "owner": "Person",
+   "detail": "",
+   "keys": 18100,
+   "key_bytes": 199100,
+   "value_bytes": 235300,
+   "payload_bytes": 144800,
+   "framing_bytes": 289600,
+   "empty_values": 0
+  },
+  {
+   "part": "adjacency",
+   "type": "workAt",
+   "direction": "out",
+   "owner": "Person",
+   "detail": "",
+   "keys": 19100,
+   "key_bytes": 210100,
+   "value_bytes": 534200,
+   "payload_bytes": 417600,
+   "framing_bytes": 326700,
+   "empty_values": 0
+  },
+  {
+   "part": "index",
+   "type": "Comment",
+   "direction": "",
+   "owner": "",
+   "detail": "creationDate",
+   "keys": 6418500,
+   "key_bytes": 134788500,
+   "value_bytes": 0,
+   "payload_bytes": 0,
+   "framing_bytes": 134788500,
+   "empty_values": 0
+  },
+  {
+   "part": "index",
+   "type": "Forum",
+   "direction": "",
+   "owner": "",
+   "detail": "",
+   "keys": 222900,
+   "key_bytes": 2897700,
+   "value_bytes": 0,
+   "payload_bytes": 0,
+   "framing_bytes": 2897700,
+   "empty_values": 0
+  },
+  {
+   "part": "index",
+   "type": "Organisation",
+   "direction": "",
+   "owner": "",
+   "detail": "",
+   "keys": 9307,
+   "key_bytes": 120996,
+   "value_bytes": 0,
+   "payload_bytes": 0,
+   "framing_bytes": 120996,
+   "empty_values": 0
+  },
+  {
+   "part": "index",
+   "type": "Person",
+   "direction": "",
+   "owner": "",
+   "detail": "creationDate",
+   "keys": 22900,
+   "key_bytes": 480900,
+   "value_bytes": 0,
+   "payload_bytes": 0,
+   "framing_bytes": 480900,
+   "empty_values": 0
+  },
+  {
+   "part": "index",
+   "type": "Person",
+   "direction": "",
+   "owner": "",
+   "detail": "firstName",
+   "keys": 22900,
+   "key_bytes": 453300,
+   "value_bytes": 0,
+   "payload_bytes": 0,
+   "framing_bytes": 453300,
+   "empty_values": 0
+  },
+  {
+   "part": "index",
+   "type": "Place",
+   "direction": "",
+   "owner": "",
+   "detail": "name",
+   "keys": 1314,
+   "key_bytes": 29025,
+   "value_bytes": 0,
+   "payload_bytes": 0,
+   "framing_bytes": 29025,
+   "empty_values": 0
+  },
+  {
+   "part": "index",
+   "type": "Post",
+   "direction": "",
+   "owner": "",
+   "detail": "creationDate",
+   "keys": 2596300,
+   "key_bytes": 54522300,
+   "value_bytes": 0,
+   "payload_bytes": 0,
+   "framing_bytes": 54522300,
+   "empty_values": 0
+  },
+  {
+   "part": "index",
+   "type": "Tag",
+   "direction": "",
+   "owner": "",
+   "detail": "name",
+   "keys": 16500,
+   "key_bytes": 501600,
+   "value_bytes": 0,
+   "payload_bytes": 0,
+   "framing_bytes": 501600,
+   "empty_values": 0
+  },
+  {
+   "part": "index",
+   "type": "TagClass",
+   "direction": "",
+   "owner": "",
+   "detail": "name",
+   "keys": 71,
+   "key_bytes": 1730,
+   "value_bytes": 0,
+   "payload_bytes": 0,
+   "framing_bytes": 1730,
+   "empty_values": 0
+  },
+  {
+   "part": "vertex_props",
+   "type": "Comment",
+   "direction": "",
+   "owner": "",
+   "detail": "",
+   "keys": 6418500,
+   "key_bytes": 64185000,
+   "value_bytes": 537891800,
+   "payload_bytes": 454451300,
+   "framing_bytes": 147625500,
+   "empty_values": 0
+  },
+  {
+   "part": "vertex_props",
+   "type": "Forum",
+   "direction": "",
+   "owner": "",
+   "detail": "",
+   "keys": 222900,
+   "key_bytes": 2229000,
+   "value_bytes": 8140200,
+   "payload_bytes": 7025700,
+   "framing_bytes": 3343500,
+   "empty_values": 0
+  },
+  {
+   "part": "vertex_props",
+   "type": "Organisation",
+   "direction": "",
+   "owner": "",
+   "detail": "",
+   "keys": 9307,
+   "key_bytes": 93074,
+   "value_bytes": 987295,
+   "payload_bytes": 866300,
+   "framing_bytes": 214069,
+   "empty_values": 0
+  },
+  {
+   "part": "vertex_props",
+   "type": "Person",
+   "direction": "",
+   "owner": "",
+   "detail": "",
+   "keys": 22900,
+   "key_bytes": 229000,
+   "value_bytes": 3529300,
+   "payload_bytes": 2842300,
+   "framing_bytes": 916000,
+   "empty_values": 0
+  },
+  {
+   "part": "vertex_props",
+   "type": "Place",
+   "direction": "",
+   "owner": "",
+   "detail": "",
+   "keys": 1314,
+   "key_bytes": 13140,
+   "value_bytes": 80767,
+   "payload_bytes": 63685,
+   "framing_bytes": 30222,
+   "empty_values": 0
+  },
+  {
+   "part": "vertex_props",
+   "type": "Post",
+   "direction": "",
+   "owner": "",
+   "detail": "",
+   "keys": 2596300,
+   "key_bytes": 25963000,
+   "value_bytes": 251670500,
+   "payload_bytes": 215394200,
+   "framing_bytes": 62239300,
+   "empty_values": 0
+  },
+  {
+   "part": "vertex_props",
+   "type": "Tag",
+   "direction": "",
+   "owner": "",
+   "detail": "",
+   "keys": 16500,
+   "key_bytes": 165000,
+   "value_bytes": 1151700,
+   "payload_bytes": 1003200,
+   "framing_bytes": 313500,
+   "empty_values": 0
+  },
+  {
+   "part": "vertex_props",
+   "type": "TagClass",
+   "direction": "",
+   "owner": "",
+   "detail": "",
+   "keys": 71,
+   "key_bytes": 710,
+   "value_bytes": 4101,
+   "payload_bytes": 3462,
+   "framing_bytes": 1349,
+   "empty_values": 0
+  }
+ ],
+ "chunks": {},
+ "locality": [],
+ "totals": {
+  "keys": 51878457,
+  "key_bytes": 652753688,
+  "value_bytes": 1378068451
+ },
+ "wall_s": 96.325274154,
+ "provenance": {
+  "allocator": {
+   "aggressive_decommit": 0,
+   "env": {},
+   "lib_sha256": "c3d7996e516f60360b9d6d591fea53e0b177df38a4bfa36296d713220741f42a",
+   "malloc_is_tcmalloc": true,
+   "name": "tcmalloc",
+   "release_rate": 0.0,
+   "version": "2.15-3build1"
+  },
+  "binary_dirty": false,
+  "binary_git_sha": "53eca44bbf5fe909325ae4a547b977721eaa0246",
+  "block_cache_priority": {
+   "high_pri_pool_ratio": 0.5,
+   "index_filter_high_priority": true
+  },
+  "compiler": "GNU 13.3.0",
+  "flags": " -Wall -Wextra -Wno-unused-parameter -Wno-dangling-reference -O2 -g",
+  "host": {
+   "cpu": "AMD EPYC 9354P 32-Core Processor",
+   "kernel": "Linux 6.8.0-149-generic"
+  },
+  "ingest_index_filter_blocks": "partitioned",
+  "librocksdb_sha256": "5de397b9a75279a914a7fe663bddfc32f5db6b85aa17de3268ebaf654614dc68",
+  "rocksdb": "7.5.3",
+  "rocksdb_source": "7.5.3@540d5aae516265170564ec27b3e67a54a11b7045"
+ },
+ "owner_sample": {
+  "percent": 1.0,
+  "seed": 1,
+  "floor": 100,
+  "rates": {
+   "Comment": 0.01,
+   "Forum": 0.01,
+   "Organisation": 0.012570710245128848,
+   "Person": 0.01,
+   "Place": 0.0684931506849315,
+   "Post": 0.01,
+   "Tag": 0.01,
+   "TagClass": 1.0
+  },
+  "rule": "a label's rate max(percent / 100, min(1, floor / its vertices)); each count scaled by 1 / its owner's rate; a chunk count from the chunks' fill; chunk ranges cut at the sampled owners' byte shares; a family whose owners are all kept whole keeps its chunks",
+  "kept": {
+   "vertices": {
+    "Comment": {
+     "read": 6413095,
+     "kept": 64185
+    },
+    "Forum": {
+     "read": 221792,
+     "kept": 2229
+    },
+    "Organisation": {
+     "read": 7955,
+     "kept": 117
+    },
+    "Person": {
+     "read": 24328,
+     "kept": 229
+    },
+    "Place": {
+     "read": 1460,
+     "kept": 90
+    },
+    "Post": {
+     "read": 2597141,
+     "kept": 25963
+    },
+    "Tag": {
+     "read": 16080,
+     "kept": 165
+    },
+    "TagClass": {
+     "read": 71,
+     "kept": 71
+    }
+   },
+   "edges": {
+    "containerOf": {
+     "read": 2597141,
+     "out_lists": 25941,
+     "in_lists": 25963
+    },
+    "hasCreator": {
+     "read": 9010236,
+     "out_lists": 90148,
+     "in_lists": 113647
+    },
+    "hasInterest": {
+     "read": 569918,
+     "out_lists": 5405,
+     "in_lists": 6237
+    },
+    "hasMember": {
+     "read": 4982242,
+     "out_lists": 50464,
+     "in_lists": 56227
+    },
+    "hasModerator": {
+     "read": 221792,
+     "out_lists": 2229,
+     "in_lists": 2267
+    },
+    "hasTag": {
+     "read": 11423557,
+     "out_lists": 114048,
+     "in_lists": 116709
+    },
+    "hasType": {
+     "read": 16080,
+     "out_lists": 165,
+     "in_lists": 16080
+    },
+    "isLocatedIn": {
+     "read": 9042519,
+     "out_lists": 90494,
+     "in_lists": 274983
+    },
+    "isPartOf": {
+     "read": 1454,
+     "out_lists": 89,
+     "in_lists": 67
+    },
+    "isSubclassOf": {
+     "read": 70,
+     "out_lists": 70,
+     "in_lists": 70
+    },
+    "knows": {
+     "read": 565247,
+     "out_lists": 7777,
+     "in_lists": 5131
+    },
+    "likes": {
+     "read": 7779863,
+     "out_lists": 81586,
+     "in_lists": 70271
+    },
+    "replyOf": {
+     "read": 6413095,
+     "out_lists": 64185,
+     "in_lists": 64019
+    },
+    "studyAt": {
+     "read": 19497,
+     "out_lists": 181,
+     "in_lists": 132
+    },
+    "workAt": {
+     "read": 53023,
+     "out_lists": 522,
+     "in_lists": 1092
+    }
+   }
+  },
+  "range_ends": "chunks.<family>.first_id: the family's lowest owner, read whole (exact); chunks.<family>.last_chunk_value_bytes with last_chunk_bound: the bytes of the owners the last chunk can hold (from the highest id in its vid group down, while the chunker's estimates stay under the pack target), read whole, each encoded alone (an upper bound on the last chunk); a family kept whole: both its own"
+ }
+}

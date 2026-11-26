@@ -1,0 +1,76 @@
+{
+ "query_sha": "aab56a2aedd27dfa",
+ "params": {
+  "personId": 24189255813168
+ },
+ "data": {
+  "schema_sha256": "b8e206f17e60692c830ba0c3c675fbc481a22f26011282ce523890eb09be8a74",
+  "schema_path": "arangodb/schema/ldbc_schema.json",
+  "sf": "0.3",
+  "created": "2026-11-21T03:01:29Z",
+  "git_sha": "60910999"
+ },
+ "fetched_at": "2026-11-20T23:51:09",
+ "raw": [
+  {
+   "friendId": 32985348834053,
+   "friendFirstName": "James",
+   "friendLastName": "Wilson",
+   "friendshipCreationDate": 1343404249591
+  },
+  {
+   "friendId": 32985348834375,
+   "friendFirstName": "Alfred",
+   "friendLastName": "Hoffmann",
+   "friendshipCreationDate": 1343163748663
+  },
+  {
+   "friendId": 30786325578932,
+   "friendFirstName": "Alexander",
+   "friendLastName": "Hleb",
+   "friendshipCreationDate": 1340615144473
+  },
+  {
+   "friendId": 28587302324596,
+   "friendFirstName": "Faisal",
+   "friendLastName": "Ahmed",
+   "friendshipCreationDate": 1334934660787
+  },
+  {
+   "friendId": 19791209303550,
+   "friendFirstName": "Nol",
+   "friendLastName": "Dany",
+   "friendshipCreationDate": 1328082120024
+  },
+  {
+   "friendId": 24189255813524,
+   "friendFirstName": "Ahmad",
+   "friendLastName": "Motamed",
+   "friendshipCreationDate": 1327805898085
+  },
+  {
+   "friendId": 2199023258280,
+   "friendFirstName": "Macky",
+   "friendLastName": "Mendy",
+   "friendshipCreationDate": 1327762484545
+  },
+  {
+   "friendId": 21990232556811,
+   "friendFirstName": "Bruna",
+   "friendLastName": "Costa",
+   "friendshipCreationDate": 1327492218199
+  },
+  {
+   "friendId": 4398046512826,
+   "friendFirstName": "Bingbing",
+   "friendLastName": "Liu",
+   "friendshipCreationDate": 1327394399737
+  },
+  {
+   "friendId": 17592186048248,
+   "friendFirstName": "Abdulwahab",
+   "friendLastName": "Gillett",
+   "friendshipCreationDate": 1326432657120
+  }
+ ]
+}

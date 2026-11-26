@@ -1,0 +1,53 @@
+{
+ "query_sha": "6935170dcded2085",
+ "params": {
+  "messageId": "549756718893"
+ },
+ "data": {
+  "schema_sha256": "03713a1e1c7b722e73bed6b150e079e69e9579c2a58c52e06f9d4384fdd4b80d",
+  "schema_path": "dgraph/schema/ldbcTypes.schema",
+  "sf": "0.3",
+  "created": "2026-11-21T02:56:18Z",
+  "git_sha": "60910999"
+ },
+ "fetched_at": "2026-11-20T23:58:14",
+ "raw": {
+  "origAuthor": [
+   {
+    "origAuthorId": 143
+   }
+  ],
+  "replies": [
+   {
+    "commentContent": "About Napoleon, tion with NapolAbout Elvis Costello, m as a pop encyAbout Robert Bur",
+    "commentCreationDate": "2011-06-29T08:44:48.572Z",
+    "commentId": 549756718903,
+    "knowsCount": 0,
+    "knowsCount2": 0,
+    "replyAuthorFirstName": "Emad",
+    "replyAuthorId": 6597069767884,
+    "replyAuthorLastName": "Mahmoud"
+   },
+   {
+    "commentContent": "yes",
+    "commentCreationDate": "2011-06-29T07:32:42.137Z",
+    "commentId": 549756718895,
+    "knowsCount": 0,
+    "knowsCount2": 0,
+    "replyAuthorFirstName": "Josef",
+    "replyAuthorId": 2199023258479,
+    "replyAuthorLastName": "Herzigov\u00e1"
+   },
+   {
+    "commentContent": "great",
+    "commentCreationDate": "2011-06-29T07:23:33.91Z",
+    "commentId": 549756718897,
+    "knowsCount": 0,
+    "knowsCount2": 0,
+    "replyAuthorFirstName": "Zaenal",
+    "replyAuthorId": 296,
+    "replyAuthorLastName": "Gallagher"
+   }
+  ]
+ }
+}

@@ -1,0 +1,90 @@
+{
+ "P": 1,
+ "backend": "cpp",
+ "binary": {
+  "binary_dirty": false,
+  "binary_git_sha": "e22430d124f05ed0e6dea30d3b55b2ffb65978d6",
+  "counting": {
+   "formats": {
+    "arangodb": {
+     "read": 3,
+     "write": 1
+    },
+    "arangodb_engine": {
+     "read": 3,
+     "write": 1
+    },
+    "dgraph": {
+     "read": 2,
+     "write": 1
+    },
+    "dgraph_engine": {
+     "read": 2,
+     "write": 1
+    },
+    "meta": {
+     "read": 3,
+     "write": 1
+    },
+    "nebula": {
+     "read": 3,
+     "write": 1
+    },
+    "nebula_engine": {
+     "read": 3,
+     "write": 1
+    },
+    "pertype_csr": {
+     "read": 2,
+     "write": 1
+    }
+   },
+   "seam": {
+    "read": 4,
+    "write": 1
+   }
+  },
+  "path": "build/cpp/kvevaluator"
+ },
+ "cell": "props_chunked_c1k_adj_chunked_c16k",
+ "cell_inputs": null,
+ "composed_from": {
+  "adjacency parts": "captures/linkbench/n1m/linkbench_writes/log/parts/props_chunked_c16k_adj_chunked_c16k.csv",
+  "props and index parts": "captures/linkbench/n1m/linkbench_writes/log/parts/props_chunked_c1k_adj_chunked_c1k.csv"
+ },
+ "composed_from_sha": {
+  "captures/linkbench/n1m/linkbench_writes/log/counts/props_chunked_c16k_adj_chunked_c16k.csv": "bd1aeb6b0ac40b034b650cb1647db5cb8cde2e36c7032db9097ecc45b78d23d3",
+  "captures/linkbench/n1m/linkbench_writes/log/counts/props_chunked_c1k_adj_chunked_c1k.csv": "c95747942fa726f03e357b3c79a8dbde7a93b08aaf51d9280f850640e7e98160",
+  "captures/linkbench/n1m/linkbench_writes/log/parts/props_chunked_c16k_adj_chunked_c16k.csv": "fb2ab94e8a6ab0ccd20eb502e8c4fb88ca3943a41704eb9bfd593d92640a98f1",
+  "captures/linkbench/n1m/linkbench_writes/log/parts/props_chunked_c1k_adj_chunked_c1k.csv": "bf037fd343cc0c6ec18579d01ff20f4a67676cbb399848e500777e1eaa2fc422"
+ },
+ "counting": {
+  "format": 3,
+  "seam": 4,
+  "write_format": 1,
+  "write_seam": 1
+ },
+ "dbs": [
+  "meta"
+ ],
+ "free_rows": true,
+ "generated": "2026-11-20T17:57:39",
+ "git_commit": "e22430d1",
+ "git_dirty": false,
+ "inputs": "68dbce620e83e7a2",
+ "measurement_version": 11,
+ "nparam": 100000,
+ "param_sha": null,
+ "queries": 9,
+ "rows": 31006,
+ "sf": "n1m",
+ "slice": {
+  "params": null,
+  "queries": null
+ },
+ "store": "",
+ "store_manifest": null,
+ "variant": "canonical",
+ "wall_s": 0.925,
+ "workload": "linkbench_writes"
+}

@@ -1,0 +1,93 @@
+{
+ "query_sha": "cc60061064f78218",
+ "params": {
+  "personId": "2199023259063",
+  "firstName": "Alif"
+ },
+ "data": {
+  "schema_sha256": "03713a1e1c7b722e73bed6b150e079e69e9579c2a58c52e06f9d4384fdd4b80d",
+  "schema_path": "dgraph/schema/ldbcTypes.schema",
+  "sf": "0.3",
+  "created": "2026-11-21T02:56:18Z",
+  "git_sha": "60910999"
+ },
+ "fetched_at": "2026-11-20T23:53:00",
+ "raw": {
+  "_l1_from_p": [],
+  "_l2_expand": [],
+  "_l3_expand": [],
+  "friends1": [],
+  "friends2": [
+   {
+    "companyCountryName": "Afghanistan",
+    "companyName": "Balkh_Airlines",
+    "friendBirthday": "1981-02-22T00:00:00Z",
+    "friendBrowserUsed": "Firefox",
+    "friendCityName": "Khost",
+    "friendCreationDate": "2012-03-03T05:04:08.231Z",
+    "friendDistance": 2,
+    "friendEmails": [
+     "Alif26388279067086@yahoo.com"
+    ],
+    "friendFirstName": "Alif",
+    "friendGender": "male",
+    "friendId": 26388279067086,
+    "friendLanguages": [
+     "en",
+     "tk",
+     "uz"
+    ],
+    "friendLastName": "Qaderi",
+    "friendLocationIp": "27.116.59.8",
+    "workAt|workFrom": "2008"
+   },
+   {
+    "companyCountryName": "Afghanistan",
+    "companyName": "MarcoPolo_Airways",
+    "friendBirthday": "1981-02-22T00:00:00Z",
+    "friendBrowserUsed": "Firefox",
+    "friendCityName": "Khost",
+    "friendCreationDate": "2012-03-03T05:04:08.231Z",
+    "friendDistance": 2,
+    "friendEmails": [
+     "Alif26388279067086@yahoo.com"
+    ],
+    "friendFirstName": "Alif",
+    "friendGender": "male",
+    "friendId": 26388279067086,
+    "friendLanguages": [
+     "en",
+     "tk",
+     "uz"
+    ],
+    "friendLastName": "Qaderi",
+    "friendLocationIp": "27.116.59.8",
+    "workAt|workFrom": "1999"
+   },
+   {
+    "companyCountryName": "Afghanistan",
+    "companyName": "Kam_Air",
+    "friendBirthday": "1981-02-22T00:00:00Z",
+    "friendBrowserUsed": "Firefox",
+    "friendCityName": "Khost",
+    "friendCreationDate": "2012-03-03T05:04:08.231Z",
+    "friendDistance": 2,
+    "friendEmails": [
+     "Alif26388279067086@yahoo.com"
+    ],
+    "friendFirstName": "Alif",
+    "friendGender": "male",
+    "friendId": 26388279067086,
+    "friendLanguages": [
+     "en",
+     "tk",
+     "uz"
+    ],
+    "friendLastName": "Qaderi",
+    "friendLocationIp": "27.116.59.8",
+    "workAt|workFrom": "2009"
+   }
+  ],
+  "friends3": []
+ }
+}

@@ -1,0 +1,13 @@
+layout_set,column,mark,group,share
+sp-co-ch1k-ch4k-ch16k,cost_sp_co,i01,complex,0.9565431473047059
+sp-co-ch1k-ch4k-ch16k,cost_sp_co,i01,short,0.03821622623260001
+sp-co-ch1k-ch4k-ch16k,cost_sp_co,i01,update,0.00524062646269401
+sp-co-ch1k-ch4k-ch16k,executions,i01,complex,0.06526948084095184
+sp-co-ch1k-ch4k-ch16k,executions,i01,short,0.7147012552669505
+sp-co-ch1k-ch4k-ch16k,executions,i01,update,0.22002926389209765
+sp-co-ch1k-ch4k-ch16k-ch64k-ch256k,cost_sp_co,i01,complex,0.9565431473047059
+sp-co-ch1k-ch4k-ch16k-ch64k-ch256k,cost_sp_co,i01,short,0.03821622623260001
+sp-co-ch1k-ch4k-ch16k-ch64k-ch256k,cost_sp_co,i01,update,0.00524062646269401
+sp-co-ch1k-ch4k-ch16k-ch64k-ch256k,executions,i01,complex,0.06526948084095184
+sp-co-ch1k-ch4k-ch16k-ch64k-ch256k,executions,i01,short,0.7147012552669505
+sp-co-ch1k-ch4k-ch16k-ch64k-ch256k,executions,i01,update,0.22002926389209765

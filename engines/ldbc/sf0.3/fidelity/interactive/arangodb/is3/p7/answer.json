@@ -1,0 +1,76 @@
+{
+ "query_sha": "aab56a2aedd27dfa",
+ "params": {
+  "personId": 2199023259063
+ },
+ "data": {
+  "schema_sha256": "b8e206f17e60692c830ba0c3c675fbc481a22f26011282ce523890eb09be8a74",
+  "schema_path": "arangodb/schema/ldbc_schema.json",
+  "sf": "0.3",
+  "created": "2026-11-21T03:01:29Z",
+  "git_sha": "60910999"
+ },
+ "fetched_at": "2026-11-20T23:54:49",
+ "raw": [
+  {
+   "friendId": 30786325578932,
+   "friendFirstName": "Alexander",
+   "friendLastName": "Hleb",
+   "friendshipCreationDate": 1339120526954
+  },
+  {
+   "friendId": 26388279066885,
+   "friendFirstName": "Andrei",
+   "friendLastName": "Kahnovich",
+   "friendshipCreationDate": 1331177255537
+  },
+  {
+   "friendId": 24189255811663,
+   "friendFirstName": "Chris",
+   "friendLastName": "Hall",
+   "friendshipCreationDate": 1323589687394
+  },
+  {
+   "friendId": 21990232557330,
+   "friendFirstName": "Gerhard",
+   "friendLastName": "M\u00fcller",
+   "friendshipCreationDate": 1317957062016
+  },
+  {
+   "friendId": 21990232556410,
+   "friendFirstName": "Aa Ngurah",
+   "friendLastName": "Gallagher",
+   "friendshipCreationDate": 1315852593689
+  },
+  {
+   "friendId": 19791209303491,
+   "friendFirstName": "George",
+   "friendLastName": "Nagy",
+   "friendshipCreationDate": 1315390195255
+  },
+  {
+   "friendId": 17592186047036,
+   "friendFirstName": "Daniil",
+   "friendLastName": "Ivanov",
+   "friendshipCreationDate": 1311729201948
+  },
+  {
+   "friendId": 15393162789093,
+   "friendFirstName": "Rafael",
+   "friendLastName": "Fern\u00e1ndez",
+   "friendshipCreationDate": 1303644863036
+  },
+  {
+   "friendId": 13194139537008,
+   "friendFirstName": "Ivan Ignatyevich",
+   "friendLastName": "Hleb",
+   "friendshipCreationDate": 1296607178804
+  },
+  {
+   "friendId": 2214,
+   "friendFirstName": "Alexander",
+   "friendLastName": "Ivanov",
+   "friendshipCreationDate": 1271591232296
+  }
+ ]
+}

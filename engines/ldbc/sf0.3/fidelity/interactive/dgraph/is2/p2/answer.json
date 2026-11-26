@@ -1,0 +1,312 @@
+{
+ "query_sha": "afd1398a68b07f16",
+ "params": {
+  "personId": "2199023259220"
+ },
+ "data": {
+  "schema_sha256": "03713a1e1c7b722e73bed6b150e079e69e9579c2a58c52e06f9d4384fdd4b80d",
+  "schema_path": "dgraph/schema/ldbcTypes.schema",
+  "sf": "0.3",
+  "created": "2026-11-21T02:56:18Z",
+  "git_sha": "60910999"
+ },
+ "fetched_at": "2026-11-20T23:52:58",
+ "raw": {
+  "person": [
+   {
+    "messages": [
+     {
+      "messageId": 1099511778684,
+      "messageCreationDate": "2012-09-12T13:16:01.184Z",
+      "content": "About Ariel Sharon,  and Shatila, for his havinAbout Assyria, den-ili, Tukulti",
+      "messageType": [
+       "comment"
+      ],
+      "selfAsOriginal": [
+       {
+        "authorId": 2199023259220,
+        "authorFirstName": "Kunal",
+        "authorLastName": "Sharma"
+       }
+      ],
+      "parentComment": {
+       "dgraph.type": [
+        "comment"
+       ],
+       "grandParentComment": {
+        "greatGrandParentPost": {
+         "postId": 1099511778672,
+         "originalPoster": [
+          {
+           "authorId": 24189255811694,
+           "authorFirstName": "Victor",
+           "authorLastName": "Hassan"
+          }
+         ]
+        }
+       }
+      }
+     },
+     {
+      "messageId": 1030792220972,
+      "messageCreationDate": "2012-09-02T11:09:18.666Z",
+      "content": "About Alanis Morissette, nd as a teenager recorded two dance-pop albumsRudyard Kipling's W",
+      "messageType": [
+       "comment"
+      ],
+      "originalPost": {
+       "postId": 1030792220970,
+       "postCreationDate": "2012-09-02T09:33:14.539Z",
+       "postContent": "About Alanis Morissette, adine Morissette (born June 1, 1974) is a Canadian singer-songwriter, guitarist, re",
+       "originalPoster": [
+        {
+         "authorId": 24189255814531,
+         "authorFirstName": "Aharon",
+         "authorLastName": "Bouzid"
+        }
+       ]
+      },
+      "selfAsOriginal": [
+       {
+        "authorId": 2199023259220,
+        "authorFirstName": "Kunal",
+        "authorLastName": "Sharma"
+       }
+      ]
+     },
+     {
+      "messageId": 1030793086296,
+      "messageCreationDate": "2012-08-31T11:10:01.342Z",
+      "content": "About Libya, nd Tunisia to the west. With an area of almost 1.8 million square kilo",
+      "messageType": [
+       "comment"
+      ],
+      "selfAsOriginal": [
+       {
+        "authorId": 2199023259220,
+        "authorFirstName": "Kunal",
+        "authorLastName": "Sharma"
+       }
+      ],
+      "parentComment": {
+       "dgraph.type": [
+        "comment"
+       ],
+       "grandParentPost": {
+        "postId": 1030793086287,
+        "originalPoster": [
+         {
+          "authorId": 30786325577905,
+          "authorFirstName": "Carlos",
+          "authorLastName": "Alvarez"
+         }
+        ]
+       }
+      }
+     },
+     {
+      "messageId": 1030793086294,
+      "messageCreationDate": "2012-08-30T22:56:10.028Z",
+      "content": "About Unknown Pleasures, tt produced the record at Strawberry Studios, Stockport, England. The album sold poorly upon re",
+      "messageType": [
+       "comment"
+      ],
+      "selfAsOriginal": [
+       {
+        "authorId": 2199023259220,
+        "authorFirstName": "Kunal",
+        "authorLastName": "Sharma"
+       }
+      ],
+      "parentComment": {
+       "dgraph.type": [
+        "comment"
+       ],
+       "grandParentPost": {
+        "postId": 1030793086287,
+        "originalPoster": [
+         {
+          "authorId": 30786325577905,
+          "authorFirstName": "Carlos",
+          "authorLastName": "Alvarez"
+         }
+        ]
+       }
+      }
+     },
+     {
+      "messageId": 1030793086310,
+      "messageCreationDate": "2012-08-30T04:41:45.953Z",
+      "content": "LOL",
+      "messageType": [
+       "comment"
+      ],
+      "selfAsOriginal": [
+       {
+        "authorId": 2199023259220,
+        "authorFirstName": "Kunal",
+        "authorLastName": "Sharma"
+       }
+      ],
+      "parentComment": {
+       "dgraph.type": [
+        "comment"
+       ],
+       "grandParentPost": {
+        "postId": 1030793086305,
+        "originalPoster": [
+         {
+          "authorId": 17592186044592,
+          "authorFirstName": "Luigi",
+          "authorLastName": "Bonomi"
+         }
+        ]
+       }
+      }
+     },
+     {
+      "messageId": 1030792830797,
+      "messageCreationDate": "2012-08-26T22:58:33.369Z",
+      "content": "About Zine El Abidine Ben Ali, r 1987 President Habib Bourguiba PreceAbout ",
+      "messageType": [
+       "comment"
+      ],
+      "originalPost": {
+       "postId": 1030792830795,
+       "postCreationDate": "2012-08-26T19:57:17.682Z",
+       "postContent": "About Zine El Abidine Ben Ali, Ali is a Tunisian political figure who was the second President of Tunisia fro",
+       "originalPoster": [
+        {
+         "authorId": 24189255811566,
+         "authorFirstName": "The",
+         "authorLastName": "Kunda"
+        }
+       ]
+      },
+      "selfAsOriginal": [
+       {
+        "authorId": 2199023259220,
+        "authorFirstName": "Kunal",
+        "authorLastName": "Sharma"
+       }
+      ]
+     },
+     {
+      "messageId": 1030792471539,
+      "messageCreationDate": "2012-08-24T10:22:46.838Z",
+      "content": "fine",
+      "messageType": [
+       "comment"
+      ],
+      "selfAsOriginal": [
+       {
+        "authorId": 2199023259220,
+        "authorFirstName": "Kunal",
+        "authorLastName": "Sharma"
+       }
+      ],
+      "parentComment": {
+       "dgraph.type": [
+        "comment"
+       ],
+       "grandParentPost": {
+        "postId": 1030792471534,
+        "originalPoster": [
+         {
+          "authorId": 30786325580396,
+          "authorFirstName": "Zaenal",
+          "authorLastName": "Balawan"
+         }
+        ]
+       }
+      }
+     },
+     {
+      "messageId": 1030792471538,
+      "messageCreationDate": "2012-08-24T05:16:49.169Z",
+      "content": "About Brian Mulroney, s political careerAbout John Locke, s Declaration of IAbout Mickey ",
+      "messageType": [
+       "comment"
+      ],
+      "selfAsOriginal": [
+       {
+        "authorId": 2199023259220,
+        "authorFirstName": "Kunal",
+        "authorLastName": "Sharma"
+       }
+      ],
+      "parentComment": {
+       "dgraph.type": [
+        "comment"
+       ],
+       "grandParentPost": {
+        "postId": 1030792471534,
+        "originalPoster": [
+         {
+          "authorId": 30786325580396,
+          "authorFirstName": "Zaenal",
+          "authorLastName": "Balawan"
+         }
+        ]
+       }
+      }
+     },
+     {
+      "messageId": 1030792302318,
+      "messageCreationDate": "2012-08-24T02:07:37.759Z",
+      "content": "About Ghana, y the Dagomba. Prior to contact with Europeans trade between the Akan and various African states flourished due to Akan's gold wealth. Trade w",
+      "messageType": [
+       "comment"
+      ],
+      "originalPost": {
+       "postId": 1030792302316,
+       "postCreationDate": "2012-08-24T00:24:16.742Z",
+       "postContent": "About William Blake, ob B\u00f6hme and Emanuel Swedenborg. Despite these known influences, the singularity of Blake's work make",
+       "originalPoster": [
+        {
+         "authorId": 17592186047079,
+         "authorFirstName": "Jaime",
+         "authorLastName": "Rojas"
+        }
+       ]
+      },
+      "selfAsOriginal": [
+       {
+        "authorId": 2199023259220,
+        "authorFirstName": "Kunal",
+        "authorLastName": "Sharma"
+       }
+      ]
+     },
+     {
+      "messageId": 1030792300833,
+      "messageCreationDate": "2012-08-23T12:22:37.475Z",
+      "content": "duh",
+      "messageType": [
+       "comment"
+      ],
+      "originalPost": {
+       "postId": 1030792300832,
+       "postCreationDate": "2012-08-23T11:40:16.473Z",
+       "postContent": "About William Blake, minal figure in the history of both the poetry and visual arts o",
+       "originalPoster": [
+        {
+         "authorId": 26388279069462,
+         "authorFirstName": "Ernesto",
+         "authorLastName": "Rodriguez"
+        }
+       ]
+      },
+      "selfAsOriginal": [
+       {
+        "authorId": 2199023259220,
+        "authorFirstName": "Kunal",
+        "authorLastName": "Sharma"
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

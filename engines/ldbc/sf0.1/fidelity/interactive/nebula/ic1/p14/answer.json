@@ -1,0 +1,121 @@
+{
+ "query_sha": "d7c0e0884773459a",
+ "params": {
+  "personId": "person_15393162789696",
+  "firstName": "Mike"
+ },
+ "data": {
+  "schema_sha256": "673074740eea54e4ba1fdc94eebf2087531b3007af7da660afffb3d1e8df0d1e",
+  "schema_path": "nebulagraph/schema/schema.gql",
+  "sf": "0.1",
+  "created": "2026-11-21T03:27:06Z",
+  "git_sha": "92777160"
+ },
+ "fetched_at": "2026-11-21T01:08:20",
+ "raw": {
+  "keys": [
+   "friendId",
+   "friendLastName",
+   "distanceFromPerson",
+   "friendBirthday",
+   "friendCreationDate",
+   "friendGender",
+   "friendBrowserUsed",
+   "friendLocationIp",
+   "friendEmails",
+   "friendLanguages",
+   "friendCityName",
+   "friendUniversities",
+   "friendCompanies",
+   "friendIdInt"
+  ],
+  "rows": [
+   {
+    "friendId": "person_15393162789346",
+    "friendLastName": "Jones",
+    "distanceFromPerson": 2,
+    "friendBirthday": 468028800000,
+    "friendCreationDate": 1299757249138,
+    "friendGender": "female",
+    "friendBrowserUsed": "Firefox",
+    "friendLocationIp": "24.72.152.125",
+    "friendEmails": [
+     "Mike15393162789346@gmail.com",
+     "Mike15393162789346@gmx.com",
+     "Mike15393162789346@yahoo.com"
+    ],
+    "friendLanguages": [
+     "es",
+     "en"
+    ],
+    "friendCityName": "Fayetteville",
+    "friendUniversities": [
+     [
+      "Virginia_College",
+      2005,
+      "Birmingham"
+     ]
+    ],
+    "friendCompanies": [
+     [
+      "Alsek_Air_Service",
+      2006,
+      "United_States"
+     ],
+     [
+      "Lynx_Air_International",
+      2007,
+      "United_States"
+     ]
+    ],
+    "friendIdInt": 15393162789346
+   },
+   {
+    "friendId": "person_4398046511322",
+    "friendLastName": "Wilson",
+    "distanceFromPerson": 2,
+    "friendBirthday": 456796800000,
+    "friendCreationDate": 1275103885690,
+    "friendGender": "female",
+    "friendBrowserUsed": "Internet Explorer",
+    "friendLocationIp": "24.53.139.223",
+    "friendEmails": [
+     "Mike4398046511322@gmail.com",
+     "Mike4398046511322@gmx.com",
+     "Mike4398046511322@hotmail.com",
+     "Mike4398046511322@yahoo.com"
+    ],
+    "friendLanguages": [
+     "en",
+     "es"
+    ],
+    "friendCityName": "Indianapolis",
+    "friendUniversities": [
+     [
+      "Florida_State_University_College_of_Medicine",
+      2006,
+      "Tallahassee"
+     ]
+    ],
+    "friendCompanies": [
+     [
+      "West_Air",
+      2007,
+      "United_States"
+     ],
+     [
+      "Florida_West_International_Airways",
+      2006,
+      "United_States"
+     ],
+     [
+      "Express.Net_Airlines",
+      2007,
+      "United_States"
+     ]
+    ],
+    "friendIdInt": 4398046511322
+   }
+  ]
+ }
+}

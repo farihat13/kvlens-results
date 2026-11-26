@@ -1,0 +1,32 @@
+{
+ "query_sha": "758b65813d7ffbd6",
+ "params": {
+  "personId": 28587302322565,
+  "firstName": "Diego"
+ },
+ "data_created": "2026-11-23T09:40:48Z",
+ "measured_at": "2026-11-23T13:10:33",
+ "raw": {
+  "get_count": 154171,
+  "get_found_count": 154171,
+  "get_time_ns": 167363728,
+  "get_bytes": 23323609,
+  "seek_count": 3098,
+  "seek_time_ns": 24322803,
+  "seek_bytes": 168754,
+  "next_count": 76932,
+  "next_time_ns": 7009580,
+  "next_bytes": 4292912,
+  "prev_count": 0,
+  "prev_time_ns": 0,
+  "prev_bytes": 0,
+  "put_count": 0,
+  "put_time_ns": 0,
+  "put_bytes": 0,
+  "delete_count": 0,
+  "delete_time_ns": 0,
+  "delete_bytes": 0,
+  "commit_count": 0,
+  "commit_time_ns": 0
+ }
+}

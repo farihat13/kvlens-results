@@ -1,0 +1,23 @@
+{
+ "query_sha": "6935170dcded2085",
+ "params": {
+  "messageId": "549756718979"
+ },
+ "data_created": "2026-11-21T02:56:18Z",
+ "measured_at": "2026-11-20T23:08:08",
+ "raw": {
+  "get_bytes": 1365792,
+  "get_count": 55,
+  "get_found_count": 55,
+  "get_latency_ns": 1649473,
+  "next_bytes": 1739916,
+  "next_count": 987,
+  "next_latency_ns": 34150781,
+  "seek_bytes": 2210631,
+  "seek_count": 1024,
+  "seek_latency_ns": 5948945,
+  "set_bytes": 0,
+  "set_count": 0,
+  "set_latency_ns": 0
+ }
+}

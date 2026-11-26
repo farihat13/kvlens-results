@@ -1,0 +1,63 @@
+{
+ "query_sha": "ad17deb8111088bd",
+ "params": {
+  "personId": "person_30786325579380",
+  "tagName": "John,_King_of_England"
+ },
+ "data": {
+  "schema_sha256": "673074740eea54e4ba1fdc94eebf2087531b3007af7da660afffb3d1e8df0d1e",
+  "schema_path": "nebulagraph/schema/schema.gql",
+  "sf": "0.3",
+  "created": "2026-11-21T03:42:54Z",
+  "git_sha": "1d6662c2"
+ },
+ "fetched_at": "2026-11-21T00:06:33",
+ "raw": {
+  "keys": [
+   "tagName",
+   "postCount"
+  ],
+  "rows": [
+   {
+    "tagName": "Maria_Theresa",
+    "postCount": 13
+   },
+   {
+    "tagName": "Celine_Dion",
+    "postCount": 4
+   },
+   {
+    "tagName": "Adolf_Hitler",
+    "postCount": 3
+   },
+   {
+    "tagName": "Ho_Chi_Minh",
+    "postCount": 3
+   },
+   {
+    "tagName": "James_Bond",
+    "postCount": 3
+   },
+   {
+    "tagName": "Paul_Martin",
+    "postCount": 3
+   },
+   {
+    "tagName": "Woody_Guthrie",
+    "postCount": 3
+   },
+   {
+    "tagName": "Francis_Drake",
+    "postCount": 2
+   },
+   {
+    "tagName": "Karl_Marx",
+    "postCount": 2
+   },
+   {
+    "tagName": "Muammar_Gaddafi",
+    "postCount": 2
+   }
+  ]
+ }
+}

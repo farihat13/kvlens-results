@@ -1,0 +1,35 @@
+{
+ "query_sha": "fd0a7e2668f270a0",
+ "params": {
+  "personId": 28587302322817,
+  "startDate": 1304208000000,
+  "durationDays": 34,
+  "countryXName": "Chad",
+  "countryYName": "Angola"
+ },
+ "data_created": "2026-11-21T03:27:46Z",
+ "measured_at": "2026-11-21T01:04:29",
+ "raw": {
+  "get_count": 573500,
+  "get_found_count": 573500,
+  "get_time_ns": 857125409,
+  "get_bytes": 53070731,
+  "seek_count": 8539,
+  "seek_time_ns": 299233765,
+  "seek_bytes": 392923,
+  "next_count": 271461,
+  "next_time_ns": 28374483,
+  "next_bytes": 14729500,
+  "prev_count": 0,
+  "prev_time_ns": 0,
+  "prev_bytes": 0,
+  "put_count": 0,
+  "put_time_ns": 0,
+  "put_bytes": 0,
+  "delete_count": 0,
+  "delete_time_ns": 0,
+  "delete_bytes": 0,
+  "commit_count": 0,
+  "commit_time_ns": 0
+ }
+}

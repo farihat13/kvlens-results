@@ -1,0 +1,63 @@
+{
+ "query_sha": "ad17deb8111088bd",
+ "params": {
+  "personId": "person_2199023259063",
+  "tagName": "Aldous_Huxley"
+ },
+ "data": {
+  "schema_sha256": "673074740eea54e4ba1fdc94eebf2087531b3007af7da660afffb3d1e8df0d1e",
+  "schema_path": "nebulagraph/schema/schema.gql",
+  "sf": "0.3",
+  "created": "2026-11-21T03:42:54Z",
+  "git_sha": "1d6662c2"
+ },
+ "fetched_at": "2026-11-20T23:54:26",
+ "raw": {
+  "keys": [
+   "tagName",
+   "postCount"
+  ],
+  "rows": [
+   {
+    "tagName": "Augustine_of_Hippo",
+    "postCount": 4
+   },
+   {
+    "tagName": "John_Rhys-Davies",
+    "postCount": 3
+   },
+   {
+    "tagName": "Charles_Gounod",
+    "postCount": 2
+   },
+   {
+    "tagName": "Gil_Kane",
+    "postCount": 2
+   },
+   {
+    "tagName": "Holy_Roman_Empire",
+    "postCount": 2
+   },
+   {
+    "tagName": "Horace",
+    "postCount": 2
+   },
+   {
+    "tagName": "Sigmund_Freud",
+    "postCount": 2
+   },
+   {
+    "tagName": "W._H._Auden",
+    "postCount": 2
+   },
+   {
+    "tagName": "Achaemenid_Empire",
+    "postCount": 1
+   },
+   {
+    "tagName": "Achy_Breaky_Heart",
+    "postCount": 1
+   }
+  ]
+ }
+}

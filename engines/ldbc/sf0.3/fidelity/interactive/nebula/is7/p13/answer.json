@@ -1,0 +1,58 @@
+{
+ "query_sha": "4dcea213e133d224",
+ "params": {
+  "messageId": "msg_549756718893"
+ },
+ "data": {
+  "schema_sha256": "673074740eea54e4ba1fdc94eebf2087531b3007af7da660afffb3d1e8df0d1e",
+  "schema_path": "nebulagraph/schema/schema.gql",
+  "sf": "0.3",
+  "created": "2026-11-21T03:42:54Z",
+  "git_sha": "1d6662c2"
+ },
+ "fetched_at": "2026-11-20T23:58:14",
+ "raw": {
+  "keys": [
+   "commentId",
+   "commentContent",
+   "commentCreationDate",
+   "replyAuthorId",
+   "replyAuthorFirstName",
+   "replyAuthorLastName",
+   "knows",
+   "replyAuthorIdInt"
+  ],
+  "rows": [
+   {
+    "commentId": "msg_549756718903",
+    "commentContent": "About Napoleon, tion with NapolAbout Elvis Costello, m as a pop encyAbout Robert Bur",
+    "commentCreationDate": 1309337088572,
+    "replyAuthorId": "person_6597069767884",
+    "replyAuthorFirstName": "Emad",
+    "replyAuthorLastName": "Mahmoud",
+    "knows": false,
+    "replyAuthorIdInt": 6597069767884
+   },
+   {
+    "commentId": "msg_549756718895",
+    "commentContent": "yes",
+    "commentCreationDate": 1309332762137,
+    "replyAuthorId": "person_2199023258479",
+    "replyAuthorFirstName": "Josef",
+    "replyAuthorLastName": "Herzigov\u00e1",
+    "knows": false,
+    "replyAuthorIdInt": 2199023258479
+   },
+   {
+    "commentId": "msg_549756718897",
+    "commentContent": "great",
+    "commentCreationDate": 1309332213910,
+    "replyAuthorId": "person_296",
+    "replyAuthorFirstName": "Zaenal",
+    "replyAuthorLastName": "Gallagher",
+    "knows": false,
+    "replyAuthorIdInt": 296
+   }
+  ]
+ }
+}

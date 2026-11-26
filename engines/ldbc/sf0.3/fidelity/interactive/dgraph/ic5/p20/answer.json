@@ -1,0 +1,121 @@
+{
+ "query_sha": "d4f7d149421ba277",
+ "params": {
+  "personId": "32985348833558",
+  "minDate": "2012-09-05T00:00:00Z"
+ },
+ "data": {
+  "schema_sha256": "03713a1e1c7b722e73bed6b150e079e69e9579c2a58c52e06f9d4384fdd4b80d",
+  "schema_path": "dgraph/schema/ldbcTypes.schema",
+  "sf": "0.3",
+  "created": "2026-11-21T02:56:18Z",
+  "git_sha": "60910999"
+ },
+ "fetched_at": "2026-11-21T00:01:59",
+ "raw": {
+  "_l1": [],
+  "_l2": [],
+  "forums": [
+   {
+    "forumName": "Wall of Rafael Alonso",
+    "postCount": 372,
+    "forumId": 18821
+   },
+   {
+    "forumName": "Wall of V. Joshi",
+    "postCount": 322,
+    "forumId": 68719509346
+   },
+   {
+    "forumName": "Wall of K. Bose",
+    "postCount": 288,
+    "forumId": 68719511224
+   },
+   {
+    "forumName": "Wall of Jorge Gonzalez",
+    "postCount": 235,
+    "forumId": 549755847086
+   },
+   {
+    "forumName": "Wall of The Kunda",
+    "postCount": 141,
+    "forumId": 755914268600
+   },
+   {
+    "forumName": "Wall of Aska Cheng",
+    "postCount": 128,
+    "forumId": 412316866183
+   },
+   {
+    "forumName": "Wall of Bich Phuong Hai",
+    "postCount": 92,
+    "forumId": 481036348733
+   },
+   {
+    "forumName": "Wall of Giuseppe Rossi",
+    "postCount": 79,
+    "forumId": 274877923909
+   },
+   {
+    "forumName": "Wall of Alfred Jong",
+    "postCount": 33,
+    "forumId": 755914264566
+   },
+   {
+    "forumName": "Wall of Abdullah Ak",
+    "postCount": 29,
+    "forumId": 687194791848
+   },
+   {
+    "forumName": "Wall of Ahmed Mahmoud",
+    "postCount": 25,
+    "forumId": 412316874567
+   },
+   {
+    "forumName": "Wall of Marc Simon",
+    "postCount": 21,
+    "forumId": 549755822996
+   },
+   {
+    "forumName": "Wall of Zdenek Balcar",
+    "postCount": 20,
+    "forumId": 137438974874
+   },
+   {
+    "forumName": "Album 18 of V. Joshi",
+    "postCount": 20,
+    "forumId": 206158462837
+   },
+   {
+    "forumName": "Album 10 of Abdoulaye Djibo",
+    "postCount": 20,
+    "forumId": 343597389678
+   },
+   {
+    "forumName": "Album 28 of David Grenville",
+    "postCount": 20,
+    "forumId": 343597402494
+   },
+   {
+    "forumName": "Album 2 of Hideki Yamada",
+    "postCount": 20,
+    "forumId": 412316860800
+   },
+   {
+    "forumName": "Album 4 of Walter Wagner",
+    "postCount": 20,
+    "forumId": 412316890059
+   },
+   {
+    "forumName": "Album 2 of Bich Phuong Hai",
+    "postCount": 20,
+    "forumId": 549755825473
+   },
+   {
+    "forumName": "Album 11 of Otto Muller",
+    "postCount": 20,
+    "forumId": 549755850213
+   }
+  ]
+ }
+}

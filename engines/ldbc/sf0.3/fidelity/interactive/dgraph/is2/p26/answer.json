@@ -1,0 +1,273 @@
+{
+ "query_sha": "afd1398a68b07f16",
+ "params": {
+  "personId": "8796093022749"
+ },
+ "data": {
+  "schema_sha256": "03713a1e1c7b722e73bed6b150e079e69e9579c2a58c52e06f9d4384fdd4b80d",
+  "schema_path": "dgraph/schema/ldbcTypes.schema",
+  "sf": "0.3",
+  "created": "2026-11-21T02:56:18Z",
+  "git_sha": "60910999"
+ },
+ "fetched_at": "2026-11-21T00:05:26",
+ "raw": {
+  "person": [
+   {
+    "messages": [
+     {
+      "messageId": 1030792952038,
+      "messageCreationDate": "2012-08-20T15:40:21.416Z",
+      "content": "I see",
+      "messageType": [
+       "comment"
+      ],
+      "selfAsOriginal": [
+       {
+        "authorId": 8796093022749,
+        "authorFirstName": "Aa Ngurah",
+        "authorLastName": "Budjana"
+       }
+      ],
+      "parentComment": {
+       "dgraph.type": [
+        "comment"
+       ],
+       "grandParentPost": {
+        "postId": 1030792952028,
+        "originalPoster": [
+         {
+          "authorId": 32985348833438,
+          "authorFirstName": "Javed",
+          "authorLastName": "Khan"
+         }
+        ]
+       }
+      }
+     },
+     {
+      "messageId": 1030792924907,
+      "messageCreationDate": "2012-08-17T05:51:01.509Z",
+      "content": "thanks",
+      "messageType": [
+       "comment"
+      ],
+      "selfAsOriginal": [
+       {
+        "authorId": 8796093022749,
+        "authorFirstName": "Aa Ngurah",
+        "authorLastName": "Budjana"
+       }
+      ],
+      "parentComment": {
+       "dgraph.type": [
+        "comment"
+       ],
+       "grandParentPost": {
+        "postId": 1030792924903,
+        "originalPoster": [
+         {
+          "authorId": 24189255813220,
+          "authorFirstName": "Michael",
+          "authorLastName": "Smith"
+         }
+        ]
+       }
+      }
+     },
+     {
+      "messageId": 1030792924722,
+      "messageCreationDate": "2012-08-09T12:26:33.375Z",
+      "content": "maybe",
+      "messageType": [
+       "comment"
+      ],
+      "originalPost": {
+       "postId": 1030792924718,
+       "postCreationDate": "2012-08-08T22:10:45.859Z",
+       "postContent": "About Nancy Pelosi, ring Pelosi's first three terms in the House. She served as the House Minority Whip from 2002 to 2003, and was House Minority Leader from 2003 to 2007, holding the post during the 108th a",
+       "originalPoster": [
+        {
+         "authorId": 24189255811358,
+         "authorFirstName": "Mirza Kalich",
+         "authorLastName": "Ahmed"
+        }
+       ]
+      },
+      "selfAsOriginal": [
+       {
+        "authorId": 8796093022749,
+        "authorFirstName": "Aa Ngurah",
+        "authorLastName": "Budjana"
+       }
+      ]
+     },
+     {
+      "messageId": 1030792923880,
+      "messageCreationDate": "2012-08-02T04:09:35.112Z",
+      "content": "About Down with Disease, he band during its nearly 30-year career. The video ap",
+      "messageType": [
+       "comment"
+      ],
+      "selfAsOriginal": [
+       {
+        "authorId": 8796093022749,
+        "authorFirstName": "Aa Ngurah",
+        "authorLastName": "Budjana"
+       }
+      ],
+      "parentComment": {
+       "dgraph.type": [
+        "comment"
+       ],
+       "grandParentPost": {
+        "postId": 1030792923872,
+        "originalPoster": [
+         {
+          "authorId": 8796093025406,
+          "authorFirstName": "Jose",
+          "authorLastName": "Pereira"
+         }
+        ]
+       }
+      }
+     },
+     {
+      "messageId": 962073447681,
+      "messageCreationDate": "2012-07-08T05:22:01.799Z",
+      "content": "About Ennio Morricone, i Donatello, eight Nastro d'ArgAbout Douglas Adams, , writing on hi",
+      "messageType": [
+       "comment"
+      ],
+      "selfAsOriginal": [
+       {
+        "authorId": 8796093022749,
+        "authorFirstName": "Aa Ngurah",
+        "authorLastName": "Budjana"
+       }
+      ],
+      "parentComment": {
+       "dgraph.type": [
+        "comment"
+       ],
+       "grandParentComment": {
+        "greatGrandParentPost": {
+         "postId": 962073447672,
+         "originalPoster": [
+          {
+           "authorId": 15393162791421,
+           "authorFirstName": "Lei",
+           "authorLastName": "Yang"
+          }
+         ]
+        }
+       }
+      }
+     },
+     {
+      "messageId": 962073447499,
+      "messageCreationDate": "2012-06-30T02:10:00.09Z",
+      "content": "About Nancy Pelosi, f San Francisco, since 1987. The distriAbout Eye of the ",
+      "messageType": [
+       "comment"
+      ],
+      "originalPost": {
+       "postId": 962073447494,
+       "postCreationDate": "2012-06-30T00:50:48.509Z",
+       "postContent": "About Nancy Pelosi, congressional district, which consists of four-fifths of the city and county of San Francisco, since 1987. The district was numbered as the 5th during Pelosi's first ",
+       "originalPoster": [
+        {
+         "authorId": 13194139533320,
+         "authorFirstName": "Djelaludin",
+         "authorLastName": "Zaland"
+        }
+       ]
+      },
+      "selfAsOriginal": [
+       {
+        "authorId": 8796093022749,
+        "authorFirstName": "Aa Ngurah",
+        "authorLastName": "Budjana"
+       }
+      ]
+     },
+     {
+      "messageId": 962073390127,
+      "messageCreationDate": "2012-06-15T09:35:33.028Z",
+      "content": "fine",
+      "messageType": [
+       "comment"
+      ],
+      "originalPost": {
+       "postId": 962073390123,
+       "postCreationDate": "2012-06-14T19:49:53.605Z",
+       "postContent": "About Wilhelm II, German Emperor, von Bismarck, in 1890 and launched Germany on a bellicose New Course in foreign affairs that culminated in his support for Austria-Hungary in the crisis of July 1914 that",
+       "originalPoster": [
+        {
+         "authorId": 19791209302403,
+         "authorFirstName": "Bibit",
+         "authorLastName": "Balawan"
+        }
+       ]
+      },
+      "selfAsOriginal": [
+       {
+        "authorId": 8796093022749,
+        "authorFirstName": "Aa Ngurah",
+        "authorLastName": "Budjana"
+       }
+      ]
+     },
+     {
+      "messageId": 962073129884,
+      "messageCreationDate": "2012-06-09T08:19:44.907Z",
+      "imageFile": "photo962073129884.jpg",
+      "content": "",
+      "messageType": [
+       "post"
+      ],
+      "selfAsOriginal": [
+       {
+        "authorId": 8796093022749,
+        "authorFirstName": "Aa Ngurah",
+        "authorLastName": "Budjana"
+       }
+      ]
+     },
+     {
+      "messageId": 962073129883,
+      "messageCreationDate": "2012-06-09T08:19:43.907Z",
+      "imageFile": "photo962073129883.jpg",
+      "content": "",
+      "messageType": [
+       "post"
+      ],
+      "selfAsOriginal": [
+       {
+        "authorId": 8796093022749,
+        "authorFirstName": "Aa Ngurah",
+        "authorLastName": "Budjana"
+       }
+      ]
+     },
+     {
+      "messageId": 962073129882,
+      "messageCreationDate": "2012-06-09T08:19:42.907Z",
+      "imageFile": "photo962073129882.jpg",
+      "content": "",
+      "messageType": [
+       "post"
+      ],
+      "selfAsOriginal": [
+       {
+        "authorId": 8796093022749,
+        "authorFirstName": "Aa Ngurah",
+        "authorLastName": "Budjana"
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

@@ -1,0 +1,83 @@
+{
+ "query_sha": "445239913e42deb8",
+ "params": {
+  "personId": "4398046514167",
+  "tagClassName": "AmericanFootballPlayer"
+ },
+ "data": {
+  "schema_sha256": "03713a1e1c7b722e73bed6b150e079e69e9579c2a58c52e06f9d4384fdd4b80d",
+  "schema_path": "dgraph/schema/ldbcTypes.schema",
+  "sf": "0.3",
+  "created": "2026-11-21T02:56:18Z",
+  "git_sha": "60910999"
+ },
+ "fetched_at": "2026-11-20T23:53:10",
+ "raw": {
+  "_l1": [],
+  "friends": [
+   {
+    "friendFirstName": "Rafael",
+    "friendId": 2783,
+    "friendLastName": "Alonso",
+    "replyCount": 6,
+    "tagNames": "O._J._Simpson"
+   },
+   {
+    "friendFirstName": "Rafael",
+    "friendId": 2783,
+    "friendLastName": "Alonso",
+    "replyCount": 6,
+    "tagNames": "O._J._Simpson"
+   },
+   {
+    "friendFirstName": "Rafael",
+    "friendId": 2783,
+    "friendLastName": "Alonso",
+    "replyCount": 6,
+    "tagNames": "O._J._Simpson"
+   },
+   {
+    "friendFirstName": "Rafael",
+    "friendId": 2783,
+    "friendLastName": "Alonso",
+    "replyCount": 6,
+    "tagNames": "O._J._Simpson"
+   },
+   {
+    "friendFirstName": "Rafael",
+    "friendId": 2783,
+    "friendLastName": "Alonso",
+    "replyCount": 6,
+    "tagNames": "O._J._Simpson"
+   },
+   {
+    "friendFirstName": "Rafael",
+    "friendId": 2783,
+    "friendLastName": "Alonso",
+    "replyCount": 6,
+    "tagNames": "O._J._Simpson"
+   },
+   {
+    "friendFirstName": "K.",
+    "friendId": 2199023256816,
+    "friendLastName": "Bose",
+    "replyCount": 1,
+    "tagNames": "O._J._Simpson"
+   },
+   {
+    "friendFirstName": "Yang",
+    "friendId": 13194139535025,
+    "friendLastName": "Zhang",
+    "replyCount": 1,
+    "tagNames": "O._J._Simpson"
+   },
+   {
+    "friendFirstName": "Anh",
+    "friendId": 28587302322537,
+    "friendLastName": "Nguyen",
+    "replyCount": 1,
+    "tagNames": "O._J._Simpson"
+   }
+  ]
+ }
+}

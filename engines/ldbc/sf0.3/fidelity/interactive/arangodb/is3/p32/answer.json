@@ -1,0 +1,64 @@
+{
+ "query_sha": "aab56a2aedd27dfa",
+ "params": {
+  "personId": 30786325579745
+ },
+ "data": {
+  "schema_sha256": "b8e206f17e60692c830ba0c3c675fbc481a22f26011282ce523890eb09be8a74",
+  "schema_path": "arangodb/schema/ldbc_schema.json",
+  "sf": "0.3",
+  "created": "2026-11-21T03:01:29Z",
+  "git_sha": "60910999"
+ },
+ "fetched_at": "2026-11-21T00:08:15",
+ "raw": [
+  {
+   "friendId": 10995116278973,
+   "friendFirstName": "Paolo",
+   "friendLastName": "Colombo",
+   "friendshipCreationDate": 1341262363164
+  },
+  {
+   "friendId": 13194139535371,
+   "friendFirstName": "Esti",
+   "friendLastName": "Bahaina",
+   "friendshipCreationDate": 1341177475231
+  },
+  {
+   "friendId": 15393162790347,
+   "friendFirstName": "Esti",
+   "friendLastName": "Verghese",
+   "friendshipCreationDate": 1340805756433
+  },
+  {
+   "friendId": 30786325579579,
+   "friendFirstName": "John",
+   "friendLastName": "Murray",
+   "friendshipCreationDate": 1340737609814
+  },
+  {
+   "friendId": 24189255813579,
+   "friendFirstName": "Alfred",
+   "friendLastName": "Jong",
+   "friendshipCreationDate": 1340428481526
+  },
+  {
+   "friendId": 26388279067534,
+   "friendFirstName": "Emperor of Brazil",
+   "friendLastName": "Dom Pedro II",
+   "friendshipCreationDate": 1340216192439
+  },
+  {
+   "friendId": 30786325579845,
+   "friendFirstName": "Arjun",
+   "friendLastName": "Khan",
+   "friendshipCreationDate": 1339782194665
+  },
+  {
+   "friendId": 17592186047267,
+   "friendFirstName": "Ali",
+   "friendLastName": "Hosseini",
+   "friendshipCreationDate": 1339386559032
+  }
+ ]
+}

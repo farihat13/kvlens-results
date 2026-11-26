@@ -1,0 +1,36 @@
+{
+ "query_sha": "8342c82fdf4c127f",
+ "params": {
+  "personId": 8796093023199,
+  "tagClassName": "FormulaOneRacer"
+ },
+ "data": {
+  "schema_sha256": "b8e206f17e60692c830ba0c3c675fbc481a22f26011282ce523890eb09be8a74",
+  "schema_path": "arangodb/schema/ldbc_schema.json",
+  "sf": "0.3",
+  "created": "2026-11-21T03:01:29Z",
+  "git_sha": "60910999"
+ },
+ "fetched_at": "2026-11-20T23:54:58",
+ "raw": [
+  {
+   "personId": 2199023256816,
+   "personFirstName": "K.",
+   "personLastName": "Bose",
+   "tagNames": [
+    "Mark_Webber",
+    "Michael_Schumacher"
+   ],
+   "replyCount": 3
+  },
+  {
+   "personId": 4398046514593,
+   "personFirstName": "Aamer",
+   "personLastName": "Qureshi",
+   "tagNames": [
+    "Mark_Webber"
+   ],
+   "replyCount": 3
+  }
+ ]
+}

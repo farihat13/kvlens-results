@@ -1,0 +1,102 @@
+{
+ "query_sha": "cc60061064f78218",
+ "params": {
+  "personId": "1129",
+  "firstName": "Mart"
+ },
+ "data": {
+  "schema_sha256": "03713a1e1c7b722e73bed6b150e079e69e9579c2a58c52e06f9d4384fdd4b80d",
+  "schema_path": "dgraph/schema/ldbcTypes.schema",
+  "sf": "0.3",
+  "created": "2026-11-21T02:56:18Z",
+  "git_sha": "60910999"
+ },
+ "fetched_at": "2026-11-20T23:58:15",
+ "raw": {
+  "_l1_from_p": [],
+  "_l2_expand": [],
+  "_l3_expand": [],
+  "friends1": [],
+  "friends2": [
+   {
+    "companyCountryName": "Estonia",
+    "companyName": "Avies",
+    "friendBirthday": "1988-09-03T00:00:00Z",
+    "friendBrowserUsed": "Firefox",
+    "friendCityName": "Tallinn",
+    "friendCreationDate": "2010-03-16T22:49:40.175Z",
+    "friendDistance": 2,
+    "friendEmails": [
+     "Mart2199023259002@yahoo.com",
+     "Mart2199023259002@hotmail.com",
+     "Mart2199023259002@gmail.com",
+     "Mart2199023259002@gmx.com"
+    ],
+    "friendFirstName": "Mart",
+    "friendGender": "male",
+    "friendId": 2199023259002,
+    "friendLanguages": [
+     "en",
+     "et"
+    ],
+    "friendLastName": "Aas",
+    "friendLocationIp": "80.66.249.219",
+    "workAt|workFrom": "2012"
+   },
+   {
+    "companyCountryName": "Estonia",
+    "companyName": "Enimex",
+    "friendBirthday": "1988-09-03T00:00:00Z",
+    "friendBrowserUsed": "Firefox",
+    "friendCityName": "Tallinn",
+    "friendCreationDate": "2010-03-16T22:49:40.175Z",
+    "friendDistance": 2,
+    "friendEmails": [
+     "Mart2199023259002@yahoo.com",
+     "Mart2199023259002@hotmail.com",
+     "Mart2199023259002@gmail.com",
+     "Mart2199023259002@gmx.com"
+    ],
+    "friendFirstName": "Mart",
+    "friendGender": "male",
+    "friendId": 2199023259002,
+    "friendLanguages": [
+     "en",
+     "et"
+    ],
+    "friendLastName": "Aas",
+    "friendLocationIp": "80.66.249.219",
+    "workAt|workFrom": "2009"
+   }
+  ],
+  "friends3": [
+   {
+    "companyCountryName": "Estonia",
+    "companyName": "Aero_Airlines",
+    "friendBirthday": "1983-09-27T00:00:00Z",
+    "friendBrowserUsed": "Firefox",
+    "friendCityName": "Tallinn",
+    "friendCreationDate": "2010-05-29T04:00:58.255Z",
+    "friendDistance": 3,
+    "friendEmails": [
+     "Mart4398046514664@yahoo.com",
+     "Mart4398046514664@zoho.com",
+     "Mart4398046514664@gmail.com"
+    ],
+    "friendFirstName": "Mart",
+    "friendGender": "male",
+    "friendId": 4398046514664,
+    "friendLanguages": [
+     "en",
+     "et"
+    ],
+    "friendLastName": "Laur",
+    "friendLocationIp": "109.235.241.138",
+    "studyAt|classYear": "2005",
+    "uniCityName": "Tallinn",
+    "uniName": "Tallinn_University_of_Technology",
+    "workAt|workFrom": "2007"
+   }
+  ]
+ }
+}

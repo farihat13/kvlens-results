@@ -1,0 +1,159 @@
+{
+ "P": 8,
+ "binary": {
+  "allocator": {
+   "aggressive_decommit": 0,
+   "env": {},
+   "lib_sha256": "c3d7996e516f60360b9d6d591fea53e0b177df38a4bfa36296d713220741f42a",
+   "malloc_is_tcmalloc": true,
+   "name": "tcmalloc",
+   "release_rate": 0.0,
+   "version": "2.15-3build1"
+  },
+  "binary_dirty": false,
+  "binary_git_sha": "e22430d124f05ed0e6dea30d3b55b2ffb65978d6",
+  "block_cache_priority": {
+   "high_pri_pool_ratio": 0.5,
+   "index_filter_high_priority": true
+  },
+  "build_key": "1446a3391164c90cd76e",
+  "compiler": "GNU 13.3.0",
+  "counting": {
+   "formats": {
+    "arangodb": {
+     "read": 3,
+     "write": 1
+    },
+    "arangodb_engine": {
+     "read": 3,
+     "write": 1
+    },
+    "dgraph": {
+     "read": 2,
+     "write": 1
+    },
+    "dgraph_engine": {
+     "read": 2,
+     "write": 1
+    },
+    "meta": {
+     "read": 3,
+     "write": 1
+    },
+    "nebula": {
+     "read": 3,
+     "write": 1
+    },
+    "nebula_engine": {
+     "read": 3,
+     "write": 1
+    },
+    "pertype_csr": {
+     "read": 2,
+     "write": 1
+    }
+   },
+   "seam": {
+    "read": 4,
+    "write": 1
+   }
+  },
+  "engine_key_layouts": {
+   "arangodb_engine": "realistic-v7",
+   "dgraph_engine": "realistic-engine-v1",
+   "nebula_engine": "realistic-v4"
+  },
+  "flags": " -Wall -Wextra -Wno-unused-parameter -Wno-dangling-reference -O2 -g",
+  "host": {
+   "cpu": "AMD EPYC 9354P 32-Core Processor",
+   "kernel": "Linux 6.8.0-149-generic"
+  },
+  "ingest_index_filter_blocks": "partitioned",
+  "key_layouts": {
+   "arangodb": "realistic-v7",
+   "dgraph": "realistic-part-start",
+   "meta": "meta-v4-chunk-bytes",
+   "nebula": "realistic-v4",
+   "pertype_csr": "realistic-v7"
+  },
+  "key_roles_version": 6,
+  "librocksdb_sha256": "5de397b9a75279a914a7fe663bddfc32f5db6b85aa17de3268ebaf654614dc68",
+  "rocksdb": "7.5.3",
+  "rocksdb_source": "7.5.3@540d5aae516265170564ec27b3e67a54a11b7045",
+  "tally_version": 2
+ },
+ "cell": "props_split_adj_chunked",
+ "cell_inputs": null,
+ "complete": true,
+ "composed_from": {
+  "adjacency parts": "captures/ldbc/sf3/interactive/reported/parts/props_chunked_adj_chunked.csv",
+  "props and index parts": "captures/ldbc/sf3/interactive/reported/parts/props_split_adj_split.csv"
+ },
+ "composed_from_sha": {
+  "captures/ldbc/sf3/interactive/reported/counts/props_chunked_adj_chunked.csv": "b3334a7cc5e2f7b17085f32a94388b5781cabe535ca4c16ed3c4ac76d3fd2e01",
+  "captures/ldbc/sf3/interactive/reported/counts/props_split_adj_split.csv": "1796a27ba9a151b45326c6039719cdccec07cd5b2cbd0d476eb22d97214763e7",
+  "captures/ldbc/sf3/interactive/reported/parts/props_chunked_adj_chunked.csv": "f5332bac98b79d6fca969d3c7a1e482997003bda794b4e2a055696244bc39a9d",
+  "captures/ldbc/sf3/interactive/reported/parts/props_split_adj_split.csv": "886a03e8874f54eba6645690a8bb384822591965f77f0c5ff72e9e56b3c317aa"
+ },
+ "counting": {
+  "format": 3,
+  "seam": 4,
+  "write_format": 1,
+  "write_seam": 1
+ },
+ "exec": "serve",
+ "free_rows": true,
+ "inputs": "b4895fe2db3a2fbe",
+ "measurement_version": 7,
+ "nparam": 5,
+ "plan_pipeline": 2,
+ "resumed": 0,
+ "sf": "3",
+ "slice": {
+  "params": null,
+  "queries": null
+ },
+ "spec": {
+  "adjacency": {
+   "group": "owner",
+   "owners": {
+    "pack": 65536
+   },
+   "split": "never"
+  },
+  "direction": "declared",
+  "index": {
+   "group": "item",
+   "owners": "one",
+   "scope": "type",
+   "split": "never",
+   "term": "exact"
+  },
+  "version": 1,
+  "vertex_props": {
+   "group": "item",
+   "owners": "one",
+   "split": "never"
+  }
+ },
+ "spec_path": "inputs/specs/grid/props_split_adj_chunked.json",
+ "store": "",
+ "store_content": {
+  "ingest_counts": {
+   "adjacency_parts": 0,
+   "adjacency_split_units": 0,
+   "edges": 52695734,
+   "vertices": 9281922
+  },
+  "keys": 160474618,
+  "records": "1bf087c2e188ee94cb56cb01842c74f5e612947715927a3ad80c4577de9d980e",
+  "schema": "38709a627d9ca5c4e642881a35b11e3039e41c7471fa0c5efd2faf6415a5e58c"
+ },
+ "store_manifest": null,
+ "tree": {
+  "git_dirty": false,
+  "git_sha": "e22430d124f05ed0e6dea30d3b55b2ffb65978d6"
+ },
+ "wall_s": 0.04,
+ "workload": "interactive"
+}

@@ -1,0 +1,24 @@
+{
+ "query_sha": "445239913e42deb8",
+ "params": {
+  "personId": "4398046514167",
+  "tagClassName": "AmericanFootballPlayer"
+ },
+ "data_created": "2026-11-21T02:56:18Z",
+ "measured_at": "2026-11-20T23:04:00",
+ "raw": {
+  "get_bytes": 1364061,
+  "get_count": 28,
+  "get_found_count": 28,
+  "get_latency_ns": 901375,
+  "next_bytes": 788524,
+  "next_count": 16080,
+  "next_latency_ns": 2955309,
+  "seek_bytes": 2968448,
+  "seek_count": 45281,
+  "seek_latency_ns": 491491743,
+  "set_bytes": 0,
+  "set_count": 0,
+  "set_latency_ns": 0
+ }
+}

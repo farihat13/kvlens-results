@@ -1,0 +1,205 @@
+{
+ "query_sha": "0c31496b2fde0d05",
+ "params": {
+  "personId": 28587302325648
+ },
+ "data_created": "2026-11-23T19:08:22Z",
+ "measured_at": "2026-11-23T13:11:13",
+ "raw": {
+  "get_count": 442,
+  "get_miss_count": 0,
+  "get_key_bytes": 2210,
+  "get_value_bytes": 72444,
+  "get_bytes": 74654,
+  "get_latency_ns": 212894,
+  "seek_count": 130,
+  "seek_miss_count": 0,
+  "seek_key_bytes": 801,
+  "seek_value_bytes": 1931,
+  "seek_bytes": 2732,
+  "seek_latency_ns": 173901,
+  "next_count": 17,
+  "next_miss_count": 0,
+  "next_key_bytes": 389,
+  "next_value_bytes": 8693,
+  "next_bytes": 9082,
+  "next_latency_ns": 3824,
+  "prev_count": 0,
+  "prev_miss_count": 0,
+  "prev_key_bytes": 0,
+  "prev_value_bytes": 0,
+  "prev_bytes": 0,
+  "prev_latency_ns": 0,
+  "get_current_count": 0,
+  "get_current_miss_count": 0,
+  "get_current_key_bytes": 0,
+  "get_current_value_bytes": 0,
+  "get_current_bytes": 0,
+  "get_current_latency_ns": 0,
+  "other_count": 0,
+  "other_miss_count": 0,
+  "other_key_bytes": 0,
+  "other_value_bytes": 0,
+  "other_bytes": 0,
+  "other_latency_ns": 0,
+  "put_count": 0,
+  "put_miss_count": 0,
+  "put_key_bytes": 0,
+  "put_value_bytes": 0,
+  "put_bytes": 0,
+  "put_latency_ns": 0,
+  "del_count": 0,
+  "del_miss_count": 0,
+  "del_key_bytes": 0,
+  "del_value_bytes": 0,
+  "del_bytes": 0,
+  "del_latency_ns": 0,
+  "commit_count": 0,
+  "commit_latency_ns": 0,
+  "by_call": {
+   "mdb_get": {
+    "count": 442,
+    "miss_count": 0,
+    "key_bytes": 2210,
+    "value_bytes": 72444,
+    "latency_ns": 212894
+   },
+   "cursor_set_key": {
+    "count": 0,
+    "miss_count": 0,
+    "key_bytes": 0,
+    "value_bytes": 0,
+    "latency_ns": 0
+   },
+   "cursor_set_range": {
+    "count": 130,
+    "miss_count": 0,
+    "key_bytes": 801,
+    "value_bytes": 1931,
+    "latency_ns": 173901
+   },
+   "cursor_first": {
+    "count": 0,
+    "miss_count": 0,
+    "key_bytes": 0,
+    "value_bytes": 0,
+    "latency_ns": 0
+   },
+   "cursor_last": {
+    "count": 0,
+    "miss_count": 0,
+    "key_bytes": 0,
+    "value_bytes": 0,
+    "latency_ns": 0
+   },
+   "cursor_next": {
+    "count": 17,
+    "miss_count": 0,
+    "key_bytes": 389,
+    "value_bytes": 8693,
+    "latency_ns": 3824
+   },
+   "cursor_prev": {
+    "count": 0,
+    "miss_count": 0,
+    "key_bytes": 0,
+    "value_bytes": 0,
+    "latency_ns": 0
+   },
+   "cursor_get_current": {
+    "count": 0,
+    "miss_count": 0,
+    "key_bytes": 0,
+    "value_bytes": 0,
+    "latency_ns": 0
+   },
+   "cursor_other": {
+    "count": 0,
+    "miss_count": 0,
+    "key_bytes": 0,
+    "value_bytes": 0,
+    "latency_ns": 0
+   },
+   "mdb_put": {
+    "count": 0,
+    "miss_count": 0,
+    "key_bytes": 0,
+    "value_bytes": 0,
+    "latency_ns": 0
+   },
+   "cursor_put": {
+    "count": 0,
+    "miss_count": 0,
+    "key_bytes": 0,
+    "value_bytes": 0,
+    "latency_ns": 0
+   },
+   "mdb_del": {
+    "count": 0,
+    "miss_count": 0,
+    "key_bytes": 0,
+    "value_bytes": 0,
+    "latency_ns": 0
+   },
+   "cursor_del": {
+    "count": 0,
+    "miss_count": 0,
+    "key_bytes": 0,
+    "value_bytes": 0,
+    "latency_ns": 0
+   }
+  },
+  "by_table": {
+   "3203B31DFBF1664B5C7E1F582BC2EA18:_vertex_property_Person": {
+    "mdb_get": {
+     "count": 441,
+     "miss_count": 0,
+     "key_bytes": 2205,
+     "value_bytes": 72352,
+     "latency_ns": 210361
+    }
+   },
+   "3203B31DFBF1664B5C7E1F582BC2EA18:_graph_": {
+    "cursor_set_range": {
+     "count": 129,
+     "miss_count": 0,
+     "key_bytes": 793,
+     "value_bytes": 1915,
+     "latency_ns": 171635
+    },
+    "cursor_next": {
+     "count": 16,
+     "miss_count": 0,
+     "key_bytes": 381,
+     "value_bytes": 8677,
+     "latency_ns": 3702
+    }
+   },
+   "3203B31DFBF1664B5C7E1F582BC2EA18:Person_@lgraph@_id_@lgraph@_vertex_index": {
+    "cursor_set_range": {
+     "count": 1,
+     "miss_count": 0,
+     "key_bytes": 8,
+     "value_bytes": 16,
+     "latency_ns": 2266
+    },
+    "cursor_next": {
+     "count": 1,
+     "miss_count": 0,
+     "key_bytes": 8,
+     "value_bytes": 16,
+     "latency_ns": 122
+    }
+   },
+   ".meta:_user_table_": {
+    "mdb_get": {
+     "count": 1,
+     "miss_count": 0,
+     "key_bytes": 5,
+     "value_bytes": 92,
+     "latency_ns": 2533
+    }
+   }
+  }
+ }
+}

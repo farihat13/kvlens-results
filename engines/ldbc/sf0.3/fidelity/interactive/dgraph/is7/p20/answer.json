@@ -1,0 +1,123 @@
+{
+ "query_sha": "6935170dcded2085",
+ "params": {
+  "messageId": "687195545779"
+ },
+ "data": {
+  "schema_sha256": "03713a1e1c7b722e73bed6b150e079e69e9579c2a58c52e06f9d4384fdd4b80d",
+  "schema_path": "dgraph/schema/ldbcTypes.schema",
+  "sf": "0.3",
+  "created": "2026-11-21T02:56:18Z",
+  "git_sha": "60910999"
+ },
+ "fetched_at": "2026-11-21T00:02:43",
+ "raw": {
+  "origAuthor": [
+   {
+    "origAuthorId": 10995116280854
+   }
+  ],
+  "replies": [
+   {
+    "commentContent": "About Kateryna Bondarenko,  2011 sheAbout Walter Scott, August 17About H. G.",
+    "commentCreationDate": "2011-09-18T03:11:39.441Z",
+    "commentId": 687195545784,
+    "knowsCount": 0,
+    "knowsCount2": 1,
+    "replyAuthorFirstName": "Narong",
+    "replyAuthorId": 19791209301252,
+    "replyAuthorLastName": "Boy"
+   },
+   {
+    "commentContent": "LOL",
+    "commentCreationDate": "2011-09-18T02:30:21.444Z",
+    "commentId": 687195545783,
+    "knowsCount": 0,
+    "knowsCount2": 1,
+    "replyAuthorFirstName": "Karim",
+    "replyAuthorId": 19791209301749,
+    "replyAuthorLastName": "Boughedir"
+   },
+   {
+    "commentContent": "no way!",
+    "commentCreationDate": "2011-09-18T00:22:35.879Z",
+    "commentId": 687195545787,
+    "knowsCount": 1,
+    "knowsCount2": 0,
+    "replyAuthorFirstName": "Aamer",
+    "replyAuthorId": 4398046514593,
+    "replyAuthorLastName": "Qureshi"
+   },
+   {
+    "commentContent": "duh",
+    "commentCreationDate": "2011-09-17T23:55:19.851Z",
+    "commentId": 687195545781,
+    "knowsCount": 1,
+    "knowsCount2": 0,
+    "replyAuthorFirstName": "A.",
+    "replyAuthorId": 976,
+    "replyAuthorLastName": "Khan"
+   },
+   {
+    "commentContent": "right",
+    "commentCreationDate": "2011-09-17T22:24:56.374Z",
+    "commentId": 687195545792,
+    "knowsCount": 1,
+    "knowsCount2": 0,
+    "replyAuthorFirstName": "Sanjay",
+    "replyAuthorId": 2199023257736,
+    "replyAuthorLastName": "Khan"
+   },
+   {
+    "commentContent": "duh",
+    "commentCreationDate": "2011-09-17T21:15:25.777Z",
+    "commentId": 687195545785,
+    "knowsCount": 1,
+    "knowsCount2": 0,
+    "replyAuthorFirstName": "Ben",
+    "replyAuthorId": 2843,
+    "replyAuthorLastName": "Zhu"
+   },
+   {
+    "commentContent": "I see",
+    "commentCreationDate": "2011-09-17T19:27:58.853Z",
+    "commentId": 687195545788,
+    "knowsCount": 1,
+    "knowsCount2": 0,
+    "replyAuthorFirstName": "Wei",
+    "replyAuthorId": 4398046512904,
+    "replyAuthorLastName": "Wang"
+   },
+   {
+    "commentContent": "thx",
+    "commentCreationDate": "2011-09-17T17:48:05.764Z",
+    "commentId": 687195545790,
+    "knowsCount": 1,
+    "knowsCount2": 0,
+    "replyAuthorFirstName": "Jharana Bajracharya Rashid",
+    "replyAuthorId": 6597069769055,
+    "replyAuthorLastName": "Bombo"
+   },
+   {
+    "commentContent": "duh",
+    "commentCreationDate": "2011-09-17T16:26:13.229Z",
+    "commentId": 687195545780,
+    "knowsCount": 0,
+    "knowsCount2": 1,
+    "replyAuthorFirstName": "Aama",
+    "replyAuthorId": 10995116280896,
+    "replyAuthorLastName": "Basnet"
+   },
+   {
+    "commentContent": "duh",
+    "commentCreationDate": "2011-09-17T16:14:26.475Z",
+    "commentId": 687195545782,
+    "knowsCount": 0,
+    "knowsCount2": 1,
+    "replyAuthorFirstName": "Li",
+    "replyAuthorId": 13194139533533,
+    "replyAuthorLastName": "Zhang"
+   }
+  ]
+ }
+}

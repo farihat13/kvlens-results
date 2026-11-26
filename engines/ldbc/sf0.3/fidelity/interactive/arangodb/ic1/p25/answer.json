@@ -1,0 +1,307 @@
+{
+ "query_sha": "758b65813d7ffbd6",
+ "params": {
+  "personId": 26388279069094,
+  "firstName": "Ken"
+ },
+ "data": {
+  "schema_sha256": "b8e206f17e60692c830ba0c3c675fbc481a22f26011282ce523890eb09be8a74",
+  "schema_path": "arangodb/schema/ldbc_schema.json",
+  "sf": "0.3",
+  "created": "2026-11-21T03:01:29Z",
+  "git_sha": "60910999"
+ },
+ "fetched_at": "2026-11-21T00:02:44",
+ "raw": [
+  {
+   "friendId": 10995116278925,
+   "friendLastName": "Kato",
+   "distanceFromPerson": 2,
+   "friendBirthday": 354931200000,
+   "friendCreationDate": 1289743307241,
+   "friendGender": "male",
+   "friendBrowserUsed": "Internet Explorer",
+   "friendLocationIp": "27.96.82.163",
+   "friendEmails": [
+    "Ken10995116278925@gmx.com"
+   ],
+   "friendLanguages": [
+    "ja",
+    "en"
+   ],
+   "friendCityName": "Bunkyo",
+   "friendUniversities": [
+    [
+     "Nagoya_Management_Junior_College",
+     1999,
+     "Owariasahi"
+    ]
+   ],
+   "friendCompanies": [
+    [
+     "StarFlyer",
+     2000,
+     "Japan"
+    ],
+    [
+     "Air_Central",
+     2001,
+     "Japan"
+    ]
+   ]
+  },
+  {
+   "friendId": 17592186045792,
+   "friendLastName": "Kobayashi",
+   "distanceFromPerson": 2,
+   "friendBirthday": 551664000000,
+   "friendCreationDate": 1308514803088,
+   "friendGender": "male",
+   "friendBrowserUsed": "Internet Explorer",
+   "friendLocationIp": "27.134.39.22",
+   "friendEmails": [
+    "Ken17592186045792@gmail.com",
+    "Ken17592186045792@yahoo.com"
+   ],
+   "friendLanguages": [
+    "ja",
+    "en"
+   ],
+   "friendCityName": "Gifu",
+   "friendUniversities": [
+    [
+     "Keio_University_Shonan_Fujisawa_Campus",
+     2007,
+     "Fujisawa"
+    ]
+   ],
+   "friendCompanies": [
+    [
+     "JALways",
+     2008,
+     "Japan"
+    ],
+    [
+     "Japan_Airlines",
+     2009,
+     "Japan"
+    ],
+    [
+     "StarFlyer",
+     2008,
+     "Japan"
+    ],
+    [
+     "Air_Next",
+     2008,
+     "Japan"
+    ],
+    [
+     "New_Central_Airlines",
+     2009,
+     "Japan"
+    ]
+   ]
+  },
+  {
+   "friendId": 6597069768540,
+   "friendLastName": "Matsudaira",
+   "distanceFromPerson": 2,
+   "friendBirthday": 391392000000,
+   "friendCreationDate": 1280902315499,
+   "friendGender": "male",
+   "friendBrowserUsed": "Firefox",
+   "friendLocationIp": "27.126.110.38",
+   "friendEmails": [
+    "Ken6597069768540@gmail.com"
+   ],
+   "friendLanguages": [
+    "ja",
+    "en"
+   ],
+   "friendCityName": "Akita_City",
+   "friendUniversities": [
+    [
+     "Nagoya_Management_Junior_College",
+     2002,
+     "Owariasahi"
+    ]
+   ],
+   "friendCompanies": [
+    [
+     "Hokkaido_International_Airlines",
+     2003,
+     "Japan"
+    ]
+   ]
+  },
+  {
+   "friendId": 21990232559098,
+   "friendLastName": "Moua",
+   "distanceFromPerson": 2,
+   "friendBirthday": 585532800000,
+   "friendCreationDate": 1317883112150,
+   "friendGender": "female",
+   "friendBrowserUsed": "Chrome",
+   "friendLocationIp": "103.1.235.245",
+   "friendEmails": [
+    "Ken21990232559098@gmail.com",
+    "Ken21990232559098@gmx.com",
+    "Ken21990232559098@yahoo.com"
+   ],
+   "friendLanguages": [
+    "lo",
+    "en"
+   ],
+   "friendCityName": "Vientiane",
+   "friendUniversities": [],
+   "friendCompanies": [
+    [
+     "Lao_Airlines",
+     2011,
+     "Laos"
+    ]
+   ]
+  },
+  {
+   "friendId": 17592186046852,
+   "friendLastName": "Sato",
+   "distanceFromPerson": 2,
+   "friendBirthday": 342748800000,
+   "friendCreationDate": 1305498360074,
+   "friendGender": "male",
+   "friendBrowserUsed": "Internet Explorer",
+   "friendLocationIp": "1.21.150.234",
+   "friendEmails": [
+    "Ken17592186046852@zoho.com"
+   ],
+   "friendLanguages": [
+    "ja",
+    "en"
+   ],
+   "friendCityName": "Ichikawa",
+   "friendUniversities": [
+    [
+     "Keio_University_Shonan_Fujisawa_Campus",
+     2001,
+     "Fujisawa"
+    ]
+   ],
+   "friendCompanies": []
+  },
+  {
+   "friendId": 13194139536106,
+   "friendLastName": "Suzuki",
+   "distanceFromPerson": 2,
+   "friendBirthday": 549158400000,
+   "friendCreationDate": 1294378915149,
+   "friendGender": "male",
+   "friendBrowserUsed": "Firefox",
+   "friendLocationIp": "27.98.56.22",
+   "friendEmails": [
+    "Ken13194139536106@chemist.com"
+   ],
+   "friendLanguages": [
+    "ja",
+    "en"
+   ],
+   "friendCityName": "Aomori",
+   "friendUniversities": [
+    [
+     "The_Nippon_Dental_University_College_at_Niigata",
+     2006,
+     "Niigata"
+    ]
+   ],
+   "friendCompanies": []
+  },
+  {
+   "friendId": 6597069766678,
+   "friendLastName": "Yamada",
+   "distanceFromPerson": 2,
+   "friendBirthday": 532137600000,
+   "friendCreationDate": 1281554786822,
+   "friendGender": "male",
+   "friendBrowserUsed": "Internet Explorer",
+   "friendLocationIp": "27.122.45.252",
+   "friendEmails": [
+    "Ken6597069766678@gmail.com",
+    "Ken6597069766678@yahoo.com"
+   ],
+   "friendLanguages": [
+    "ja",
+    "en"
+   ],
+   "friendCityName": "Hamamatsu",
+   "friendUniversities": [
+    [
+     "Aomori_Chuo_Gakuin_University",
+     2004,
+     "Aomori"
+    ]
+   ],
+   "friendCompanies": [
+    [
+     "Hokkaido_International_Airlines",
+     2006,
+     "Japan"
+    ]
+   ]
+  },
+  {
+   "friendId": 15393162791355,
+   "friendLastName": "Sato",
+   "distanceFromPerson": 3,
+   "friendBirthday": 516153600000,
+   "friendCreationDate": 1300584370021,
+   "friendGender": "male",
+   "friendBrowserUsed": "Firefox",
+   "friendLocationIp": "27.126.130.110",
+   "friendEmails": [
+    "Ken15393162791355@gmail.com",
+    "Ken15393162791355@gmx.com"
+   ],
+   "friendLanguages": [
+    "ja",
+    "en"
+   ],
+   "friendCityName": "Kobe",
+   "friendUniversities": [
+    [
+     "Shonan_Institute_of_Technology",
+     2008,
+     "Fujisawa"
+    ]
+   ],
+   "friendCompanies": [
+    [
+     "Japan_Asia_Airways",
+     2008,
+     "Japan"
+    ]
+   ]
+  },
+  {
+   "friendId": 30786325581595,
+   "friendLastName": "Vang",
+   "distanceFromPerson": 3,
+   "friendBirthday": 337564800000,
+   "friendCreationDate": 1339101481216,
+   "friendGender": "female",
+   "friendBrowserUsed": "Firefox",
+   "friendLocationIp": "103.1.234.63",
+   "friendEmails": [
+    "Ken30786325581595@gmail.com",
+    "Ken30786325581595@gmx.com"
+   ],
+   "friendLanguages": [
+    "lo",
+    "fr",
+    "en"
+   ],
+   "friendCityName": "Vientiane",
+   "friendUniversities": [],
+   "friendCompanies": []
+  }
+ ]
+}

@@ -1,0 +1,28 @@
+{
+ "query_sha": "6f63960c0f9c5e7e",
+ "params": {
+  "personId": "13194139535032"
+ },
+ "data": {
+  "schema_sha256": "03713a1e1c7b722e73bed6b150e079e69e9579c2a58c52e06f9d4384fdd4b80d",
+  "schema_path": "dgraph/schema/ldbcTypes.schema",
+  "sf": "0.3",
+  "created": "2026-11-21T02:56:18Z",
+  "git_sha": "60910999"
+ },
+ "fetched_at": "2026-11-21T00:02:42",
+ "raw": {
+  "person": [
+   {
+    "birthday": "1980-03-08T00:00:00Z",
+    "browserUsed": "Internet Explorer",
+    "cityId": 868,
+    "creationDate": "2011-02-24T05:47:22.926Z",
+    "firstName": "Ivan",
+    "gender": "female",
+    "lastName": "Popov",
+    "locationIP": "31.130.215.26"
+   }
+  ]
+ }
+}

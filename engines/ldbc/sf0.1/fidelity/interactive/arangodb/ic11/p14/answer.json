@@ -1,0 +1,17 @@
+{
+ "query_sha": "a28ac6b26a8dcd82",
+ "params": {
+  "personId": 15393162789696,
+  "countryName": "Norway",
+  "workFromYear": 2012
+ },
+ "data": {
+  "schema_sha256": "b8e206f17e60692c830ba0c3c675fbc481a22f26011282ce523890eb09be8a74",
+  "schema_path": "arangodb/schema/ldbc_schema.json",
+  "sf": "0.1",
+  "created": "2026-11-21T03:27:46Z",
+  "git_sha": "92777160"
+ },
+ "fetched_at": "2026-11-21T01:08:21",
+ "raw": []
+}

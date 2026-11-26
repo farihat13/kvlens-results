@@ -1,0 +1,97 @@
+{
+ "query_sha": "c20c841713234a9d",
+ "params": {
+  "personId": 30786325579101,
+  "month": 7
+ },
+ "data": {
+  "schema_sha256": "b8e206f17e60692c830ba0c3c675fbc481a22f26011282ce523890eb09be8a74",
+  "schema_path": "arangodb/schema/ldbc_schema.json",
+  "sf": "0.1",
+  "created": "2026-11-21T03:27:46Z",
+  "git_sha": "92777160"
+ },
+ "fetched_at": "2026-11-21T01:04:46",
+ "raw": [
+  {
+   "personId": 10995116278223,
+   "personFirstName": "Guy",
+   "personLastName": "Akongo",
+   "commonInterestScore": 0,
+   "personGender": "female",
+   "personCityName": "Mokolo"
+  },
+  {
+   "personId": 19791209301505,
+   "personFirstName": "Henry",
+   "personLastName": "Smith",
+   "commonInterestScore": 0,
+   "personGender": "male",
+   "personCityName": "Coventry"
+  },
+  {
+   "personId": 32985348833798,
+   "personFirstName": "Otto",
+   "personLastName": "Kerndlova",
+   "commonInterestScore": 0,
+   "personGender": "male",
+   "personCityName": "\u010cesk\u00e9_Bud\u011bjovice"
+  },
+  {
+   "personId": 6597069767635,
+   "personFirstName": "Thomas Ilenda",
+   "personLastName": "Lita",
+   "commonInterestScore": -1,
+   "personGender": "female",
+   "personCityName": "Bandundu"
+  },
+  {
+   "personId": 19791209300656,
+   "personFirstName": "Francis",
+   "personLastName": "Aquino",
+   "commonInterestScore": -1,
+   "personGender": "male",
+   "personCityName": "Iligan"
+  },
+  {
+   "personId": 30786325578904,
+   "personFirstName": "Giuseppe",
+   "personLastName": "Donati",
+   "commonInterestScore": -2,
+   "personGender": "male",
+   "personCityName": "Turin"
+  },
+  {
+   "personId": 24189255811227,
+   "personFirstName": "Bacary",
+   "personLastName": "Diop",
+   "commonInterestScore": -4,
+   "personGender": "male",
+   "personCityName": "Diourbel"
+  },
+  {
+   "personId": 17592186045405,
+   "personFirstName": "Wei",
+   "personLastName": "Li",
+   "commonInterestScore": -5,
+   "personGender": "female",
+   "personCityName": "Luoyang"
+  },
+  {
+   "personId": 13194139533984,
+   "personFirstName": "Annemarie",
+   "personLastName": "Bos",
+   "commonInterestScore": -8,
+   "personGender": "female",
+   "personCityName": "Utrecht"
+  },
+  {
+   "personId": 26388279068275,
+   "personFirstName": "Jean",
+   "personLastName": "Berty",
+   "commonInterestScore": -13,
+   "personGender": "male",
+   "personCityName": "Buea"
+  }
+ ]
+}

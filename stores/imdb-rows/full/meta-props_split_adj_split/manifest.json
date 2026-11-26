@@ -1,0 +1,127 @@
+{
+  "format": "meta",
+  "key_codec": "meta-v4-chunk-bytes",
+  "value_codec": {
+    "version": 1,
+    "direction": "declared",
+    "vertex_props": {
+      "group": "item",
+      "owners": "one",
+      "split": "never"
+    },
+    "adjacency": {
+      "group": "item",
+      "owners": "one",
+      "split": "never",
+      "edge_props": "adjacency",
+      "far_label": true
+    },
+    "index": {
+      "group": "item",
+      "owners": "one",
+      "split": "never",
+      "term": "exact",
+      "scope": "type"
+    }
+  },
+  "value_codec_hash": "6e5a01b8bf7eaf25",
+  "compression": "snappy",
+  "index_filter_blocks": "partitioned",
+  "block_size": 4096,
+  "bloom_bits_per_key": 0.0,
+  "partition_bytes": 4096,
+  "schema": {
+    "name": "canonical",
+    "hash": "88d17669d0737ee84b28c9cdd9464b9a371a9af964c16027fba8d0b55bf854b1",
+    "content_sha": "f590718fd9b88d8625c8f642afa5a35d39fd62985428a6d31937325bdb4bc2c0",
+    "path": "inputs/schemas/imdb/schema.json"
+  },
+  "records": {
+    "sha256": "3941dffbdf5696d22466d450f31be72eafb44c6569184572d4a920b60ae40555",
+    "lines": 95592355,
+    "vertices": 30812768,
+    "edges": 64779587,
+    "counts": {
+      "AkaName": 901343,
+      "AkaTitle": 361472,
+      "Character": 3140339,
+      "CompCastType": 4,
+      "Company": 234997,
+      "CompleteCast": 135086,
+      "InfoType": 113,
+      "Keyword": 134170,
+      "KindType": 7,
+      "LinkType": 18,
+      "MovieInfo": 14835720,
+      "MovieLink": 29997,
+      "MovieRating": 1380035,
+      "Name": 4167491,
+      "PersonInfo": 2963664,
+      "Title": 2528312,
+      "aka_name_of": 901343,
+      "aka_title_of": 361379,
+      "cast_actor": 12330538,
+      "cast_actress": 7326773,
+      "cast_cinematographer": 898282,
+      "cast_composer": 773140,
+      "cast_costume_designer": 276403,
+      "cast_director": 1701086,
+      "cast_editor": 1093367,
+      "cast_miscellaneous_crew": 4263707,
+      "cast_producer": 3955795,
+      "cast_production_designer": 316100,
+      "cast_writer": 2594356,
+      "company_distributor": 1215529,
+      "company_production": 1333580,
+      "complete_cast_of": 135086,
+      "episode_of": 1543264,
+      "has_keyword": 4520446,
+      "info_of": 14835720,
+      "link_from": 29997,
+      "link_to": 29997,
+      "person_info_of": 2963664,
+      "rating_of": 1380035
+    }
+  },
+  "ingest_counts": {
+    "vertices": 30812768,
+    "edges": 64779587,
+    "adjacency_split_units": 0,
+    "adjacency_parts": 0
+  },
+  "sst_bytes": 3645949673,
+  "sst_files": 55,
+  "ingest_files": 72,
+  "settled": true,
+  "keys": 280816833,
+  "logical_bytes": 8242264146,
+  "scale": "full",
+  "ingest_wall_s": 536.505719641,
+  "provenance": {
+    "allocator": {
+      "aggressive_decommit": 0,
+      "env": {},
+      "lib_sha256": "c3d7996e516f60360b9d6d591fea53e0b177df38a4bfa36296d713220741f42a",
+      "malloc_is_tcmalloc": true,
+      "name": "tcmalloc",
+      "release_rate": 0.0,
+      "version": "2.15-3build1"
+    },
+    "binary_dirty": false,
+    "binary_git_sha": "e22430d124f05ed0e6dea30d3b55b2ffb65978d6",
+    "block_cache_priority": {
+      "high_pri_pool_ratio": 0.5,
+      "index_filter_high_priority": true
+    },
+    "compiler": "GNU 13.3.0",
+    "flags": " -Wall -Wextra -Wno-unused-parameter -Wno-dangling-reference -O2 -g",
+    "host": {
+      "cpu": "AMD EPYC 9354P 32-Core Processor",
+      "kernel": "Linux 6.8.0-149-generic"
+    },
+    "ingest_index_filter_blocks": "partitioned",
+    "librocksdb_sha256": "5de397b9a75279a914a7fe663bddfc32f5db6b85aa17de3268ebaf654614dc68",
+    "rocksdb": "7.5.3",
+    "rocksdb_source": "7.5.3@540d5aae516265170564ec27b3e67a54a11b7045"
+  }
+}

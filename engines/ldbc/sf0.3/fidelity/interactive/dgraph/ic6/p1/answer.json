@@ -1,0 +1,773 @@
+{
+ "query_sha": "726c2fd8c124bda0",
+ "params": {
+  "personId": "24189255813168",
+  "tagName": "Beyonc\u00e9_Knowles"
+ },
+ "data": {
+  "schema_sha256": "03713a1e1c7b722e73bed6b150e079e69e9579c2a58c52e06f9d4384fdd4b80d",
+  "schema_path": "dgraph/schema/ldbcTypes.schema",
+  "sf": "0.3",
+  "created": "2026-11-21T02:56:18Z",
+  "git_sha": "60910999"
+ },
+ "fetched_at": "2026-11-20T23:50:42",
+ "raw": {
+  "_l1": [],
+  "_l2": [],
+  "tags": [
+   {
+    "tagName": "Muammar_Gaddafi",
+    "postCount": 4
+   },
+   {
+    "tagName": "Neil_Young",
+    "postCount": 4
+   },
+   {
+    "tagName": "Camille_Saint-Sa\u00ebns",
+    "postCount": 4
+   },
+   {
+    "tagName": "Maria_Theresa",
+    "postCount": 3
+   },
+   {
+    "tagName": "Augustine_of_Hippo",
+    "postCount": 3
+   },
+   {
+    "tagName": "Imelda_Marcos",
+    "postCount": 2
+   },
+   {
+    "tagName": "Dmitry_Medvedev",
+    "postCount": 2
+   },
+   {
+    "tagName": "Edgar_Prado",
+    "postCount": 2
+   },
+   {
+    "tagName": "Genghis_Khan",
+    "postCount": 2
+   },
+   {
+    "tagName": "Marc_Gicquel",
+    "postCount": 2
+   },
+   {
+    "tagName": "Tom_Hanks",
+    "postCount": 2
+   },
+   {
+    "tagName": "George_Gershwin",
+    "postCount": 2
+   },
+   {
+    "tagName": "Ho_Chi_Minh",
+    "postCount": 2
+   },
+   {
+    "tagName": "Sounds_of_the_Universe",
+    "postCount": 1
+   },
+   {
+    "tagName": "Dwight_D._Eisenhower",
+    "postCount": 1
+   },
+   {
+    "tagName": "Hosni_Mubarak",
+    "postCount": 1
+   },
+   {
+    "tagName": "Paraguay",
+    "postCount": 1
+   },
+   {
+    "tagName": "Cuba",
+    "postCount": 1
+   },
+   {
+    "tagName": "The_Only_Way_Is_Up",
+    "postCount": 1
+   },
+   {
+    "tagName": "Louis_Armstrong",
+    "postCount": 1
+   },
+   {
+    "tagName": "Jacques_Offenbach",
+    "postCount": 1
+   },
+   {
+    "tagName": "Alexander_Pushkin",
+    "postCount": 1
+   },
+   {
+    "tagName": "Tony_Blair",
+    "postCount": 1
+   },
+   {
+    "tagName": "Assyria",
+    "postCount": 1
+   },
+   {
+    "tagName": "Houses_of_the_Holy",
+    "postCount": 1
+   },
+   {
+    "tagName": "Ennio_Morricone",
+    "postCount": 1
+   },
+   {
+    "tagName": "Winston_Churchill",
+    "postCount": 1
+   },
+   {
+    "tagName": "Philip_II_of_Spain",
+    "postCount": 1
+   },
+   {
+    "tagName": "Pete_Townshend",
+    "postCount": 1
+   },
+   {
+    "tagName": "Kylie_Minogue",
+    "postCount": 1
+   },
+   {
+    "tagName": "Francis_Drake",
+    "postCount": 1
+   },
+   {
+    "tagName": "Every_Teardrop_Is_a_Waterfall",
+    "postCount": 1
+   },
+   {
+    "tagName": "Second_Polish_Republic",
+    "postCount": 1
+   },
+   {
+    "tagName": "Transcaucasian_Socialist_Federative_Soviet_Republic",
+    "postCount": 1
+   },
+   {
+    "tagName": "Jean-Baptiste_Lamarck",
+    "postCount": 1
+   },
+   {
+    "tagName": "Thomas_More",
+    "postCount": 1
+   },
+   {
+    "tagName": "Lithuania",
+    "postCount": 1
+   },
+   {
+    "tagName": "Ingrid_van_Houten-Groeneveld",
+    "postCount": 1
+   },
+   {
+    "tagName": "Ivan_Ljubi\u010di\u0107",
+    "postCount": 1
+   },
+   {
+    "tagName": "Joe_Strummer",
+    "postCount": 1
+   },
+   {
+    "tagName": "Manmohan_Singh",
+    "postCount": 1
+   },
+   {
+    "tagName": "Ozzy_Osbourne",
+    "postCount": 1
+   },
+   {
+    "tagName": "South_Pacific_Mandate",
+    "postCount": 1
+   },
+   {
+    "tagName": "Burn_It_to_the_Ground",
+    "postCount": 1
+   },
+   {
+    "tagName": "George_W._Bush",
+    "postCount": 1
+   },
+   {
+    "tagName": "Richard_II_of_England",
+    "postCount": 1
+   },
+   {
+    "tagName": "Jerry_Lee_Lewis",
+    "postCount": 1
+   },
+   {
+    "tagName": "Herbie_Hancock",
+    "postCount": 1
+   },
+   {
+    "tagName": "Ralph_Nader",
+    "postCount": 1
+   },
+   {
+    "tagName": "Pitcairn_Islands",
+    "postCount": 1
+   },
+   {
+    "tagName": "Sergei_Prokofiev",
+    "postCount": 1
+   },
+   {
+    "tagName": "Queen_Victoria",
+    "postCount": 1
+   },
+   {
+    "tagName": "Vladimir_Nabokov",
+    "postCount": 1
+   },
+   {
+    "tagName": "Sierra_Leone",
+    "postCount": 1
+   },
+   {
+    "tagName": "Pau-Latina",
+    "postCount": 1
+   },
+   {
+    "tagName": "Plato",
+    "postCount": 1
+   },
+   {
+    "tagName": "Tina_Turner",
+    "postCount": 1
+   },
+   {
+    "tagName": "Otis_Redding",
+    "postCount": 1
+   },
+   {
+    "tagName": "Clint_Eastwood",
+    "postCount": 1
+   },
+   {
+    "tagName": "Thomas_Jefferson",
+    "postCount": 1
+   },
+   {
+    "tagName": "Northumbria",
+    "postCount": 1
+   },
+   {
+    "tagName": "Malaysia",
+    "postCount": 1
+   },
+   {
+    "tagName": "South_Asian_Association_for_Regional_Cooperation",
+    "postCount": 1
+   },
+   {
+    "tagName": "Strong_Hand_of_Love",
+    "postCount": 1
+   },
+   {
+    "tagName": "Norway",
+    "postCount": 1
+   },
+   {
+    "tagName": "Fernando_Gonz\u00e1lez",
+    "postCount": 1
+   },
+   {
+    "tagName": "Angola",
+    "postCount": 1
+   },
+   {
+    "tagName": "Taiwan",
+    "postCount": 1
+   },
+   {
+    "tagName": "Two_Tribes",
+    "postCount": 1
+   },
+   {
+    "tagName": "North_Borneo",
+    "postCount": 1
+   },
+   {
+    "tagName": "Paris_Commune",
+    "postCount": 1
+   },
+   {
+    "tagName": "Reba_McEntire",
+    "postCount": 1
+   },
+   {
+    "tagName": "Alejandro_Falla",
+    "postCount": 1
+   },
+   {
+    "tagName": "Paul_McCartney",
+    "postCount": 1
+   },
+   {
+    "tagName": "Angelina_Jolie",
+    "postCount": 1
+   },
+   {
+    "tagName": "Thug_Life:_Volume_1",
+    "postCount": 1
+   },
+   {
+    "tagName": "Tennessee_Williams",
+    "postCount": 1
+   },
+   {
+    "tagName": "Carl_Linnaeus",
+    "postCount": 1
+   },
+   {
+    "tagName": "The_Silence_in_Black_and_White",
+    "postCount": 1
+   },
+   {
+    "tagName": "Thirteen_Colonies",
+    "postCount": 1
+   },
+   {
+    "tagName": "Kingdom_of_the_Two_Sicilies",
+    "postCount": 1
+   },
+   {
+    "tagName": "Saddam_Hussein",
+    "postCount": 1
+   },
+   {
+    "tagName": "Charles_Dickens",
+    "postCount": 1
+   },
+   {
+    "tagName": "Yuvan_Shankar_Raja",
+    "postCount": 1
+   },
+   {
+    "tagName": "Marlon_Brando",
+    "postCount": 1
+   },
+   {
+    "tagName": "Something_Else_by_The_Kinks",
+    "postCount": 1
+   },
+   {
+    "tagName": "With_a_Little_Help_from_My_Friends",
+    "postCount": 1
+   },
+   {
+    "tagName": "Nicolas_Sarkozy",
+    "postCount": 1
+   },
+   {
+    "tagName": "Bette_Midler",
+    "postCount": 1
+   },
+   {
+    "tagName": "Felix_Mendelssohn",
+    "postCount": 1
+   },
+   {
+    "tagName": "Saint_Barth\u00e9lemy",
+    "postCount": 1
+   },
+   {
+    "tagName": "Abbasid_Caliphate",
+    "postCount": 1
+   },
+   {
+    "tagName": "Saint_Kitts_and_Nevis",
+    "postCount": 1
+   },
+   {
+    "tagName": "Richard_Burton",
+    "postCount": 1
+   },
+   {
+    "tagName": "Turkmen_Soviet_Socialist_Republic",
+    "postCount": 1
+   },
+   {
+    "tagName": "Phil_Collins",
+    "postCount": 1
+   },
+   {
+    "tagName": "Organisation_of_African_Unity",
+    "postCount": 1
+   },
+   {
+    "tagName": "Dominion_of_India",
+    "postCount": 1
+   },
+   {
+    "tagName": "British_Empire",
+    "postCount": 1
+   },
+   {
+    "tagName": "Dmitri_Shostakovich",
+    "postCount": 1
+   },
+   {
+    "tagName": "Rabindranath_Tagore",
+    "postCount": 1
+   },
+   {
+    "tagName": "Barbados",
+    "postCount": 1
+   },
+   {
+    "tagName": "Queen_Latifah",
+    "postCount": 1
+   },
+   {
+    "tagName": "Malcolm_X",
+    "postCount": 1
+   },
+   {
+    "tagName": "J._P._Morgan",
+    "postCount": 1
+   },
+   {
+    "tagName": "Wales",
+    "postCount": 1
+   },
+   {
+    "tagName": "Bornu_Empire",
+    "postCount": 1
+   },
+   {
+    "tagName": "Kurt_Vonnegut",
+    "postCount": 1
+   },
+   {
+    "tagName": "Arnold_Schoenberg",
+    "postCount": 1
+   },
+   {
+    "tagName": "Pope_Benedict_XVI",
+    "postCount": 1
+   },
+   {
+    "tagName": "Kingdom_of_Sicily",
+    "postCount": 1
+   },
+   {
+    "tagName": "Tokelau",
+    "postCount": 1
+   },
+   {
+    "tagName": "John_Legend",
+    "postCount": 1
+   },
+   {
+    "tagName": "The_Man_from_Utopia",
+    "postCount": 1
+   },
+   {
+    "tagName": "Anthology_2",
+    "postCount": 1
+   },
+   {
+    "tagName": "Walter_Scott",
+    "postCount": 1
+   },
+   {
+    "tagName": "Voltaire",
+    "postCount": 1
+   },
+   {
+    "tagName": "Kurt_Weill",
+    "postCount": 1
+   },
+   {
+    "tagName": "The_Good_Will_Out",
+    "postCount": 1
+   },
+   {
+    "tagName": "Martin_Heidegger",
+    "postCount": 1
+   },
+   {
+    "tagName": "Donald_Rumsfeld",
+    "postCount": 1
+   },
+   {
+    "tagName": "Shapur_II",
+    "postCount": 1
+   },
+   {
+    "tagName": "Gil_Kane",
+    "postCount": 1
+   },
+   {
+    "tagName": "Big_Thing",
+    "postCount": 1
+   },
+   {
+    "tagName": "Bill_Gates",
+    "postCount": 1
+   },
+   {
+    "tagName": "Penny_Lane",
+    "postCount": 1
+   },
+   {
+    "tagName": "Caliphate_of_C\u00f3rdoba",
+    "postCount": 1
+   },
+   {
+    "tagName": "Roger_Ebert",
+    "postCount": 1
+   },
+   {
+    "tagName": "Rub\u00e9n_Blades",
+    "postCount": 1
+   },
+   {
+    "tagName": "Theme_from_Shaft",
+    "postCount": 1
+   },
+   {
+    "tagName": "Lebanon",
+    "postCount": 1
+   },
+   {
+    "tagName": "Dookie",
+    "postCount": 1
+   },
+   {
+    "tagName": "Nicole_Kidman",
+    "postCount": 1
+   },
+   {
+    "tagName": "Charles_V,_Holy_Roman_Emperor",
+    "postCount": 1
+   },
+   {
+    "tagName": "Oscar_Peterson",
+    "postCount": 1
+   },
+   {
+    "tagName": "James_Buchanan",
+    "postCount": 1
+   },
+   {
+    "tagName": "Songs_in_the_Key_of_Life",
+    "postCount": 1
+   },
+   {
+    "tagName": "Senegal",
+    "postCount": 1
+   },
+   {
+    "tagName": "Argentina",
+    "postCount": 1
+   },
+   {
+    "tagName": "Richard_E._Grant",
+    "postCount": 1
+   },
+   {
+    "tagName": "Horace",
+    "postCount": 1
+   },
+   {
+    "tagName": "Siad_Barre",
+    "postCount": 1
+   },
+   {
+    "tagName": "Henry_Wadsworth_Longfellow",
+    "postCount": 1
+   },
+   {
+    "tagName": "Bob_Geldof",
+    "postCount": 1
+   },
+   {
+    "tagName": "Haiti",
+    "postCount": 1
+   },
+   {
+    "tagName": "Push_It_to_the_Limit",
+    "postCount": 1
+   },
+   {
+    "tagName": "Isaac_Newton",
+    "postCount": 1
+   },
+   {
+    "tagName": "Switzerland",
+    "postCount": 1
+   },
+   {
+    "tagName": "Light_My_Fire",
+    "postCount": 1
+   },
+   {
+    "tagName": "Condoleezza_Rice",
+    "postCount": 1
+   },
+   {
+    "tagName": "Ferdinand_Marcos",
+    "postCount": 1
+   },
+   {
+    "tagName": "William_Shatner",
+    "postCount": 1
+   },
+   {
+    "tagName": "Gamal_Abdel_Nasser",
+    "postCount": 1
+   },
+   {
+    "tagName": "Iggy_Pop",
+    "postCount": 1
+   },
+   {
+    "tagName": "Drew_Barrymore",
+    "postCount": 1
+   },
+   {
+    "tagName": "Kateryna_Bondarenko",
+    "postCount": 1
+   },
+   {
+    "tagName": "Teenage_Kicks",
+    "postCount": 1
+   },
+   {
+    "tagName": "Rupert_Murdoch",
+    "postCount": 1
+   },
+   {
+    "tagName": "French_colonial_empire",
+    "postCount": 1
+   },
+   {
+    "tagName": "John_Kerry",
+    "postCount": 1
+   },
+   {
+    "tagName": "Chad",
+    "postCount": 1
+   },
+   {
+    "tagName": "Crown_of_Castile",
+    "postCount": 1
+   },
+   {
+    "tagName": "Amy_Winehouse",
+    "postCount": 1
+   },
+   {
+    "tagName": "Robert_Louis_Stevenson",
+    "postCount": 1
+   },
+   {
+    "tagName": "Britney_Spears",
+    "postCount": 1
+   },
+   {
+    "tagName": "Fidel_Castro",
+    "postCount": 1
+   },
+   {
+    "tagName": "Eleanor_Roosevelt",
+    "postCount": 1
+   },
+   {
+    "tagName": "Ecuador",
+    "postCount": 1
+   },
+   {
+    "tagName": "David",
+    "postCount": 1
+   },
+   {
+    "tagName": "John_Howard",
+    "postCount": 1
+   },
+   {
+    "tagName": "David_Bowie",
+    "postCount": 1
+   },
+   {
+    "tagName": "Joni_Mitchell",
+    "postCount": 1
+   },
+   {
+    "tagName": "Percy_Bysshe_Shelley",
+    "postCount": 1
+   },
+   {
+    "tagName": "Occupation_of_Japan",
+    "postCount": 1
+   },
+   {
+    "tagName": "Abbey_Road",
+    "postCount": 1
+   },
+   {
+    "tagName": "H._H._Asquith",
+    "postCount": 1
+   },
+   {
+    "tagName": "Ralph_Waldo_Emerson",
+    "postCount": 1
+   },
+   {
+    "tagName": "Euripides",
+    "postCount": 1
+   },
+   {
+    "tagName": "Lifes_Rich_Pageant",
+    "postCount": 1
+   },
+   {
+    "tagName": "Netherlands_New_Guinea",
+    "postCount": 1
+   },
+   {
+    "tagName": "Kingdom_of_Saxony",
+    "postCount": 1
+   },
+   {
+    "tagName": "J._R._R._Tolkien",
+    "postCount": 1
+   },
+   {
+    "tagName": "Stevie_Wonder",
+    "postCount": 1
+   },
+   {
+    "tagName": "No\u00ebl_Coward",
+    "postCount": 1
+   },
+   {
+    "tagName": "Duchy_of_Burgundy",
+    "postCount": 1
+   },
+   {
+    "tagName": "Pharrell_Williams",
+    "postCount": 1
+   },
+   {
+    "tagName": "Manuel_Noriega",
+    "postCount": 1
+   },
+   {
+    "tagName": "Ban_Ki-moon",
+    "postCount": 1
+   }
+  ]
+ }
+}

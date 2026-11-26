@@ -1,0 +1,97 @@
+{
+ "query_sha": "c20c841713234a9d",
+ "params": {
+  "personId": 30786325579380,
+  "month": 7
+ },
+ "data": {
+  "schema_sha256": "b8e206f17e60692c830ba0c3c675fbc481a22f26011282ce523890eb09be8a74",
+  "schema_path": "arangodb/schema/ldbc_schema.json",
+  "sf": "0.3",
+  "created": "2026-11-21T03:01:29Z",
+  "git_sha": "60910999"
+ },
+ "fetched_at": "2026-11-21T00:05:29",
+ "raw": [
+  {
+   "personId": 24189255813228,
+   "personFirstName": "Amit",
+   "personLastName": "Chopra",
+   "commonInterestScore": 5,
+   "personGender": "male",
+   "personCityName": "Meerut"
+  },
+  {
+   "personId": 24189255811164,
+   "personFirstName": "Abdoulaye Khouma",
+   "personLastName": "Dia",
+   "commonInterestScore": 2,
+   "personGender": "male",
+   "personCityName": "Tambacounda"
+  },
+  {
+   "personId": 28587302322718,
+   "personFirstName": "Asher",
+   "personLastName": "Bahaina",
+   "commonInterestScore": -1,
+   "personGender": "female",
+   "personCityName": "Jimma"
+  },
+  {
+   "personId": 32985348834682,
+   "personFirstName": "Nicolae",
+   "personLastName": "Antonescu",
+   "commonInterestScore": -1,
+   "personGender": "female",
+   "personCityName": "Bra\u0219ov"
+  },
+  {
+   "personId": 32985348836120,
+   "personFirstName": "Dimitrios",
+   "personLastName": "Angello",
+   "commonInterestScore": -1,
+   "personGender": "female",
+   "personCityName": "Crete"
+  },
+  {
+   "personId": 32985348836696,
+   "personFirstName": "Michael",
+   "personLastName": "Mifsud",
+   "commonInterestScore": -1,
+   "personGender": "female",
+   "personCityName": "San_Gwann"
+  },
+  {
+   "personId": 28587302324910,
+   "personFirstName": "John",
+   "personLastName": "Jones",
+   "commonInterestScore": -2,
+   "personGender": "male",
+   "personCityName": "Cleveland"
+  },
+  {
+   "personId": 32985348833314,
+   "personFirstName": "Roberto",
+   "personLastName": "Diaz",
+   "commonInterestScore": -2,
+   "personGender": "female",
+   "personCityName": "Buenos_Aires"
+  },
+  {
+   "personId": 32985348836975,
+   "personFirstName": "Adis",
+   "personLastName": "Mikulic",
+   "commonInterestScore": -2,
+   "personGender": "female",
+   "personCityName": "Sarajevo"
+  },
+  {
+   "personId": 26388279068735,
+   "personFirstName": "Cesar",
+   "personLastName": "Garcia",
+   "commonInterestScore": -3,
+   "personGender": "male",
+   "personCityName": "Lipa"
+  }
+ ]
+}

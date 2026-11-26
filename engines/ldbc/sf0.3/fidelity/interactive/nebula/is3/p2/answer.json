@@ -1,0 +1,88 @@
+{
+ "query_sha": "6ff3aa62b8626f5b",
+ "params": {
+  "personId": "person_2199023259220"
+ },
+ "data": {
+  "schema_sha256": "673074740eea54e4ba1fdc94eebf2087531b3007af7da660afffb3d1e8df0d1e",
+  "schema_path": "nebulagraph/schema/schema.gql",
+  "sf": "0.3",
+  "created": "2026-11-21T03:42:54Z",
+  "git_sha": "1d6662c2"
+ },
+ "fetched_at": "2026-11-20T23:52:58",
+ "raw": {
+  "keys": [
+   "friendId",
+   "friendFirstName",
+   "friendLastName",
+   "friendshipCreationDate",
+   "friendIdInt"
+  ],
+  "rows": [
+   {
+    "friendId": "person_32985348834483",
+    "friendFirstName": "Michel",
+    "friendLastName": "Breton",
+    "friendshipCreationDate": 1345301899089,
+    "friendIdInt": 32985348834483
+   },
+   {
+    "friendId": "person_32985348833548",
+    "friendFirstName": "Aleksandr",
+    "friendLastName": "Bajt",
+    "friendshipCreationDate": 1344237735772,
+    "friendIdInt": 32985348833548
+   },
+   {
+    "friendId": "person_30786325580396",
+    "friendFirstName": "Zaenal",
+    "friendLastName": "Balawan",
+    "friendshipCreationDate": 1339157708639,
+    "friendIdInt": 30786325580396
+   },
+   {
+    "friendId": "person_24189255814531",
+    "friendFirstName": "Aharon",
+    "friendLastName": "Bouzid",
+    "friendshipCreationDate": 1326273234602,
+    "friendIdInt": 24189255814531
+   },
+   {
+    "friendId": "person_24189255811566",
+    "friendFirstName": "The",
+    "friendLastName": "Kunda",
+    "friendshipCreationDate": 1324937704127,
+    "friendIdInt": 24189255811566
+   },
+   {
+    "friendId": "person_17592186048261",
+    "friendFirstName": "Anna",
+    "friendLastName": "Kogan",
+    "friendshipCreationDate": 1310411322367,
+    "friendIdInt": 17592186048261
+   },
+   {
+    "friendId": "person_10995116280854",
+    "friendFirstName": "Abdul Rahman",
+    "friendLastName": "Budjana",
+    "friendshipCreationDate": 1293536689857,
+    "friendIdInt": 10995116280854
+   },
+   {
+    "friendId": "person_4398046514593",
+    "friendFirstName": "Aamer",
+    "friendLastName": "Qureshi",
+    "friendshipCreationDate": 1279738843086,
+    "friendIdInt": 4398046514593
+   },
+   {
+    "friendId": "person_296",
+    "friendFirstName": "Zaenal",
+    "friendLastName": "Gallagher",
+    "friendshipCreationDate": 1271017282015,
+    "friendIdInt": 296
+   }
+  ]
+ }
+}

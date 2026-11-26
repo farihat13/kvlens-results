@@ -1,0 +1,117 @@
+{
+ "columns": {
+  "cost_sp_co": "the split is each group's share of the workload's cost on Sp-Co",
+  "executions": "the split is each group's share of the runs"
+ },
+ "draws": 100,
+ "gates": {
+  "sp-co-ch1k-ch4k-ch16k": {
+   "direct": 25000,
+   "meaning": 3000,
+   "tiles": 800
+  },
+  "sp-co-ch1k-ch4k-ch16k-ch64k-ch256k": {
+   "direct": 49000,
+   "meaning": 3000,
+   "tiles": 800
+  }
+ },
+ "groups": [
+  "complex",
+  "short",
+  "update"
+ ],
+ "model": "wops_bytes4k",
+ "queries_per_group": {
+  "complex": 12,
+  "short": 7,
+  "update": 8
+ },
+ "reference": "props_split_adj_condensed",
+ "seed": 20261026,
+ "sets": {
+  "sp-co-ch1k-ch4k-ch16k": {
+   "layouts": 25,
+   "settings": [
+    "split",
+    "condensed",
+    "chunked_c1k",
+    "chunked_c4k",
+    "chunked_c16k"
+   ],
+   "short": [
+    "Sp",
+    "Co",
+    "Ch1k",
+    "Ch4k",
+    "Ch16k"
+   ]
+  },
+  "sp-co-ch1k-ch4k-ch16k-ch64k-ch256k": {
+   "layouts": 49,
+   "settings": [
+    "split",
+    "condensed",
+    "chunked_c1k",
+    "chunked_c4k",
+    "chunked_c16k",
+    "chunked",
+    "chunked_c256k"
+   ],
+   "short": [
+    "Sp",
+    "Co",
+    "Ch1k",
+    "Ch4k",
+    "Ch16k",
+    "Ch64k",
+    "Ch256k"
+   ]
+  }
+ },
+ "summary": {
+  "sp-co-ch1k-ch4k-ch16k": {
+   "cost_sp_co": {
+    "tiles_not_clear": 153,
+    "tiles_won_by": {
+     "props_chunked_c1k_adj_chunked_c1k": 124,
+     "props_chunked_c1k_adj_chunked_c4k": 5,
+     "props_chunked_c1k_adj_condensed": 109,
+     "props_chunked_c1k_adj_split": 27,
+     "props_condensed_adj_chunked_c1k": 3,
+     "props_condensed_adj_condensed": 33,
+     "props_condensed_adj_split": 99
+    }
+   },
+   "executions": {
+    "tiles_not_clear": 13,
+    "tiles_won_by": {
+     "props_chunked_c1k_adj_chunked_c4k": 82,
+     "props_chunked_c4k_adj_chunked_c4k": 318
+    }
+   }
+  },
+  "sp-co-ch1k-ch4k-ch16k-ch64k-ch256k": {
+   "cost_sp_co": {
+    "tiles_not_clear": 153,
+    "tiles_won_by": {
+     "props_chunked_c1k_adj_chunked_c1k": 124,
+     "props_chunked_c1k_adj_chunked_c4k": 5,
+     "props_chunked_c1k_adj_condensed": 109,
+     "props_chunked_c1k_adj_split": 27,
+     "props_condensed_adj_chunked_c1k": 3,
+     "props_condensed_adj_condensed": 33,
+     "props_condensed_adj_split": 99
+    }
+   },
+   "executions": {
+    "tiles_not_clear": 13,
+    "tiles_won_by": {
+     "props_chunked_c1k_adj_chunked_c4k": 82,
+     "props_chunked_c4k_adj_chunked_c4k": 318
+    }
+   }
+  }
+ },
+ "tile_steps": 20
+}

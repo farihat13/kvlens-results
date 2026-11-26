@@ -1,0 +1,24 @@
+{
+ "query_sha": "445239913e42deb8",
+ "params": {
+  "personId": "4398046512766",
+  "tagClassName": "NascarDriver"
+ },
+ "data_created": "2026-11-21T02:56:18Z",
+ "measured_at": "2026-11-20T23:10:42",
+ "raw": {
+  "get_bytes": 1363623,
+  "get_count": 20,
+  "get_found_count": 20,
+  "get_latency_ns": 458187,
+  "next_bytes": 788524,
+  "next_count": 16080,
+  "next_latency_ns": 2677441,
+  "seek_bytes": 2220023,
+  "seek_count": 29184,
+  "seek_latency_ns": 244570730,
+  "set_bytes": 0,
+  "set_count": 0,
+  "set_latency_ns": 0
+ }
+}

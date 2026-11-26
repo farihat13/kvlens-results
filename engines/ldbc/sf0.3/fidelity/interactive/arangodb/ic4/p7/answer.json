@@ -1,0 +1,58 @@
+{
+ "query_sha": "a0d4689e13d21a73",
+ "params": {
+  "personId": 30786325579845,
+  "startDate": 1304208000000,
+  "durationDays": 38
+ },
+ "data": {
+  "schema_sha256": "b8e206f17e60692c830ba0c3c675fbc481a22f26011282ce523890eb09be8a74",
+  "schema_path": "arangodb/schema/ldbc_schema.json",
+  "sf": "0.3",
+  "created": "2026-11-21T03:01:29Z",
+  "git_sha": "60910999"
+ },
+ "fetched_at": "2026-11-20T23:53:29",
+ "raw": [
+  {
+   "tagName": "Guy_Sebastian",
+   "postCount": 5
+  },
+  {
+   "tagName": "Shigeru_Miyamoto",
+   "postCount": 5
+  },
+  {
+   "tagName": "Alfonso_X_of_Castile",
+   "postCount": 4
+  },
+  {
+   "tagName": "Belisarius",
+   "postCount": 2
+  },
+  {
+   "tagName": "Dominik_Hrbat\u00fd",
+   "postCount": 2
+  },
+  {
+   "tagName": "Free_City_of_L\u00fcbeck",
+   "postCount": 2
+  },
+  {
+   "tagName": "Patrick_Vieira",
+   "postCount": 2
+  },
+  {
+   "tagName": "Peter_Hain",
+   "postCount": 2
+  },
+  {
+   "tagName": "Province_of_Carolina",
+   "postCount": 2
+  },
+  {
+   "tagName": "Wishing_on_a_Star",
+   "postCount": 2
+  }
+ ]
+}

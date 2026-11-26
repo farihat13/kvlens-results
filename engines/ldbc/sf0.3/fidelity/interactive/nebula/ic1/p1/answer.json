@@ -1,0 +1,65 @@
+{
+ "query_sha": "d7c0e0884773459a",
+ "params": {
+  "personId": "person_24189255813168",
+  "firstName": "Moses"
+ },
+ "data": {
+  "schema_sha256": "673074740eea54e4ba1fdc94eebf2087531b3007af7da660afffb3d1e8df0d1e",
+  "schema_path": "nebulagraph/schema/schema.gql",
+  "sf": "0.3",
+  "created": "2026-11-21T03:42:54Z",
+  "git_sha": "1d6662c2"
+ },
+ "fetched_at": "2026-11-20T23:49:15",
+ "raw": {
+  "keys": [
+   "friendId",
+   "friendLastName",
+   "distanceFromPerson",
+   "friendBirthday",
+   "friendCreationDate",
+   "friendGender",
+   "friendBrowserUsed",
+   "friendLocationIp",
+   "friendEmails",
+   "friendLanguages",
+   "friendCityName",
+   "friendUniversities",
+   "friendCompanies",
+   "friendIdInt"
+  ],
+  "rows": [
+   {
+    "friendId": "person_15393162790168",
+    "friendLastName": "Znaimer",
+    "distanceFromPerson": 2,
+    "friendBirthday": 335318400000,
+    "friendCreationDate": 1302490981291,
+    "friendGender": "male",
+    "friendBrowserUsed": "Firefox",
+    "friendLocationIp": "77.244.155.199",
+    "friendEmails": [
+     "Moses15393162790168@gmail.com",
+     "Moses15393162790168@yahoo.com",
+     "Moses15393162790168@zoho.com"
+    ],
+    "friendLanguages": [
+     "tg",
+     "ru",
+     "en"
+    ],
+    "friendCityName": "Dushanbe",
+    "friendUniversities": [],
+    "friendCompanies": [
+     [
+      "East_Air",
+      2012,
+      "Tajikistan"
+     ]
+    ],
+    "friendIdInt": 15393162790168
+   }
+  ]
+ }
+}

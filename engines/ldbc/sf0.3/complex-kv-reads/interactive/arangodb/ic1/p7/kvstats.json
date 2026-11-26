@@ -1,0 +1,32 @@
+{
+ "query_sha": "758b65813d7ffbd6",
+ "params": {
+  "personId": 2199023259063,
+  "firstName": "Alif"
+ },
+ "data_created": "2026-11-23T09:40:48Z",
+ "measured_at": "2026-11-23T13:10:31",
+ "raw": {
+  "get_count": 188218,
+  "get_found_count": 188218,
+  "get_time_ns": 203255289,
+  "get_bytes": 28503242,
+  "seek_count": 3293,
+  "seek_time_ns": 26080498,
+  "seek_bytes": 180800,
+  "next_count": 93822,
+  "next_time_ns": 8523833,
+  "next_bytes": 5249044,
+  "prev_count": 0,
+  "prev_time_ns": 0,
+  "prev_bytes": 0,
+  "put_count": 0,
+  "put_time_ns": 0,
+  "put_bytes": 0,
+  "delete_count": 0,
+  "delete_time_ns": 0,
+  "delete_bytes": 0,
+  "commit_count": 0,
+  "commit_time_ns": 0
+ }
+}

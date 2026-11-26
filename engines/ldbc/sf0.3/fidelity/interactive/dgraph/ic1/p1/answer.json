@@ -1,0 +1,49 @@
+{
+ "query_sha": "cc60061064f78218",
+ "params": {
+  "personId": "24189255813168",
+  "firstName": "Moses"
+ },
+ "data": {
+  "schema_sha256": "03713a1e1c7b722e73bed6b150e079e69e9579c2a58c52e06f9d4384fdd4b80d",
+  "schema_path": "dgraph/schema/ldbcTypes.schema",
+  "sf": "0.3",
+  "created": "2026-11-21T02:56:18Z",
+  "git_sha": "60910999"
+ },
+ "fetched_at": "2026-11-20T23:49:14",
+ "raw": {
+  "_l1_from_p": [],
+  "_l2_expand": [],
+  "_l3_expand": [],
+  "friends1": [],
+  "friends2": [
+   {
+    "companyCountryName": "Tajikistan",
+    "companyName": "East_Air",
+    "friendBirthday": "1980-08-17T00:00:00Z",
+    "friendBrowserUsed": "Firefox",
+    "friendCityName": "Dushanbe",
+    "friendCreationDate": "2011-04-11T03:03:01.291Z",
+    "friendDistance": 2,
+    "friendEmails": [
+     "Moses15393162790168@zoho.com",
+     "Moses15393162790168@yahoo.com",
+     "Moses15393162790168@gmail.com"
+    ],
+    "friendFirstName": "Moses",
+    "friendGender": "male",
+    "friendId": 15393162790168,
+    "friendLanguages": [
+     "en",
+     "tg",
+     "ru"
+    ],
+    "friendLastName": "Znaimer",
+    "friendLocationIp": "77.244.155.199",
+    "workAt|workFrom": "2012"
+   }
+  ],
+  "friends3": []
+ }
+}

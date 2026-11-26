@@ -1,0 +1,218 @@
+{
+ "query_sha": "afd1398a68b07f16",
+ "params": {
+  "personId": "24189255811707"
+ },
+ "data": {
+  "schema_sha256": "03713a1e1c7b722e73bed6b150e079e69e9579c2a58c52e06f9d4384fdd4b80d",
+  "schema_path": "dgraph/schema/ldbcTypes.schema",
+  "sf": "0.1",
+  "created": "2026-11-21T03:25:44Z",
+  "git_sha": "92777160"
+ },
+ "fetched_at": "2026-11-21T01:06:00",
+ "raw": {
+  "person": [
+   {
+    "messages": [
+     {
+      "messageId": 1099511817181,
+      "messageCreationDate": "2012-09-10T06:09:53.479Z",
+      "imageFile": "photo1099511817181.jpg",
+      "content": "",
+      "messageType": [
+       "post"
+      ],
+      "selfAsOriginal": [
+       {
+        "authorId": 24189255811707,
+        "authorFirstName": "Ge",
+        "authorLastName": "Hu"
+       }
+      ]
+     },
+     {
+      "messageId": 1099511817180,
+      "messageCreationDate": "2012-09-10T06:09:52.479Z",
+      "imageFile": "photo1099511817180.jpg",
+      "content": "",
+      "messageType": [
+       "post"
+      ],
+      "selfAsOriginal": [
+       {
+        "authorId": 24189255811707,
+        "authorFirstName": "Ge",
+        "authorLastName": "Hu"
+       }
+      ]
+     },
+     {
+      "messageId": 1030792287619,
+      "messageCreationDate": "2012-09-06T12:42:27.678Z",
+      "content": "no",
+      "messageType": [
+       "comment"
+      ],
+      "originalPost": {
+       "postId": 1030792287602,
+       "postCreationDate": "2012-09-06T12:40:32.533Z",
+       "postContent": "About Herodotus, and including a wealth of geographical and ethnographical information. Although some of his stories were fanciful, he claimed he was reporting only what had been told to him. Little is kn",
+       "originalPoster": [
+        {
+         "authorId": 10995116278210,
+         "authorFirstName": "Billinjer C",
+         "authorLastName": "Nguyen"
+        }
+       ]
+      },
+      "selfAsOriginal": [
+       {
+        "authorId": 24189255811707,
+        "authorFirstName": "Ge",
+        "authorLastName": "Hu"
+       }
+      ]
+     },
+     {
+      "messageId": 1030792287518,
+      "messageCreationDate": "2012-08-22T00:00:23.628Z",
+      "content": "duh",
+      "messageType": [
+       "comment"
+      ],
+      "selfAsOriginal": [
+       {
+        "authorId": 24189255811707,
+        "authorFirstName": "Ge",
+        "authorLastName": "Hu"
+       }
+      ],
+      "parentComment": {
+       "dgraph.type": [
+        "comment"
+       ],
+       "grandParentPost": {
+        "postId": 1030792287513,
+        "originalPoster": [
+         {
+          "authorId": 30786325577774,
+          "authorFirstName": "Alejandro",
+          "authorLastName": "Garcia"
+         }
+        ]
+       }
+      }
+     },
+     {
+      "messageId": 1030792287551,
+      "messageCreationDate": "2012-08-21T18:07:52.215Z",
+      "imageFile": "",
+      "content": "About Herodotus, information. Although some of his stories were fanciful, he claimed he was report",
+      "messageType": [
+       "post"
+      ],
+      "selfAsOriginal": [
+       {
+        "authorId": 24189255811707,
+        "authorFirstName": "Ge",
+        "authorLastName": "Hu"
+       }
+      ]
+     },
+     {
+      "messageId": 1030792192742,
+      "messageCreationDate": "2012-08-13T13:23:58.147Z",
+      "content": "About Numidia, a diriged by Syphax. It is Massinissa who historically won over Sypha",
+      "messageType": [
+       "comment"
+      ],
+      "originalPost": {
+       "postId": 1030792192741,
+       "postCreationDate": "2012-08-13T10:07:16.289Z",
+       "postContent": "About Augustine of Hippo, e carries the additional title of Blessed. Among the Orthodox, he is called B",
+       "originalPoster": [
+        {
+         "authorId": 10995116278570,
+         "authorFirstName": "Wei",
+         "authorLastName": "Liu"
+        }
+       ]
+      },
+      "selfAsOriginal": [
+       {
+        "authorId": 24189255811707,
+        "authorFirstName": "Ge",
+        "authorLastName": "Hu"
+       }
+      ]
+     },
+     {
+      "messageId": 1030792340434,
+      "messageCreationDate": "2012-07-29T03:39:54.318Z",
+      "imageFile": "photo1030792340434.jpg",
+      "content": "",
+      "messageType": [
+       "post"
+      ],
+      "selfAsOriginal": [
+       {
+        "authorId": 24189255811707,
+        "authorFirstName": "Ge",
+        "authorLastName": "Hu"
+       }
+      ]
+     },
+     {
+      "messageId": 1030792340433,
+      "messageCreationDate": "2012-07-29T03:39:53.318Z",
+      "imageFile": "photo1030792340433.jpg",
+      "content": "",
+      "messageType": [
+       "post"
+      ],
+      "selfAsOriginal": [
+       {
+        "authorId": 24189255811707,
+        "authorFirstName": "Ge",
+        "authorLastName": "Hu"
+       }
+      ]
+     },
+     {
+      "messageId": 1030792340432,
+      "messageCreationDate": "2012-07-29T03:39:52.318Z",
+      "imageFile": "photo1030792340432.jpg",
+      "content": "",
+      "messageType": [
+       "post"
+      ],
+      "selfAsOriginal": [
+       {
+        "authorId": 24189255811707,
+        "authorFirstName": "Ge",
+        "authorLastName": "Hu"
+       }
+      ]
+     },
+     {
+      "messageId": 1030792340431,
+      "messageCreationDate": "2012-07-29T03:39:51.318Z",
+      "imageFile": "photo1030792340431.jpg",
+      "content": "",
+      "messageType": [
+       "post"
+      ],
+      "selfAsOriginal": [
+       {
+        "authorId": 24189255811707,
+        "authorFirstName": "Ge",
+        "authorLastName": "Hu"
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

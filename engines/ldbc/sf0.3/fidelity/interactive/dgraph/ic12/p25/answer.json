@@ -1,0 +1,41 @@
+{
+ "query_sha": "445239913e42deb8",
+ "params": {
+  "personId": "15393162789699",
+  "tagClassName": "Band"
+ },
+ "data": {
+  "schema_sha256": "03713a1e1c7b722e73bed6b150e079e69e9579c2a58c52e06f9d4384fdd4b80d",
+  "schema_path": "dgraph/schema/ldbcTypes.schema",
+  "sf": "0.3",
+  "created": "2026-11-21T02:56:18Z",
+  "git_sha": "60910999"
+ },
+ "fetched_at": "2026-11-21T00:02:52",
+ "raw": {
+  "_l1": [],
+  "friends": [
+   {
+    "friendFirstName": "A.",
+    "friendId": 4398046512902,
+    "friendLastName": "Khan",
+    "replyCount": 1,
+    "tagNames": "The_Everly_Brothers"
+   },
+   {
+    "friendFirstName": "Abdul Rahman",
+    "friendId": 10995116280854,
+    "friendLastName": "Budjana",
+    "replyCount": 1,
+    "tagNames": "The_Everly_Brothers"
+   },
+   {
+    "friendFirstName": "Bibit",
+    "friendId": 19791209302403,
+    "friendLastName": "Balawan",
+    "replyCount": 1,
+    "tagNames": "The_Everly_Brothers"
+   }
+  ]
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "query_sha": "758b65813d7ffbd6",
+ "params": {
+  "personId": 30786325579380,
+  "firstName": "Albaye Papa"
+ },
+ "data_created": "2026-11-21T03:01:29Z",
+ "measured_at": "2026-11-20T23:11:20",
+ "raw": {
+  "get_count": 132330,
+  "get_found_count": 132330,
+  "get_time_ns": 163470139,
+  "get_bytes": 20012735,
+  "seek_count": 2588,
+  "seek_time_ns": 46801685,
+  "seek_bytes": 139837,
+  "next_count": 65655,
+  "next_time_ns": 6933233,
+  "next_bytes": 3656036,
+  "prev_count": 0,
+  "prev_time_ns": 0,
+  "prev_bytes": 0,
+  "put_count": 0,
+  "put_time_ns": 0,
+  "put_bytes": 0,
+  "delete_count": 0,
+  "delete_time_ns": 0,
+  "delete_bytes": 0,
+  "commit_count": 0,
+  "commit_time_ns": 0
+ }
+}

@@ -1,0 +1,57 @@
+{
+ "query_sha": "ca817504079a16c1",
+ "params": {
+  "personId": 30786325579745,
+  "tagName": "Gordon_Brown"
+ },
+ "data": {
+  "schema_sha256": "b8e206f17e60692c830ba0c3c675fbc481a22f26011282ce523890eb09be8a74",
+  "schema_path": "arangodb/schema/ldbc_schema.json",
+  "sf": "0.3",
+  "created": "2026-11-21T03:01:29Z",
+  "git_sha": "60910999"
+ },
+ "fetched_at": "2026-11-21T00:07:51",
+ "raw": [
+  {
+   "tagName": "Adolf_Hitler",
+   "postCount": 6
+  },
+  {
+   "tagName": "Humayun",
+   "postCount": 4
+  },
+  {
+   "tagName": "Genghis_Khan",
+   "postCount": 3
+  },
+  {
+   "tagName": "Douglas_Adams",
+   "postCount": 2
+  },
+  {
+   "tagName": "Finland",
+   "postCount": 2
+  },
+  {
+   "tagName": "Germany",
+   "postCount": 2
+  },
+  {
+   "tagName": "Hamid_Karzai",
+   "postCount": 2
+  },
+  {
+   "tagName": "Ivan_Ljubi\u010di\u0107",
+   "postCount": 2
+  },
+  {
+   "tagName": "John_Howard",
+   "postCount": 2
+  },
+  {
+   "tagName": "John_Steinbeck",
+   "postCount": 2
+  }
+ ]
+}

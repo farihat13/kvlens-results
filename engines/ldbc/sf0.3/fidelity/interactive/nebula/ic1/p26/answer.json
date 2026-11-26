@@ -1,0 +1,186 @@
+{
+ "query_sha": "d7c0e0884773459a",
+ "params": {
+  "personId": "person_8796093022749",
+  "firstName": "Ahmad Rafiq"
+ },
+ "data": {
+  "schema_sha256": "673074740eea54e4ba1fdc94eebf2087531b3007af7da660afffb3d1e8df0d1e",
+  "schema_path": "nebulagraph/schema/schema.gql",
+  "sf": "0.3",
+  "created": "2026-11-21T03:42:54Z",
+  "git_sha": "1d6662c2"
+ },
+ "fetched_at": "2026-11-21T00:04:13",
+ "raw": {
+  "keys": [
+   "friendId",
+   "friendLastName",
+   "distanceFromPerson",
+   "friendBirthday",
+   "friendCreationDate",
+   "friendGender",
+   "friendBrowserUsed",
+   "friendLocationIp",
+   "friendEmails",
+   "friendLanguages",
+   "friendCityName",
+   "friendUniversities",
+   "friendCompanies",
+   "friendIdInt"
+  ],
+  "rows": [
+   {
+    "friendId": "person_17592186047098",
+    "friendLastName": "Anwar",
+    "distanceFromPerson": 2,
+    "friendBirthday": 530841600000,
+    "friendCreationDate": 1305175574040,
+    "friendGender": "male",
+    "friendBrowserUsed": "Firefox",
+    "friendLocationIp": "27.121.83.35",
+    "friendEmails": [
+     "Ahmad.Rafiq17592186047098@gmail.com",
+     "Ahmad.Rafiq17592186047098@gmx.com",
+     "Ahmad.Rafiq17592186047098@whoever.com"
+    ],
+    "friendLanguages": [
+     "jv",
+     "en"
+    ],
+    "friendCityName": "Jimbaran",
+    "friendUniversities": [
+     [
+      "Mount_Klabat_College",
+      2006,
+      "Manado"
+     ]
+    ],
+    "friendCompanies": [],
+    "friendIdInt": 17592186047098
+   },
+   {
+    "friendId": "person_24189255812419",
+    "friendLastName": "Irama",
+    "distanceFromPerson": 2,
+    "friendBirthday": 600393600000,
+    "friendCreationDate": 1324630205545,
+    "friendGender": "male",
+    "friendBrowserUsed": "Chrome",
+    "friendLocationIp": "103.22.165.62",
+    "friendEmails": [
+     "Ahmad.Rafiq24189255812419@gmail.com",
+     "Ahmad.Rafiq24189255812419@yahoo.com"
+    ],
+    "friendLanguages": [
+     "jv",
+     "nl",
+     "en"
+    ],
+    "friendCityName": "Banda_Aceh",
+    "friendUniversities": [
+     [
+      "Trunojoyo_University",
+      2010,
+      "Bangkalan"
+     ]
+    ],
+    "friendCompanies": [
+     [
+      "Pelita_Air_Service",
+      2011,
+      "Indonesia"
+     ]
+    ],
+    "friendIdInt": 24189255812419
+   },
+   {
+    "friendId": "person_15393162792659",
+    "friendLastName": "Balawan",
+    "distanceFromPerson": 3,
+    "friendBirthday": 408931200000,
+    "friendCreationDate": 1299683109458,
+    "friendGender": "male",
+    "friendBrowserUsed": "Firefox",
+    "friendLocationIp": "101.255.118.75",
+    "friendEmails": [
+     "Ahmad.Rafiq15393162792659@gmail.com"
+    ],
+    "friendLanguages": [
+     "nl",
+     "jv",
+     "en"
+    ],
+    "friendCityName": "Ambon",
+    "friendUniversities": [],
+    "friendCompanies": [
+     [
+      "Kal_Star_Aviation",
+      2003,
+      "Indonesia"
+     ],
+     [
+      "Republic_Express_Airlines",
+      2009,
+      "Indonesia"
+     ],
+     [
+      "Jatayu_Airlines",
+      2009,
+      "Indonesia"
+     ],
+     [
+      "Lion_Air",
+      2009,
+      "Indonesia"
+     ]
+    ],
+    "friendIdInt": 15393162792659
+   },
+   {
+    "friendId": "person_2199023255821",
+    "friendLastName": "Irama",
+    "distanceFromPerson": 3,
+    "friendBirthday": 442454400000,
+    "friendCreationDate": 1269760613514,
+    "friendGender": "male",
+    "friendBrowserUsed": "Firefox",
+    "friendLocationIp": "58.145.168.50",
+    "friendEmails": [
+     "Ahmad.Rafiq2199023255821@gmail.com",
+     "Ahmad.Rafiq2199023255821@yahoo.com"
+    ],
+    "friendLanguages": [
+     "en",
+     "jv"
+    ],
+    "friendCityName": "Tangerang",
+    "friendUniversities": [
+     [
+      "Trunojoyo_University",
+      2005,
+      "Bangkalan"
+     ]
+    ],
+    "friendCompanies": [
+     [
+      "Wings_Abadi_Air",
+      2005,
+      "Indonesia"
+     ],
+     [
+      "Premiair",
+      2006,
+      "Indonesia"
+     ],
+     [
+      "Citilink",
+      2005,
+      "Indonesia"
+     ]
+    ],
+    "friendIdInt": 2199023255821
+   }
+  ]
+ }
+}

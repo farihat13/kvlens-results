@@ -1,0 +1,121 @@
+{
+ "query_sha": "d4f7d149421ba277",
+ "params": {
+  "personId": "32985348833679",
+  "minDate": "2012-09-12T00:00:00Z"
+ },
+ "data": {
+  "schema_sha256": "03713a1e1c7b722e73bed6b150e079e69e9579c2a58c52e06f9d4384fdd4b80d",
+  "schema_path": "dgraph/schema/ldbcTypes.schema",
+  "sf": "0.1",
+  "created": "2026-11-21T03:25:44Z",
+  "git_sha": "92777160"
+ },
+ "fetched_at": "2026-11-21T01:05:45",
+ "raw": {
+  "_l1": [],
+  "_l2": [],
+  "forums": [
+   {
+    "forumName": "Wall of Kamal Aziz",
+    "postCount": 147,
+    "forumId": 68719483091
+   },
+   {
+    "forumName": "Wall of Jesus Mendez",
+    "postCount": 92,
+    "forumId": 137438960072
+   },
+   {
+    "forumName": "Wall of Wilhelm Schmidt",
+    "postCount": 45,
+    "forumId": 137438960303
+   },
+   {
+    "forumName": "Group for Hilary_Duff in Belfast",
+    "postCount": 33,
+    "forumId": 687194770382
+   },
+   {
+    "forumName": "Group for Jean-Baptiste_Lamarck in Banda_Aceh",
+    "postCount": 25,
+    "forumId": 343597399419
+   },
+   {
+    "forumName": "Wall of Emperor of Brazil Dom Pedro II",
+    "postCount": 23,
+    "forumId": 824633730054
+   },
+   {
+    "forumName": "Album 18 of Gregorio Manalo",
+    "postCount": 20,
+    "forumId": 2934
+   },
+   {
+    "forumName": "Album 15 of Wei Liu",
+    "postCount": 20,
+    "forumId": 343597385777
+   },
+   {
+    "forumName": "Album 14 of Otto Muller",
+    "postCount": 20,
+    "forumId": 343597399710
+   },
+   {
+    "forumName": "Album 13 of Salim Ahmed Binalshibh",
+    "postCount": 20,
+    "forumId": 412316875167
+   },
+   {
+    "forumName": "Album 20 of Babar Iqbal",
+    "postCount": 20,
+    "forumId": 755914253961
+   },
+   {
+    "forumName": "Album 17 of Li Wang",
+    "postCount": 20,
+    "forumId": 824633730342
+   },
+   {
+    "forumName": "Album 9 of The Kunda",
+    "postCount": 20,
+    "forumId": 893353208129
+   },
+   {
+    "forumName": "Album 6 of Anh Nguyen",
+    "postCount": 20,
+    "forumId": 962072685933
+   },
+   {
+    "forumName": "Album 21 of John Kumar",
+    "postCount": 20,
+    "forumId": 962072686700
+   },
+   {
+    "forumName": "Album 0 of Alexander Hleb",
+    "postCount": 20,
+    "forumId": 962072687137
+   },
+   {
+    "forumName": "Album 5 of Alexander Hleb",
+    "postCount": 20,
+    "forumId": 962072687142
+   },
+   {
+    "forumName": "Album 7 of Chan Han",
+    "postCount": 20,
+    "forumId": 1030792153939
+   },
+   {
+    "forumName": "Album 2 of Hans Becker",
+    "postCount": 20,
+    "forumId": 1030792160192
+   },
+   {
+    "forumName": "Album 25 of William Sharma",
+    "postCount": 20,
+    "forumId": 1030792160844
+   }
+  ]
+ }
+}

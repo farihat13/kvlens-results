@@ -1,0 +1,97 @@
+{
+ "query_sha": "c20c841713234a9d",
+ "params": {
+  "personId": 13194139535032,
+  "month": 10
+ },
+ "data": {
+  "schema_sha256": "b8e206f17e60692c830ba0c3c675fbc481a22f26011282ce523890eb09be8a74",
+  "schema_path": "arangodb/schema/ldbc_schema.json",
+  "sf": "0.3",
+  "created": "2026-11-21T03:01:29Z",
+  "git_sha": "60910999"
+ },
+ "fetched_at": "2026-11-21T00:01:22",
+ "raw": [
+  {
+   "personId": 8796093022492,
+   "personFirstName": "Jack",
+   "personLastName": "Ellis",
+   "commonInterestScore": 6,
+   "personGender": "female",
+   "personCityName": "Bristol"
+  },
+  {
+   "personId": 32985348835906,
+   "personFirstName": "Carlos",
+   "personLastName": "Pereira",
+   "commonInterestScore": 1,
+   "personGender": "male",
+   "personCityName": "Faro"
+  },
+  {
+   "personId": 17592186048078,
+   "personFirstName": "Jun",
+   "personLastName": "Yamada",
+   "commonInterestScore": 0,
+   "personGender": "female",
+   "personCityName": "Nara"
+  },
+  {
+   "personId": 21990232558080,
+   "personFirstName": "Kazuo",
+   "personLastName": "Suzuki",
+   "commonInterestScore": 0,
+   "personGender": "male",
+   "personCityName": "Nagakute"
+  },
+  {
+   "personId": 28587302323673,
+   "personFirstName": "Chan",
+   "personLastName": "Han",
+   "commonInterestScore": 0,
+   "personGender": "male",
+   "personCityName": "Yongin"
+  },
+  {
+   "personId": 30786325581061,
+   "personFirstName": "Carlos",
+   "personLastName": "Alves",
+   "commonInterestScore": 0,
+   "personGender": "female",
+   "personCityName": "Po\u00e7os_de_Caldas"
+  },
+  {
+   "personId": 32985348837099,
+   "personFirstName": "Ion",
+   "personLastName": "Kovacs",
+   "commonInterestScore": 0,
+   "personGender": "male",
+   "personCityName": "Timi\u0219oara"
+  },
+  {
+   "personId": 17592186045334,
+   "personFirstName": "Andrew",
+   "personLastName": "Chung",
+   "commonInterestScore": -1,
+   "personGender": "female",
+   "personCityName": "Arusha"
+  },
+  {
+   "personId": 21990232555686,
+   "personFirstName": "Chaim Azriel",
+   "personLastName": "Hleb",
+   "commonInterestScore": -1,
+   "personGender": "male",
+   "personCityName": "Bobruysk"
+  },
+  {
+   "personId": 32985348834930,
+   "personFirstName": "Deepa",
+   "personLastName": "Irani",
+   "commonInterestScore": -1,
+   "personGender": "male",
+   "personCityName": "Kerala"
+  }
+ ]
+}

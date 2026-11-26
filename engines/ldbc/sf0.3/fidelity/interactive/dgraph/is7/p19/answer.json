@@ -1,0 +1,83 @@
+{
+ "query_sha": "6935170dcded2085",
+ "params": {
+  "messageId": "687195603588"
+ },
+ "data": {
+  "schema_sha256": "03713a1e1c7b722e73bed6b150e079e69e9579c2a58c52e06f9d4384fdd4b80d",
+  "schema_path": "dgraph/schema/ldbcTypes.schema",
+  "sf": "0.3",
+  "created": "2026-11-21T02:56:18Z",
+  "git_sha": "60910999"
+ },
+ "fetched_at": "2026-11-21T00:01:18",
+ "raw": {
+  "origAuthor": [
+   {
+    "origAuthorId": 2199023258028
+   }
+  ],
+  "replies": [
+   {
+    "commentContent": "ok",
+    "commentCreationDate": "2011-10-16T19:55:15.454Z",
+    "commentId": 687195603590,
+    "knowsCount": 0,
+    "knowsCount2": 1,
+    "replyAuthorFirstName": "Benedict",
+    "replyAuthorId": 10995116278915,
+    "replyAuthorLastName": "Zhang"
+   },
+   {
+    "commentContent": "About Virgil,  usually called About Muammar Gaddafi,  the AU summit. About Tiger Woods, tt",
+    "commentCreationDate": "2011-10-16T17:44:00.51Z",
+    "commentId": 687195603591,
+    "knowsCount": 0,
+    "knowsCount2": 1,
+    "replyAuthorFirstName": "Li",
+    "replyAuthorId": 15393162791569,
+    "replyAuthorLastName": "Xu"
+   },
+   {
+    "commentContent": "thx",
+    "commentCreationDate": "2011-10-16T16:28:03.5Z",
+    "commentId": 687195603592,
+    "knowsCount": 0,
+    "knowsCount2": 1,
+    "replyAuthorFirstName": "Babar",
+    "replyAuthorId": 13194139534853,
+    "replyAuthorLastName": "Malik"
+   },
+   {
+    "commentContent": "duh",
+    "commentCreationDate": "2011-10-16T14:27:59.831Z",
+    "commentId": 687195603589,
+    "knowsCount": 0,
+    "knowsCount2": 1,
+    "replyAuthorFirstName": "Abida",
+    "replyAuthorId": 6597069769371,
+    "replyAuthorLastName": "Ahmed"
+   },
+   {
+    "commentContent": "About Pope Paul VI, ion to spread the mAbout Mary, Queen of Scots,  the charge in ApriAbou",
+    "commentCreationDate": "2011-10-16T13:00:11.419Z",
+    "commentId": 687195603593,
+    "knowsCount": 0,
+    "knowsCount2": 1,
+    "replyAuthorFirstName": "Javed",
+    "replyAuthorId": 8796093023506,
+    "replyAuthorLastName": "Khan"
+   },
+   {
+    "commentContent": "duh",
+    "commentCreationDate": "2011-10-16T12:52:09.07Z",
+    "commentId": 687195603595,
+    "knowsCount": 0,
+    "knowsCount2": 1,
+    "replyAuthorFirstName": "Aa Ngurah",
+    "replyAuthorId": 8796093022749,
+    "replyAuthorLastName": "Budjana"
+   }
+  ]
+ }
+}

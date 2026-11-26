@@ -1,0 +1,58 @@
+{
+ "query_sha": "a0d4689e13d21a73",
+ "params": {
+  "personId": 17592186046293,
+  "startDate": 1301616000000,
+  "durationDays": 33
+ },
+ "data": {
+  "schema_sha256": "b8e206f17e60692c830ba0c3c675fbc481a22f26011282ce523890eb09be8a74",
+  "schema_path": "arangodb/schema/ldbc_schema.json",
+  "sf": "0.3",
+  "created": "2026-11-21T03:01:29Z",
+  "git_sha": "60910999"
+ },
+ "fetched_at": "2026-11-21T00:00:27",
+ "raw": [
+  {
+   "tagName": "Gil_Kane",
+   "postCount": 65
+  },
+  {
+   "tagName": "Joh_Bjelke-Petersen",
+   "postCount": 2
+  },
+  {
+   "tagName": "Libya",
+   "postCount": 2
+  },
+  {
+   "tagName": "Louis_Armstrong",
+   "postCount": 2
+  },
+  {
+   "tagName": "Titian",
+   "postCount": 2
+  },
+  {
+   "tagName": "A_Message_to_You,_Rudy",
+   "postCount": 1
+  },
+  {
+   "tagName": "A_Picture_of_Nectar",
+   "postCount": 1
+  },
+  {
+   "tagName": "A_Year_and_a_Half_in_the_Life_of_Metallica",
+   "postCount": 1
+  },
+  {
+   "tagName": "Abbey_Road",
+   "postCount": 1
+  },
+  {
+   "tagName": "Always_Be_My_Baby",
+   "postCount": 1
+  }
+ ]
+}

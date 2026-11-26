@@ -1,0 +1,63 @@
+{
+ "query_sha": "ad17deb8111088bd",
+ "params": {
+  "personId": "person_28587302322565",
+  "tagName": "Monty_Python"
+ },
+ "data": {
+  "schema_sha256": "673074740eea54e4ba1fdc94eebf2087531b3007af7da660afffb3d1e8df0d1e",
+  "schema_path": "nebulagraph/schema/schema.gql",
+  "sf": "0.3",
+  "created": "2026-11-21T03:42:54Z",
+  "git_sha": "1d6662c2"
+ },
+ "fetched_at": "2026-11-20T23:57:50",
+ "raw": {
+  "keys": [
+   "tagName",
+   "postCount"
+  ],
+  "rows": [
+   {
+    "tagName": "Rupert_Murdoch",
+    "postCount": 3
+   },
+   {
+    "tagName": "David_Hockney",
+    "postCount": 2
+   },
+   {
+    "tagName": "Elton_John",
+    "postCount": 2
+   },
+   {
+    "tagName": "Francis_Bacon",
+    "postCount": 2
+   },
+   {
+    "tagName": "Haile_Selassie_I",
+    "postCount": 2
+   },
+   {
+    "tagName": "Imelda_Marcos",
+    "postCount": 2
+   },
+   {
+    "tagName": "John_of_Gaunt,_1st_Duke_of_Lancaster",
+    "postCount": 2
+   },
+   {
+    "tagName": "Marc_Gicquel",
+    "postCount": 2
+   },
+   {
+    "tagName": "Percy_Bysshe_Shelley",
+    "postCount": 2
+   },
+   {
+    "tagName": "Shapur_II",
+    "postCount": 2
+   }
+  ]
+ }
+}

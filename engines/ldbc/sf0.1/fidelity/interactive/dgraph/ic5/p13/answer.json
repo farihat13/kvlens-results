@@ -1,0 +1,121 @@
+{
+ "query_sha": "d4f7d149421ba277",
+ "params": {
+  "personId": "26388279066795",
+  "minDate": "2012-07-05T00:00:00Z"
+ },
+ "data": {
+  "schema_sha256": "03713a1e1c7b722e73bed6b150e079e69e9579c2a58c52e06f9d4384fdd4b80d",
+  "schema_path": "dgraph/schema/ldbcTypes.schema",
+  "sf": "0.1",
+  "created": "2026-11-21T03:25:44Z",
+  "git_sha": "92777160"
+ },
+ "fetched_at": "2026-11-21T01:08:04",
+ "raw": {
+  "_l1": [],
+  "_l2": [],
+  "forums": [
+   {
+    "forumName": "Wall of K. Bose",
+    "postCount": 218,
+    "forumId": 68719491952
+   },
+   {
+    "forumName": "Wall of Salim Ahmed Binalshibh",
+    "postCount": 178,
+    "forumId": 206158444945
+   },
+   {
+    "forumName": "Wall of Jharana Bajracharya Rashid Shrestha",
+    "postCount": 131,
+    "forumId": 6200
+   },
+   {
+    "forumName": "Wall of Benhalima Ferrer",
+    "postCount": 127,
+    "forumId": 412316865993
+   },
+   {
+    "forumName": "Wall of Anupam Reddy",
+    "postCount": 126,
+    "forumId": 274877914377
+   },
+   {
+    "forumName": "Wall of Peng Zhang",
+    "postCount": 111,
+    "forumId": 274877913605
+   },
+   {
+    "forumName": "Wall of Arjun Rao",
+    "postCount": 107,
+    "forumId": 343597400279
+   },
+   {
+    "forumName": "Wall of Ammar David",
+    "postCount": 87,
+    "forumId": 68719487215
+   },
+   {
+    "forumName": "Wall of Hiroshi Yamada",
+    "postCount": 84,
+    "forumId": 274877913607
+   },
+   {
+    "forumName": "Wall of Ibrahim Bare Ousmane",
+    "postCount": 80,
+    "forumId": 68719486161
+   },
+   {
+    "forumName": "Wall of Yang Chen",
+    "postCount": 79,
+    "forumId": 412316867876
+   },
+   {
+    "forumName": "Wall of Emperor of Brazil Silva",
+    "postCount": 70,
+    "forumId": 8025
+   },
+   {
+    "forumName": "Wall of Peter Taylor",
+    "postCount": 69,
+    "forumId": 3494
+   },
+   {
+    "forumName": "Wall of Ge Wei",
+    "postCount": 69,
+    "forumId": 137438959354
+   },
+   {
+    "forumName": "Wall of Aryo Tobing",
+    "postCount": 65,
+    "forumId": 11365
+   },
+   {
+    "forumName": "Wall of Yang Li",
+    "postCount": 63,
+    "forumId": 206158440021
+   },
+   {
+    "forumName": "Wall of Claude Radafison",
+    "postCount": 62,
+    "forumId": 3820
+   },
+   {
+    "forumName": "Wall of Mohamed Aouadhi",
+    "postCount": 58,
+    "forumId": 137438959546
+   },
+   {
+    "forumName": "Wall of Zheng Xu",
+    "postCount": 58,
+    "forumId": 274877907386
+   },
+   {
+    "forumName": "Wall of Jie Wang",
+    "postCount": 58,
+    "forumId": 549755828764
+   }
+  ]
+ }
+}

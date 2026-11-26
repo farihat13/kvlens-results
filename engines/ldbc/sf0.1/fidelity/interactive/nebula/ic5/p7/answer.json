@@ -1,0 +1,124 @@
+{
+ "query_sha": "0698d079766f4938",
+ "params": {
+  "personId": "person_26388279066869",
+  "minDate": 1343865600000
+ },
+ "data": {
+  "schema_sha256": "673074740eea54e4ba1fdc94eebf2087531b3007af7da660afffb3d1e8df0d1e",
+  "schema_path": "nebulagraph/schema/schema.gql",
+  "sf": "0.1",
+  "created": "2026-11-21T03:27:06Z",
+  "git_sha": "92777160"
+ },
+ "fetched_at": "2026-11-21T01:06:34",
+ "raw": {
+  "keys": [
+   "forumTitle",
+   "postCount",
+   "forumId"
+  ],
+  "rows": [
+   {
+    "forumTitle": "Group for David_Lloyd_George in Sampaloc",
+    "postCount": 3,
+    "forumId": 481036341689
+   },
+   {
+    "forumTitle": "Group for Bertolt_Brecht in Moravia",
+    "postCount": 2,
+    "forumId": 549755819470
+   },
+   {
+    "forumTitle": "Group for Saddam_Hussein in Kassel",
+    "postCount": 2,
+    "forumId": 687194774293
+   },
+   {
+    "forumTitle": "Group for Samuel_L._Jackson in Tagbilaran",
+    "postCount": 2,
+    "forumId": 893353200951
+   },
+   {
+    "forumTitle": "Group for Muttiah_Muralitharan in Coimbra",
+    "postCount": 2,
+    "forumId": 893353202863
+   },
+   {
+    "forumTitle": "Group for Keith_Richards in Dehradun",
+    "postCount": 1,
+    "forumId": 137438961305
+   },
+   {
+    "forumTitle": "Group for Kurt_Aland in Baiyin",
+    "postCount": 1,
+    "forumId": 412316865922
+   },
+   {
+    "forumTitle": "Group for Benjamin_Disraeli in Pudong",
+    "postCount": 1,
+    "forumId": 549755814332
+   },
+   {
+    "forumTitle": "Group for Mahathir_Mohamad in Pedro_Escobedo",
+    "postCount": 1,
+    "forumId": 618475303163
+   },
+   {
+    "forumTitle": "Group for Hilary_Duff in Belfast",
+    "postCount": 1,
+    "forumId": 687194770382
+   },
+   {
+    "forumTitle": "Group for Paul_Keres in Antananarivo",
+    "postCount": 1,
+    "forumId": 687194773088
+   },
+   {
+    "forumTitle": "Group for Heinz_Guderian in Dire_Dawa",
+    "postCount": 1,
+    "forumId": 755914246097
+   },
+   {
+    "forumTitle": "Group for Louis_Philippe_I in Padang",
+    "postCount": 1,
+    "forumId": 755914249191
+   },
+   {
+    "forumTitle": "Group for Billy_Hughes in Narathiwat",
+    "postCount": 1,
+    "forumId": 824633726246
+   },
+   {
+    "forumTitle": "Group for John_Wesley in La_Punta",
+    "postCount": 1,
+    "forumId": 824633730024
+   },
+   {
+    "forumTitle": "Group for Carl_Jung in Baiyin",
+    "postCount": 1,
+    "forumId": 962072679812
+   },
+   {
+    "forumTitle": "Group for Poul_Anderson in Nakuru",
+    "postCount": 1,
+    "forumId": 962072681001
+   },
+   {
+    "forumTitle": "Group for Jesus in Tula",
+    "postCount": 1,
+    "forumId": 962072687602
+   },
+   {
+    "forumTitle": "Group for Napoleon in Temuco",
+    "postCount": 1,
+    "forumId": 1030792156812
+   },
+   {
+    "forumTitle": "Wall of Carmen Lepland",
+    "postCount": 0,
+    "forumId": 36
+   }
+  ]
+ }
+}

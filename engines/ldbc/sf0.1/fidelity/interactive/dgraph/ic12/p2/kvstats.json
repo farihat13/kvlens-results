@@ -1,0 +1,24 @@
+{
+ "query_sha": "445239913e42deb8",
+ "params": {
+  "personId": "10995116278647",
+  "tagClassName": "Chancellor"
+ },
+ "data_created": "2026-11-21T03:25:44Z",
+ "measured_at": "2026-11-21T01:02:38",
+ "raw": {
+  "get_bytes": 930,
+  "get_count": 16,
+  "get_found_count": 16,
+  "get_latency_ns": 214040,
+  "next_bytes": 798503,
+  "next_count": 16080,
+  "next_latency_ns": 2593977,
+  "seek_bytes": 1818812,
+  "seek_count": 22255,
+  "seek_latency_ns": 176539314,
+  "set_bytes": 0,
+  "set_count": 0,
+  "set_latency_ns": 0
+ }
+}

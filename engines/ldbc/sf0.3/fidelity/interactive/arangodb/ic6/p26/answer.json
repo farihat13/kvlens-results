@@ -1,0 +1,57 @@
+{
+ "query_sha": "ca817504079a16c1",
+ "params": {
+  "personId": 8796093022749,
+  "tagName": "Joe_Biden"
+ },
+ "data": {
+  "schema_sha256": "b8e206f17e60692c830ba0c3c675fbc481a22f26011282ce523890eb09be8a74",
+  "schema_path": "arangodb/schema/ldbc_schema.json",
+  "sf": "0.3",
+  "created": "2026-11-21T03:01:29Z",
+  "git_sha": "60910999"
+ },
+ "fetched_at": "2026-11-21T00:05:01",
+ "raw": [
+  {
+   "tagName": "Sigmund_Freud",
+   "postCount": 21
+  },
+  {
+   "tagName": "Ai_Sugiyama",
+   "postCount": 4
+  },
+  {
+   "tagName": "BYO_Split_Series_Volume_III",
+   "postCount": 3
+  },
+  {
+   "tagName": "Elizabeth_I_of_England",
+   "postCount": 3
+  },
+  {
+   "tagName": "Elizabeth_II",
+   "postCount": 3
+  },
+  {
+   "tagName": "Ludwig_Wittgenstein",
+   "postCount": 3
+  },
+  {
+   "tagName": "Plato",
+   "postCount": 3
+  },
+  {
+   "tagName": "Pope_Pius_XI",
+   "postCount": 3
+  },
+  {
+   "tagName": "Tom_Gehrels",
+   "postCount": 3
+  },
+  {
+   "tagName": "20_Y.O.",
+   "postCount": 2
+  }
+ ]
+}

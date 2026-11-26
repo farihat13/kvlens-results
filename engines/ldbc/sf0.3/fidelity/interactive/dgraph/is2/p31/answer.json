@@ -1,0 +1,257 @@
+{
+ "query_sha": "afd1398a68b07f16",
+ "params": {
+  "personId": "30786325579380"
+ },
+ "data": {
+  "schema_sha256": "03713a1e1c7b722e73bed6b150e079e69e9579c2a58c52e06f9d4384fdd4b80d",
+  "schema_path": "dgraph/schema/ldbcTypes.schema",
+  "sf": "0.3",
+  "created": "2026-11-21T02:56:18Z",
+  "git_sha": "60910999"
+ },
+ "fetched_at": "2026-11-21T00:06:49",
+ "raw": {
+  "person": [
+   {
+    "messages": [
+     {
+      "messageId": 1099512343534,
+      "messageCreationDate": "2012-09-10T11:42:06.643Z",
+      "content": "thanks",
+      "messageType": [
+       "comment"
+      ],
+      "selfAsOriginal": [
+       {
+        "authorId": 30786325579380,
+        "authorFirstName": "Dame",
+        "authorLastName": "Faye"
+       }
+      ],
+      "parentComment": {
+       "dgraph.type": [
+        "comment"
+       ],
+       "grandParentComment": {
+        "greatGrandParentPost": {
+         "postId": 1099512343524,
+         "originalPoster": [
+          {
+           "authorId": 19791209302403,
+           "authorFirstName": "Bibit",
+           "authorLastName": "Balawan"
+          }
+         ]
+        }
+       }
+      }
+     },
+     {
+      "messageId": 1030792702242,
+      "messageCreationDate": "2012-09-08T10:34:03.903Z",
+      "content": "cool",
+      "messageType": [
+       "comment"
+      ],
+      "selfAsOriginal": [
+       {
+        "authorId": 30786325579380,
+        "authorFirstName": "Dame",
+        "authorLastName": "Faye"
+       }
+      ],
+      "parentComment": {
+       "dgraph.type": [
+        "comment"
+       ]
+      }
+     },
+     {
+      "messageId": 1030792702234,
+      "messageCreationDate": "2012-09-07T18:27:22.752Z",
+      "content": "About Paket aran\u017eman, second best Yugoslav rock album of all time by the critics in",
+      "messageType": [
+       "comment"
+      ],
+      "selfAsOriginal": [
+       {
+        "authorId": 30786325579380,
+        "authorFirstName": "Dame",
+        "authorLastName": "Faye"
+       }
+      ],
+      "parentComment": {
+       "dgraph.type": [
+        "comment"
+       ],
+       "grandParentPost": {
+        "postId": 1030792702228,
+        "originalPoster": [
+         {
+          "authorId": 2199023257448,
+          "authorFirstName": "Rahul",
+          "authorLastName": "Sharma"
+         }
+        ]
+       }
+      }
+     },
+     {
+      "messageId": 1030792811353,
+      "messageCreationDate": "2012-09-01T12:25:13.84Z",
+      "imageFile": "photo1030792811353.jpg",
+      "content": "",
+      "messageType": [
+       "post"
+      ],
+      "selfAsOriginal": [
+       {
+        "authorId": 30786325579380,
+        "authorFirstName": "Dame",
+        "authorLastName": "Faye"
+       }
+      ]
+     },
+     {
+      "messageId": 1030792811352,
+      "messageCreationDate": "2012-09-01T12:25:12.84Z",
+      "imageFile": "photo1030792811352.jpg",
+      "content": "",
+      "messageType": [
+       "post"
+      ],
+      "selfAsOriginal": [
+       {
+        "authorId": 30786325579380,
+        "authorFirstName": "Dame",
+        "authorLastName": "Faye"
+       }
+      ]
+     },
+     {
+      "messageId": 1030792811351,
+      "messageCreationDate": "2012-09-01T12:25:11.84Z",
+      "imageFile": "photo1030792811351.jpg",
+      "content": "",
+      "messageType": [
+       "post"
+      ],
+      "selfAsOriginal": [
+       {
+        "authorId": 30786325579380,
+        "authorFirstName": "Dame",
+        "authorLastName": "Faye"
+       }
+      ]
+     },
+     {
+      "messageId": 1030792811350,
+      "messageCreationDate": "2012-09-01T12:25:10.84Z",
+      "imageFile": "photo1030792811350.jpg",
+      "content": "",
+      "messageType": [
+       "post"
+      ],
+      "selfAsOriginal": [
+       {
+        "authorId": 30786325579380,
+        "authorFirstName": "Dame",
+        "authorLastName": "Faye"
+       }
+      ]
+     },
+     {
+      "messageId": 1030792866646,
+      "messageCreationDate": "2012-08-04T17:35:25.034Z",
+      "content": "thx",
+      "messageType": [
+       "comment"
+      ],
+      "selfAsOriginal": [
+       {
+        "authorId": 30786325579380,
+        "authorFirstName": "Dame",
+        "authorLastName": "Faye"
+       }
+      ],
+      "parentComment": {
+       "dgraph.type": [
+        "comment"
+       ],
+       "grandParentPost": {
+        "postId": 1030792866632,
+        "originalPoster": [
+         {
+          "authorId": 19791209302403,
+          "authorFirstName": "Bibit",
+          "authorLastName": "Balawan"
+         }
+        ]
+       }
+      }
+     },
+     {
+      "messageId": 1030792600982,
+      "messageCreationDate": "2012-07-27T05:27:34.358Z",
+      "content": "About Bono, k lips, dark face and tail-tuft through adulthood, and parted long hair",
+      "messageType": [
+       "comment"
+      ],
+      "originalPost": {
+       "postId": 1030792600974,
+       "postCreationDate": "2012-07-27T04:27:57.799Z",
+       "postContent": "About Thaksin Shinawatra, , after finding him guilty of abnormal wealth. In 2009 it was announced tha",
+       "originalPoster": [
+        {
+         "authorId": 1274,
+         "authorFirstName": "Roberto",
+         "authorLastName": "Fernandez"
+        }
+       ]
+      },
+      "selfAsOriginal": [
+       {
+        "authorId": 30786325579380,
+        "authorFirstName": "Dame",
+        "authorLastName": "Faye"
+       }
+      ]
+     },
+     {
+      "messageId": 1030792600168,
+      "messageCreationDate": "2012-07-20T02:55:05.319Z",
+      "content": "roflol",
+      "messageType": [
+       "comment"
+      ],
+      "selfAsOriginal": [
+       {
+        "authorId": 30786325579380,
+        "authorFirstName": "Dame",
+        "authorLastName": "Faye"
+       }
+      ],
+      "parentComment": {
+       "dgraph.type": [
+        "comment"
+       ],
+       "grandParentComment": {
+        "greatGrandParentPost": {
+         "postId": 1030792600157,
+         "originalPoster": [
+          {
+           "authorId": 1274,
+           "authorFirstName": "Roberto",
+           "authorLastName": "Fernandez"
+          }
+         ]
+        }
+       }
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

@@ -1,0 +1,88 @@
+{
+ "query_sha": "6ff3aa62b8626f5b",
+ "params": {
+  "personId": "person_30786325579380"
+ },
+ "data": {
+  "schema_sha256": "673074740eea54e4ba1fdc94eebf2087531b3007af7da660afffb3d1e8df0d1e",
+  "schema_path": "nebulagraph/schema/schema.gql",
+  "sf": "0.3",
+  "created": "2026-11-21T03:42:54Z",
+  "git_sha": "1d6662c2"
+ },
+ "fetched_at": "2026-11-21T00:06:49",
+ "raw": {
+  "keys": [
+   "friendId",
+   "friendFirstName",
+   "friendLastName",
+   "friendshipCreationDate",
+   "friendIdInt"
+  ],
+  "rows": [
+   {
+    "friendId": "person_17592186045382",
+    "friendFirstName": "Karl",
+    "friendLastName": "Kurkov\u00e1",
+    "friendshipCreationDate": 1342409334418,
+    "friendIdInt": 17592186045382
+   },
+   {
+    "friendId": "person_1274",
+    "friendFirstName": "Roberto",
+    "friendLastName": "Fernandez",
+    "friendshipCreationDate": 1342268049672,
+    "friendIdInt": 1274
+   },
+   {
+    "friendId": "person_19791209302163",
+    "friendFirstName": "Samuel",
+    "friendLastName": "Chago",
+    "friendshipCreationDate": 1342185660552,
+    "friendIdInt": 19791209302163
+   },
+   {
+    "friendId": "person_2199023256668",
+    "friendFirstName": "Rodrigo",
+    "friendLastName": "Costa",
+    "friendshipCreationDate": 1342036149826,
+    "friendIdInt": 2199023256668
+   },
+   {
+    "friendId": "person_17592186046293",
+    "friendFirstName": "Jorge",
+    "friendLastName": "Gonzalez",
+    "friendshipCreationDate": 1342009208983,
+    "friendIdInt": 17592186046293
+   },
+   {
+    "friendId": "person_19791209302403",
+    "friendFirstName": "Bibit",
+    "friendLastName": "Balawan",
+    "friendshipCreationDate": 1341738651168,
+    "friendIdInt": 19791209302403
+   },
+   {
+    "friendId": "person_21990232558713",
+    "friendFirstName": "William",
+    "friendLastName": "Wilson",
+    "friendshipCreationDate": 1341042444241,
+    "friendIdInt": 21990232558713
+   },
+   {
+    "friendId": "person_17592186047327",
+    "friendFirstName": "Paulo",
+    "friendLastName": "Souza",
+    "friendshipCreationDate": 1340404444468,
+    "friendIdInt": 17592186047327
+   },
+   {
+    "friendId": "person_19791209301554",
+    "friendFirstName": "Carlos",
+    "friendLastName": "Santos",
+    "friendshipCreationDate": 1340090358372,
+    "friendIdInt": 19791209301554
+   }
+  ]
+ }
+}

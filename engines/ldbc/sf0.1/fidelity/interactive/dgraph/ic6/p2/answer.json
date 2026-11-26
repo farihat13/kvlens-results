@@ -1,0 +1,25 @@
+{
+ "query_sha": "726c2fd8c124bda0",
+ "params": {
+  "personId": "24189255811707",
+  "tagName": "Alberto_Fujimori"
+ },
+ "data": {
+  "schema_sha256": "03713a1e1c7b722e73bed6b150e079e69e9579c2a58c52e06f9d4384fdd4b80d",
+  "schema_path": "dgraph/schema/ldbcTypes.schema",
+  "sf": "0.1",
+  "created": "2026-11-21T03:25:44Z",
+  "git_sha": "92777160"
+ },
+ "fetched_at": "2026-11-21T01:05:52",
+ "raw": {
+  "_l1": [],
+  "_l2": [],
+  "tags": [
+   {
+    "tagName": "Jim_Carrey",
+    "postCount": 1
+   }
+  ]
+ }
+}

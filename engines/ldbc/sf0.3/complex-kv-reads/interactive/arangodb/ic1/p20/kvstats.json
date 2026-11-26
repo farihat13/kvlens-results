@@ -1,0 +1,32 @@
+{
+ "query_sha": "758b65813d7ffbd6",
+ "params": {
+  "personId": 13194139535032,
+  "firstName": "Daniil"
+ },
+ "data_created": "2026-11-23T09:40:48Z",
+ "measured_at": "2026-11-23T13:10:35",
+ "raw": {
+  "get_count": 135158,
+  "get_found_count": 135158,
+  "get_time_ns": 146450302,
+  "get_bytes": 20417149,
+  "seek_count": 2344,
+  "seek_time_ns": 18645374,
+  "seek_bytes": 127807,
+  "next_count": 66724,
+  "next_time_ns": 6115030,
+  "next_bytes": 3736000,
+  "prev_count": 0,
+  "prev_time_ns": 0,
+  "prev_bytes": 0,
+  "put_count": 0,
+  "put_time_ns": 0,
+  "put_bytes": 0,
+  "delete_count": 0,
+  "delete_time_ns": 0,
+  "delete_bytes": 0,
+  "commit_count": 0,
+  "commit_time_ns": 0
+ }
+}

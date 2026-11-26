@@ -1,0 +1,241 @@
+{
+ "query_sha": "d8702ab8a41d1dac",
+ "params": {
+  "personId": "2199023259063",
+  "month": "5"
+ },
+ "data": {
+  "schema_sha256": "03713a1e1c7b722e73bed6b150e079e69e9579c2a58c52e06f9d4384fdd4b80d",
+  "schema_path": "dgraph/schema/ldbcTypes.schema",
+  "sf": "0.3",
+  "created": "2026-11-21T02:56:18Z",
+  "git_sha": "60910999"
+ },
+ "fetched_at": "2026-11-20T23:53:03",
+ "raw": {
+  "_l1": [],
+  "_l2": [],
+  "recs": [
+   {
+    "birthday": "1986-06-11T00:00:00Z",
+    "commonInterestScore": 60,
+    "commonPostCount": 97,
+    "personCityName": "Ludwigsburg",
+    "personFirstName": "Karl",
+    "personGender": "female",
+    "personId": 6597069766733,
+    "personLastName": "Fischer",
+    "postCount": 134
+   },
+   {
+    "birthday": "1989-11-20T00:00:00Z",
+    "commonInterestScore": 24,
+    "commonPostCount": 31,
+    "personCityName": "Othmarschen",
+    "personFirstName": "Richard",
+    "personGender": "female",
+    "personId": 3825,
+    "personLastName": "Richter",
+    "postCount": 38
+   },
+   {
+    "birthday": "1985-01-02T00:00:00Z",
+    "commonInterestScore": 21,
+    "commonPostCount": 29,
+    "personCityName": "Villahermosa",
+    "personFirstName": "Antonio",
+    "personGender": "female",
+    "personId": 17592186044897,
+    "personLastName": "Alvarez",
+    "postCount": 37
+   },
+   {
+    "birthday": "1984-09-16T00:00:00Z",
+    "commonInterestScore": 12,
+    "commonPostCount": 26,
+    "personCityName": "Hisar",
+    "personFirstName": "Prakash",
+    "personGender": "male",
+    "personId": 3539,
+    "personLastName": "Kumar",
+    "postCount": 40
+   },
+   {
+    "birthday": "1989-12-23T00:00:00Z",
+    "commonInterestScore": 10,
+    "commonPostCount": 28,
+    "personCityName": "Minneapolis",
+    "personFirstName": "Mike",
+    "personGender": "female",
+    "personId": 15393162792505,
+    "personLastName": "Jones",
+    "postCount": 46
+   },
+   {
+    "birthday": "1983-11-05T00:00:00Z",
+    "commonInterestScore": 10,
+    "commonPostCount": 18,
+    "personCityName": "Kasaragod",
+    "personFirstName": "Naresh",
+    "personGender": "male",
+    "personId": 19791209300631,
+    "personLastName": "Singh",
+    "postCount": 26
+   },
+   {
+    "birthday": "1984-11-02T00:00:00Z",
+    "commonInterestScore": 9,
+    "commonPostCount": 9,
+    "personCityName": "Tokushima",
+    "personFirstName": "Koji",
+    "personGender": "female",
+    "personId": 10995116279272,
+    "personLastName": "Kato",
+    "postCount": 9
+   },
+   {
+    "birthday": "1980-07-22T00:00:00Z",
+    "commonInterestScore": 9,
+    "commonPostCount": 11,
+    "personCityName": "Trier",
+    "personFirstName": "Karl",
+    "personGender": "female",
+    "personId": 19791209303735,
+    "personLastName": "Becker",
+    "postCount": 13
+   },
+   {
+    "birthday": "1985-04-17T00:00:00Z",
+    "commonInterestScore": 8,
+    "commonPostCount": 15,
+    "personCityName": "Tehran",
+    "personFirstName": "Ahmad",
+    "personGender": "female",
+    "personId": 24189255813524,
+    "personLastName": "Motamed",
+    "postCount": 22
+   },
+   {
+    "birthday": "1989-01-27T00:00:00Z",
+    "commonInterestScore": 7,
+    "commonPostCount": 35,
+    "personCityName": "San_Miguel",
+    "personFirstName": "Isabel",
+    "personGender": "female",
+    "personId": 13194139535632,
+    "personLastName": "Diaz",
+    "postCount": 63
+   },
+   {
+    "birthday": "1985-03-14T00:00:00Z",
+    "commonInterestScore": 7,
+    "commonPostCount": 7,
+    "personCityName": "Pyin_U_Lwin",
+    "personFirstName": "Peter",
+    "personGender": "female",
+    "personId": 26388279068206,
+    "personLastName": "Goenka",
+    "postCount": 7
+   },
+   {
+    "birthday": "1987-10-03T00:00:00Z",
+    "commonInterestScore": 5,
+    "commonPostCount": 20,
+    "personCityName": "Katowice",
+    "personFirstName": "Piotr",
+    "personGender": "female",
+    "personId": 17592186047673,
+    "personLastName": "Zakrzewski",
+    "postCount": 35
+   },
+   {
+    "birthday": "1983-12-06T00:00:00Z",
+    "commonInterestScore": 5,
+    "commonPostCount": 6,
+    "personCityName": "Tepic",
+    "personFirstName": "Alejandro",
+    "personGender": "male",
+    "personId": 24189255812733,
+    "personLastName": "Gonzalez",
+    "postCount": 7
+   },
+   {
+    "birthday": "1985-01-06T00:00:00Z",
+    "commonInterestScore": 4,
+    "commonPostCount": 58,
+    "personCityName": "Kursk",
+    "personFirstName": "Alexander",
+    "personGender": "male",
+    "personId": 2199023257930,
+    "personLastName": "Kahnovich",
+    "postCount": 112
+   },
+   {
+    "birthday": "1984-03-03T00:00:00Z",
+    "commonInterestScore": 3,
+    "commonPostCount": 20,
+    "personCityName": "Saratov",
+    "personFirstName": "Alexander",
+    "personGender": "male",
+    "personId": 2199023258582,
+    "personLastName": "Basov",
+    "postCount": 37
+   },
+   {
+    "birthday": "1988-11-23T00:00:00Z",
+    "commonInterestScore": 3,
+    "commonPostCount": 4,
+    "personCityName": "Zhangzhou",
+    "personFirstName": "Jie",
+    "personGender": "male",
+    "personId": 19791209303342,
+    "personLastName": "Yang",
+    "postCount": 5
+   },
+   {
+    "birthday": "1980-09-21T00:00:00Z",
+    "commonInterestScore": 2,
+    "commonPostCount": 3,
+    "personCityName": "Venice",
+    "personFirstName": "Giovanni",
+    "personGender": "female",
+    "personId": 30786325577960,
+    "personLastName": "Bianchi",
+    "postCount": 4
+   },
+   {
+    "birthday": "1980-11-17T00:00:00Z",
+    "commonInterestScore": 1,
+    "commonPostCount": 26,
+    "personCityName": "Herat",
+    "personFirstName": "Abdul Wahid",
+    "personGender": "female",
+    "personId": 6597069766846,
+    "personLastName": "Jahani",
+    "postCount": 51
+   },
+   {
+    "birthday": "1980-03-22T00:00:00Z",
+    "commonInterestScore": 1,
+    "commonPostCount": 1,
+    "personCityName": "Ranchi",
+    "personFirstName": "A.",
+    "personGender": "female",
+    "personId": 17592186045212,
+    "personLastName": "Singh",
+    "postCount": 1
+   },
+   {
+    "birthday": "1986-05-18T00:00:00Z",
+    "commonInterestScore": 1,
+    "commonPostCount": 1,
+    "personCityName": "St._Louis",
+    "personFirstName": "Paul",
+    "personGender": "female",
+    "personId": 24189255811876,
+    "personLastName": "Anderson",
+    "postCount": 1
+   }
+  ]
+ }
+}

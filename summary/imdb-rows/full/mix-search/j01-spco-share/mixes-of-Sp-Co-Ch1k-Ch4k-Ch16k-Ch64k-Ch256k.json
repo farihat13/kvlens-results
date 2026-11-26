@@ -1,0 +1,347 @@
+{
+ "rows": [
+  {
+   "assignment": {
+    "AkaName props": "Ch4k",
+    "AkaTitle props": "Ch1k",
+    "Character props": "Sp",
+    "Company props": "Ch4k",
+    "CompleteCast props": "Ch16k",
+    "Keyword props": "Ch4k",
+    "MovieInfo props": "Ch4k",
+    "MovieLink props": "Ch1k",
+    "MovieRating props": "Ch4k",
+    "Name props": "Ch1k",
+    "PersonInfo props": "Ch1k",
+    "Title props": "Ch1k",
+    "aka_name_of lists": "Ch16k",
+    "aka_title_of lists": "Ch4k",
+    "cast_actor lists": "Ch1k",
+    "cast_actress lists": "Ch4k",
+    "cast_cinematographer lists": "Ch4k",
+    "cast_composer lists": "Ch4k",
+    "cast_costume_designer lists": "Ch4k",
+    "cast_director lists": "Ch4k",
+    "cast_editor lists": "Ch4k",
+    "cast_miscellaneous_crew lists": "Ch1k",
+    "cast_producer lists": "Ch1k",
+    "cast_production_designer lists": "Ch4k",
+    "cast_writer lists": "Ch4k",
+    "company_distributor lists": "Ch1k",
+    "company_production lists": "Ch1k",
+    "complete_cast_of lists": "Ch16k",
+    "has_keyword lists": "Ch4k",
+    "info_of lists": "Ch4k",
+    "link_from lists": "Ch4k",
+    "link_to lists": "Ch64k",
+    "person_info_of lists": "Co",
+    "rating_of lists": "Ch16k"
+   },
+   "benchmark": "imdb",
+   "bound": {
+    "gap": 0.15951178189148518,
+    "root": 36.564482830537116,
+    "value": 37.81956463085736,
+    "what": "the lowest any mix could be: proven, the answer; else the lowest of the answer and the bounds of the parts of the search not done (each query at its cheapest plan valid there, each free part at its cheapest setting); root: the same with nothing decided"
+   },
+   "bytes_reference": "props_split_adj_condensed",
+   "capture": "captures/imdb-rows/full",
+   "chunk_view": "half",
+   "command": "kvcost search-mix --dataset imdb=full --workload inputs/workloads/imdb/equal-share/j01.json --from . --settings Sp,Co,Ch1k,Ch4k,Ch16k,Ch64k,Ch256k --combine-queries sum --cost-model wops_bytes4k --search two-step --jobs 4",
+   "criterion": null,
+   "dominated": null,
+   "fits": true,
+   "frequencies": "95d763467e82db3b94d0860c6cf5c0ab802bd72227a9839dfb69a704d83f7eaa",
+   "identity": {
+    "capture": "captures/imdb-rows/full",
+    "code_commit": "e22430d124f05ed0e6dea30d3b55b2ffb65978d6",
+    "code_dirty": false,
+    "cost_cache_keys": [],
+    "counting": {
+     "chunked_c16k/job": [
+      "{\"format\": 3, \"seam\": 4, \"write_format\": 1, \"write_seam\": 1}"
+     ],
+     "chunked_c1k/job": [
+      "{\"format\": 3, \"seam\": 4, \"write_format\": 1, \"write_seam\": 1}"
+     ],
+     "chunked_c256k/job": [
+      "{\"format\": 3, \"seam\": 4, \"write_format\": 1, \"write_seam\": 1}"
+     ],
+     "chunked_c4k/job": [
+      "{\"format\": 3, \"seam\": 4, \"write_format\": 1, \"write_seam\": 1}"
+     ],
+     "job": [
+      "{\"format\": 3, \"seam\": 4, \"write_format\": 1, \"write_seam\": 1}"
+     ]
+    },
+    "inputs": "cbb3d86e72d9c1a40d989c5befb86fa4",
+    "measurement_version": {
+     "chunked_c16k/job": [
+      7
+     ],
+     "chunked_c1k/job": [
+      7
+     ],
+     "chunked_c256k/job": [
+      7
+     ],
+     "chunked_c4k/job": [
+      7
+     ],
+     "job": [
+      7
+     ]
+    },
+    "pick_record": "inputs/picks/picks.csv",
+    "pick_record_commit": "23c55d68bad41c859a4bef3bbe0aec807c24de5d",
+    "plan_files_commit": "b2ac7409304528c7b481e1f1370929bc6c8bba21",
+    "source_kinds": {
+     "job": {
+      "props_chunked_adj_chunked": "measured",
+      "props_chunked_adj_condensed": "composed",
+      "props_chunked_adj_split": "composed",
+      "props_condensed_adj_chunked": "composed",
+      "props_condensed_adj_condensed": "measured",
+      "props_condensed_adj_split": "composed",
+      "props_split_adj_chunked": "composed",
+      "props_split_adj_condensed": "composed",
+      "props_split_adj_split": "measured"
+     }
+    }
+   },
+   "lanes": {
+    "D": 0.0,
+    "G": 1.2420689963495357,
+    "N": 43.56862189017833,
+    "P": 0.0,
+    "S": 27.302593649415112,
+    "get_key": 13.66275895984489,
+    "get_miss_key": 0.0,
+    "get_value": 17.170393823099772,
+    "miss_key_bytes": 13.853632469666746,
+    "next_miss_key": 13.824553003480782,
+    "read_bytes": 54421.62736865952,
+    "read_ops": 31.710608229607956,
+    "scan_key": 1026.7271819976197,
+    "scan_value": 53350.21340140931,
+    "seek_miss_key": 0.029079466185963396,
+    "write_bytes": 0.0,
+    "write_key": 0.0,
+    "write_ops": 0.0,
+    "write_rmw_bytes": 0.0,
+    "write_rmw_miss_key_bytes": 0.0,
+    "write_rmw_ops": 0.0,
+    "write_value": 0.0
+   },
+   "limit": null,
+   "max_nodes": 1,
+   "model": "wops_bytes4k",
+   "nodes": 2,
+   "option_set": "per-type-any-size",
+   "per_part": {
+    "('adj', 'aka_name_of')": {
+     "bytes": 188.19931714870066,
+     "ops": 0.02954202948251105
+    },
+    "('adj', 'aka_title_of')": {
+     "bytes": 19.319745608599657,
+     "ops": 0.012989870659705713
+    },
+    "('adj', 'cast_actor')": {
+     "bytes": 702.6392737445847,
+     "ops": 0.6865018424225805
+    },
+    "('adj', 'cast_actress')": {
+     "bytes": 2119.0034925175914,
+     "ops": 0.6210233902833701
+    },
+    "('adj', 'cast_cinematographer')": {
+     "bytes": 394.31125565155435,
+     "ops": 0.16394602643579992
+    },
+    "('adj', 'cast_composer')": {
+     "bytes": 319.124740677926,
+     "ops": 0.14269584152709722
+    },
+    "('adj', 'cast_costume_designer')": {
+     "bytes": 220.556059822194,
+     "ops": 0.10876881980515418
+    },
+    "('adj', 'cast_director')": {
+     "bytes": 399.81349247064503,
+     "ops": 0.17437513674250185
+    },
+    "('adj', 'cast_editor')": {
+     "bytes": 334.6197225020927,
+     "ops": 0.14976204085825867
+    },
+    "('adj', 'cast_miscellaneous_crew')": {
+     "bytes": 463.2856823243029,
+     "ops": 0.32563542344991714
+    },
+    "('adj', 'cast_producer')": {
+     "bytes": 279.2814354326304,
+     "ops": 0.32648183314946483
+    },
+    "('adj', 'cast_production_designer')": {
+     "bytes": 228.95682582475692,
+     "ops": 0.1010046677683491
+    },
+    "('adj', 'cast_writer')": {
+     "bytes": 631.2159577224061,
+     "ops": 0.2200144834031215
+    },
+    "('adj', 'company_distributor')": {
+     "bytes": 975.7747481927072,
+     "ops": 1.542988878757601
+    },
+    "('adj', 'company_production')": {
+     "bytes": 1096.060347607014,
+     "ops": 1.9413570785145822
+    },
+    "('adj', 'complete_cast_of')": {
+     "bytes": 141.80676993549406,
+     "ops": 0.022262477603512115
+    },
+    "('adj', 'has_keyword')": {
+     "bytes": 1315.42010586618,
+     "ops": 0.884284132123545
+    },
+    "('adj', 'info_of')": {
+     "bytes": 792.4817902944989,
+     "ops": 0.45475943999311863
+    },
+    "('adj', 'link_from')": {
+     "bytes": 299.62747040950705,
+     "ops": 0.48155682355041146
+    },
+    "('adj', 'link_to')": {
+     "bytes": 524.6060109261241,
+     "ops": 0.02101587325433801
+    },
+    "('adj', 'person_info_of')": {
+     "bytes": 2.9447334437670274,
+     "ops": 0.1744516596184507
+    },
+    "('adj', 'rating_of')": {
+     "bytes": 916.2484604665095,
+     "ops": 0.19023992394350375
+    },
+    "('props', 'AkaName')": {
+     "bytes": 701.8453359524101,
+     "ops": 0.21878788673548502
+    },
+    "('props', 'AkaTitle')": {
+     "bytes": 0.2420220569193415,
+     "ops": 0.0002669772754394382
+    },
+    "('props', 'Character')": {
+     "bytes": 30.833152782944666,
+     "ops": 1.2420689963495357
+    },
+    "('props', 'Company')": {
+     "bytes": 2818.136486673461,
+     "ops": 0.4855844575646282
+    },
+    "('props', 'CompleteCast')": {
+     "bytes": 368.0717288364687,
+     "ops": 0.04078761949992532
+    },
+    "('props', 'Keyword')": {
+     "bytes": 2017.5338310990358,
+     "ops": 0.7082059507774972
+    },
+    "('props', 'MovieInfo')": {
+     "bytes": 6845.069966288871,
+     "ops": 2.4669280798165567
+    },
+    "('props', 'MovieLink')": {
+     "bytes": 39.0467531259906,
+     "ops": 0.06108780644282652
+    },
+    "('props', 'MovieRating')": {
+     "bytes": 2302.263324280676,
+     "ops": 0.2734626252866164
+    },
+    "('props', 'Name')": {
+     "bytes": 11805.996228108872,
+     "ops": 4.4629988802870475
+    },
+    "('props', 'PersonInfo')": {
+     "bytes": 321.200706355977,
+     "ops": 0.23446637222796016
+    },
+    "('props', 'Title')": {
+     "bytes": 14181.127257099575,
+     "ops": 11.859396034142016
+    },
+    "None": {
+     "bytes": 624.9631374085583,
+     "ops": 0.8809088498555419
+    }
+   },
+   "plan_rule": "record=inputs/picks/picks.csv; anchor=True; pin=True; in_sample=None; historical=False",
+   "proven": false,
+   "queries_by_query_pick": 0,
+   "question": "fewest",
+   "reference_bytes": 32643.269372988554,
+   "run_id": "20261120T234041Z-d2226c",
+   "scale": "full",
+   "score": null,
+   "search": "two-step",
+   "sizes": [
+    [
+     "chunked_c1k",
+     "captures/imdb-rows/full",
+     "props_chunked_c1k_adj_chunked_c1k"
+    ],
+    [
+     "chunked_c4k",
+     "captures/imdb-rows/full",
+     "props_chunked_c4k_adj_chunked_c4k"
+    ],
+    [
+     "chunked_c16k",
+     "captures/imdb-rows/full",
+     "props_chunked_c16k_adj_chunked_c16k"
+    ],
+    [
+     "chunked_c256k",
+     "captures/imdb-rows/full",
+     "props_chunked_c256k_adj_chunked_c256k"
+    ]
+   ],
+   "solver": "no-cost-cache",
+   "start": {
+    "best_uniform": "condensed/chunked",
+    "two_step": {
+     "after_each_part_alone": 45.069471124044725,
+     "fixed_plan_s": 1.968,
+     "moves_tried": 614,
+     "repick_s": 3.205,
+     "start_total": 88.02117064548757,
+     "total": 44.99713834890961
+    },
+    "used": "the two-step mix"
+   },
+   "times": {
+    "bodies_s": 0.586,
+    "cost_s": 0.171,
+    "solve_s": 0.008,
+    "start_s": 5.174,
+    "two_step_a_s": 1.968,
+    "two_step_b_s": 3.205
+   },
+   "totals": {
+    "bytes": 54421.62736865952,
+    "wops": 31.710608229607956,
+    "wops_bytes4k": 44.9971383489096
+   },
+   "walk_seconds": null,
+   "weighting": "sum",
+   "weights": "1:1.1:0.01",
+   "workload": "j01-equal-share",
+   "workload_file": "inputs/workloads/imdb/equal-share/j01.json"
+  }
+ ]
+}

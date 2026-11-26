@@ -1,0 +1,31 @@
+{
+ "query_sha": "cc60061064f78218",
+ "params": {
+  "personId": "28587302322565",
+  "firstName": "Diego"
+ },
+ "data_created": "",
+ "measured_at": "2026-11-23T13:10:33",
+ "raw": {
+  "get_bytes": 244072,
+  "get_count": 4367,
+  "get_found_count": 4367,
+  "get_latency_ns": 28217304,
+  "next_bytes": 0,
+  "next_count": 0,
+  "next_latency_ns": 0,
+  "seek_bytes": 5387319,
+  "seek_count": 2408,
+  "seek_latency_ns": 12349910,
+  "set_bytes": 0,
+  "set_count": 0,
+  "set_latency_ns": 0
+ },
+ "config": {
+  "cache_mode": "off",
+  "ineqfilterpath": "per_vertex",
+  "eqfilterpath": "per_vertex",
+  "typefilterpath": "index",
+  "detsort": "enable"
+ }
+}

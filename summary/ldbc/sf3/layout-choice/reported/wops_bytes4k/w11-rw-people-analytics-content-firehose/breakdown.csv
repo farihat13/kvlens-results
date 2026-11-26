@@ -1,0 +1,316 @@
+option,family,query,how_often,part,layout,read_ops,read_bytes,miss_key_bytes,write_bytes,write_ops,write_rmw_ops,write_rmw_bytes,write_rmw_miss_key_bytes,S,G,N,P,D,get_key,get_value,scan_key,scan_value,seek_miss_key,next_miss_key,get_miss_key,write_key,write_value
+props_split_adj_split,microbench,nhop2,20,knows lists,split,1031.462,840896.8,12707.2,0.0,0.0,0.0,0.0,0.0,668.8,0.0,29578.2,0.0,0.0,0.0,0.0,561985.8,266203.8,608.0,12099.2,0.0,0.0,0.0
+props_split_adj_split,microbench,entry_eq_scan,5,Person props,split,2190.62,5464170.0,11.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,218952.0,0.0,0.0,0.0,0.0,2408472.0,3055687.0,0.0,11.0,0.0,0.0,0.0
+props_split_adj_split,writes,iu6,500,containerOf lists,split,0.0,0.0,0.0,38.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,38.0,0.0
+props_split_adj_split,writes,iu6,500,hasCreator lists,split,0.0,0.0,0.0,39.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,38.0,1.0
+props_split_adj_split,writes,iu6,500,hasTag lists,split,0.0,0.0,0.0,117.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,114.0,3.0
+props_split_adj_split,writes,iu6,500,isLocatedIn lists,split,0.0,0.0,0.0,39.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,38.0,1.0
+props_split_adj_split,writes,iu6,500,Message props,split,0.0,0.0,0.0,112.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,66.0,46.0
+props_split_adj_split,writes,iu6,500,index,fixed,0.0,0.0,0.0,21.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,21.0,0.0
+props_split_adj_split,writes,iu7,500,hasCreator lists,split,0.0,0.0,0.0,39.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,38.0,1.0
+props_split_adj_split,writes,iu7,500,hasTag lists,split,0.0,0.0,0.0,78.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,76.0,2.0
+props_split_adj_split,writes,iu7,500,isLocatedIn lists,split,0.0,0.0,0.0,39.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,38.0,1.0
+props_split_adj_split,writes,iu7,500,replyOf lists,split,0.0,0.0,0.0,39.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,38.0,1.0
+props_split_adj_split,writes,iu7,500,Message props,split,0.0,0.0,0.0,99.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,55.0,44.0
+props_split_adj_split,writes,iu7,500,index,fixed,0.0,0.0,0.0,21.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,21.0,0.0
+props_split_adj_split,microbench,point_post,100,Message props,split,7.0,586.6,15.4,0.0,0.0,0.0,0.0,0.0,0.0,7.0,0.0,0.0,0.0,61.6,509.6,0.0,0.0,0.0,0.0,15.4,0.0,0.0
+props_split_adj_condensed,microbench,nhop2,20,knows lists,condensed,735.68,322741.8,352.0,0.0,0.0,0.0,0.0,0.0,668.8,0.0,0.0,0.0,0.0,0.0,0.0,7004.8,315385.0,352.0,0.0,0.0,0.0,0.0
+props_split_adj_condensed,microbench,entry_eq_scan,5,Person props,split,2190.62,5464170.0,11.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,218952.0,0.0,0.0,0.0,0.0,2408472.0,3055687.0,0.0,11.0,0.0,0.0,0.0
+props_split_adj_condensed,writes,iu6,500,containerOf lists,condensed,0.0,0.0,0.0,61.0,2.0,2.2,45.0,11.0,2.0,0.0,0.0,2.0,0.0,0.0,0.0,11.0,23.0,11.0,0.0,0.0,22.0,39.0
+props_split_adj_condensed,writes,iu6,500,hasCreator lists,condensed,0.0,0.0,0.0,5763.4,2.0,2.2,5747.4,11.0,2.0,0.0,0.0,2.0,0.0,0.0,0.0,11.0,5725.4,11.0,0.0,0.0,22.0,5741.4
+props_split_adj_condensed,writes,iu6,500,hasTag lists,condensed,0.0,0.0,0.0,37895.0,6.0,6.6,37863.0,11.0,6.0,0.0,0.0,6.0,0.0,0.0,0.0,55.0,37797.0,11.0,0.0,0.0,66.0,37829.0
+props_split_adj_condensed,writes,iu6,500,isLocatedIn lists,condensed,0.0,0.0,0.0,40949.0,2.0,3.3,40957.0,11.0,3.0,0.0,0.0,2.0,0.0,0.0,0.0,40.0,40906.0,11.0,0.0,0.0,31.0,40918.0
+props_split_adj_condensed,writes,iu6,500,Message props,split,0.0,0.0,0.0,112.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,66.0,46.0
+props_split_adj_condensed,writes,iu6,500,index,fixed,0.0,0.0,0.0,21.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,21.0,0.0
+props_split_adj_condensed,writes,iu7,500,hasCreator lists,condensed,0.0,0.0,0.0,5763.4,2.0,2.2,5747.4,11.0,2.0,0.0,0.0,2.0,0.0,0.0,0.0,11.0,5725.4,11.0,0.0,0.0,22.0,5741.4
+props_split_adj_condensed,writes,iu7,500,hasTag lists,condensed,0.0,0.0,0.0,20200.0,4.0,4.4,20178.0,11.0,4.0,0.0,0.0,4.0,0.0,0.0,0.0,33.0,20134.0,11.0,0.0,0.0,44.0,20156.0
+props_split_adj_condensed,writes,iu7,500,isLocatedIn lists,condensed,0.0,0.0,0.0,40949.0,2.0,3.3,40957.0,11.0,3.0,0.0,0.0,2.0,0.0,0.0,0.0,40.0,40906.0,11.0,0.0,0.0,31.0,40918.0
+props_split_adj_condensed,writes,iu7,500,replyOf lists,condensed,0.0,0.0,0.0,52.0,2.0,2.2,35.0,11.0,2.0,0.0,0.0,2.0,0.0,0.0,0.0,11.0,13.0,11.0,0.0,0.0,22.0,30.0
+props_split_adj_condensed,writes,iu7,500,Message props,split,0.0,0.0,0.0,99.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,55.0,44.0
+props_split_adj_condensed,writes,iu7,500,index,fixed,0.0,0.0,0.0,21.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,21.0,0.0
+props_split_adj_condensed,microbench,point_post,100,Message props,split,7.0,586.6,15.4,0.0,0.0,0.0,0.0,0.0,0.0,7.0,0.0,0.0,0.0,61.6,509.6,0.0,0.0,0.0,0.0,15.4,0.0,0.0
+props_split_adj_chunked,microbench,nhop2,20,knows lists,chunked,137.28,6875974.0,2.2,0.0,0.0,0.0,0.0,0.0,124.8,0.0,0.0,0.0,0.0,0.0,0.0,1370.6,6874601.2,2.2,0.0,0.0,0.0,0.0
+props_split_adj_chunked,microbench,entry_eq_scan,5,Person props,split,2190.62,5464170.0,11.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,218952.0,0.0,0.0,0.0,0.0,2408472.0,3055687.0,0.0,11.0,0.0,0.0,0.0
+props_split_adj_chunked,writes,iu6,500,containerOf lists,chunked,0.0,0.0,0.0,55281.0,2.0,2.2,54500.0,0.0,2.0,0.0,0.0,2.0,0.0,0.0,0.0,22.0,54478.0,0.0,0.0,0.0,22.0,55259.0
+props_split_adj_chunked,writes,iu6,500,hasCreator lists,chunked,0.0,0.0,0.0,63130.6,2.0,2.2,62600.2,0.0,2.0,0.0,0.0,2.0,0.0,0.0,0.0,22.0,62578.2,0.0,0.0,0.0,22.0,63108.6
+props_split_adj_chunked,writes,iu6,500,hasTag lists,chunked,0.0,0.0,0.0,102822.0,6.0,6.6,102743.0,0.0,6.0,0.0,0.0,6.0,0.0,0.0,0.0,66.0,102677.0,0.0,0.0,0.0,66.0,102756.0
+props_split_adj_chunked,writes,iu6,500,isLocatedIn lists,chunked,0.0,0.0,0.0,360478.0,2.0,2.2,359952.0,0.0,2.0,0.0,0.0,2.0,0.0,0.0,0.0,22.0,359930.0,0.0,0.0,0.0,22.0,360456.0
+props_split_adj_chunked,writes,iu6,500,Message props,split,0.0,0.0,0.0,112.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,66.0,46.0
+props_split_adj_chunked,writes,iu6,500,index,fixed,0.0,0.0,0.0,21.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,21.0,0.0
+props_split_adj_chunked,writes,iu7,500,hasCreator lists,chunked,0.0,0.0,0.0,63130.6,2.0,2.2,62600.2,0.0,2.0,0.0,0.0,2.0,0.0,0.0,0.0,22.0,62578.2,0.0,0.0,0.0,22.0,63108.6
+props_split_adj_chunked,writes,iu7,500,hasTag lists,chunked,0.0,0.0,0.0,79284.0,4.0,4.4,79216.0,0.0,4.0,0.0,0.0,4.0,0.0,0.0,0.0,44.0,79172.0,0.0,0.0,0.0,44.0,79240.0
+props_split_adj_chunked,writes,iu7,500,isLocatedIn lists,chunked,0.0,0.0,0.0,360478.0,2.0,2.2,359952.0,0.0,2.0,0.0,0.0,2.0,0.0,0.0,0.0,22.0,359930.0,0.0,0.0,0.0,22.0,360456.0
+props_split_adj_chunked,writes,iu7,500,replyOf lists,chunked,0.0,0.0,0.0,66295.0,2.0,2.2,65462.0,0.0,2.0,0.0,0.0,2.0,0.0,0.0,0.0,22.0,65440.0,0.0,0.0,0.0,22.0,66273.0
+props_split_adj_chunked,writes,iu7,500,Message props,split,0.0,0.0,0.0,99.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,55.0,44.0
+props_split_adj_chunked,writes,iu7,500,index,fixed,0.0,0.0,0.0,21.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,21.0,0.0
+props_split_adj_chunked,microbench,point_post,100,Message props,split,7.0,586.6,15.4,0.0,0.0,0.0,0.0,0.0,0.0,7.0,0.0,0.0,0.0,61.6,509.6,0.0,0.0,0.0,0.0,15.4,0.0,0.0
+props_condensed_adj_split,microbench,nhop2,20,knows lists,split,1031.462,840896.8,12707.2,0.0,0.0,0.0,0.0,0.0,668.8,0.0,29578.2,0.0,0.0,0.0,0.0,561985.8,266203.8,608.0,12099.2,0.0,0.0,0.0
+props_condensed_adj_split,microbench,entry_eq_scan,5,Person props,condensed,244.38,4028817.0,10.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,24328.0,0.0,0.0,0.0,0.0,243280.0,3785527.0,0.0,10.0,0.0,0.0,0.0
+props_condensed_adj_split,writes,iu6,500,containerOf lists,split,0.0,0.0,0.0,38.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,38.0,0.0
+props_condensed_adj_split,writes,iu6,500,hasCreator lists,split,0.0,0.0,0.0,39.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,38.0,1.0
+props_condensed_adj_split,writes,iu6,500,hasTag lists,split,0.0,0.0,0.0,117.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,114.0,3.0
+props_condensed_adj_split,writes,iu6,500,isLocatedIn lists,split,0.0,0.0,0.0,39.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,38.0,1.0
+props_condensed_adj_split,writes,iu6,500,Message props,condensed,0.0,0.0,0.0,73.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10.0,63.0
+props_condensed_adj_split,writes,iu6,500,index,fixed,0.0,0.0,0.0,21.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,21.0,0.0
+props_condensed_adj_split,writes,iu7,500,hasCreator lists,split,0.0,0.0,0.0,39.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,38.0,1.0
+props_condensed_adj_split,writes,iu7,500,hasTag lists,split,0.0,0.0,0.0,78.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,76.0,2.0
+props_condensed_adj_split,writes,iu7,500,isLocatedIn lists,split,0.0,0.0,0.0,39.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,38.0,1.0
+props_condensed_adj_split,writes,iu7,500,replyOf lists,split,0.0,0.0,0.0,39.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,38.0,1.0
+props_condensed_adj_split,writes,iu7,500,Message props,condensed,0.0,0.0,0.0,67.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10.0,57.0
+props_condensed_adj_split,writes,iu7,500,index,fixed,0.0,0.0,0.0,21.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,21.0,0.0
+props_condensed_adj_split,microbench,point_post,100,Message props,condensed,1.0,535.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,10.0,525.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+props_condensed_adj_condensed,microbench,nhop2,20,knows lists,condensed,735.68,322741.8,352.0,0.0,0.0,0.0,0.0,0.0,668.8,0.0,0.0,0.0,0.0,0.0,0.0,7004.8,315385.0,352.0,0.0,0.0,0.0,0.0
+props_condensed_adj_condensed,microbench,entry_eq_scan,5,Person props,condensed,244.38,4028817.0,10.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,24328.0,0.0,0.0,0.0,0.0,243280.0,3785527.0,0.0,10.0,0.0,0.0,0.0
+props_condensed_adj_condensed,writes,iu6,500,containerOf lists,condensed,0.0,0.0,0.0,61.0,2.0,2.2,45.0,11.0,2.0,0.0,0.0,2.0,0.0,0.0,0.0,11.0,23.0,11.0,0.0,0.0,22.0,39.0
+props_condensed_adj_condensed,writes,iu6,500,hasCreator lists,condensed,0.0,0.0,0.0,5763.4,2.0,2.2,5747.4,11.0,2.0,0.0,0.0,2.0,0.0,0.0,0.0,11.0,5725.4,11.0,0.0,0.0,22.0,5741.4
+props_condensed_adj_condensed,writes,iu6,500,hasTag lists,condensed,0.0,0.0,0.0,37895.0,6.0,6.6,37863.0,11.0,6.0,0.0,0.0,6.0,0.0,0.0,0.0,55.0,37797.0,11.0,0.0,0.0,66.0,37829.0
+props_condensed_adj_condensed,writes,iu6,500,isLocatedIn lists,condensed,0.0,0.0,0.0,40949.0,2.0,3.3,40957.0,11.0,3.0,0.0,0.0,2.0,0.0,0.0,0.0,40.0,40906.0,11.0,0.0,0.0,31.0,40918.0
+props_condensed_adj_condensed,writes,iu6,500,Message props,condensed,0.0,0.0,0.0,73.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10.0,63.0
+props_condensed_adj_condensed,writes,iu6,500,index,fixed,0.0,0.0,0.0,21.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,21.0,0.0
+props_condensed_adj_condensed,writes,iu7,500,hasCreator lists,condensed,0.0,0.0,0.0,5763.4,2.0,2.2,5747.4,11.0,2.0,0.0,0.0,2.0,0.0,0.0,0.0,11.0,5725.4,11.0,0.0,0.0,22.0,5741.4
+props_condensed_adj_condensed,writes,iu7,500,hasTag lists,condensed,0.0,0.0,0.0,20200.0,4.0,4.4,20178.0,11.0,4.0,0.0,0.0,4.0,0.0,0.0,0.0,33.0,20134.0,11.0,0.0,0.0,44.0,20156.0
+props_condensed_adj_condensed,writes,iu7,500,isLocatedIn lists,condensed,0.0,0.0,0.0,40949.0,2.0,3.3,40957.0,11.0,3.0,0.0,0.0,2.0,0.0,0.0,0.0,40.0,40906.0,11.0,0.0,0.0,31.0,40918.0
+props_condensed_adj_condensed,writes,iu7,500,replyOf lists,condensed,0.0,0.0,0.0,52.0,2.0,2.2,35.0,11.0,2.0,0.0,0.0,2.0,0.0,0.0,0.0,11.0,13.0,11.0,0.0,0.0,22.0,30.0
+props_condensed_adj_condensed,writes,iu7,500,Message props,condensed,0.0,0.0,0.0,67.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10.0,57.0
+props_condensed_adj_condensed,writes,iu7,500,index,fixed,0.0,0.0,0.0,21.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,21.0,0.0
+props_condensed_adj_condensed,microbench,point_post,100,Message props,condensed,1.0,535.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,10.0,525.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+props_condensed_adj_chunked,microbench,nhop2,20,knows lists,chunked,137.28,6875974.0,2.2,0.0,0.0,0.0,0.0,0.0,124.8,0.0,0.0,0.0,0.0,0.0,0.0,1370.6,6874601.2,2.2,0.0,0.0,0.0,0.0
+props_condensed_adj_chunked,microbench,entry_eq_scan,5,Person props,condensed,244.38,4028817.0,10.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,24328.0,0.0,0.0,0.0,0.0,243280.0,3785527.0,0.0,10.0,0.0,0.0,0.0
+props_condensed_adj_chunked,writes,iu6,500,containerOf lists,chunked,0.0,0.0,0.0,55281.0,2.0,2.2,54500.0,0.0,2.0,0.0,0.0,2.0,0.0,0.0,0.0,22.0,54478.0,0.0,0.0,0.0,22.0,55259.0
+props_condensed_adj_chunked,writes,iu6,500,hasCreator lists,chunked,0.0,0.0,0.0,63130.6,2.0,2.2,62600.2,0.0,2.0,0.0,0.0,2.0,0.0,0.0,0.0,22.0,62578.2,0.0,0.0,0.0,22.0,63108.6
+props_condensed_adj_chunked,writes,iu6,500,hasTag lists,chunked,0.0,0.0,0.0,102822.0,6.0,6.6,102743.0,0.0,6.0,0.0,0.0,6.0,0.0,0.0,0.0,66.0,102677.0,0.0,0.0,0.0,66.0,102756.0
+props_condensed_adj_chunked,writes,iu6,500,isLocatedIn lists,chunked,0.0,0.0,0.0,360478.0,2.0,2.2,359952.0,0.0,2.0,0.0,0.0,2.0,0.0,0.0,0.0,22.0,359930.0,0.0,0.0,0.0,22.0,360456.0
+props_condensed_adj_chunked,writes,iu6,500,Message props,condensed,0.0,0.0,0.0,73.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10.0,63.0
+props_condensed_adj_chunked,writes,iu6,500,index,fixed,0.0,0.0,0.0,21.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,21.0,0.0
+props_condensed_adj_chunked,writes,iu7,500,hasCreator lists,chunked,0.0,0.0,0.0,63130.6,2.0,2.2,62600.2,0.0,2.0,0.0,0.0,2.0,0.0,0.0,0.0,22.0,62578.2,0.0,0.0,0.0,22.0,63108.6
+props_condensed_adj_chunked,writes,iu7,500,hasTag lists,chunked,0.0,0.0,0.0,79284.0,4.0,4.4,79216.0,0.0,4.0,0.0,0.0,4.0,0.0,0.0,0.0,44.0,79172.0,0.0,0.0,0.0,44.0,79240.0
+props_condensed_adj_chunked,writes,iu7,500,isLocatedIn lists,chunked,0.0,0.0,0.0,360478.0,2.0,2.2,359952.0,0.0,2.0,0.0,0.0,2.0,0.0,0.0,0.0,22.0,359930.0,0.0,0.0,0.0,22.0,360456.0
+props_condensed_adj_chunked,writes,iu7,500,replyOf lists,chunked,0.0,0.0,0.0,66295.0,2.0,2.2,65462.0,0.0,2.0,0.0,0.0,2.0,0.0,0.0,0.0,22.0,65440.0,0.0,0.0,0.0,22.0,66273.0
+props_condensed_adj_chunked,writes,iu7,500,Message props,condensed,0.0,0.0,0.0,67.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10.0,57.0
+props_condensed_adj_chunked,writes,iu7,500,index,fixed,0.0,0.0,0.0,21.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,21.0,0.0
+props_condensed_adj_chunked,microbench,point_post,100,Message props,condensed,1.0,535.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,10.0,525.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+props_chunked_adj_split,microbench,nhop2,20,knows lists,split,1031.462,840896.8,12707.2,0.0,0.0,0.0,0.0,0.0,668.8,0.0,29578.2,0.0,0.0,0.0,0.0,561985.8,266203.8,608.0,12099.2,0.0,0.0,0.0
+props_chunked_adj_split,microbench,entry_eq_scan,5,Person props,chunked,1.71,3790086.0,10.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,61.0,0.0,0.0,0.0,0.0,610.0,3789466.0,0.0,10.0,0.0,0.0,0.0
+props_chunked_adj_split,writes,iu6,500,containerOf lists,split,0.0,0.0,0.0,38.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,38.0,0.0
+props_chunked_adj_split,writes,iu6,500,hasCreator lists,split,0.0,0.0,0.0,39.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,38.0,1.0
+props_chunked_adj_split,writes,iu6,500,hasTag lists,split,0.0,0.0,0.0,117.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,114.0,3.0
+props_chunked_adj_split,writes,iu6,500,isLocatedIn lists,split,0.0,0.0,0.0,39.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,38.0,1.0
+props_chunked_adj_split,writes,iu6,500,Message props,chunked,0.0,0.0,0.0,32848.0,1.0,1.1,32778.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,10.0,32768.0,0.0,0.0,0.0,10.0,32838.0
+props_chunked_adj_split,writes,iu6,500,index,fixed,0.0,0.0,0.0,21.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,21.0,0.0
+props_chunked_adj_split,writes,iu7,500,hasCreator lists,split,0.0,0.0,0.0,39.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,38.0,1.0
+props_chunked_adj_split,writes,iu7,500,hasTag lists,split,0.0,0.0,0.0,78.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,76.0,2.0
+props_chunked_adj_split,writes,iu7,500,isLocatedIn lists,split,0.0,0.0,0.0,39.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,38.0,1.0
+props_chunked_adj_split,writes,iu7,500,replyOf lists,split,0.0,0.0,0.0,39.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,38.0,1.0
+props_chunked_adj_split,writes,iu7,500,Message props,chunked,0.0,0.0,0.0,32842.0,1.0,1.1,32778.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,10.0,32768.0,0.0,0.0,0.0,10.0,32832.0
+props_chunked_adj_split,writes,iu7,500,index,fixed,0.0,0.0,0.0,21.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,21.0,0.0
+props_chunked_adj_split,microbench,point_post,100,Message props,chunked,1.1,57104.6,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,10.0,57094.6,0.0,0.0,0.0,0.0,0.0
+props_chunked_adj_condensed,microbench,nhop2,20,knows lists,condensed,735.68,322741.8,352.0,0.0,0.0,0.0,0.0,0.0,668.8,0.0,0.0,0.0,0.0,0.0,0.0,7004.8,315385.0,352.0,0.0,0.0,0.0,0.0
+props_chunked_adj_condensed,microbench,entry_eq_scan,5,Person props,chunked,1.71,3790086.0,10.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,61.0,0.0,0.0,0.0,0.0,610.0,3789466.0,0.0,10.0,0.0,0.0,0.0
+props_chunked_adj_condensed,writes,iu6,500,containerOf lists,condensed,0.0,0.0,0.0,61.0,2.0,2.2,45.0,11.0,2.0,0.0,0.0,2.0,0.0,0.0,0.0,11.0,23.0,11.0,0.0,0.0,22.0,39.0
+props_chunked_adj_condensed,writes,iu6,500,hasCreator lists,condensed,0.0,0.0,0.0,5763.4,2.0,2.2,5747.4,11.0,2.0,0.0,0.0,2.0,0.0,0.0,0.0,11.0,5725.4,11.0,0.0,0.0,22.0,5741.4
+props_chunked_adj_condensed,writes,iu6,500,hasTag lists,condensed,0.0,0.0,0.0,37895.0,6.0,6.6,37863.0,11.0,6.0,0.0,0.0,6.0,0.0,0.0,0.0,55.0,37797.0,11.0,0.0,0.0,66.0,37829.0
+props_chunked_adj_condensed,writes,iu6,500,isLocatedIn lists,condensed,0.0,0.0,0.0,40949.0,2.0,3.3,40957.0,11.0,3.0,0.0,0.0,2.0,0.0,0.0,0.0,40.0,40906.0,11.0,0.0,0.0,31.0,40918.0
+props_chunked_adj_condensed,writes,iu6,500,Message props,chunked,0.0,0.0,0.0,32848.0,1.0,1.1,32778.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,10.0,32768.0,0.0,0.0,0.0,10.0,32838.0
+props_chunked_adj_condensed,writes,iu6,500,index,fixed,0.0,0.0,0.0,21.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,21.0,0.0
+props_chunked_adj_condensed,writes,iu7,500,hasCreator lists,condensed,0.0,0.0,0.0,5763.4,2.0,2.2,5747.4,11.0,2.0,0.0,0.0,2.0,0.0,0.0,0.0,11.0,5725.4,11.0,0.0,0.0,22.0,5741.4
+props_chunked_adj_condensed,writes,iu7,500,hasTag lists,condensed,0.0,0.0,0.0,20200.0,4.0,4.4,20178.0,11.0,4.0,0.0,0.0,4.0,0.0,0.0,0.0,33.0,20134.0,11.0,0.0,0.0,44.0,20156.0
+props_chunked_adj_condensed,writes,iu7,500,isLocatedIn lists,condensed,0.0,0.0,0.0,40949.0,2.0,3.3,40957.0,11.0,3.0,0.0,0.0,2.0,0.0,0.0,0.0,40.0,40906.0,11.0,0.0,0.0,31.0,40918.0
+props_chunked_adj_condensed,writes,iu7,500,replyOf lists,condensed,0.0,0.0,0.0,52.0,2.0,2.2,35.0,11.0,2.0,0.0,0.0,2.0,0.0,0.0,0.0,11.0,13.0,11.0,0.0,0.0,22.0,30.0
+props_chunked_adj_condensed,writes,iu7,500,Message props,chunked,0.0,0.0,0.0,32842.0,1.0,1.1,32778.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,10.0,32768.0,0.0,0.0,0.0,10.0,32832.0
+props_chunked_adj_condensed,writes,iu7,500,index,fixed,0.0,0.0,0.0,21.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,21.0,0.0
+props_chunked_adj_condensed,microbench,point_post,100,Message props,chunked,1.1,57104.6,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,10.0,57094.6,0.0,0.0,0.0,0.0,0.0
+props_chunked_adj_chunked,microbench,nhop2,20,knows lists,chunked,137.28,6875974.0,2.2,0.0,0.0,0.0,0.0,0.0,124.8,0.0,0.0,0.0,0.0,0.0,0.0,1370.6,6874601.2,2.2,0.0,0.0,0.0,0.0
+props_chunked_adj_chunked,microbench,entry_eq_scan,5,Person props,chunked,1.71,3790086.0,10.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,61.0,0.0,0.0,0.0,0.0,610.0,3789466.0,0.0,10.0,0.0,0.0,0.0
+props_chunked_adj_chunked,writes,iu6,500,containerOf lists,chunked,0.0,0.0,0.0,55281.0,2.0,2.2,54500.0,0.0,2.0,0.0,0.0,2.0,0.0,0.0,0.0,22.0,54478.0,0.0,0.0,0.0,22.0,55259.0
+props_chunked_adj_chunked,writes,iu6,500,hasCreator lists,chunked,0.0,0.0,0.0,63130.6,2.0,2.2,62600.2,0.0,2.0,0.0,0.0,2.0,0.0,0.0,0.0,22.0,62578.2,0.0,0.0,0.0,22.0,63108.6
+props_chunked_adj_chunked,writes,iu6,500,hasTag lists,chunked,0.0,0.0,0.0,102822.0,6.0,6.6,102743.0,0.0,6.0,0.0,0.0,6.0,0.0,0.0,0.0,66.0,102677.0,0.0,0.0,0.0,66.0,102756.0
+props_chunked_adj_chunked,writes,iu6,500,isLocatedIn lists,chunked,0.0,0.0,0.0,360478.0,2.0,2.2,359952.0,0.0,2.0,0.0,0.0,2.0,0.0,0.0,0.0,22.0,359930.0,0.0,0.0,0.0,22.0,360456.0
+props_chunked_adj_chunked,writes,iu6,500,Message props,chunked,0.0,0.0,0.0,32848.0,1.0,1.1,32778.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,10.0,32768.0,0.0,0.0,0.0,10.0,32838.0
+props_chunked_adj_chunked,writes,iu6,500,index,fixed,0.0,0.0,0.0,21.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,21.0,0.0
+props_chunked_adj_chunked,writes,iu7,500,hasCreator lists,chunked,0.0,0.0,0.0,63130.6,2.0,2.2,62600.2,0.0,2.0,0.0,0.0,2.0,0.0,0.0,0.0,22.0,62578.2,0.0,0.0,0.0,22.0,63108.6
+props_chunked_adj_chunked,writes,iu7,500,hasTag lists,chunked,0.0,0.0,0.0,79284.0,4.0,4.4,79216.0,0.0,4.0,0.0,0.0,4.0,0.0,0.0,0.0,44.0,79172.0,0.0,0.0,0.0,44.0,79240.0
+props_chunked_adj_chunked,writes,iu7,500,isLocatedIn lists,chunked,0.0,0.0,0.0,360478.0,2.0,2.2,359952.0,0.0,2.0,0.0,0.0,2.0,0.0,0.0,0.0,22.0,359930.0,0.0,0.0,0.0,22.0,360456.0
+props_chunked_adj_chunked,writes,iu7,500,replyOf lists,chunked,0.0,0.0,0.0,66295.0,2.0,2.2,65462.0,0.0,2.0,0.0,0.0,2.0,0.0,0.0,0.0,22.0,65440.0,0.0,0.0,0.0,22.0,66273.0
+props_chunked_adj_chunked,writes,iu7,500,Message props,chunked,0.0,0.0,0.0,32842.0,1.0,1.1,32778.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,10.0,32768.0,0.0,0.0,0.0,10.0,32832.0
+props_chunked_adj_chunked,writes,iu7,500,index,fixed,0.0,0.0,0.0,21.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,21.0,0.0
+props_chunked_adj_chunked,microbench,point_post,100,Message props,chunked,1.1,57104.6,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,10.0,57094.6,0.0,0.0,0.0,0.0,0.0
+per_type_fewest_ops,microbench,nhop2,20,knows lists,chunked,137.28,6875974.0,2.2,0.0,0.0,0.0,0.0,0.0,124.8,0.0,0.0,0.0,0.0,0.0,0.0,1370.6,6874601.2,2.2,0.0,0.0,0.0,0.0
+per_type_fewest_ops,microbench,entry_eq_scan,5,Person props,chunked,1.71,3790086.0,10.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,61.0,0.0,0.0,0.0,0.0,610.0,3789466.0,0.0,10.0,0.0,0.0,0.0
+per_type_fewest_ops,writes,iu6,500,containerOf lists,split,0.0,0.0,0.0,38.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,38.0,0.0
+per_type_fewest_ops,writes,iu6,500,hasCreator lists,split,0.0,0.0,0.0,39.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,38.0,1.0
+per_type_fewest_ops,writes,iu6,500,hasTag lists,split,0.0,0.0,0.0,117.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,114.0,3.0
+per_type_fewest_ops,writes,iu6,500,isLocatedIn lists,split,0.0,0.0,0.0,39.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,38.0,1.0
+per_type_fewest_ops,writes,iu6,500,Message props,condensed,0.0,0.0,0.0,73.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10.0,63.0
+per_type_fewest_ops,writes,iu6,500,index,fixed,0.0,0.0,0.0,21.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,21.0,0.0
+per_type_fewest_ops,writes,iu7,500,hasCreator lists,split,0.0,0.0,0.0,39.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,38.0,1.0
+per_type_fewest_ops,writes,iu7,500,hasTag lists,split,0.0,0.0,0.0,78.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,76.0,2.0
+per_type_fewest_ops,writes,iu7,500,isLocatedIn lists,split,0.0,0.0,0.0,39.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,38.0,1.0
+per_type_fewest_ops,writes,iu7,500,replyOf lists,split,0.0,0.0,0.0,39.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,38.0,1.0
+per_type_fewest_ops,writes,iu7,500,Message props,condensed,0.0,0.0,0.0,67.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10.0,57.0
+per_type_fewest_ops,writes,iu7,500,index,fixed,0.0,0.0,0.0,21.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,21.0,0.0
+per_type_fewest_ops,microbench,point_post,100,Message props,condensed,1.0,535.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,10.0,525.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+per_type_fewest_bytes,microbench,nhop2,20,knows lists,condensed,735.68,322741.8,352.0,0.0,0.0,0.0,0.0,0.0,668.8,0.0,0.0,0.0,0.0,0.0,0.0,7004.8,315385.0,352.0,0.0,0.0,0.0,0.0
+per_type_fewest_bytes,microbench,entry_eq_scan,5,Person props,chunked,1.71,3790086.0,10.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,61.0,0.0,0.0,0.0,0.0,610.0,3789466.0,0.0,10.0,0.0,0.0,0.0
+per_type_fewest_bytes,writes,iu6,500,containerOf lists,split,0.0,0.0,0.0,38.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,38.0,0.0
+per_type_fewest_bytes,writes,iu6,500,hasCreator lists,split,0.0,0.0,0.0,39.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,38.0,1.0
+per_type_fewest_bytes,writes,iu6,500,hasTag lists,split,0.0,0.0,0.0,117.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,114.0,3.0
+per_type_fewest_bytes,writes,iu6,500,isLocatedIn lists,split,0.0,0.0,0.0,39.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,38.0,1.0
+per_type_fewest_bytes,writes,iu6,500,Message props,condensed,0.0,0.0,0.0,73.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10.0,63.0
+per_type_fewest_bytes,writes,iu6,500,index,fixed,0.0,0.0,0.0,21.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,21.0,0.0
+per_type_fewest_bytes,writes,iu7,500,hasCreator lists,split,0.0,0.0,0.0,39.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,38.0,1.0
+per_type_fewest_bytes,writes,iu7,500,hasTag lists,split,0.0,0.0,0.0,78.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,76.0,2.0
+per_type_fewest_bytes,writes,iu7,500,isLocatedIn lists,split,0.0,0.0,0.0,39.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,38.0,1.0
+per_type_fewest_bytes,writes,iu7,500,replyOf lists,split,0.0,0.0,0.0,39.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,38.0,1.0
+per_type_fewest_bytes,writes,iu7,500,Message props,condensed,0.0,0.0,0.0,67.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10.0,57.0
+per_type_fewest_bytes,writes,iu7,500,index,fixed,0.0,0.0,0.0,21.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,21.0,0.0
+per_type_fewest_bytes,microbench,point_post,100,Message props,condensed,1.0,535.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,10.0,525.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+per_type_B1,microbench,nhop2,20,knows lists,chunked,137.28,6875974.0,2.2,0.0,0.0,0.0,0.0,0.0,124.8,0.0,0.0,0.0,0.0,0.0,0.0,1370.6,6874601.2,2.2,0.0,0.0,0.0,0.0
+per_type_B1,microbench,entry_eq_scan,5,Person props,chunked,1.71,3790086.0,10.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,61.0,0.0,0.0,0.0,0.0,610.0,3789466.0,0.0,10.0,0.0,0.0,0.0
+per_type_B1,writes,iu6,500,containerOf lists,split,0.0,0.0,0.0,38.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,38.0,0.0
+per_type_B1,writes,iu6,500,hasCreator lists,split,0.0,0.0,0.0,39.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,38.0,1.0
+per_type_B1,writes,iu6,500,hasTag lists,split,0.0,0.0,0.0,117.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,114.0,3.0
+per_type_B1,writes,iu6,500,isLocatedIn lists,split,0.0,0.0,0.0,39.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,38.0,1.0
+per_type_B1,writes,iu6,500,Message props,condensed,0.0,0.0,0.0,73.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10.0,63.0
+per_type_B1,writes,iu6,500,index,fixed,0.0,0.0,0.0,21.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,21.0,0.0
+per_type_B1,writes,iu7,500,hasCreator lists,split,0.0,0.0,0.0,39.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,38.0,1.0
+per_type_B1,writes,iu7,500,hasTag lists,split,0.0,0.0,0.0,78.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,76.0,2.0
+per_type_B1,writes,iu7,500,isLocatedIn lists,split,0.0,0.0,0.0,39.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,38.0,1.0
+per_type_B1,writes,iu7,500,replyOf lists,split,0.0,0.0,0.0,39.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,38.0,1.0
+per_type_B1,writes,iu7,500,Message props,condensed,0.0,0.0,0.0,67.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10.0,57.0
+per_type_B1,writes,iu7,500,index,fixed,0.0,0.0,0.0,21.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,21.0,0.0
+per_type_B1,microbench,point_post,100,Message props,condensed,1.0,535.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,10.0,525.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+per_type_B2,microbench,nhop2,20,knows lists,chunked,137.28,6875974.0,2.2,0.0,0.0,0.0,0.0,0.0,124.8,0.0,0.0,0.0,0.0,0.0,0.0,1370.6,6874601.2,2.2,0.0,0.0,0.0,0.0
+per_type_B2,microbench,entry_eq_scan,5,Person props,chunked,1.71,3790086.0,10.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,61.0,0.0,0.0,0.0,0.0,610.0,3789466.0,0.0,10.0,0.0,0.0,0.0
+per_type_B2,writes,iu6,500,containerOf lists,split,0.0,0.0,0.0,38.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,38.0,0.0
+per_type_B2,writes,iu6,500,hasCreator lists,split,0.0,0.0,0.0,39.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,38.0,1.0
+per_type_B2,writes,iu6,500,hasTag lists,split,0.0,0.0,0.0,117.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,114.0,3.0
+per_type_B2,writes,iu6,500,isLocatedIn lists,split,0.0,0.0,0.0,39.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,38.0,1.0
+per_type_B2,writes,iu6,500,Message props,condensed,0.0,0.0,0.0,73.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10.0,63.0
+per_type_B2,writes,iu6,500,index,fixed,0.0,0.0,0.0,21.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,21.0,0.0
+per_type_B2,writes,iu7,500,hasCreator lists,split,0.0,0.0,0.0,39.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,38.0,1.0
+per_type_B2,writes,iu7,500,hasTag lists,split,0.0,0.0,0.0,78.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,76.0,2.0
+per_type_B2,writes,iu7,500,isLocatedIn lists,split,0.0,0.0,0.0,39.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,38.0,1.0
+per_type_B2,writes,iu7,500,replyOf lists,split,0.0,0.0,0.0,39.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,38.0,1.0
+per_type_B2,writes,iu7,500,Message props,condensed,0.0,0.0,0.0,67.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10.0,57.0
+per_type_B2,writes,iu7,500,index,fixed,0.0,0.0,0.0,21.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,21.0,0.0
+per_type_B2,microbench,point_post,100,Message props,condensed,1.0,535.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,10.0,525.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+per_type_B3,microbench,nhop2,20,knows lists,chunked,137.28,6875974.0,2.2,0.0,0.0,0.0,0.0,0.0,124.8,0.0,0.0,0.0,0.0,0.0,0.0,1370.6,6874601.2,2.2,0.0,0.0,0.0,0.0
+per_type_B3,microbench,entry_eq_scan,5,Person props,chunked,1.71,3790086.0,10.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,61.0,0.0,0.0,0.0,0.0,610.0,3789466.0,0.0,10.0,0.0,0.0,0.0
+per_type_B3,writes,iu6,500,containerOf lists,split,0.0,0.0,0.0,38.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,38.0,0.0
+per_type_B3,writes,iu6,500,hasCreator lists,split,0.0,0.0,0.0,39.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,38.0,1.0
+per_type_B3,writes,iu6,500,hasTag lists,split,0.0,0.0,0.0,117.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,114.0,3.0
+per_type_B3,writes,iu6,500,isLocatedIn lists,split,0.0,0.0,0.0,39.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,38.0,1.0
+per_type_B3,writes,iu6,500,Message props,condensed,0.0,0.0,0.0,73.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10.0,63.0
+per_type_B3,writes,iu6,500,index,fixed,0.0,0.0,0.0,21.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,21.0,0.0
+per_type_B3,writes,iu7,500,hasCreator lists,split,0.0,0.0,0.0,39.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,38.0,1.0
+per_type_B3,writes,iu7,500,hasTag lists,split,0.0,0.0,0.0,78.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,76.0,2.0
+per_type_B3,writes,iu7,500,isLocatedIn lists,split,0.0,0.0,0.0,39.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,38.0,1.0
+per_type_B3,writes,iu7,500,replyOf lists,split,0.0,0.0,0.0,39.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,38.0,1.0
+per_type_B3,writes,iu7,500,Message props,condensed,0.0,0.0,0.0,67.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10.0,57.0
+per_type_B3,writes,iu7,500,index,fixed,0.0,0.0,0.0,21.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,21.0,0.0
+per_type_B3,microbench,point_post,100,Message props,condensed,1.0,535.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,10.0,525.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+per_type_B5,microbench,nhop2,20,knows lists,chunked,137.28,6875974.0,2.2,0.0,0.0,0.0,0.0,0.0,124.8,0.0,0.0,0.0,0.0,0.0,0.0,1370.6,6874601.2,2.2,0.0,0.0,0.0,0.0
+per_type_B5,microbench,entry_eq_scan,5,Person props,chunked,1.71,3790086.0,10.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,61.0,0.0,0.0,0.0,0.0,610.0,3789466.0,0.0,10.0,0.0,0.0,0.0
+per_type_B5,writes,iu6,500,containerOf lists,split,0.0,0.0,0.0,38.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,38.0,0.0
+per_type_B5,writes,iu6,500,hasCreator lists,split,0.0,0.0,0.0,39.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,38.0,1.0
+per_type_B5,writes,iu6,500,hasTag lists,split,0.0,0.0,0.0,117.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,114.0,3.0
+per_type_B5,writes,iu6,500,isLocatedIn lists,split,0.0,0.0,0.0,39.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,38.0,1.0
+per_type_B5,writes,iu6,500,Message props,condensed,0.0,0.0,0.0,73.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10.0,63.0
+per_type_B5,writes,iu6,500,index,fixed,0.0,0.0,0.0,21.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,21.0,0.0
+per_type_B5,writes,iu7,500,hasCreator lists,split,0.0,0.0,0.0,39.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,38.0,1.0
+per_type_B5,writes,iu7,500,hasTag lists,split,0.0,0.0,0.0,78.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,76.0,2.0
+per_type_B5,writes,iu7,500,isLocatedIn lists,split,0.0,0.0,0.0,39.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,38.0,1.0
+per_type_B5,writes,iu7,500,replyOf lists,split,0.0,0.0,0.0,39.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,38.0,1.0
+per_type_B5,writes,iu7,500,Message props,condensed,0.0,0.0,0.0,67.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10.0,57.0
+per_type_B5,writes,iu7,500,index,fixed,0.0,0.0,0.0,21.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,21.0,0.0
+per_type_B5,microbench,point_post,100,Message props,condensed,1.0,535.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,10.0,525.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+per_type_direction_fewest_ops,microbench,nhop2,20,knows lists,chunked,137.28,6875974.0,2.2,0.0,0.0,0.0,0.0,0.0,124.8,0.0,0.0,0.0,0.0,0.0,0.0,1370.6,6874601.2,2.2,0.0,0.0,0.0,0.0
+per_type_direction_fewest_ops,microbench,entry_eq_scan,5,Person props,chunked,1.71,3790086.0,10.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,61.0,0.0,0.0,0.0,0.0,610.0,3789466.0,0.0,10.0,0.0,0.0,0.0
+per_type_direction_fewest_ops,writes,iu6,500,containerOf lists,split,0.0,0.0,0.0,38.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,38.0,0.0
+per_type_direction_fewest_ops,writes,iu6,500,hasCreator lists,split,0.0,0.0,0.0,39.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,38.0,1.0
+per_type_direction_fewest_ops,writes,iu6,500,hasTag lists,split,0.0,0.0,0.0,117.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,114.0,3.0
+per_type_direction_fewest_ops,writes,iu6,500,isLocatedIn lists,split,0.0,0.0,0.0,39.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,38.0,1.0
+per_type_direction_fewest_ops,writes,iu6,500,Message props,condensed,0.0,0.0,0.0,73.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10.0,63.0
+per_type_direction_fewest_ops,writes,iu6,500,index,fixed,0.0,0.0,0.0,21.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,21.0,0.0
+per_type_direction_fewest_ops,writes,iu7,500,hasCreator lists,split,0.0,0.0,0.0,39.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,38.0,1.0
+per_type_direction_fewest_ops,writes,iu7,500,hasTag lists,split,0.0,0.0,0.0,78.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,76.0,2.0
+per_type_direction_fewest_ops,writes,iu7,500,isLocatedIn lists,split,0.0,0.0,0.0,39.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,38.0,1.0
+per_type_direction_fewest_ops,writes,iu7,500,replyOf lists,split,0.0,0.0,0.0,39.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,38.0,1.0
+per_type_direction_fewest_ops,writes,iu7,500,Message props,condensed,0.0,0.0,0.0,67.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10.0,57.0
+per_type_direction_fewest_ops,writes,iu7,500,index,fixed,0.0,0.0,0.0,21.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,21.0,0.0
+per_type_direction_fewest_ops,microbench,point_post,100,Message props,condensed,1.0,535.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,10.0,525.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+per_type_direction_fewest_bytes,microbench,nhop2,20,knows lists,condensed,735.68,322741.8,352.0,0.0,0.0,0.0,0.0,0.0,668.8,0.0,0.0,0.0,0.0,0.0,0.0,7004.8,315385.0,352.0,0.0,0.0,0.0,0.0
+per_type_direction_fewest_bytes,microbench,entry_eq_scan,5,Person props,chunked,1.71,3790086.0,10.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,61.0,0.0,0.0,0.0,0.0,610.0,3789466.0,0.0,10.0,0.0,0.0,0.0
+per_type_direction_fewest_bytes,writes,iu6,500,containerOf lists,split,0.0,0.0,0.0,38.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,38.0,0.0
+per_type_direction_fewest_bytes,writes,iu6,500,hasCreator lists,split,0.0,0.0,0.0,39.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,38.0,1.0
+per_type_direction_fewest_bytes,writes,iu6,500,hasTag lists,split,0.0,0.0,0.0,117.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,114.0,3.0
+per_type_direction_fewest_bytes,writes,iu6,500,isLocatedIn lists,split,0.0,0.0,0.0,39.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,38.0,1.0
+per_type_direction_fewest_bytes,writes,iu6,500,Message props,condensed,0.0,0.0,0.0,73.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10.0,63.0
+per_type_direction_fewest_bytes,writes,iu6,500,index,fixed,0.0,0.0,0.0,21.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,21.0,0.0
+per_type_direction_fewest_bytes,writes,iu7,500,hasCreator lists,split,0.0,0.0,0.0,39.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,38.0,1.0
+per_type_direction_fewest_bytes,writes,iu7,500,hasTag lists,split,0.0,0.0,0.0,78.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,76.0,2.0
+per_type_direction_fewest_bytes,writes,iu7,500,isLocatedIn lists,split,0.0,0.0,0.0,39.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,38.0,1.0
+per_type_direction_fewest_bytes,writes,iu7,500,replyOf lists,split,0.0,0.0,0.0,39.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,38.0,1.0
+per_type_direction_fewest_bytes,writes,iu7,500,Message props,condensed,0.0,0.0,0.0,67.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10.0,57.0
+per_type_direction_fewest_bytes,writes,iu7,500,index,fixed,0.0,0.0,0.0,21.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,21.0,0.0
+per_type_direction_fewest_bytes,microbench,point_post,100,Message props,condensed,1.0,535.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,10.0,525.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+per_type_direction_B1,microbench,nhop2,20,knows lists,chunked,137.28,6875974.0,2.2,0.0,0.0,0.0,0.0,0.0,124.8,0.0,0.0,0.0,0.0,0.0,0.0,1370.6,6874601.2,2.2,0.0,0.0,0.0,0.0
+per_type_direction_B1,microbench,entry_eq_scan,5,Person props,chunked,1.71,3790086.0,10.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,61.0,0.0,0.0,0.0,0.0,610.0,3789466.0,0.0,10.0,0.0,0.0,0.0
+per_type_direction_B1,writes,iu6,500,containerOf lists,split,0.0,0.0,0.0,38.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,38.0,0.0
+per_type_direction_B1,writes,iu6,500,hasCreator lists,split,0.0,0.0,0.0,39.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,38.0,1.0
+per_type_direction_B1,writes,iu6,500,hasTag lists,split,0.0,0.0,0.0,117.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,114.0,3.0
+per_type_direction_B1,writes,iu6,500,isLocatedIn lists,split,0.0,0.0,0.0,39.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,38.0,1.0
+per_type_direction_B1,writes,iu6,500,Message props,condensed,0.0,0.0,0.0,73.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10.0,63.0
+per_type_direction_B1,writes,iu6,500,index,fixed,0.0,0.0,0.0,21.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,21.0,0.0
+per_type_direction_B1,writes,iu7,500,hasCreator lists,split,0.0,0.0,0.0,39.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,38.0,1.0
+per_type_direction_B1,writes,iu7,500,hasTag lists,split,0.0,0.0,0.0,78.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,76.0,2.0
+per_type_direction_B1,writes,iu7,500,isLocatedIn lists,split,0.0,0.0,0.0,39.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,38.0,1.0
+per_type_direction_B1,writes,iu7,500,replyOf lists,split,0.0,0.0,0.0,39.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,38.0,1.0
+per_type_direction_B1,writes,iu7,500,Message props,condensed,0.0,0.0,0.0,67.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10.0,57.0
+per_type_direction_B1,writes,iu7,500,index,fixed,0.0,0.0,0.0,21.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,21.0,0.0
+per_type_direction_B1,microbench,point_post,100,Message props,condensed,1.0,535.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,10.0,525.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+per_type_direction_B2,microbench,nhop2,20,knows lists,chunked,137.28,6875974.0,2.2,0.0,0.0,0.0,0.0,0.0,124.8,0.0,0.0,0.0,0.0,0.0,0.0,1370.6,6874601.2,2.2,0.0,0.0,0.0,0.0
+per_type_direction_B2,microbench,entry_eq_scan,5,Person props,chunked,1.71,3790086.0,10.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,61.0,0.0,0.0,0.0,0.0,610.0,3789466.0,0.0,10.0,0.0,0.0,0.0
+per_type_direction_B2,writes,iu6,500,containerOf lists,split,0.0,0.0,0.0,38.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,38.0,0.0
+per_type_direction_B2,writes,iu6,500,hasCreator lists,split,0.0,0.0,0.0,39.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,38.0,1.0
+per_type_direction_B2,writes,iu6,500,hasTag lists,split,0.0,0.0,0.0,117.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,114.0,3.0
+per_type_direction_B2,writes,iu6,500,isLocatedIn lists,split,0.0,0.0,0.0,39.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,38.0,1.0
+per_type_direction_B2,writes,iu6,500,Message props,condensed,0.0,0.0,0.0,73.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10.0,63.0
+per_type_direction_B2,writes,iu6,500,index,fixed,0.0,0.0,0.0,21.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,21.0,0.0
+per_type_direction_B2,writes,iu7,500,hasCreator lists,split,0.0,0.0,0.0,39.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,38.0,1.0
+per_type_direction_B2,writes,iu7,500,hasTag lists,split,0.0,0.0,0.0,78.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,76.0,2.0
+per_type_direction_B2,writes,iu7,500,isLocatedIn lists,split,0.0,0.0,0.0,39.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,38.0,1.0
+per_type_direction_B2,writes,iu7,500,replyOf lists,split,0.0,0.0,0.0,39.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,38.0,1.0
+per_type_direction_B2,writes,iu7,500,Message props,condensed,0.0,0.0,0.0,67.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10.0,57.0
+per_type_direction_B2,writes,iu7,500,index,fixed,0.0,0.0,0.0,21.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,21.0,0.0
+per_type_direction_B2,microbench,point_post,100,Message props,condensed,1.0,535.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,10.0,525.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+per_type_direction_B3,microbench,nhop2,20,knows lists,chunked,137.28,6875974.0,2.2,0.0,0.0,0.0,0.0,0.0,124.8,0.0,0.0,0.0,0.0,0.0,0.0,1370.6,6874601.2,2.2,0.0,0.0,0.0,0.0
+per_type_direction_B3,microbench,entry_eq_scan,5,Person props,chunked,1.71,3790086.0,10.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,61.0,0.0,0.0,0.0,0.0,610.0,3789466.0,0.0,10.0,0.0,0.0,0.0
+per_type_direction_B3,writes,iu6,500,containerOf lists,split,0.0,0.0,0.0,38.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,38.0,0.0
+per_type_direction_B3,writes,iu6,500,hasCreator lists,split,0.0,0.0,0.0,39.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,38.0,1.0
+per_type_direction_B3,writes,iu6,500,hasTag lists,split,0.0,0.0,0.0,117.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,114.0,3.0
+per_type_direction_B3,writes,iu6,500,isLocatedIn lists,split,0.0,0.0,0.0,39.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,38.0,1.0
+per_type_direction_B3,writes,iu6,500,Message props,condensed,0.0,0.0,0.0,73.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10.0,63.0
+per_type_direction_B3,writes,iu6,500,index,fixed,0.0,0.0,0.0,21.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,21.0,0.0
+per_type_direction_B3,writes,iu7,500,hasCreator lists,split,0.0,0.0,0.0,39.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,38.0,1.0
+per_type_direction_B3,writes,iu7,500,hasTag lists,split,0.0,0.0,0.0,78.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,76.0,2.0
+per_type_direction_B3,writes,iu7,500,isLocatedIn lists,split,0.0,0.0,0.0,39.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,38.0,1.0
+per_type_direction_B3,writes,iu7,500,replyOf lists,split,0.0,0.0,0.0,39.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,38.0,1.0
+per_type_direction_B3,writes,iu7,500,Message props,condensed,0.0,0.0,0.0,67.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10.0,57.0
+per_type_direction_B3,writes,iu7,500,index,fixed,0.0,0.0,0.0,21.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,21.0,0.0
+per_type_direction_B3,microbench,point_post,100,Message props,condensed,1.0,535.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,10.0,525.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+per_type_direction_B5,microbench,nhop2,20,knows lists,chunked,137.28,6875974.0,2.2,0.0,0.0,0.0,0.0,0.0,124.8,0.0,0.0,0.0,0.0,0.0,0.0,1370.6,6874601.2,2.2,0.0,0.0,0.0,0.0
+per_type_direction_B5,microbench,entry_eq_scan,5,Person props,chunked,1.71,3790086.0,10.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,61.0,0.0,0.0,0.0,0.0,610.0,3789466.0,0.0,10.0,0.0,0.0,0.0
+per_type_direction_B5,writes,iu6,500,containerOf lists,split,0.0,0.0,0.0,38.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,38.0,0.0
+per_type_direction_B5,writes,iu6,500,hasCreator lists,split,0.0,0.0,0.0,39.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,38.0,1.0
+per_type_direction_B5,writes,iu6,500,hasTag lists,split,0.0,0.0,0.0,117.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,114.0,3.0
+per_type_direction_B5,writes,iu6,500,isLocatedIn lists,split,0.0,0.0,0.0,39.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,38.0,1.0
+per_type_direction_B5,writes,iu6,500,Message props,condensed,0.0,0.0,0.0,73.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10.0,63.0
+per_type_direction_B5,writes,iu6,500,index,fixed,0.0,0.0,0.0,21.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,21.0,0.0
+per_type_direction_B5,writes,iu7,500,hasCreator lists,split,0.0,0.0,0.0,39.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,38.0,1.0
+per_type_direction_B5,writes,iu7,500,hasTag lists,split,0.0,0.0,0.0,78.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,76.0,2.0
+per_type_direction_B5,writes,iu7,500,isLocatedIn lists,split,0.0,0.0,0.0,39.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,38.0,1.0
+per_type_direction_B5,writes,iu7,500,replyOf lists,split,0.0,0.0,0.0,39.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,38.0,1.0
+per_type_direction_B5,writes,iu7,500,Message props,condensed,0.0,0.0,0.0,67.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10.0,57.0
+per_type_direction_B5,writes,iu7,500,index,fixed,0.0,0.0,0.0,21.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,21.0,0.0
+per_type_direction_B5,microbench,point_post,100,Message props,condensed,1.0,535.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,10.0,525.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0

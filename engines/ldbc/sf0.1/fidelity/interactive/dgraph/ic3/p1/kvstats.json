@@ -1,0 +1,27 @@
+{
+ "query_sha": "907f15bd35b7d66e",
+ "params": {
+  "personId": "15393162790207",
+  "startDate": "2010-12-01T00:00:00Z",
+  "countryXName": "Puerto_Rico",
+  "countryYName": "Republic_of_Macedonia",
+  "endDate": "2010-12-31T00:00:00Z"
+ },
+ "data_created": "2026-11-21T03:25:44Z",
+ "measured_at": "2026-11-21T01:02:16",
+ "raw": {
+  "get_bytes": 32896464,
+  "get_count": 490992,
+  "get_found_count": 490992,
+  "get_latency_ns": 56040686824,
+  "next_bytes": 0,
+  "next_count": 0,
+  "next_latency_ns": 0,
+  "seek_bytes": 14420498,
+  "seek_count": 246976,
+  "seek_latency_ns": 31794915588,
+  "set_bytes": 0,
+  "set_count": 0,
+  "set_latency_ns": 0
+ }
+}

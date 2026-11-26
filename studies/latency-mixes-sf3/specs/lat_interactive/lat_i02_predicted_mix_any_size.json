@@ -1,0 +1,128 @@
+{
+ "adjacency": {
+  "group": "owner",
+  "owners": "one",
+  "split": 524288
+ },
+ "adjacency_by_etype": {
+  "containerOf": {
+   "group": "owner",
+   "owners": {
+    "pack": 65536
+   },
+   "split": "never"
+  },
+  "hasCreator": {
+   "group": "owner",
+   "owners": {
+    "pack": 1024
+   },
+   "split": "never"
+  },
+  "hasMember": {
+   "group": "owner",
+   "owners": {
+    "pack": 1024
+   },
+   "split": "never"
+  },
+  "hasTag": {
+   "group": "owner",
+   "owners": {
+    "pack": 16384
+   },
+   "split": "never"
+  },
+  "isLocatedIn": {
+   "group": "owner",
+   "owners": {
+    "pack": 16384
+   },
+   "split": "never"
+  },
+  "isPartOf": {
+   "group": "owner",
+   "owners": {
+    "pack": 65536
+   },
+   "split": "never"
+  },
+  "isSubclassOf": {
+   "group": "owner",
+   "owners": {
+    "pack": 65536
+   },
+   "split": "never"
+  },
+  "likes": {
+   "group": "owner",
+   "owners": {
+    "pack": 1024
+   },
+   "split": "never"
+  },
+  "replyOf": {
+   "group": "owner",
+   "owners": {
+    "pack": 16384
+   },
+   "split": "never"
+  },
+  "workAt": {
+   "group": "owner",
+   "owners": {
+    "pack": 65536
+   },
+   "split": "never"
+  }
+ },
+ "direction": "declared",
+ "index": {
+  "group": "item",
+  "owners": "one",
+  "scope": "type",
+  "split": "never",
+  "term": "exact"
+ },
+ "version": 1,
+ "vertex_props": {
+  "group": "item",
+  "owners": "one",
+  "split": "never"
+ },
+ "vertex_props_by_label": {
+  "Comment": {
+   "group": "owner",
+   "owners": {
+    "pack": 1024
+   },
+   "split": "never"
+  },
+  "Organisation": {
+   "group": "owner",
+   "owners": {
+    "pack": 65536
+   },
+   "split": "never"
+  },
+  "Person": {
+   "group": "owner",
+   "owners": "one",
+   "split": "never"
+  },
+  "Post": {
+   "group": "owner",
+   "owners": {
+    "pack": 1024
+   },
+   "split": "never"
+  },
+  "Tag": {
+   "group": "owner",
+   "owners": {
+    "pack": 262144
+   },
+   "split": "never"
+  }
+ }
+}

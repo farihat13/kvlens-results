@@ -1,0 +1,24 @@
+{
+ "query_sha": "726c2fd8c124bda0",
+ "params": {
+  "personId": "8796093022749",
+  "tagName": "Joe_Biden"
+ },
+ "data_created": "2026-11-21T02:56:18Z",
+ "measured_at": "2026-11-20T23:11:07",
+ "raw": {
+  "get_bytes": 9009,
+  "get_count": 139,
+  "get_found_count": 139,
+  "get_latency_ns": 854086,
+  "next_bytes": 0,
+  "next_count": 0,
+  "next_latency_ns": 0,
+  "seek_bytes": 7458616,
+  "seek_count": 355873,
+  "seek_latency_ns": 4238324367,
+  "set_bytes": 0,
+  "set_count": 0,
+  "set_latency_ns": 0
+ }
+}

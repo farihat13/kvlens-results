@@ -1,0 +1,194 @@
+{
+ "query_sha": "758b65813d7ffbd6",
+ "params": {
+  "personId": 30786325579380,
+  "firstName": "Albaye Papa"
+ },
+ "data": {
+  "schema_sha256": "b8e206f17e60692c830ba0c3c675fbc481a22f26011282ce523890eb09be8a74",
+  "schema_path": "arangodb/schema/ldbc_schema.json",
+  "sf": "0.3",
+  "created": "2026-11-21T03:01:29Z",
+  "git_sha": "60910999"
+ },
+ "fetched_at": "2026-11-21T00:05:27",
+ "raw": [
+  {
+   "friendId": 28587302322247,
+   "friendLastName": "Diouf",
+   "distanceFromPerson": 2,
+   "friendBirthday": 411696000000,
+   "friendCreationDate": 1334356795345,
+   "friendGender": "female",
+   "friendBrowserUsed": "Internet Explorer",
+   "friendLocationIp": "196.1.99.249",
+   "friendEmails": [
+    "Albaye.Papa28587302322247@gmail.com",
+    "Albaye.Papa28587302322247@gmx.com"
+   ],
+   "friendLanguages": [
+    "fr",
+    "en"
+   ],
+   "friendCityName": "Diourbel",
+   "friendUniversities": [
+    [
+     "RUSTA",
+     2001,
+     "Abidjan"
+    ]
+   ],
+   "friendCompanies": [
+    [
+     "Groupement_A\u00e9rien_S\u00e9n\u00e9galais",
+     2002,
+     "Senegal"
+    ],
+    [
+     "Air_S\u00e9n\u00e9gal_International",
+     2002,
+     "Senegal"
+    ]
+   ]
+  },
+  {
+   "friendId": 28587302322837,
+   "friendLastName": "Faye",
+   "distanceFromPerson": 2,
+   "friendBirthday": 359078400000,
+   "friendCreationDate": 1335334045265,
+   "friendGender": "female",
+   "friendBrowserUsed": "Chrome",
+   "friendLocationIp": "196.1.97.34",
+   "friendEmails": [
+    "Albaye.Papa28587302322837@gmx.com",
+    "Albaye.Papa28587302322837@yahoo.com"
+   ],
+   "friendLanguages": [
+    "fr",
+    "en"
+   ],
+   "friendCityName": "Saint-Louis",
+   "friendUniversities": [
+    [
+     "Gaston_Berger_University",
+     2003,
+     "Saint-Louis"
+    ]
+   ],
+   "friendCompanies": [
+    [
+     "Air_S\u00e9n\u00e9gal_International",
+     2005,
+     "Senegal"
+    ]
+   ]
+  },
+  {
+   "friendId": 6597069767679,
+   "friendLastName": "Senghor",
+   "distanceFromPerson": 2,
+   "friendBirthday": 553564800000,
+   "friendCreationDate": 1281960581633,
+   "friendGender": "female",
+   "friendBrowserUsed": "Chrome",
+   "friendLocationIp": "196.1.93.107",
+   "friendEmails": [
+    "Albaye.Papa6597069767679@gmail.com",
+    "Albaye.Papa6597069767679@hotmail.com",
+    "Albaye.Papa6597069767679@zoho.com"
+   ],
+   "friendLanguages": [
+    "fr",
+    "wo",
+    "en"
+   ],
+   "friendCityName": "Touba",
+   "friendUniversities": [
+    [
+     "Gaston_Berger_University",
+     2009,
+     "Saint-Louis"
+    ]
+   ],
+   "friendCompanies": [
+    [
+     "Groupement_A\u00e9rien_S\u00e9n\u00e9galais",
+     2009,
+     "Senegal"
+    ],
+    [
+     "Air_S\u00e9n\u00e9gal_International",
+     2009,
+     "Senegal"
+    ],
+    [
+     "SriLankan_Airlines",
+     2010,
+     "Sri_Lanka"
+    ]
+   ]
+  },
+  {
+   "friendId": 3704,
+   "friendLastName": "Faye",
+   "distanceFromPerson": 3,
+   "friendBirthday": 557107200000,
+   "friendCreationDate": 1264962164052,
+   "friendGender": "female",
+   "friendBrowserUsed": "Firefox",
+   "friendLocationIp": "196.1.97.90",
+   "friendEmails": [
+    "Albaye.Papa3704@gmail.com"
+   ],
+   "friendLanguages": [
+    "fr",
+    "wo",
+    "en"
+   ],
+   "friendCityName": "Thies",
+   "friendUniversities": [
+    [
+     "RUSTA",
+     2005,
+     "Abidjan"
+    ]
+   ],
+   "friendCompanies": [
+    [
+     "Mauritania_Airways",
+     2006,
+     "Mauritania"
+    ]
+   ]
+  },
+  {
+   "friendId": 30786325578286,
+   "friendLastName": "Faye",
+   "distanceFromPerson": 3,
+   "friendBirthday": 397872000000,
+   "friendCreationDate": 1340145141245,
+   "friendGender": "female",
+   "friendBrowserUsed": "Firefox",
+   "friendLocationIp": "196.1.97.75",
+   "friendEmails": [
+    "Albaye.Papa30786325578286@gmail.com",
+    "Albaye.Papa30786325578286@yahoo.com",
+    "Albaye.Papa30786325578286@zoho.com"
+   ],
+   "friendLanguages": [
+    "fr",
+    "en"
+   ],
+   "friendCityName": "Thies",
+   "friendUniversities": [
+    [
+     "Cheikh_Anta_Diop_University",
+     2001,
+     "Dakar"
+    ]
+   ],
+   "friendCompanies": []
+  }
+ ]
+}

@@ -1,0 +1,237 @@
+{
+ "query_sha": "cc60061064f78218",
+ "params": {
+  "personId": "30786325579380",
+  "firstName": "Albaye Papa"
+ },
+ "data": {
+  "schema_sha256": "03713a1e1c7b722e73bed6b150e079e69e9579c2a58c52e06f9d4384fdd4b80d",
+  "schema_path": "dgraph/schema/ldbcTypes.schema",
+  "sf": "0.3",
+  "created": "2026-11-21T02:56:18Z",
+  "git_sha": "60910999"
+ },
+ "fetched_at": "2026-11-21T00:05:27",
+ "raw": {
+  "_l1_from_p": [],
+  "_l2_expand": [],
+  "_l3_expand": [],
+  "friends1": [],
+  "friends2": [
+   {
+    "companyCountryName": "Senegal",
+    "companyName": "Groupement_A\u00e9rien_S\u00e9n\u00e9galais",
+    "friendBirthday": "1983-01-18T00:00:00Z",
+    "friendBrowserUsed": "Internet Explorer",
+    "friendCityName": "Diourbel",
+    "friendCreationDate": "2012-04-13T22:39:55.345Z",
+    "friendDistance": 2,
+    "friendEmails": [
+     "Albaye.Papa28587302322247@gmx.com",
+     "Albaye.Papa28587302322247@gmail.com"
+    ],
+    "friendFirstName": "Albaye Papa",
+    "friendGender": "female",
+    "friendId": 28587302322247,
+    "friendLanguages": [
+     "en",
+     "fr"
+    ],
+    "friendLastName": "Diouf",
+    "friendLocationIp": "196.1.99.249",
+    "studyAt|classYear": "2001",
+    "uniCityName": "Abidjan",
+    "uniName": "RUSTA",
+    "workAt|workFrom": "2002"
+   },
+   {
+    "companyCountryName": "Senegal",
+    "companyName": "Air_S\u00e9n\u00e9gal_International",
+    "friendBirthday": "1983-01-18T00:00:00Z",
+    "friendBrowserUsed": "Internet Explorer",
+    "friendCityName": "Diourbel",
+    "friendCreationDate": "2012-04-13T22:39:55.345Z",
+    "friendDistance": 2,
+    "friendEmails": [
+     "Albaye.Papa28587302322247@gmx.com",
+     "Albaye.Papa28587302322247@gmail.com"
+    ],
+    "friendFirstName": "Albaye Papa",
+    "friendGender": "female",
+    "friendId": 28587302322247,
+    "friendLanguages": [
+     "en",
+     "fr"
+    ],
+    "friendLastName": "Diouf",
+    "friendLocationIp": "196.1.99.249",
+    "studyAt|classYear": "2001",
+    "uniCityName": "Abidjan",
+    "uniName": "RUSTA",
+    "workAt|workFrom": "2002"
+   },
+   {
+    "companyCountryName": "Senegal",
+    "companyName": "Air_S\u00e9n\u00e9gal_International",
+    "friendBirthday": "1981-05-19T00:00:00Z",
+    "friendBrowserUsed": "Chrome",
+    "friendCityName": "Saint-Louis",
+    "friendCreationDate": "2012-04-25T06:07:25.265Z",
+    "friendDistance": 2,
+    "friendEmails": [
+     "Albaye.Papa28587302322837@gmx.com",
+     "Albaye.Papa28587302322837@yahoo.com"
+    ],
+    "friendFirstName": "Albaye Papa",
+    "friendGender": "female",
+    "friendId": 28587302322837,
+    "friendLanguages": [
+     "en",
+     "fr"
+    ],
+    "friendLastName": "Faye",
+    "friendLocationIp": "196.1.97.34",
+    "studyAt|classYear": "2003",
+    "uniCityName": "Saint-Louis",
+    "uniName": "Gaston_Berger_University",
+    "workAt|workFrom": "2005"
+   },
+   {
+    "companyCountryName": "Sri_Lanka",
+    "companyName": "SriLankan_Airlines",
+    "friendBirthday": "1987-07-18T00:00:00Z",
+    "friendBrowserUsed": "Chrome",
+    "friendCityName": "Touba",
+    "friendCreationDate": "2010-08-16T12:09:41.633Z",
+    "friendDistance": 2,
+    "friendEmails": [
+     "Albaye.Papa6597069767679@gmail.com",
+     "Albaye.Papa6597069767679@hotmail.com",
+     "Albaye.Papa6597069767679@zoho.com"
+    ],
+    "friendFirstName": "Albaye Papa",
+    "friendGender": "female",
+    "friendId": 6597069767679,
+    "friendLanguages": [
+     "en",
+     "fr",
+     "wo"
+    ],
+    "friendLastName": "Senghor",
+    "friendLocationIp": "196.1.93.107",
+    "studyAt|classYear": "2009",
+    "uniCityName": "Saint-Louis",
+    "uniName": "Gaston_Berger_University",
+    "workAt|workFrom": "2010"
+   },
+   {
+    "companyCountryName": "Senegal",
+    "companyName": "Groupement_A\u00e9rien_S\u00e9n\u00e9galais",
+    "friendBirthday": "1987-07-18T00:00:00Z",
+    "friendBrowserUsed": "Chrome",
+    "friendCityName": "Touba",
+    "friendCreationDate": "2010-08-16T12:09:41.633Z",
+    "friendDistance": 2,
+    "friendEmails": [
+     "Albaye.Papa6597069767679@gmail.com",
+     "Albaye.Papa6597069767679@hotmail.com",
+     "Albaye.Papa6597069767679@zoho.com"
+    ],
+    "friendFirstName": "Albaye Papa",
+    "friendGender": "female",
+    "friendId": 6597069767679,
+    "friendLanguages": [
+     "en",
+     "fr",
+     "wo"
+    ],
+    "friendLastName": "Senghor",
+    "friendLocationIp": "196.1.93.107",
+    "studyAt|classYear": "2009",
+    "uniCityName": "Saint-Louis",
+    "uniName": "Gaston_Berger_University",
+    "workAt|workFrom": "2009"
+   },
+   {
+    "companyCountryName": "Senegal",
+    "companyName": "Air_S\u00e9n\u00e9gal_International",
+    "friendBirthday": "1987-07-18T00:00:00Z",
+    "friendBrowserUsed": "Chrome",
+    "friendCityName": "Touba",
+    "friendCreationDate": "2010-08-16T12:09:41.633Z",
+    "friendDistance": 2,
+    "friendEmails": [
+     "Albaye.Papa6597069767679@gmail.com",
+     "Albaye.Papa6597069767679@hotmail.com",
+     "Albaye.Papa6597069767679@zoho.com"
+    ],
+    "friendFirstName": "Albaye Papa",
+    "friendGender": "female",
+    "friendId": 6597069767679,
+    "friendLanguages": [
+     "en",
+     "fr",
+     "wo"
+    ],
+    "friendLastName": "Senghor",
+    "friendLocationIp": "196.1.93.107",
+    "studyAt|classYear": "2009",
+    "uniCityName": "Saint-Louis",
+    "uniName": "Gaston_Berger_University",
+    "workAt|workFrom": "2009"
+   }
+  ],
+  "friends3": [
+   {
+    "friendBirthday": "1982-08-11T00:00:00Z",
+    "friendBrowserUsed": "Firefox",
+    "friendCityName": "Thies",
+    "friendCreationDate": "2012-06-19T22:32:21.245Z",
+    "friendDistance": 3,
+    "friendEmails": [
+     "Albaye.Papa30786325578286@gmail.com",
+     "Albaye.Papa30786325578286@zoho.com",
+     "Albaye.Papa30786325578286@yahoo.com"
+    ],
+    "friendFirstName": "Albaye Papa",
+    "friendGender": "female",
+    "friendId": 30786325578286,
+    "friendLanguages": [
+     "en",
+     "fr"
+    ],
+    "friendLastName": "Faye",
+    "friendLocationIp": "196.1.97.75",
+    "studyAt|classYear": "2001",
+    "uniCityName": "Dakar",
+    "uniName": "Cheikh_Anta_Diop_University"
+   },
+   {
+    "companyCountryName": "Mauritania",
+    "companyName": "Mauritania_Airways",
+    "friendBirthday": "1987-08-28T00:00:00Z",
+    "friendBrowserUsed": "Firefox",
+    "friendCityName": "Thies",
+    "friendCreationDate": "2010-01-31T18:22:44.052Z",
+    "friendDistance": 3,
+    "friendEmails": [
+     "Albaye.Papa3704@gmail.com"
+    ],
+    "friendFirstName": "Albaye Papa",
+    "friendGender": "female",
+    "friendId": 3704,
+    "friendLanguages": [
+     "en",
+     "fr",
+     "wo"
+    ],
+    "friendLastName": "Faye",
+    "friendLocationIp": "196.1.97.90",
+    "studyAt|classYear": "2005",
+    "uniCityName": "Abidjan",
+    "uniName": "RUSTA",
+    "workAt|workFrom": "2006"
+   }
+  ]
+ }
+}

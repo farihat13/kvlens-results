@@ -1,0 +1,32 @@
+{
+ "query_sha": "8342c82fdf4c127f",
+ "params": {
+  "personId": 2199023259339,
+  "tagClassName": "Band"
+ },
+ "data_created": "2026-11-21T03:01:29Z",
+ "measured_at": "2026-11-20T23:12:15",
+ "raw": {
+  "get_count": 137319,
+  "get_found_count": 137319,
+  "get_time_ns": 222166621,
+  "get_bytes": 10807017,
+  "seek_count": 23653,
+  "seek_time_ns": 1623511688,
+  "seek_bytes": 1004296,
+  "next_count": 53531,
+  "next_time_ns": 7551200,
+  "next_bytes": 2695752,
+  "prev_count": 0,
+  "prev_time_ns": 0,
+  "prev_bytes": 0,
+  "put_count": 0,
+  "put_time_ns": 0,
+  "put_bytes": 0,
+  "delete_count": 0,
+  "delete_time_ns": 0,
+  "delete_bytes": 0,
+  "commit_count": 0,
+  "commit_time_ns": 0
+ }
+}

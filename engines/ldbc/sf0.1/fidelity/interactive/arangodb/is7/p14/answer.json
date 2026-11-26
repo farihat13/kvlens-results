@@ -1,0 +1,79 @@
+{
+ "query_sha": "c060b3ffba4ba4fe",
+ "params": {
+  "messageId": 549756084251
+ },
+ "data": {
+  "schema_sha256": "b8e206f17e60692c830ba0c3c675fbc481a22f26011282ce523890eb09be8a74",
+  "schema_path": "arangodb/schema/ldbc_schema.json",
+  "sf": "0.1",
+  "created": "2026-11-21T03:27:46Z",
+  "git_sha": "92777160"
+ },
+ "fetched_at": "2026-11-21T01:08:54",
+ "raw": [
+  {
+   "commentId": 549756084266,
+   "commentContent": "cool",
+   "commentCreationDate": 1308613518975,
+   "replyAuthorId": 10995116277788,
+   "replyAuthorFirstName": "Hans",
+   "replyAuthorLastName": "Johansson",
+   "replyAuthorKnowsOriginalMessageAuthor": true
+  },
+  {
+   "commentId": 549756084252,
+   "commentContent": "I see",
+   "commentCreationDate": 1308609798656,
+   "replyAuthorId": 15393162790223,
+   "replyAuthorFirstName": "Johan",
+   "replyAuthorLastName": "Nilsson",
+   "replyAuthorKnowsOriginalMessageAuthor": true
+  },
+  {
+   "commentId": 549756084254,
+   "commentContent": "About Tsardom of Russia, from the Rurik to the Romanov dynasties, drawn-out military conflict with the Polish-Li",
+   "commentCreationDate": 1308581182721,
+   "replyAuthorId": 17592186045047,
+   "replyAuthorFirstName": "Hans",
+   "replyAuthorLastName": "Berg",
+   "replyAuthorKnowsOriginalMessageAuthor": true
+  },
+  {
+   "commentId": 549756084259,
+   "commentContent": "no",
+   "commentCreationDate": 1308570524958,
+   "replyAuthorId": 4398046512532,
+   "replyAuthorFirstName": "Binh",
+   "replyAuthorLastName": "Nguyen",
+   "replyAuthorKnowsOriginalMessageAuthor": true
+  },
+  {
+   "commentId": 549756084264,
+   "commentContent": "duh",
+   "commentCreationDate": 1308563030557,
+   "replyAuthorId": 13194139534451,
+   "replyAuthorFirstName": "Jose",
+   "replyAuthorLastName": "Martinez",
+   "replyAuthorKnowsOriginalMessageAuthor": true
+  },
+  {
+   "commentId": 549756084255,
+   "commentContent": "About Romania, on by area, and has the seventh largest population of the European Union with over 19 million people. Its capital and largest city is Bucharest, the te",
+   "commentCreationDate": 1308550986621,
+   "replyAuthorId": 6597069766944,
+   "replyAuthorFirstName": "Ali",
+   "replyAuthorLastName": "Karimi",
+   "replyAuthorKnowsOriginalMessageAuthor": true
+  },
+  {
+   "commentId": 549756084253,
+   "commentContent": "cool",
+   "commentCreationDate": 1308544990799,
+   "replyAuthorId": 10995116277788,
+   "replyAuthorFirstName": "Hans",
+   "replyAuthorLastName": "Johansson",
+   "replyAuthorKnowsOriginalMessageAuthor": true
+  }
+ ]
+}

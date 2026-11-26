@@ -1,0 +1,95 @@
+{
+ "query_sha": "6ff3aa62b8626f5b",
+ "params": {
+  "personId": "person_24189255813168"
+ },
+ "data": {
+  "schema_sha256": "673074740eea54e4ba1fdc94eebf2087531b3007af7da660afffb3d1e8df0d1e",
+  "schema_path": "nebulagraph/schema/schema.gql",
+  "sf": "0.3",
+  "created": "2026-11-21T03:42:54Z",
+  "git_sha": "1d6662c2"
+ },
+ "fetched_at": "2026-11-20T23:51:09",
+ "raw": {
+  "keys": [
+   "friendId",
+   "friendFirstName",
+   "friendLastName",
+   "friendshipCreationDate",
+   "friendIdInt"
+  ],
+  "rows": [
+   {
+    "friendId": "person_32985348834053",
+    "friendFirstName": "James",
+    "friendLastName": "Wilson",
+    "friendshipCreationDate": 1343404249591,
+    "friendIdInt": 32985348834053
+   },
+   {
+    "friendId": "person_32985348834375",
+    "friendFirstName": "Alfred",
+    "friendLastName": "Hoffmann",
+    "friendshipCreationDate": 1343163748663,
+    "friendIdInt": 32985348834375
+   },
+   {
+    "friendId": "person_30786325578932",
+    "friendFirstName": "Alexander",
+    "friendLastName": "Hleb",
+    "friendshipCreationDate": 1340615144473,
+    "friendIdInt": 30786325578932
+   },
+   {
+    "friendId": "person_28587302324596",
+    "friendFirstName": "Faisal",
+    "friendLastName": "Ahmed",
+    "friendshipCreationDate": 1334934660787,
+    "friendIdInt": 28587302324596
+   },
+   {
+    "friendId": "person_19791209303550",
+    "friendFirstName": "Nol",
+    "friendLastName": "Dany",
+    "friendshipCreationDate": 1328082120024,
+    "friendIdInt": 19791209303550
+   },
+   {
+    "friendId": "person_24189255813524",
+    "friendFirstName": "Ahmad",
+    "friendLastName": "Motamed",
+    "friendshipCreationDate": 1327805898085,
+    "friendIdInt": 24189255813524
+   },
+   {
+    "friendId": "person_2199023258280",
+    "friendFirstName": "Macky",
+    "friendLastName": "Mendy",
+    "friendshipCreationDate": 1327762484545,
+    "friendIdInt": 2199023258280
+   },
+   {
+    "friendId": "person_21990232556811",
+    "friendFirstName": "Bruna",
+    "friendLastName": "Costa",
+    "friendshipCreationDate": 1327492218199,
+    "friendIdInt": 21990232556811
+   },
+   {
+    "friendId": "person_4398046512826",
+    "friendFirstName": "Bingbing",
+    "friendLastName": "Liu",
+    "friendshipCreationDate": 1327394399737,
+    "friendIdInt": 4398046512826
+   },
+   {
+    "friendId": "person_17592186048248",
+    "friendFirstName": "Abdulwahab",
+    "friendLastName": "Gillett",
+    "friendshipCreationDate": 1326432657120,
+    "friendIdInt": 17592186048248
+   }
+  ]
+ }
+}

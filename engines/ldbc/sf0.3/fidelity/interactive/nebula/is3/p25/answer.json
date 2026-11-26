@@ -1,0 +1,88 @@
+{
+ "query_sha": "6ff3aa62b8626f5b",
+ "params": {
+  "personId": "person_26388279069094"
+ },
+ "data": {
+  "schema_sha256": "673074740eea54e4ba1fdc94eebf2087531b3007af7da660afffb3d1e8df0d1e",
+  "schema_path": "nebulagraph/schema/schema.gql",
+  "sf": "0.3",
+  "created": "2026-11-21T03:42:54Z",
+  "git_sha": "1d6662c2"
+ },
+ "fetched_at": "2026-11-21T00:04:11",
+ "raw": {
+  "keys": [
+   "friendId",
+   "friendFirstName",
+   "friendLastName",
+   "friendshipCreationDate",
+   "friendIdInt"
+  ],
+  "rows": [
+   {
+    "friendId": "person_17592186046943",
+    "friendFirstName": "Ai",
+    "friendLastName": "Zhang",
+    "friendshipCreationDate": 1331886614069,
+    "friendIdInt": 17592186046943
+   },
+   {
+    "friendId": "person_26388279069685",
+    "friendFirstName": "Rico",
+    "friendLastName": "Garcia",
+    "friendshipCreationDate": 1331613590454,
+    "friendIdInt": 26388279069685
+   },
+   {
+    "friendId": "person_8796093023000",
+    "friendFirstName": "Peng",
+    "friendLastName": "Zhang",
+    "friendshipCreationDate": 1331502244784,
+    "friendIdInt": 8796093023000
+   },
+   {
+    "friendId": "person_10995116279461",
+    "friendFirstName": "Gregorio",
+    "friendLastName": "Cajes",
+    "friendshipCreationDate": 1331441734620,
+    "friendIdInt": 10995116279461
+   },
+   {
+    "friendId": "person_13194139534548",
+    "friendFirstName": "Bing",
+    "friendLastName": "Zheng",
+    "friendshipCreationDate": 1331156812704,
+    "friendIdInt": 13194139534548
+   },
+   {
+    "friendId": "person_8796093025074",
+    "friendFirstName": "Eve-Mary Thai",
+    "friendLastName": "Hoang",
+    "friendshipCreationDate": 1331106564527,
+    "friendIdInt": 8796093025074
+   },
+   {
+    "friendId": "person_13194139535025",
+    "friendFirstName": "Yang",
+    "friendLastName": "Zhang",
+    "friendshipCreationDate": 1330908479661,
+    "friendIdInt": 13194139535025
+   },
+   {
+    "friendId": "person_6597069768549",
+    "friendFirstName": "Peter",
+    "friendLastName": "Laszlo",
+    "friendshipCreationDate": 1330663914691,
+    "friendIdInt": 6597069768549
+   },
+   {
+    "friendId": "person_26388279068852",
+    "friendFirstName": "Binh",
+    "friendLastName": "Do",
+    "friendshipCreationDate": 1329696334590,
+    "friendIdInt": 26388279068852
+   }
+  ]
+ }
+}

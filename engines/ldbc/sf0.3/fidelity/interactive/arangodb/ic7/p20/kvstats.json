@@ -1,0 +1,31 @@
+{
+ "query_sha": "58ff7e979c5e3855",
+ "params": {
+  "personId": 30786325578585
+ },
+ "data_created": "2026-11-21T03:01:29Z",
+ "measured_at": "2026-11-20T23:09:34",
+ "raw": {
+  "get_count": 1903,
+  "get_found_count": 1903,
+  "get_time_ns": 3084285,
+  "get_bytes": 262799,
+  "seek_count": 221,
+  "seek_time_ns": 7510783,
+  "seek_bytes": 2697,
+  "next_count": 1333,
+  "next_time_ns": 141072,
+  "next_bytes": 75921,
+  "prev_count": 0,
+  "prev_time_ns": 0,
+  "prev_bytes": 0,
+  "put_count": 0,
+  "put_time_ns": 0,
+  "put_bytes": 0,
+  "delete_count": 0,
+  "delete_time_ns": 0,
+  "delete_bytes": 0,
+  "commit_count": 0,
+  "commit_time_ns": 0
+ }
+}

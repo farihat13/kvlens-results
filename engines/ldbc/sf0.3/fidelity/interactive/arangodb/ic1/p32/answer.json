@@ -1,0 +1,114 @@
+{
+ "query_sha": "758b65813d7ffbd6",
+ "params": {
+  "personId": 30786325579745,
+  "firstName": "Georgios"
+ },
+ "data": {
+  "schema_sha256": "b8e206f17e60692c830ba0c3c675fbc481a22f26011282ce523890eb09be8a74",
+  "schema_path": "arangodb/schema/ldbc_schema.json",
+  "sf": "0.3",
+  "created": "2026-11-21T03:01:29Z",
+  "git_sha": "60910999"
+ },
+ "fetched_at": "2026-11-21T00:06:51",
+ "raw": [
+  {
+   "friendId": 2199023256086,
+   "friendLastName": "Antoniou",
+   "distanceFromPerson": 2,
+   "friendBirthday": 367545600000,
+   "friendCreationDate": 1272698122253,
+   "friendGender": "female",
+   "friendBrowserUsed": "Firefox",
+   "friendLocationIp": "81.186.197.62",
+   "friendEmails": [
+    "Georgios2199023256086@gmail.com",
+    "Georgios2199023256086@graphic-designer.com",
+    "Georgios2199023256086@yahoo.com"
+   ],
+   "friendLanguages": [
+    "en",
+    "fr"
+   ],
+   "friendCityName": "Athens",
+   "friendUniversities": [
+    [
+     "National_and_Kapodistrian_University_of_Athens",
+     2001,
+     "Athens"
+    ]
+   ],
+   "friendCompanies": [
+    [
+     "Viking_Hellas",
+     2002,
+     "Greece"
+    ]
+   ]
+  },
+  {
+   "friendId": 13194139533523,
+   "friendLastName": "Angello",
+   "distanceFromPerson": 3,
+   "friendBirthday": 588816000000,
+   "friendCreationDate": 1295283202918,
+   "friendGender": "female",
+   "friendBrowserUsed": "Chrome",
+   "friendLocationIp": "91.198.108.36",
+   "friendEmails": [
+    "Georgios13194139533523@gmail.com"
+   ],
+   "friendLanguages": [
+    "en"
+   ],
+   "friendCityName": "Patras",
+   "friendUniversities": [
+    [
+     "MBS_College",
+     2007,
+     "Crete"
+    ]
+   ],
+   "friendCompanies": [
+    [
+     "Regional_1",
+     2009,
+     "Canada"
+    ],
+    [
+     "Air_Greece",
+     2007,
+     "Greece"
+    ]
+   ]
+  },
+  {
+   "friendId": 24189255813658,
+   "friendLastName": "Fampas",
+   "distanceFromPerson": 3,
+   "friendBirthday": 415756800000,
+   "friendCreationDate": 1325711494868,
+   "friendGender": "female",
+   "friendBrowserUsed": "Internet Explorer",
+   "friendLocationIp": "46.177.109.152",
+   "friendEmails": [
+    "Georgios24189255813658@gmail.com",
+    "Georgios24189255813658@gmx.com",
+    "Georgios24189255813658@yahoo.com"
+   ],
+   "friendLanguages": [
+    "en"
+   ],
+   "friendCityName": "Larissa",
+   "friendUniversities": [
+    [
+     "Technological_Educational_Institute_of_Piraeus",
+     2002,
+     "Piraeus"
+    ]
+   ],
+   "friendCompanies": []
+  }
+ ]
+}

@@ -1,0 +1,88 @@
+{
+ "query_sha": "6ff3aa62b8626f5b",
+ "params": {
+  "personId": "person_28587302322565"
+ },
+ "data": {
+  "schema_sha256": "673074740eea54e4ba1fdc94eebf2087531b3007af7da660afffb3d1e8df0d1e",
+  "schema_path": "nebulagraph/schema/schema.gql",
+  "sf": "0.3",
+  "created": "2026-11-21T03:42:54Z",
+  "git_sha": "1d6662c2"
+ },
+ "fetched_at": "2026-11-20T23:58:14",
+ "raw": {
+  "keys": [
+   "friendId",
+   "friendFirstName",
+   "friendLastName",
+   "friendshipCreationDate",
+   "friendIdInt"
+  ],
+  "rows": [
+   {
+    "friendId": "person_32985348835870",
+    "friendFirstName": "Alberto",
+    "friendLastName": "Arango",
+    "friendshipCreationDate": 1346019887373,
+    "friendIdInt": 32985348835870
+   },
+   {
+    "friendId": "person_30786325581473",
+    "friendFirstName": "Paul",
+    "friendLastName": "Williams",
+    "friendshipCreationDate": 1340233525881,
+    "friendIdInt": 30786325581473
+   },
+   {
+    "friendId": "person_6597069767242",
+    "friendFirstName": "Salim Ahmed",
+    "friendLastName": "Binalshibh",
+    "friendshipCreationDate": 1336400539949,
+    "friendIdInt": 6597069767242
+   },
+   {
+    "friendId": "person_24189255813524",
+    "friendFirstName": "Ahmad",
+    "friendLastName": "Motamed",
+    "friendshipCreationDate": 1336317951500,
+    "friendIdInt": 24189255813524
+   },
+   {
+    "friendId": "person_17592186046393",
+    "friendFirstName": "Sergio",
+    "friendLastName": "Mendez",
+    "friendshipCreationDate": 1335850674965,
+    "friendIdInt": 17592186046393
+   },
+   {
+    "friendId": "person_21990232558653",
+    "friendFirstName": "Ning",
+    "friendLastName": "Chen",
+    "friendshipCreationDate": 1335688927293,
+    "friendIdInt": 21990232558653
+   },
+   {
+    "friendId": "person_2194",
+    "friendFirstName": "Alexander",
+    "friendLastName": "Dobrunov",
+    "friendshipCreationDate": 1334604824248,
+    "friendIdInt": 2194
+   },
+   {
+    "friendId": "person_10995116279934",
+    "friendFirstName": "Gisela",
+    "friendLastName": "Aguirre",
+    "friendshipCreationDate": 1334082819486,
+    "friendIdInt": 10995116279934
+   },
+   {
+    "friendId": "person_24189255812733",
+    "friendFirstName": "Alejandro",
+    "friendLastName": "Gonzalez",
+    "friendshipCreationDate": 1334055731504,
+    "friendIdInt": 24189255812733
+   }
+  ]
+ }
+}

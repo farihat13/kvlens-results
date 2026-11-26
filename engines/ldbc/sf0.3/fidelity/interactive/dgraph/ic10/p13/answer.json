@@ -1,0 +1,241 @@
+{
+ "query_sha": "d8702ab8a41d1dac",
+ "params": {
+  "personId": "28587302322565",
+  "month": "11"
+ },
+ "data": {
+  "schema_sha256": "03713a1e1c7b722e73bed6b150e079e69e9579c2a58c52e06f9d4384fdd4b80d",
+  "schema_path": "dgraph/schema/ldbcTypes.schema",
+  "sf": "0.3",
+  "created": "2026-11-21T02:56:18Z",
+  "git_sha": "60910999"
+ },
+ "fetched_at": "2026-11-20T23:56:33",
+ "raw": {
+  "_l1": [],
+  "_l2": [],
+  "recs": [
+   {
+    "birthday": "1981-07-02T00:00:00Z",
+    "commonInterestScore": 28,
+    "commonPostCount": 64,
+    "personCityName": "Baicheng",
+    "personFirstName": "Bichang",
+    "personGender": "male",
+    "personId": 6597069769310,
+    "personLastName": "Liu",
+    "postCount": 100
+   },
+   {
+    "birthday": "1981-08-27T00:00:00Z",
+    "commonInterestScore": 7,
+    "commonPostCount": 7,
+    "personCityName": "Lille",
+    "personFirstName": "Pierre",
+    "personGender": "male",
+    "personId": 21990232558309,
+    "personLastName": "Charpentier",
+    "postCount": 7
+   },
+   {
+    "birthday": "1983-08-31T00:00:00Z",
+    "commonInterestScore": 6,
+    "commonPostCount": 109,
+    "personCityName": "Dosso",
+    "personFirstName": "Ali",
+    "personGender": "male",
+    "personId": 987,
+    "personLastName": "Diori",
+    "postCount": 212
+   },
+   {
+    "birthday": "1985-07-14T00:00:00Z",
+    "commonInterestScore": 5,
+    "commonPostCount": 14,
+    "personCityName": "Yogyakarta",
+    "personFirstName": "Abdul Haris",
+    "personGender": "female",
+    "personId": 10995116279833,
+    "personLastName": "Tobing",
+    "postCount": 23
+   },
+   {
+    "birthday": "1985-10-28T00:00:00Z",
+    "commonInterestScore": 4,
+    "commonPostCount": 10,
+    "personCityName": "Fujisawa",
+    "personFirstName": "Keisuke",
+    "personGender": "male",
+    "personId": 17592186045497,
+    "personLastName": "Sato",
+    "postCount": 16
+   },
+   {
+    "birthday": "1985-12-24T00:00:00Z",
+    "commonInterestScore": 4,
+    "commonPostCount": 5,
+    "personCityName": "Puerto_Montt",
+    "personFirstName": "Carlos",
+    "personGender": "male",
+    "personId": 30786325580879,
+    "personLastName": "Parra",
+    "postCount": 6
+   },
+   {
+    "birthday": "1987-12-03T00:00:00Z",
+    "commonInterestScore": 1,
+    "commonPostCount": 2,
+    "personCityName": "Bi\u00ean_H\u00f2a",
+    "personFirstName": "Billinjer C",
+    "personGender": "female",
+    "personId": 10995116278210,
+    "personLastName": "Nguyen",
+    "postCount": 3
+   },
+   {
+    "birthday": "1983-08-08T00:00:00Z",
+    "commonInterestScore": 1,
+    "commonPostCount": 2,
+    "personCityName": "Bankura",
+    "personFirstName": "Arjun",
+    "personGender": "female",
+    "personId": 28587302322250,
+    "personLastName": "Singh",
+    "postCount": 3
+   },
+   {
+    "birthday": "1980-07-12T00:00:00Z",
+    "commonInterestScore": 1,
+    "commonPostCount": 1,
+    "personCityName": "Toulouse",
+    "personFirstName": "Jacques",
+    "personGender": "female",
+    "personId": 28587302323193,
+    "personLastName": "Michel",
+    "postCount": 1
+   },
+   {
+    "birthday": "1986-09-01T00:00:00Z",
+    "commonInterestScore": 0,
+    "commonPostCount": 1,
+    "personCityName": "Xinzheng",
+    "personFirstName": "Lei",
+    "personGender": "male",
+    "personId": 4398046512001,
+    "personLastName": "Zhu",
+    "postCount": 2
+   },
+   {
+    "birthday": "1980-09-27T00:00:00Z",
+    "commonInterestScore": 0,
+    "commonPostCount": 0,
+    "personCityName": "Cua_Lo",
+    "personFirstName": "Don",
+    "personGender": "female",
+    "personId": 8796093022392,
+    "personLastName": "Ho",
+    "postCount": 0
+   },
+   {
+    "birthday": "1984-12-08T00:00:00Z",
+    "commonInterestScore": 0,
+    "commonPostCount": 0,
+    "personCityName": "Ann_Arbor",
+    "personFirstName": "Paul",
+    "personGender": "female",
+    "personId": 8796093024058,
+    "personLastName": "Williams",
+    "postCount": 0
+   },
+   {
+    "birthday": "1985-04-15T00:00:00Z",
+    "commonInterestScore": 0,
+    "commonPostCount": 0,
+    "personCityName": "Kerala",
+    "personFirstName": "Amit",
+    "personGender": "male",
+    "personId": 10995116278652,
+    "personLastName": "Khan",
+    "postCount": 0
+   },
+   {
+    "birthday": "1988-06-08T00:00:00Z",
+    "commonInterestScore": 0,
+    "commonPostCount": 0,
+    "personCityName": "Chuzhou",
+    "personFirstName": "Jun",
+    "personGender": "female",
+    "personId": 10995116281483,
+    "personLastName": "Xu",
+    "postCount": 0
+   },
+   {
+    "birthday": "1983-03-24T00:00:00Z",
+    "commonInterestScore": 0,
+    "commonPostCount": 0,
+    "personCityName": "Bishkek",
+    "personFirstName": "Alexander",
+    "personGender": "male",
+    "personId": 13194139535786,
+    "personLastName": "Dobrunov",
+    "postCount": 0
+   },
+   {
+    "birthday": "1983-06-13T00:00:00Z",
+    "commonInterestScore": 0,
+    "commonPostCount": 1,
+    "personCityName": "Herat",
+    "personFirstName": "Rahim",
+    "personGender": "female",
+    "personId": 15393162790300,
+    "personLastName": "Zaland",
+    "postCount": 2
+   },
+   {
+    "birthday": "1988-07-21T00:00:00Z",
+    "commonInterestScore": 0,
+    "commonPostCount": 0,
+    "personCityName": "Yogyakarta",
+    "personFirstName": "Taufik",
+    "personGender": "female",
+    "personId": 15393162790827,
+    "personLastName": "Lesmana",
+    "postCount": 0
+   },
+   {
+    "birthday": "1988-08-29T00:00:00Z",
+    "commonInterestScore": 0,
+    "commonPostCount": 1,
+    "personCityName": "Esztergom",
+    "personFirstName": "Tamas",
+    "personGender": "male",
+    "personId": 17592186044494,
+    "personLastName": "Gabor",
+    "postCount": 2
+   },
+   {
+    "birthday": "1984-09-30T00:00:00Z",
+    "commonInterestScore": 0,
+    "commonPostCount": 0,
+    "personCityName": "Jalpaiguri",
+    "personFirstName": "Karan",
+    "personGender": "female",
+    "personId": 17592186044824,
+    "personLastName": "Singh",
+    "postCount": 0
+   },
+   {
+    "birthday": "1985-11-23T00:00:00Z",
+    "commonInterestScore": 0,
+    "commonPostCount": 0,
+    "personCityName": "Rovaniemi",
+    "personFirstName": "Sven",
+    "personGender": "male",
+    "personId": 17592186045089,
+    "personLastName": "Persson",
+    "postCount": 0
+   }
+  ]
+ }
+}

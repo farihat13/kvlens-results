@@ -1,0 +1,32 @@
+{
+ "query_sha": "8342c82fdf4c127f",
+ "params": {
+  "personId": 8796093023199,
+  "tagClassName": "FormulaOneRacer"
+ },
+ "data_created": "2026-11-21T03:01:29Z",
+ "measured_at": "2026-11-20T23:05:06",
+ "raw": {
+  "get_count": 233507,
+  "get_found_count": 233507,
+  "get_time_ns": 368586475,
+  "get_bytes": 20144438,
+  "seek_count": 34302,
+  "seek_time_ns": 2290616820,
+  "seek_bytes": 1558317,
+  "next_count": 80296,
+  "next_time_ns": 11374488,
+  "next_bytes": 3527428,
+  "prev_count": 0,
+  "prev_time_ns": 0,
+  "prev_bytes": 0,
+  "put_count": 0,
+  "put_time_ns": 0,
+  "put_bytes": 0,
+  "delete_count": 0,
+  "delete_time_ns": 0,
+  "delete_bytes": 0,
+  "commit_count": 0,
+  "commit_time_ns": 0
+ }
+}

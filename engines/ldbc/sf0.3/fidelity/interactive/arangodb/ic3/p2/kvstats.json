@@ -1,0 +1,35 @@
+{
+ "query_sha": "fd0a7e2668f270a0",
+ "params": {
+  "personId": 8796093023094,
+  "startDate": 1291161600000,
+  "durationDays": 30,
+  "countryXName": "New_Zealand",
+  "countryYName": "Switzerland"
+ },
+ "data_created": "2026-11-21T03:01:29Z",
+ "measured_at": "2026-11-20T23:03:00",
+ "raw": {
+  "get_count": 734026,
+  "get_found_count": 734026,
+  "get_time_ns": 1318535168,
+  "get_bytes": 68337408,
+  "seek_count": 8527,
+  "seek_time_ns": 310683053,
+  "seek_bytes": 393479,
+  "next_count": 351401,
+  "next_time_ns": 39917710,
+  "next_bytes": 19355837,
+  "prev_count": 0,
+  "prev_time_ns": 0,
+  "prev_bytes": 0,
+  "put_count": 0,
+  "put_time_ns": 0,
+  "put_bytes": 0,
+  "delete_count": 0,
+  "delete_time_ns": 0,
+  "delete_bytes": 0,
+  "commit_count": 0,
+  "commit_time_ns": 0
+ }
+}

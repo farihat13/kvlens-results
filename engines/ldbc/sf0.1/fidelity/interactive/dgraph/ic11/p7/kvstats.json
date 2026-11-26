@@ -1,0 +1,25 @@
+{
+ "query_sha": "98c18d834b54beb1",
+ "params": {
+  "personId": "2199023256919",
+  "countryName": "Mongolia",
+  "workFromYear": "2008"
+ },
+ "data_created": "2026-11-21T03:25:44Z",
+ "measured_at": "2026-11-21T01:02:55",
+ "raw": {
+  "get_bytes": 0,
+  "get_count": 0,
+  "get_found_count": 0,
+  "get_latency_ns": 0,
+  "next_bytes": 0,
+  "next_count": 0,
+  "next_latency_ns": 0,
+  "seek_bytes": 243905,
+  "seek_count": 1444,
+  "seek_latency_ns": 5861519,
+  "set_bytes": 0,
+  "set_count": 0,
+  "set_latency_ns": 0
+ }
+}

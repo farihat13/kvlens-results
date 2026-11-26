@@ -1,0 +1,64 @@
+{
+ "query_sha": "00f75f489d160871",
+ "params": {
+  "personId": "1129"
+ },
+ "data": {
+  "schema_sha256": "03713a1e1c7b722e73bed6b150e079e69e9579c2a58c52e06f9d4384fdd4b80d",
+  "schema_path": "dgraph/schema/ldbcTypes.schema",
+  "sf": "0.3",
+  "created": "2026-11-21T02:56:18Z",
+  "git_sha": "60910999"
+ },
+ "fetched_at": "2026-11-20T23:59:58",
+ "raw": {
+  "person": [
+   {
+    "knows": [
+     {
+      "friendId": 1242,
+      "friendFirstName": "Hans",
+      "friendLastName": "Johansson",
+      "knows|creationDate": "2010-02-08T14:54:04.061+00:00"
+     },
+     {
+      "friendId": 15393162789093,
+      "friendFirstName": "Rafael",
+      "friendLastName": "Fern\u00e1ndez",
+      "knows|creationDate": "2011-04-29T06:53:11.356+00:00"
+     },
+     {
+      "friendId": 24189255814068,
+      "friendFirstName": "Karl",
+      "friendLastName": "Wagner",
+      "knows|creationDate": "2011-11-20T23:09:47.899+00:00"
+     },
+     {
+      "friendId": 2199023256437,
+      "friendFirstName": "Rudolf",
+      "friendLastName": "Engel",
+      "knows|creationDate": "2010-04-27T21:12:17.534+00:00"
+     },
+     {
+      "friendId": 24189255813517,
+      "friendFirstName": "Farhad Nasher",
+      "friendLastName": "Zaland",
+      "knows|creationDate": "2011-12-31T06:50:51.286+00:00"
+     },
+     {
+      "friendId": 6597069769310,
+      "friendFirstName": "Bichang",
+      "friendLastName": "Liu",
+      "knows|creationDate": "2010-08-06T10:22:06.511+00:00"
+     },
+     {
+      "friendId": 32985348834375,
+      "friendFirstName": "Alfred",
+      "friendLastName": "Hoffmann",
+      "knows|creationDate": "2012-08-22T17:51:13.732+00:00"
+     }
+    ]
+   }
+  ]
+ }
+}

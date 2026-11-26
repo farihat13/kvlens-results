@@ -1,0 +1,70 @@
+{
+ "query_sha": "c060b3ffba4ba4fe",
+ "params": {
+  "messageId": 687195603588
+ },
+ "data": {
+  "schema_sha256": "b8e206f17e60692c830ba0c3c675fbc481a22f26011282ce523890eb09be8a74",
+  "schema_path": "arangodb/schema/ldbc_schema.json",
+  "sf": "0.3",
+  "created": "2026-11-21T03:01:29Z",
+  "git_sha": "60910999"
+ },
+ "fetched_at": "2026-11-21T00:01:18",
+ "raw": [
+  {
+   "commentId": 687195603590,
+   "commentContent": "ok",
+   "commentCreationDate": 1318794915454,
+   "replyAuthorId": 10995116278915,
+   "replyAuthorFirstName": "Benedict",
+   "replyAuthorLastName": "Zhang",
+   "replyAuthorKnowsOriginalMessageAuthor": true
+  },
+  {
+   "commentId": 687195603591,
+   "commentContent": "About Virgil,  usually called About Muammar Gaddafi,  the AU summit. About Tiger Woods, tt",
+   "commentCreationDate": 1318787040510,
+   "replyAuthorId": 15393162791569,
+   "replyAuthorFirstName": "Li",
+   "replyAuthorLastName": "Xu",
+   "replyAuthorKnowsOriginalMessageAuthor": true
+  },
+  {
+   "commentId": 687195603592,
+   "commentContent": "thx",
+   "commentCreationDate": 1318782483500,
+   "replyAuthorId": 13194139534853,
+   "replyAuthorFirstName": "Babar",
+   "replyAuthorLastName": "Malik",
+   "replyAuthorKnowsOriginalMessageAuthor": true
+  },
+  {
+   "commentId": 687195603589,
+   "commentContent": "duh",
+   "commentCreationDate": 1318775279831,
+   "replyAuthorId": 6597069769371,
+   "replyAuthorFirstName": "Abida",
+   "replyAuthorLastName": "Ahmed",
+   "replyAuthorKnowsOriginalMessageAuthor": true
+  },
+  {
+   "commentId": 687195603593,
+   "commentContent": "About Pope Paul VI, ion to spread the mAbout Mary, Queen of Scots,  the charge in ApriAbou",
+   "commentCreationDate": 1318770011419,
+   "replyAuthorId": 8796093023506,
+   "replyAuthorFirstName": "Javed",
+   "replyAuthorLastName": "Khan",
+   "replyAuthorKnowsOriginalMessageAuthor": true
+  },
+  {
+   "commentId": 687195603595,
+   "commentContent": "duh",
+   "commentCreationDate": 1318769529070,
+   "replyAuthorId": 8796093022749,
+   "replyAuthorFirstName": "Aa Ngurah",
+   "replyAuthorLastName": "Budjana",
+   "replyAuthorKnowsOriginalMessageAuthor": true
+  }
+ ]
+}

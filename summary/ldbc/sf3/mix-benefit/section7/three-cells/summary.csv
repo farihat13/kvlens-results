@@ -1,0 +1,43 @@
+workload,cell,query_bodies,query_bodies_exact,rows,rows_exact,priced_over_measured_wops,priced_over_measured_bytes,priced_over_measured_wops_bytes4k
+interactive,props_split_adj_condensed,55,55,275,275,1.0,1.0,1.0
+interactive,props_split_adj_chunked,55,55,275,275,1.0,1.0,1.0
+interactive,props_condensed_adj_split,55,55,275,275,1.0,1.0,1.0
+interactive,props_condensed_adj_chunked,55,55,275,275,1.0,1.0,1.0
+interactive,props_chunked_adj_split,55,55,275,275,1.0,1.0,1.0
+interactive,props_chunked_adj_condensed,55,55,275,275,1.0,1.0,1.0
+interactive held-out,props_split_adj_condensed,55,55,275,275,1.0,1.0,1.0
+interactive held-out,props_split_adj_chunked,55,55,275,275,1.0,1.0,1.0
+interactive held-out,props_condensed_adj_split,55,55,275,275,1.0,1.0,1.0
+interactive held-out,props_condensed_adj_chunked,55,55,275,275,1.0,1.0,1.0
+interactive held-out,props_chunked_adj_split,55,55,275,275,1.0,1.0,1.0
+interactive held-out,props_chunked_adj_condensed,55,55,275,275,1.0,1.0,1.0
+microbench,props_split_adj_condensed,65,65,279,279,1.0,1.0,1.0
+microbench,props_split_adj_chunked,65,65,279,279,1.0,1.0,1.0
+microbench,props_condensed_adj_split,65,65,279,279,1.0,1.0,1.0
+microbench,props_condensed_adj_chunked,65,65,279,279,1.0,1.0,1.0
+microbench,props_chunked_adj_split,65,65,279,279,1.0,1.0,1.0
+microbench,props_chunked_adj_condensed,65,65,279,279,1.0,1.0,1.0
+bi,props_split_adj_condensed,56,56,280,280,1.0,1.0,1.0
+bi,props_split_adj_chunked,56,56,280,280,1.0,1.0,1.0
+bi,props_condensed_adj_split,56,56,280,280,1.0,1.0,1.0
+bi,props_condensed_adj_chunked,56,56,280,280,1.0,1.0,1.0
+bi,props_chunked_adj_split,56,56,280,280,1.0,1.0,1.0
+bi,props_chunked_adj_condensed,56,56,280,280,1.0,1.0,1.0
+ldbc writes,props_split_adj_condensed,20,20,100,100,1.0,1.0,1.0
+ldbc writes,props_split_adj_chunked,20,20,100,100,1.0,1.0,1.0
+ldbc writes,props_condensed_adj_split,20,20,100,100,1.0,1.0,1.0
+ldbc writes,props_condensed_adj_chunked,20,20,100,100,1.0,1.0,1.0
+ldbc writes,props_chunked_adj_split,20,20,100,100,1.0,1.0,1.0
+ldbc writes,props_chunked_adj_condensed,20,20,100,100,1.0,1.0,1.0
+linkbench,props_split_adj_condensed,7,7,68994,68994,1.0,1.0,1.0
+linkbench,props_split_adj_chunked,7,7,68994,68994,1.0,1.0,1.0
+linkbench,props_condensed_adj_split,7,7,68994,68994,1.0,1.0,1.0
+linkbench,props_condensed_adj_chunked,7,7,68994,68994,1.0,1.0,1.0
+linkbench,props_chunked_adj_split,7,7,68994,68994,1.0,1.0,1.0
+linkbench,props_chunked_adj_condensed,7,7,68994,68994,1.0,1.0,1.0
+linkbench writes,props_split_adj_condensed,9,9,31006,31006,1.0,1.0,1.0
+linkbench writes,props_split_adj_chunked,9,9,31006,31006,1.0,1.0,1.0
+linkbench writes,props_condensed_adj_split,9,9,31006,31006,1.0,1.0,1.0
+linkbench writes,props_condensed_adj_chunked,9,9,31006,31006,1.0,1.0,1.0
+linkbench writes,props_chunked_adj_split,9,9,31006,31006,1.0,1.0,1.0
+linkbench writes,props_chunked_adj_condensed,9,9,31006,31006,1.0,1.0,1.0

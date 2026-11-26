@@ -1,0 +1,48 @@
+{
+ "query_sha": "4dcea213e133d224",
+ "params": {
+  "messageId": "msg_343598113697"
+ },
+ "data": {
+  "schema_sha256": "673074740eea54e4ba1fdc94eebf2087531b3007af7da660afffb3d1e8df0d1e",
+  "schema_path": "nebulagraph/schema/schema.gql",
+  "sf": "0.3",
+  "created": "2026-11-21T03:42:54Z",
+  "git_sha": "1d6662c2"
+ },
+ "fetched_at": "2026-11-20T23:54:50",
+ "raw": {
+  "keys": [
+   "commentId",
+   "commentContent",
+   "commentCreationDate",
+   "replyAuthorId",
+   "replyAuthorFirstName",
+   "replyAuthorLastName",
+   "knows",
+   "replyAuthorIdInt"
+  ],
+  "rows": [
+   {
+    "commentId": "msg_343598113698",
+    "commentContent": "ok",
+    "commentCreationDate": 1289622203787,
+    "replyAuthorId": "person_2199023259200",
+    "replyAuthorFirstName": "V.",
+    "replyAuthorLastName": "Joshi",
+    "knows": true,
+    "replyAuthorIdInt": 2199023259200
+   },
+   {
+    "commentId": "msg_343598113699",
+    "commentContent": "maybe",
+    "commentCreationDate": 1289594101838,
+    "replyAuthorId": "person_6597069766733",
+    "replyAuthorFirstName": "Karl",
+    "replyAuthorLastName": "Fischer",
+    "knows": false,
+    "replyAuthorIdInt": 6597069766733
+   }
+  ]
+ }
+}

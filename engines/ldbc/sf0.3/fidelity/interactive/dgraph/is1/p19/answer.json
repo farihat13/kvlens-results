@@ -1,0 +1,28 @@
+{
+ "query_sha": "6f63960c0f9c5e7e",
+ "params": {
+  "personId": "2199023256742"
+ },
+ "data": {
+  "schema_sha256": "03713a1e1c7b722e73bed6b150e079e69e9579c2a58c52e06f9d4384fdd4b80d",
+  "schema_path": "dgraph/schema/ldbcTypes.schema",
+  "sf": "0.3",
+  "created": "2026-11-21T02:56:18Z",
+  "git_sha": "60910999"
+ },
+ "fetched_at": "2026-11-21T00:01:17",
+ "raw": {
+  "person": [
+   {
+    "birthday": "1983-10-03T00:00:00Z",
+    "browserUsed": "Firefox",
+    "cityId": 323,
+    "creationDate": "2010-04-03T03:24:56.857Z",
+    "firstName": "Bing",
+    "gender": "male",
+    "lastName": "Zhang",
+    "locationIP": "1.30.114.227"
+   }
+  ]
+ }
+}

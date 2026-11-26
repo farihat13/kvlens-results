@@ -1,0 +1,83 @@
+{
+ "query_sha": "445239913e42deb8",
+ "params": {
+  "personId": "13194139534382",
+  "tagClassName": "MilitaryUnit"
+ },
+ "data": {
+  "schema_sha256": "03713a1e1c7b722e73bed6b150e079e69e9579c2a58c52e06f9d4384fdd4b80d",
+  "schema_path": "dgraph/schema/ldbcTypes.schema",
+  "sf": "0.3",
+  "created": "2026-11-21T02:56:18Z",
+  "git_sha": "60910999"
+ },
+ "fetched_at": "2026-11-20T23:49:27",
+ "raw": {
+  "_l1": [],
+  "friends": [
+   {
+    "friendFirstName": "Aamer",
+    "friendId": 4398046514593,
+    "friendLastName": "Qureshi",
+    "replyCount": 4,
+    "tagNames": "Hannibal"
+   },
+   {
+    "friendFirstName": "Aamer",
+    "friendId": 4398046514593,
+    "friendLastName": "Qureshi",
+    "replyCount": 4,
+    "tagNames": "Hannibal"
+   },
+   {
+    "friendFirstName": "Aamer",
+    "friendId": 4398046514593,
+    "friendLastName": "Qureshi",
+    "replyCount": 4,
+    "tagNames": "Hannibal"
+   },
+   {
+    "friendFirstName": "Aamer",
+    "friendId": 4398046514593,
+    "friendLastName": "Qureshi",
+    "replyCount": 4,
+    "tagNames": "Hannibal"
+   },
+   {
+    "friendFirstName": "Yang",
+    "friendId": 13194139535025,
+    "friendLastName": "Zhang",
+    "replyCount": 3,
+    "tagNames": "Hannibal"
+   },
+   {
+    "friendFirstName": "Yang",
+    "friendId": 13194139535025,
+    "friendLastName": "Zhang",
+    "replyCount": 3,
+    "tagNames": "Hannibal"
+   },
+   {
+    "friendFirstName": "Yang",
+    "friendId": 13194139535025,
+    "friendLastName": "Zhang",
+    "replyCount": 3,
+    "tagNames": "Hannibal"
+   },
+   {
+    "friendFirstName": "Eve-Mary Thai",
+    "friendId": 8796093025074,
+    "friendLastName": "Hoang",
+    "replyCount": 2,
+    "tagNames": "Hannibal"
+   },
+   {
+    "friendFirstName": "Eve-Mary Thai",
+    "friendId": 8796093025074,
+    "friendLastName": "Hoang",
+    "replyCount": 2,
+    "tagNames": "Hannibal"
+   }
+  ]
+ }
+}

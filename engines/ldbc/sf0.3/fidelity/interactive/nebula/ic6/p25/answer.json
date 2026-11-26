@@ -1,0 +1,63 @@
+{
+ "query_sha": "ad17deb8111088bd",
+ "params": {
+  "personId": "person_26388279069094",
+  "tagName": "Roman_Empire"
+ },
+ "data": {
+  "schema_sha256": "673074740eea54e4ba1fdc94eebf2087531b3007af7da660afffb3d1e8df0d1e",
+  "schema_path": "nebulagraph/schema/schema.gql",
+  "sf": "0.3",
+  "created": "2026-11-21T03:42:54Z",
+  "git_sha": "1d6662c2"
+ },
+ "fetched_at": "2026-11-21T00:03:49",
+ "raw": {
+  "keys": [
+   "tagName",
+   "postCount"
+  ],
+  "rows": [
+   {
+    "tagName": "Genghis_Khan",
+    "postCount": 3
+   },
+   {
+    "tagName": "Joe_Strummer",
+    "postCount": 3
+   },
+   {
+    "tagName": "Dimitri_Tiomkin",
+    "postCount": 2
+   },
+   {
+    "tagName": "Ernests_Gulbis",
+    "postCount": 2
+   },
+   {
+    "tagName": "L\u00e9opold_S\u00e9dar_Senghor",
+    "postCount": 2
+   },
+   {
+    "tagName": "Mali",
+    "postCount": 2
+   },
+   {
+    "tagName": "Robert_Plant",
+    "postCount": 2
+   },
+   {
+    "tagName": "Sammy_Sosa",
+    "postCount": 2
+   },
+   {
+    "tagName": "Sonia_Gandhi",
+    "postCount": 2
+   },
+   {
+    "tagName": "A_World_Without_Love",
+    "postCount": 1
+   }
+  ]
+ }
+}

@@ -1,0 +1,207 @@
+{
+ "query_sha": "cc60061064f78218",
+ "params": {
+  "personId": "28587302322565",
+  "firstName": "Diego"
+ },
+ "data": {
+  "schema_sha256": "03713a1e1c7b722e73bed6b150e079e69e9579c2a58c52e06f9d4384fdd4b80d",
+  "schema_path": "dgraph/schema/ldbcTypes.schema",
+  "sf": "0.3",
+  "created": "2026-11-21T02:56:18Z",
+  "git_sha": "60910999"
+ },
+ "fetched_at": "2026-11-20T23:56:30",
+ "raw": {
+  "_l1_from_p": [],
+  "_l2_expand": [],
+  "_l3_expand": [],
+  "friends1": [],
+  "friends2": [
+   {
+    "companyCountryName": "Mexico",
+    "companyName": "Estafeta_Carga_A\u00e9rea",
+    "friendBirthday": "1984-11-30T00:00:00Z",
+    "friendBrowserUsed": "Chrome",
+    "friendCityName": "Culiac\u00e1n",
+    "friendCreationDate": "2010-11-14T00:01:10.509Z",
+    "friendDistance": 2,
+    "friendEmails": [
+     "Diego10995116280870@gmx.com",
+     "Diego10995116280870@zoho.com"
+    ],
+    "friendFirstName": "Diego",
+    "friendGender": "male",
+    "friendId": 10995116280870,
+    "friendLanguages": [
+     "en",
+     "es"
+    ],
+    "friendLastName": "Gonzalez",
+    "friendLocationIp": "131.178.75.37",
+    "studyAt|classYear": "2006",
+    "uniCityName": "Irapuato",
+    "uniName": "Instituto_Tecnol\u00f3gico_Superior_de_Irapuato",
+    "workAt|workFrom": "2007"
+   },
+   {
+    "companyCountryName": "Mexico",
+    "companyName": "Avioquintana",
+    "friendBirthday": "1984-11-30T00:00:00Z",
+    "friendBrowserUsed": "Chrome",
+    "friendCityName": "Culiac\u00e1n",
+    "friendCreationDate": "2010-11-14T00:01:10.509Z",
+    "friendDistance": 2,
+    "friendEmails": [
+     "Diego10995116280870@gmx.com",
+     "Diego10995116280870@zoho.com"
+    ],
+    "friendFirstName": "Diego",
+    "friendGender": "male",
+    "friendId": 10995116280870,
+    "friendLanguages": [
+     "en",
+     "es"
+    ],
+    "friendLastName": "Gonzalez",
+    "friendLocationIp": "131.178.75.37",
+    "studyAt|classYear": "2006",
+    "uniCityName": "Irapuato",
+    "uniName": "Instituto_Tecnol\u00f3gico_Superior_de_Irapuato",
+    "workAt|workFrom": "2007"
+   },
+   {
+    "companyCountryName": "Mexico",
+    "companyName": "ARD_Charters",
+    "friendBirthday": "1984-11-30T00:00:00Z",
+    "friendBrowserUsed": "Chrome",
+    "friendCityName": "Culiac\u00e1n",
+    "friendCreationDate": "2010-11-14T00:01:10.509Z",
+    "friendDistance": 2,
+    "friendEmails": [
+     "Diego10995116280870@gmx.com",
+     "Diego10995116280870@zoho.com"
+    ],
+    "friendFirstName": "Diego",
+    "friendGender": "male",
+    "friendId": 10995116280870,
+    "friendLanguages": [
+     "en",
+     "es"
+    ],
+    "friendLastName": "Gonzalez",
+    "friendLocationIp": "131.178.75.37",
+    "studyAt|classYear": "2006",
+    "uniCityName": "Irapuato",
+    "uniName": "Instituto_Tecnol\u00f3gico_Superior_de_Irapuato",
+    "workAt|workFrom": "2007"
+   },
+   {
+    "companyCountryName": "Mexico",
+    "companyName": "Jetclub",
+    "friendBirthday": "1984-11-30T00:00:00Z",
+    "friendBrowserUsed": "Chrome",
+    "friendCityName": "Culiac\u00e1n",
+    "friendCreationDate": "2010-11-14T00:01:10.509Z",
+    "friendDistance": 2,
+    "friendEmails": [
+     "Diego10995116280870@gmx.com",
+     "Diego10995116280870@zoho.com"
+    ],
+    "friendFirstName": "Diego",
+    "friendGender": "male",
+    "friendId": 10995116280870,
+    "friendLanguages": [
+     "en",
+     "es"
+    ],
+    "friendLastName": "Gonzalez",
+    "friendLocationIp": "131.178.75.37",
+    "studyAt|classYear": "2006",
+    "uniCityName": "Irapuato",
+    "uniName": "Instituto_Tecnol\u00f3gico_Superior_de_Irapuato",
+    "workAt|workFrom": "2007"
+   }
+  ],
+  "friends3": [
+   {
+    "companyCountryName": "Spain",
+    "companyName": "Mayoral_Executive_Jet",
+    "friendBirthday": "1984-09-26T00:00:00Z",
+    "friendBrowserUsed": "Chrome",
+    "friendCityName": "Bilbao",
+    "friendCreationDate": "2012-01-10T16:44:35.436Z",
+    "friendDistance": 3,
+    "friendEmails": [
+     "Diego26388279069410@gmx.com"
+    ],
+    "friendFirstName": "Diego",
+    "friendGender": "male",
+    "friendId": 26388279069410,
+    "friendLanguages": [
+     "en",
+     "ca",
+     "es"
+    ],
+    "friendLastName": "Aguirre",
+    "friendLocationIp": "62.97.147.67",
+    "studyAt|classYear": "2002",
+    "uniCityName": "Bilbao",
+    "uniName": "University_of_the_Basque_Country",
+    "workAt|workFrom": "2004"
+   },
+   {
+    "companyCountryName": "Spain",
+    "companyName": "Pyrenair",
+    "friendBirthday": "1984-09-26T00:00:00Z",
+    "friendBrowserUsed": "Chrome",
+    "friendCityName": "Bilbao",
+    "friendCreationDate": "2012-01-10T16:44:35.436Z",
+    "friendDistance": 3,
+    "friendEmails": [
+     "Diego26388279069410@gmx.com"
+    ],
+    "friendFirstName": "Diego",
+    "friendGender": "male",
+    "friendId": 26388279069410,
+    "friendLanguages": [
+     "en",
+     "ca",
+     "es"
+    ],
+    "friendLastName": "Aguirre",
+    "friendLocationIp": "62.97.147.67",
+    "studyAt|classYear": "2002",
+    "uniCityName": "Bilbao",
+    "uniName": "University_of_the_Basque_Country",
+    "workAt|workFrom": "2004"
+   },
+   {
+    "companyCountryName": "Spain",
+    "companyName": "Futura_International_Airways",
+    "friendBirthday": "1984-09-26T00:00:00Z",
+    "friendBrowserUsed": "Chrome",
+    "friendCityName": "Bilbao",
+    "friendCreationDate": "2012-01-10T16:44:35.436Z",
+    "friendDistance": 3,
+    "friendEmails": [
+     "Diego26388279069410@gmx.com"
+    ],
+    "friendFirstName": "Diego",
+    "friendGender": "male",
+    "friendId": 26388279069410,
+    "friendLanguages": [
+     "en",
+     "ca",
+     "es"
+    ],
+    "friendLastName": "Aguirre",
+    "friendLocationIp": "62.97.147.67",
+    "studyAt|classYear": "2002",
+    "uniCityName": "Bilbao",
+    "uniName": "University_of_the_Basque_Country",
+    "workAt|workFrom": "2004"
+   }
+  ]
+ }
+}

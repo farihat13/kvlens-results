@@ -1,0 +1,300 @@
+{
+ "query_sha": "afd1398a68b07f16",
+ "params": {
+  "personId": "13194139535032"
+ },
+ "data": {
+  "schema_sha256": "03713a1e1c7b722e73bed6b150e079e69e9579c2a58c52e06f9d4384fdd4b80d",
+  "schema_path": "dgraph/schema/ldbcTypes.schema",
+  "sf": "0.3",
+  "created": "2026-11-21T02:56:18Z",
+  "git_sha": "60910999"
+ },
+ "fetched_at": "2026-11-21T00:02:42",
+ "raw": {
+  "person": [
+   {
+    "messages": [
+     {
+      "messageId": 1099512675197,
+      "messageCreationDate": "2012-09-12T02:41:07.893Z",
+      "content": "no way!",
+      "messageType": [
+       "comment"
+      ],
+      "selfAsOriginal": [
+       {
+        "authorId": 13194139535032,
+        "authorFirstName": "Ivan",
+        "authorLastName": "Popov"
+       }
+      ],
+      "parentComment": {
+       "dgraph.type": [
+        "comment"
+       ],
+       "grandParentPost": {
+        "postId": 1099512675194,
+        "originalPoster": [
+         {
+          "authorId": 2199023255747,
+          "authorFirstName": "Amit",
+          "authorLastName": "Rao"
+         }
+        ]
+       }
+      }
+     },
+     {
+      "messageId": 1030792658658,
+      "messageCreationDate": "2012-09-08T06:31:29.186Z",
+      "content": "About Albania, ory part of the Roman provinces of DalAbout Love Symbol Albu",
+      "messageType": [
+       "comment"
+      ],
+      "selfAsOriginal": [
+       {
+        "authorId": 13194139535032,
+        "authorFirstName": "Ivan",
+        "authorLastName": "Popov"
+       }
+      ],
+      "parentComment": {
+       "dgraph.type": [
+        "comment"
+       ],
+       "grandParentComment": {
+        "greatGrandParentPost": {
+         "postId": 1030792658652,
+         "originalPoster": [
+          {
+           "authorId": 26388279068150,
+           "authorFirstName": "Vladimir",
+           "authorLastName": "Kofler"
+          }
+         ]
+        }
+       }
+      }
+     },
+     {
+      "messageId": 1030792997640,
+      "messageCreationDate": "2012-08-24T12:46:07.176Z",
+      "content": "roflol",
+      "messageType": [
+       "comment"
+      ],
+      "originalPost": {
+       "postId": 1030792997638,
+       "postCreationDate": "2012-08-23T22:46:35.935Z",
+       "postContent": "About Exile on Main St., ritish and 12th American studio album by English rock band The Rolling Stones. Released as a double LP in May",
+       "originalPoster": [
+        {
+         "authorId": 13194139533432,
+         "authorFirstName": "Adriaen",
+         "authorLastName": "Jong"
+        }
+       ]
+      },
+      "selfAsOriginal": [
+       {
+        "authorId": 13194139535032,
+        "authorFirstName": "Ivan",
+        "authorLastName": "Popov"
+       }
+      ]
+     },
+     {
+      "messageId": 1030792997300,
+      "messageCreationDate": "2012-08-24T06:15:42.624Z",
+      "content": "thanks",
+      "messageType": [
+       "comment"
+      ],
+      "selfAsOriginal": [
+       {
+        "authorId": 13194139535032,
+        "authorFirstName": "Ivan",
+        "authorLastName": "Popov"
+       }
+      ],
+      "parentComment": {
+       "dgraph.type": [
+        "comment"
+       ],
+       "grandParentComment": {
+        "greatGrandParentPost": {
+         "postId": 1030792997289,
+         "originalPoster": [
+          {
+           "authorId": 2199023258912,
+           "authorFirstName": "Charles",
+           "authorLastName": "Camp"
+          }
+         ]
+        }
+       }
+      }
+     },
+     {
+      "messageId": 1030792934161,
+      "messageCreationDate": "2012-08-22T10:13:19.989Z",
+      "content": "duh",
+      "messageType": [
+       "comment"
+      ],
+      "originalPost": {
+       "postId": 1030792934150,
+       "postCreationDate": "2012-08-21T13:10:31.742Z",
+       "postContent": "About Mel Gibson, creenwriter. He was born in Peekskill, New York, moved with his parents to Sydney, Austral",
+       "originalPoster": [
+        {
+         "authorId": 8796093025123,
+         "authorFirstName": "Batong",
+         "authorLastName": "Duyet"
+        }
+       ]
+      },
+      "selfAsOriginal": [
+       {
+        "authorId": 13194139535032,
+        "authorFirstName": "Ivan",
+        "authorLastName": "Popov"
+       }
+      ]
+     },
+     {
+      "messageId": 1030792934154,
+      "messageCreationDate": "2012-08-21T13:47:08.096Z",
+      "content": "no",
+      "messageType": [
+       "comment"
+      ],
+      "selfAsOriginal": [
+       {
+        "authorId": 13194139535032,
+        "authorFirstName": "Ivan",
+        "authorLastName": "Popov"
+       }
+      ],
+      "parentComment": {
+       "dgraph.type": [
+        "comment"
+       ],
+       "grandParentPost": {
+        "postId": 1030792934150,
+        "originalPoster": [
+         {
+          "authorId": 8796093025123,
+          "authorFirstName": "Batong",
+          "authorLastName": "Duyet"
+         }
+        ]
+       }
+      }
+     },
+     {
+      "messageId": 1030792998312,
+      "messageCreationDate": "2012-08-21T06:37:43.335Z",
+      "content": "no way!",
+      "messageType": [
+       "comment"
+      ],
+      "selfAsOriginal": [
+       {
+        "authorId": 13194139535032,
+        "authorFirstName": "Ivan",
+        "authorLastName": "Popov"
+       }
+      ],
+      "parentComment": {
+       "dgraph.type": [
+        "comment"
+       ],
+       "grandParentPost": {
+        "postId": 1030792998306,
+        "originalPoster": [
+         {
+          "authorId": 13194139534668,
+          "authorFirstName": "Ion",
+          "authorLastName": "Popescu"
+         }
+        ]
+       }
+      }
+     },
+     {
+      "messageId": 1030792934787,
+      "messageCreationDate": "2012-08-11T15:16:12.864Z",
+      "content": "About Mel Gibson,  was 12 years old, and later studied actAbout Denzel Washingt",
+      "messageType": [
+       "comment"
+      ],
+      "originalPost": {
+       "postId": 1030792934784,
+       "postCreationDate": "2012-08-11T12:50:05.429Z",
+       "postContent": "About Mel Gibson, ydney, Australia when he was 12 years old, and later studied acting at the Australian National Insti",
+       "originalPoster": [
+        {
+         "authorId": 17592186044519,
+         "authorFirstName": "Aleksandr",
+         "authorLastName": "Akhmadiyeva"
+        }
+       ]
+      },
+      "selfAsOriginal": [
+       {
+        "authorId": 13194139535032,
+        "authorFirstName": "Ivan",
+        "authorLastName": "Popov"
+       }
+      ]
+     },
+     {
+      "messageId": 1030792236781,
+      "messageCreationDate": "2012-08-05T03:17:20.871Z",
+      "imageFile": "",
+      "content": "About Ehud Olmert, es chose Benjamin NetanyAbout Tom Waits, ed gold album sales statAbout Burma, afficking and a lack",
+      "messageType": [
+       "post"
+      ],
+      "selfAsOriginal": [
+       {
+        "authorId": 13194139535032,
+        "authorFirstName": "Ivan",
+        "authorLastName": "Popov"
+       }
+      ]
+     },
+     {
+      "messageId": 1030792934499,
+      "messageCreationDate": "2012-07-31T15:10:19.319Z",
+      "content": "About Mel Gibson, Max and Lethal Weapon series, Gibson went on to direct and star in the About Hot n Cold, evious worldwide hit I Kissed a Gi",
+      "messageType": [
+       "comment"
+      ],
+      "originalPost": {
+       "postId": 1030792934498,
+       "postCreationDate": "2012-07-31T02:11:44.957Z",
+       "postContent": "About Mel Gibson, New York, moved with his parents to Sydney, Australia when he was 12 years old, ",
+       "originalPoster": [
+        {
+         "authorId": 19791209301790,
+         "authorFirstName": "Ahmad Rafiq",
+         "authorLastName": "Thielsch"
+        }
+       ]
+      },
+      "selfAsOriginal": [
+       {
+        "authorId": 13194139535032,
+        "authorFirstName": "Ivan",
+        "authorLastName": "Popov"
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

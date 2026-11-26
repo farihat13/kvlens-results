@@ -1,0 +1,362 @@
+{
+ "query_sha": "e534711ff51080e0",
+ "params": {
+  "personId": "10995116278647",
+  "maxDate": "2012-08-28T00:00:00Z"
+ },
+ "data": {
+  "schema_sha256": "03713a1e1c7b722e73bed6b150e079e69e9579c2a58c52e06f9d4384fdd4b80d",
+  "schema_path": "dgraph/schema/ldbcTypes.schema",
+  "sf": "0.1",
+  "created": "2026-11-21T03:25:44Z",
+  "git_sha": "92777160"
+ },
+ "fetched_at": "2026-11-21T01:05:33",
+ "raw": {
+  "_n1": [],
+  "posts": [
+   {
+    "friendFirstName": "Juan",
+    "friendId": 32985348834937,
+    "friendLastName": "Perez",
+    "messageContent": "About Saddam Hussein, f War, and UN sanctions. Through the 1970s, Saddam cemented his authority over the apparatuses of government as oil mone",
+    "messageCreationDate": "2012-08-25T11:06:37.065Z",
+    "messageId": 1030792320509,
+    "messageImageFile": ""
+   },
+   {
+    "friendFirstName": "John",
+    "friendId": 1490,
+    "friendLastName": "Wilson",
+    "messageContent": "",
+    "messageCreationDate": "2012-08-24T07:10:14.376Z",
+    "messageId": 1030792308681,
+    "messageImageFile": "photo1030792308681.jpg"
+   },
+   {
+    "friendFirstName": "John",
+    "friendId": 1490,
+    "friendLastName": "Wilson",
+    "messageContent": "",
+    "messageCreationDate": "2012-08-24T07:10:13.376Z",
+    "messageId": 1030792308680,
+    "messageImageFile": "photo1030792308680.jpg"
+   },
+   {
+    "friendFirstName": "John",
+    "friendId": 1490,
+    "friendLastName": "Wilson",
+    "messageContent": "",
+    "messageCreationDate": "2012-08-24T07:10:12.376Z",
+    "messageId": 1030792308679,
+    "messageImageFile": "photo1030792308679.jpg"
+   },
+   {
+    "friendFirstName": "John",
+    "friendId": 1490,
+    "friendLastName": "Wilson",
+    "messageContent": "",
+    "messageCreationDate": "2012-08-24T07:10:11.376Z",
+    "messageId": 1030792308678,
+    "messageImageFile": "photo1030792308678.jpg"
+   },
+   {
+    "friendFirstName": "John",
+    "friendId": 1490,
+    "friendLastName": "Wilson",
+    "messageContent": "",
+    "messageCreationDate": "2012-08-24T07:10:10.376Z",
+    "messageId": 1030792308677,
+    "messageImageFile": "photo1030792308677.jpg"
+   },
+   {
+    "friendFirstName": "John",
+    "friendId": 1490,
+    "friendLastName": "Wilson",
+    "messageContent": "",
+    "messageCreationDate": "2012-08-24T07:10:09.376Z",
+    "messageId": 1030792308676,
+    "messageImageFile": "photo1030792308676.jpg"
+   },
+   {
+    "friendFirstName": "John",
+    "friendId": 1490,
+    "friendLastName": "Wilson",
+    "messageContent": "",
+    "messageCreationDate": "2012-08-24T07:10:08.376Z",
+    "messageId": 1030792308675,
+    "messageImageFile": "photo1030792308675.jpg"
+   },
+   {
+    "friendFirstName": "John",
+    "friendId": 1490,
+    "friendLastName": "Wilson",
+    "messageContent": "",
+    "messageCreationDate": "2012-08-24T07:10:07.376Z",
+    "messageId": 1030792308674,
+    "messageImageFile": "photo1030792308674.jpg"
+   },
+   {
+    "friendFirstName": "John",
+    "friendId": 1490,
+    "friendLastName": "Wilson",
+    "messageContent": "",
+    "messageCreationDate": "2012-08-24T07:10:06.376Z",
+    "messageId": 1030792308673,
+    "messageImageFile": "photo1030792308673.jpg"
+   },
+   {
+    "friendFirstName": "John",
+    "friendId": 1490,
+    "friendLastName": "Wilson",
+    "messageContent": "",
+    "messageCreationDate": "2012-08-24T07:10:05.376Z",
+    "messageId": 1030792308672,
+    "messageImageFile": "photo1030792308672.jpg"
+   },
+   {
+    "friendFirstName": "John",
+    "friendId": 1490,
+    "friendLastName": "Wilson",
+    "messageContent": "",
+    "messageCreationDate": "2012-08-24T07:10:04.376Z",
+    "messageId": 1030792308671,
+    "messageImageFile": "photo1030792308671.jpg"
+   },
+   {
+    "friendFirstName": "John",
+    "friendId": 1490,
+    "friendLastName": "Wilson",
+    "messageContent": "",
+    "messageCreationDate": "2012-08-24T07:10:03.376Z",
+    "messageId": 1030792308670,
+    "messageImageFile": "photo1030792308670.jpg"
+   },
+   {
+    "friendFirstName": "John",
+    "friendId": 1490,
+    "friendLastName": "Wilson",
+    "messageContent": "",
+    "messageCreationDate": "2012-08-24T07:10:02.376Z",
+    "messageId": 1030792308669,
+    "messageImageFile": "photo1030792308669.jpg"
+   },
+   {
+    "friendFirstName": "John",
+    "friendId": 1490,
+    "friendLastName": "Wilson",
+    "messageContent": "",
+    "messageCreationDate": "2012-08-24T07:10:01.376Z",
+    "messageId": 1030792308668,
+    "messageImageFile": "photo1030792308668.jpg"
+   },
+   {
+    "friendFirstName": "John",
+    "friendId": 1490,
+    "friendLastName": "Wilson",
+    "messageContent": "",
+    "messageCreationDate": "2012-08-24T07:10:00.376Z",
+    "messageId": 1030792308667,
+    "messageImageFile": "photo1030792308667.jpg"
+   },
+   {
+    "friendFirstName": "John",
+    "friendId": 1490,
+    "friendLastName": "Wilson",
+    "messageContent": "",
+    "messageCreationDate": "2012-08-24T07:09:59.376Z",
+    "messageId": 1030792308666,
+    "messageImageFile": "photo1030792308666.jpg"
+   },
+   {
+    "friendFirstName": "John",
+    "friendId": 1490,
+    "friendLastName": "Wilson",
+    "messageContent": "",
+    "messageCreationDate": "2012-08-24T07:09:58.376Z",
+    "messageId": 1030792308665,
+    "messageImageFile": "photo1030792308665.jpg"
+   },
+   {
+    "friendFirstName": "John",
+    "friendId": 1490,
+    "friendLastName": "Wilson",
+    "messageContent": "",
+    "messageCreationDate": "2012-08-24T07:09:57.376Z",
+    "messageId": 1030792308664,
+    "messageImageFile": "photo1030792308664.jpg"
+   },
+   {
+    "friendFirstName": "John",
+    "friendId": 1490,
+    "friendLastName": "Wilson",
+    "messageContent": "",
+    "messageCreationDate": "2012-08-24T07:09:56.376Z",
+    "messageId": 1030792308663,
+    "messageImageFile": "photo1030792308663.jpg"
+   }
+  ],
+  "comments": [
+   {
+    "friendFirstName": "Ali",
+    "friendId": 15393162788906,
+    "friendLastName": "Achiou",
+    "messageContent": "About Lebanon, dom to its citizens, ranking first in the Middle East and 26th worldwide (out of 66 countries) in the The ",
+    "messageCreationDate": "2012-08-27T02:06:12.036Z",
+    "messageId": 1030792343590
+   },
+   {
+    "friendFirstName": "Hans",
+    "friendId": 1242,
+    "friendLastName": "Johansson",
+    "messageContent": "great",
+    "messageCreationDate": "2012-08-26T16:54:34.401Z",
+    "messageId": 1030792320518
+   },
+   {
+    "friendFirstName": "Hans",
+    "friendId": 1242,
+    "friendLastName": "Johansson",
+    "messageContent": "no",
+    "messageCreationDate": "2012-08-26T16:32:56.23Z",
+    "messageId": 1030792322025
+   },
+   {
+    "friendFirstName": "Joao",
+    "friendId": 28587302323722,
+    "friendLastName": "Oliveira",
+    "messageContent": "cool",
+    "messageCreationDate": "2012-08-26T09:50:41.76Z",
+    "messageId": 1030792243776
+   },
+   {
+    "friendFirstName": "Juan",
+    "friendId": 32985348834937,
+    "friendLastName": "Perez",
+    "messageContent": "About Ice Cube, s, as well as one of rap's greatest storyteAbout Saddam Hussein, 0s,",
+    "messageCreationDate": "2012-08-26T04:51:47.012Z",
+    "messageId": 1030792322027
+   },
+   {
+    "friendFirstName": "John",
+    "friendId": 1490,
+    "friendLastName": "Wilson",
+    "messageContent": "LOL",
+    "messageCreationDate": "2012-08-25T13:49:23.229Z",
+    "messageId": 1030792320305
+   },
+   {
+    "friendFirstName": "Juan",
+    "friendId": 32985348834937,
+    "friendLastName": "Perez",
+    "messageContent": "duh",
+    "messageCreationDate": "2012-08-25T12:40:36.058Z",
+    "messageId": 1030792320514
+   },
+   {
+    "friendFirstName": "Ali",
+    "friendId": 15393162788906,
+    "friendLastName": "Achiou",
+    "messageContent": "About Hal Roach, rold Eugene Hal Roach, Sr. (January 14, 1892 -About Bugs Bunny, ably the ",
+    "messageCreationDate": "2012-08-25T11:17:53.542Z",
+    "messageId": 1030792343623
+   },
+   {
+    "friendFirstName": "Ali",
+    "friendId": 15393162788906,
+    "friendLastName": "Achiou",
+    "messageContent": "yes",
+    "messageCreationDate": "2012-08-25T10:46:28.252Z",
+    "messageId": 1030792167473
+   },
+   {
+    "friendFirstName": "Joao",
+    "friendId": 28587302323722,
+    "friendLastName": "Oliveira",
+    "messageContent": "cool",
+    "messageCreationDate": "2012-08-24T13:40:03.632Z",
+    "messageId": 1030792268270
+   },
+   {
+    "friendFirstName": "Roberto",
+    "friendId": 1274,
+    "friendLastName": "Fernandez",
+    "messageContent": "yes",
+    "messageCreationDate": "2012-08-24T03:43:00.436Z",
+    "messageId": 1030792256830
+   },
+   {
+    "friendFirstName": "Joao",
+    "friendId": 28587302323722,
+    "friendLastName": "Oliveira",
+    "messageContent": "LOL",
+    "messageCreationDate": "2012-08-24T03:33:36.491Z",
+    "messageId": 1030792316430
+   },
+   {
+    "friendFirstName": "Joao",
+    "friendId": 28587302323722,
+    "friendLastName": "Oliveira",
+    "messageContent": "About Vanuatu, mbers of a Spanish expedition led by Portuguese navigator Fernande",
+    "messageCreationDate": "2012-08-24T01:35:29.828Z",
+    "messageId": 1030792268269
+   },
+   {
+    "friendFirstName": "John",
+    "friendId": 1490,
+    "friendLastName": "Wilson",
+    "messageContent": "LOL",
+    "messageCreationDate": "2012-08-23T20:44:48.165Z",
+    "messageId": 1030792213450
+   },
+   {
+    "friendFirstName": "Juan",
+    "friendId": 32985348834937,
+    "friendLastName": "Perez",
+    "messageContent": "About Andrew Lloyd Webber,  Technicolor Dreamcoat and MemoAbout Lebanon,  attracted large ",
+    "messageCreationDate": "2012-08-23T15:26:22.728Z",
+    "messageId": 1030792433971
+   },
+   {
+    "friendFirstName": "Joao",
+    "friendId": 28587302323722,
+    "friendLastName": "Oliveira",
+    "messageContent": "About Anthony of Padua, c priest and friar of the Franciscan OrdeAbout Luxembour",
+    "messageCreationDate": "2012-08-23T13:20:51.263Z",
+    "messageId": 1030792316417
+   },
+   {
+    "friendFirstName": "Ali",
+    "friendId": 15393162788906,
+    "friendLastName": "Achiou",
+    "messageContent": "I see",
+    "messageCreationDate": "2012-08-23T12:52:04.555Z",
+    "messageId": 1030792362052
+   },
+   {
+    "friendFirstName": "John",
+    "friendId": 1490,
+    "friendLastName": "Wilson",
+    "messageContent": "About Henry Clay, separately in both the Senate and in the House of Representatives. H",
+    "messageCreationDate": "2012-08-23T12:33:33.182Z",
+    "messageId": 1030792362057
+   },
+   {
+    "friendFirstName": "Joao",
+    "friendId": 28587302323722,
+    "friendLastName": "Oliveira",
+    "messageContent": "great",
+    "messageCreationDate": "2012-08-23T05:09:31.733Z",
+    "messageId": 1030792302221
+   },
+   {
+    "friendFirstName": "Roberto",
+    "friendId": 1274,
+    "friendLastName": "Fernandez",
+    "messageContent": "About Guy Sebastian, ther top ten singles and a number three album,About John Quincy Adams",
+    "messageCreationDate": "2012-08-22T03:49:50.986Z",
+    "messageId": 1030792260570
+   }
+  ]
+ }
+}

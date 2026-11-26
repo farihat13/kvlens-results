@@ -1,0 +1,64 @@
+{
+ "query_sha": "aab56a2aedd27dfa",
+ "params": {
+  "personId": 32985348834334
+ },
+ "data": {
+  "schema_sha256": "b8e206f17e60692c830ba0c3c675fbc481a22f26011282ce523890eb09be8a74",
+  "schema_path": "arangodb/schema/ldbc_schema.json",
+  "sf": "0.3",
+  "created": "2026-11-21T03:01:29Z",
+  "git_sha": "60910999"
+ },
+ "fetched_at": "2026-11-20T23:56:28",
+ "raw": [
+  {
+   "friendId": 2199023256077,
+   "friendFirstName": "Ibrahim Bare",
+   "friendLastName": "Ousmane",
+   "friendshipCreationDate": 1347201214032
+  },
+  {
+   "friendId": 10995116281209,
+   "friendFirstName": "Abdou",
+   "friendLastName": "Diouf",
+   "friendshipCreationDate": 1346965049636
+  },
+  {
+   "friendId": 30786325578585,
+   "friendFirstName": "Ayesha",
+   "friendLastName": "Butt",
+   "friendshipCreationDate": 1346626325033
+  },
+  {
+   "friendId": 1564,
+   "friendFirstName": "Emperor of Brazil",
+   "friendLastName": "Silva",
+   "friendshipCreationDate": 1346608394807
+  },
+  {
+   "friendId": 459,
+   "friendFirstName": "Jharana Bajracharya Rashid",
+   "friendLastName": "Shrestha",
+   "friendshipCreationDate": 1346608117613
+  },
+  {
+   "friendId": 8796093023851,
+   "friendFirstName": "Evangelos",
+   "friendLastName": "Dionysiou",
+   "friendshipCreationDate": 1346379741109
+  },
+  {
+   "friendId": 2199023258743,
+   "friendFirstName": "Dominique",
+   "friendLastName": "Dia",
+   "friendshipCreationDate": 1346323797114
+  },
+  {
+   "friendId": 13194139534520,
+   "friendFirstName": "Rafael",
+   "friendLastName": "Santos",
+   "friendshipCreationDate": 1345718585275
+  }
+ ]
+}

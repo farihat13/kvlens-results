@@ -1,0 +1,27 @@
+{
+ "query_sha": "907f15bd35b7d66e",
+ "params": {
+  "personId": "19791209301139",
+  "startDate": "2011-03-01T00:00:00Z",
+  "countryXName": "El_Salvador",
+  "countryYName": "Mongolia",
+  "endDate": "2011-03-29T00:00:00Z"
+ },
+ "data_created": "2026-11-21T02:56:18Z",
+ "measured_at": "2026-11-20T23:09:55",
+ "raw": {
+  "get_bytes": 45663896,
+  "get_count": 661216,
+  "get_found_count": 661216,
+  "get_latency_ns": 35348806845,
+  "next_bytes": 0,
+  "next_count": 0,
+  "next_latency_ns": 0,
+  "seek_bytes": 19197465,
+  "seek_count": 332049,
+  "seek_latency_ns": 12669786104,
+  "set_bytes": 0,
+  "set_count": 0,
+  "set_latency_ns": 0
+ }
+}

@@ -1,0 +1,77 @@
+{
+ "query_sha": "32998970dd90364b",
+ "params": {
+  "personId": "person_19791209301540",
+  "tagClassName": "FormulaOneRacer"
+ },
+ "data": {
+  "schema_sha256": "673074740eea54e4ba1fdc94eebf2087531b3007af7da660afffb3d1e8df0d1e",
+  "schema_path": "nebulagraph/schema/schema.gql",
+  "sf": "0.3",
+  "created": "2026-11-21T03:42:54Z",
+  "git_sha": "1d6662c2"
+ },
+ "fetched_at": "2026-11-20T23:51:22",
+ "raw": {
+  "keys": [
+   "friendId",
+   "friendFirstName",
+   "friendLastName",
+   "tagNames",
+   "replyCount",
+   "friendIdInt"
+  ],
+  "rows": [
+   {
+    "friendId": "person_1564",
+    "friendFirstName": "Emperor of Brazil",
+    "friendLastName": "Silva",
+    "tagNames": [
+     "Michael_Schumacher"
+    ],
+    "replyCount": 2,
+    "friendIdInt": 1564
+   },
+   {
+    "friendId": "person_2783",
+    "friendFirstName": "Rafael",
+    "friendLastName": "Alonso",
+    "tagNames": [
+     "Michael_Schumacher"
+    ],
+    "replyCount": 1,
+    "friendIdInt": 2783
+   },
+   {
+    "friendId": "person_4398046512890",
+    "friendFirstName": "Abhishek",
+    "friendLastName": "Kapoor",
+    "tagNames": [
+     "Michael_Schumacher"
+    ],
+    "replyCount": 1,
+    "friendIdInt": 4398046512890
+   },
+   {
+    "friendId": "person_6597069767851",
+    "friendFirstName": "Luis",
+    "friendLastName": "Rodriguez",
+    "tagNames": [
+     "Michael_Schumacher"
+    ],
+    "replyCount": 1,
+    "friendIdInt": 6597069767851
+   },
+   {
+    "friendId": "person_19791209303491",
+    "friendFirstName": "George",
+    "friendLastName": "Nagy",
+    "tagNames": [
+     "Denny_Hulme"
+    ],
+    "replyCount": 1,
+    "friendIdInt": 19791209303491
+   }
+  ]
+ }
+}

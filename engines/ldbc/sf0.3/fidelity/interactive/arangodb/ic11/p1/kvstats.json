@@ -1,0 +1,33 @@
+{
+ "query_sha": "a28ac6b26a8dcd82",
+ "params": {
+  "personId": 24189255813168,
+  "countryName": "Rwanda",
+  "workFromYear": 2012
+ },
+ "data_created": "2026-11-21T03:01:29Z",
+ "measured_at": "2026-11-20T23:01:45",
+ "raw": {
+  "get_count": 28987,
+  "get_found_count": 28987,
+  "get_time_ns": 38095997,
+  "get_bytes": 2643185,
+  "seek_count": 4035,
+  "seek_time_ns": 186692851,
+  "seek_bytes": 172484,
+  "next_count": 7336,
+  "next_time_ns": 952761,
+  "next_bytes": 200090,
+  "prev_count": 0,
+  "prev_time_ns": 0,
+  "prev_bytes": 0,
+  "put_count": 0,
+  "put_time_ns": 0,
+  "put_bytes": 0,
+  "delete_count": 0,
+  "delete_time_ns": 0,
+  "delete_bytes": 0,
+  "commit_count": 0,
+  "commit_time_ns": 0
+ }
+}

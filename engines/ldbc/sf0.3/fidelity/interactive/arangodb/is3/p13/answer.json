@@ -1,0 +1,70 @@
+{
+ "query_sha": "aab56a2aedd27dfa",
+ "params": {
+  "personId": 28587302322565
+ },
+ "data": {
+  "schema_sha256": "b8e206f17e60692c830ba0c3c675fbc481a22f26011282ce523890eb09be8a74",
+  "schema_path": "arangodb/schema/ldbc_schema.json",
+  "sf": "0.3",
+  "created": "2026-11-21T03:01:29Z",
+  "git_sha": "60910999"
+ },
+ "fetched_at": "2026-11-20T23:58:14",
+ "raw": [
+  {
+   "friendId": 32985348835870,
+   "friendFirstName": "Alberto",
+   "friendLastName": "Arango",
+   "friendshipCreationDate": 1346019887373
+  },
+  {
+   "friendId": 30786325581473,
+   "friendFirstName": "Paul",
+   "friendLastName": "Williams",
+   "friendshipCreationDate": 1340233525881
+  },
+  {
+   "friendId": 6597069767242,
+   "friendFirstName": "Salim Ahmed",
+   "friendLastName": "Binalshibh",
+   "friendshipCreationDate": 1336400539949
+  },
+  {
+   "friendId": 24189255813524,
+   "friendFirstName": "Ahmad",
+   "friendLastName": "Motamed",
+   "friendshipCreationDate": 1336317951500
+  },
+  {
+   "friendId": 17592186046393,
+   "friendFirstName": "Sergio",
+   "friendLastName": "Mendez",
+   "friendshipCreationDate": 1335850674965
+  },
+  {
+   "friendId": 21990232558653,
+   "friendFirstName": "Ning",
+   "friendLastName": "Chen",
+   "friendshipCreationDate": 1335688927293
+  },
+  {
+   "friendId": 2194,
+   "friendFirstName": "Alexander",
+   "friendLastName": "Dobrunov",
+   "friendshipCreationDate": 1334604824248
+  },
+  {
+   "friendId": 10995116279934,
+   "friendFirstName": "Gisela",
+   "friendLastName": "Aguirre",
+   "friendshipCreationDate": 1334082819486
+  },
+  {
+   "friendId": 24189255812733,
+   "friendFirstName": "Alejandro",
+   "friendLastName": "Gonzalez",
+   "friendshipCreationDate": 1334055731504
+  }
+ ]
+}

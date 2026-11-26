@@ -1,0 +1,196 @@
+{
+ "query_sha": "afd1398a68b07f16",
+ "params": {
+  "personId": "26388279069094"
+ },
+ "data": {
+  "schema_sha256": "03713a1e1c7b722e73bed6b150e079e69e9579c2a58c52e06f9d4384fdd4b80d",
+  "schema_path": "dgraph/schema/ldbcTypes.schema",
+  "sf": "0.3",
+  "created": "2026-11-21T02:56:18Z",
+  "git_sha": "60910999"
+ },
+ "fetched_at": "2026-11-21T00:04:10",
+ "raw": {
+  "person": [
+   {
+    "messages": [
+     {
+      "messageId": 1030792918628,
+      "messageCreationDate": "2012-09-03T13:30:58.871Z",
+      "imageFile": "",
+      "content": "About Shakira, to track her down but it turned out that she was living in About Donald Trump,  and in 1968 officially",
+      "messageType": [
+       "post"
+      ],
+      "selfAsOriginal": [
+       {
+        "authorId": 26388279069094,
+        "authorFirstName": "Yuki",
+        "authorLastName": "Yamada"
+       }
+      ]
+     },
+     {
+      "messageId": 1030792670336,
+      "messageCreationDate": "2012-08-18T07:09:30.364Z",
+      "content": "right",
+      "messageType": [
+       "comment"
+      ],
+      "selfAsOriginal": [
+       {
+        "authorId": 26388279069094,
+        "authorFirstName": "Yuki",
+        "authorLastName": "Yamada"
+       }
+      ],
+      "parentComment": {
+       "dgraph.type": [
+        "comment"
+       ],
+       "grandParentPost": {
+        "postId": 1030792670333,
+        "originalPoster": [
+         {
+          "authorId": 6597069768549,
+          "authorFirstName": "Peter",
+          "authorLastName": "Laszlo"
+         }
+        ]
+       }
+      }
+     },
+     {
+      "messageId": 1030792918701,
+      "messageCreationDate": "2012-08-10T04:51:38.398Z",
+      "imageFile": "photo1030792918701.jpg",
+      "content": "",
+      "messageType": [
+       "post"
+      ],
+      "selfAsOriginal": [
+       {
+        "authorId": 26388279069094,
+        "authorFirstName": "Yuki",
+        "authorLastName": "Yamada"
+       }
+      ]
+     },
+     {
+      "messageId": 1030792918700,
+      "messageCreationDate": "2012-08-10T04:51:37.398Z",
+      "imageFile": "photo1030792918700.jpg",
+      "content": "",
+      "messageType": [
+       "post"
+      ],
+      "selfAsOriginal": [
+       {
+        "authorId": 26388279069094,
+        "authorFirstName": "Yuki",
+        "authorLastName": "Yamada"
+       }
+      ]
+     },
+     {
+      "messageId": 1030792918699,
+      "messageCreationDate": "2012-08-10T04:51:36.398Z",
+      "imageFile": "photo1030792918699.jpg",
+      "content": "",
+      "messageType": [
+       "post"
+      ],
+      "selfAsOriginal": [
+       {
+        "authorId": 26388279069094,
+        "authorFirstName": "Yuki",
+        "authorLastName": "Yamada"
+       }
+      ]
+     },
+     {
+      "messageId": 1030792918698,
+      "messageCreationDate": "2012-08-10T04:51:35.398Z",
+      "imageFile": "photo1030792918698.jpg",
+      "content": "",
+      "messageType": [
+       "post"
+      ],
+      "selfAsOriginal": [
+       {
+        "authorId": 26388279069094,
+        "authorFirstName": "Yuki",
+        "authorLastName": "Yamada"
+       }
+      ]
+     },
+     {
+      "messageId": 1030792918697,
+      "messageCreationDate": "2012-08-10T04:51:34.398Z",
+      "imageFile": "photo1030792918697.jpg",
+      "content": "",
+      "messageType": [
+       "post"
+      ],
+      "selfAsOriginal": [
+       {
+        "authorId": 26388279069094,
+        "authorFirstName": "Yuki",
+        "authorLastName": "Yamada"
+       }
+      ]
+     },
+     {
+      "messageId": 1030792918696,
+      "messageCreationDate": "2012-08-10T04:51:33.398Z",
+      "imageFile": "photo1030792918696.jpg",
+      "content": "",
+      "messageType": [
+       "post"
+      ],
+      "selfAsOriginal": [
+       {
+        "authorId": 26388279069094,
+        "authorFirstName": "Yuki",
+        "authorLastName": "Yamada"
+       }
+      ]
+     },
+     {
+      "messageId": 1030792918695,
+      "messageCreationDate": "2012-08-10T04:51:32.398Z",
+      "imageFile": "photo1030792918695.jpg",
+      "content": "",
+      "messageType": [
+       "post"
+      ],
+      "selfAsOriginal": [
+       {
+        "authorId": 26388279069094,
+        "authorFirstName": "Yuki",
+        "authorLastName": "Yamada"
+       }
+      ]
+     },
+     {
+      "messageId": 1030792918694,
+      "messageCreationDate": "2012-08-10T04:51:31.398Z",
+      "imageFile": "photo1030792918694.jpg",
+      "content": "",
+      "messageType": [
+       "post"
+      ],
+      "selfAsOriginal": [
+       {
+        "authorId": 26388279069094,
+        "authorFirstName": "Yuki",
+        "authorLastName": "Yamada"
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

@@ -1,0 +1,128 @@
+{
+ "query_sha": "d7c0e0884773459a",
+ "params": {
+  "personId": "person_28587302322565",
+  "firstName": "Diego"
+ },
+ "data": {
+  "schema_sha256": "673074740eea54e4ba1fdc94eebf2087531b3007af7da660afffb3d1e8df0d1e",
+  "schema_path": "nebulagraph/schema/schema.gql",
+  "sf": "0.3",
+  "created": "2026-11-21T03:42:54Z",
+  "git_sha": "1d6662c2"
+ },
+ "fetched_at": "2026-11-20T23:56:30",
+ "raw": {
+  "keys": [
+   "friendId",
+   "friendLastName",
+   "distanceFromPerson",
+   "friendBirthday",
+   "friendCreationDate",
+   "friendGender",
+   "friendBrowserUsed",
+   "friendLocationIp",
+   "friendEmails",
+   "friendLanguages",
+   "friendCityName",
+   "friendUniversities",
+   "friendCompanies",
+   "friendIdInt"
+  ],
+  "rows": [
+   {
+    "friendId": "person_10995116280870",
+    "friendLastName": "Gonzalez",
+    "distanceFromPerson": 2,
+    "friendBirthday": 470620800000,
+    "friendCreationDate": 1289692870509,
+    "friendGender": "male",
+    "friendBrowserUsed": "Chrome",
+    "friendLocationIp": "131.178.75.37",
+    "friendEmails": [
+     "Diego10995116280870@gmx.com",
+     "Diego10995116280870@zoho.com"
+    ],
+    "friendLanguages": [
+     "es",
+     "en"
+    ],
+    "friendCityName": "Culiac\u00e1n",
+    "friendUniversities": [
+     [
+      "Instituto_Tecnol\u00f3gico_Superior_de_Irapuato",
+      2006,
+      "Irapuato"
+     ]
+    ],
+    "friendCompanies": [
+     [
+      "ARD_Charters",
+      2007,
+      "Mexico"
+     ],
+     [
+      "Estafeta_Carga_A\u00e9rea",
+      2007,
+      "Mexico"
+     ],
+     [
+      "Avioquintana",
+      2007,
+      "Mexico"
+     ],
+     [
+      "Jetclub",
+      2007,
+      "Mexico"
+     ]
+    ],
+    "friendIdInt": 10995116280870
+   },
+   {
+    "friendId": "person_26388279069410",
+    "friendLastName": "Aguirre",
+    "distanceFromPerson": 3,
+    "friendBirthday": 465004800000,
+    "friendCreationDate": 1326213875436,
+    "friendGender": "male",
+    "friendBrowserUsed": "Chrome",
+    "friendLocationIp": "62.97.147.67",
+    "friendEmails": [
+     "Diego26388279069410@gmx.com"
+    ],
+    "friendLanguages": [
+     "es",
+     "ca",
+     "en"
+    ],
+    "friendCityName": "Bilbao",
+    "friendUniversities": [
+     [
+      "University_of_the_Basque_Country",
+      2002,
+      "Bilbao"
+     ]
+    ],
+    "friendCompanies": [
+     [
+      "Pyrenair",
+      2004,
+      "Spain"
+     ],
+     [
+      "Mayoral_Executive_Jet",
+      2004,
+      "Spain"
+     ],
+     [
+      "Futura_International_Airways",
+      2004,
+      "Spain"
+     ]
+    ],
+    "friendIdInt": 26388279069410
+   }
+  ]
+ }
+}

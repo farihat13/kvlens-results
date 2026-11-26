@@ -1,0 +1,27 @@
+{
+ "query_sha": "907f15bd35b7d66e",
+ "params": {
+  "personId": "6597069768567",
+  "startDate": "2011-04-01T00:00:00Z",
+  "countryXName": "Rwanda",
+  "countryYName": "El_Salvador",
+  "endDate": "2011-04-29T00:00:00Z"
+ },
+ "data_created": "2026-11-21T02:56:18Z",
+ "measured_at": "2026-11-20T23:06:12",
+ "raw": {
+  "get_bytes": 43503012,
+  "get_count": 628964,
+  "get_found_count": 628964,
+  "get_latency_ns": 29616191897,
+  "next_bytes": 0,
+  "next_count": 0,
+  "next_latency_ns": 0,
+  "seek_bytes": 18294466,
+  "seek_count": 315938,
+  "seek_latency_ns": 11420134847,
+  "set_bytes": 0,
+  "set_count": 0,
+  "set_latency_ns": 0
+ }
+}

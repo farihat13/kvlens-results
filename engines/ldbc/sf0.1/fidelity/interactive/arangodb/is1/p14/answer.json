@@ -1,0 +1,26 @@
+{
+ "query_sha": "928263439c71fcc2",
+ "params": {
+  "personId": 15393162789696
+ },
+ "data": {
+  "schema_sha256": "b8e206f17e60692c830ba0c3c675fbc481a22f26011282ce523890eb09be8a74",
+  "schema_path": "arangodb/schema/ldbc_schema.json",
+  "sf": "0.1",
+  "created": "2026-11-21T03:27:46Z",
+  "git_sha": "92777160"
+ },
+ "fetched_at": "2026-11-21T01:08:54",
+ "raw": [
+  {
+   "firstName": "Richard",
+   "lastName": "Jones",
+   "birthday": 476323200000,
+   "locationIP": "203.144.56.205",
+   "browserUsed": "Internet Explorer",
+   "cityId": 883,
+   "gender": "male",
+   "creationDate": 1301709461362
+  }
+ ]
+}

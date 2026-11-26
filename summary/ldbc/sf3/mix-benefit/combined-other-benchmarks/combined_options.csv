@@ -1,0 +1,34 @@
+benchmark,option,headline_form,solved_form,geomean_best_uniform,found_by,assignment,geomean_score,geomean_ratio_to_spco,geomean_best_uniform_over_this,additive_score,additive_ratio_to_spco,additive_best_uniform_over_this,sum_score,sum_ratio_to_spco,sum_best_uniform_over_this
+LDBC BI,props_split_adj_split,geomean,,props_chunked_adj_chunked,uniform,,305033.285424,1.083492,0.14252,12.988851,1.049189,0.076989,,,
+LDBC BI,props_split_adj_condensed,geomean,,props_chunked_adj_chunked,uniform,,281527.838694,1.0,0.154419,12.379894,1.0,0.080776,,,
+LDBC BI,props_split_adj_chunked,geomean,,props_chunked_adj_chunked,uniform,,62454.571821,0.221842,0.696079,1.919262,0.155031,0.521034,,,
+LDBC BI,props_condensed_adj_split,geomean,,props_chunked_adj_chunked,uniform,,259097.941661,0.920328,0.167787,12.277816,0.991755,0.081448,,,
+LDBC BI,props_condensed_adj_condensed,geomean,,props_chunked_adj_chunked,uniform,,238399.173885,0.846805,0.182355,11.66886,0.942565,0.085698,,,
+LDBC BI,props_condensed_adj_chunked,geomean,,props_chunked_adj_chunked,uniform,,48464.401146,0.172148,0.897015,1.208227,0.097596,0.827659,,,
+LDBC BI,props_chunked_adj_split,geomean,,props_chunked_adj_chunked,uniform,,247577.246508,0.879406,0.175595,12.059889,0.974151,0.08292,,,
+LDBC BI,props_chunked_adj_condensed,geomean,,props_chunked_adj_chunked,uniform,,228357.090462,0.811135,0.190374,11.460632,0.925746,0.087255,,,
+LDBC BI,props_chunked_adj_chunked,geomean,,props_chunked_adj_chunked,uniform,,43473.31583,0.154419,1.0,1.0,0.080776,1.0,,,
+LDBC BI,mix,geomean,additive,props_chunked_adj_chunked,"exact, proven (69 nodes; kvcost search-mix)",containerOf in-lists=chunked; containerOf out-lists=condensed; hasCreator in-lists=condensed; hasCreator out-lists=chunked; hasInterest out-lists=chunked; hasMember out-lists=chunked; hasModerator in-lists=chunked; hasTag in-lists=condensed; hasTag out-lists=chunked; hasType in-lists=condensed; isLocatedIn in-lists=chunked; isLocatedIn out-lists=chunked; isPartOf in-lists=condensed; isPartOf out-lists=chunked; knows in-lists=chunked; knows out-lists=chunked; likes in-lists=chunked; likes out-lists=condensed; replyOf in-lists=chunked; replyOf out-lists=chunked; Forum props=chunked; Message props=chunked; Person props=condensed; Place props=chunked; Tag props=chunked,43173.876554,0.153356,1.006936,0.993451,0.080247,1.006592,,,
+LDBC BI,floor,geomean,,props_chunked_adj_chunked,a bound: each query at its own cheapest plan and per-part source,,38972.779223,0.138433,1.115479,0.924496,0.074677,1.081671,,,
+IMDb / JOB,props_split_adj_split,geomean,,props_chunked_adj_chunked,uniform,,60818.739111,1.013976,0.543898,3.407225,1.01337,0.293494,,,
+IMDb / JOB,props_split_adj_condensed,geomean,,props_chunked_adj_chunked,uniform,,59980.437297,1.0,0.5515,3.362271,1.0,0.297418,,,
+IMDb / JOB,props_split_adj_chunked,geomean,,props_chunked_adj_chunked,uniform,,45656.710417,0.761193,0.72452,2.099902,0.624549,0.476213,,,
+IMDb / JOB,props_condensed_adj_split,geomean,,props_chunked_adj_chunked,uniform,,45328.57951,0.755723,0.729764,2.680382,0.797194,0.373081,,,
+IMDb / JOB,props_condensed_adj_condensed,geomean,,props_chunked_adj_chunked,uniform,,44571.859744,0.743107,0.742154,2.63445,0.783533,0.379586,,,
+IMDb / JOB,props_condensed_adj_chunked,geomean,,props_chunked_adj_chunked,uniform,,33704.146949,0.561919,0.981457,1.46733,0.43641,0.68151,,,
+IMDb / JOB,props_chunked_adj_split,geomean,,props_chunked_adj_chunked,uniform,,49736.533424,0.829213,0.665088,2.145633,0.63815,0.466063,,,
+IMDb / JOB,props_chunked_adj_condensed,geomean,,props_chunked_adj_chunked,uniform,,48868.206143,0.814736,0.676906,2.099644,0.624472,0.476271,,,
+IMDb / JOB,props_chunked_adj_chunked,geomean,,props_chunked_adj_chunked,uniform,,33079.183257,0.5515,1.0,1.0,0.297418,1.0,,,
+IMDb / JOB,mix,geomean,additive,props_chunked_adj_chunked,"exact, proven (119665 nodes; kvcost search-mix, no cost cache)",aka_name_of in-lists=chunked; aka_title_of in-lists=chunked; cast_actor in-lists=condensed; cast_actor out-lists=condensed; cast_actress in-lists=chunked; cast_actress out-lists=chunked; cast_cinematographer in-lists=chunked; cast_cinematographer out-lists=chunked; cast_composer in-lists=chunked; cast_composer out-lists=chunked; cast_costume_designer in-lists=chunked; cast_costume_designer out-lists=chunked; cast_director in-lists=chunked; cast_director out-lists=chunked; cast_editor in-lists=chunked; cast_editor out-lists=chunked; cast_miscellaneous_crew in-lists=chunked; cast_miscellaneous_crew out-lists=chunked; cast_producer in-lists=chunked; cast_producer out-lists=chunked; cast_production_designer in-lists=chunked; cast_production_designer out-lists=chunked; cast_writer in-lists=chunked; cast_writer out-lists=chunked; company_distributor in-lists=condensed; company_distributor out-lists=chunked; company_production in-lists=chunked; company_production out-lists=chunked; complete_cast_of in-lists=chunked; complete_cast_of out-lists=chunked; has_keyword in-lists=condensed; has_keyword out-lists=chunked; info_of in-lists=condensed; info_of out-lists=chunked; link_from in-lists=condensed; link_from out-lists=chunked; link_to in-lists=chunked; link_to out-lists=chunked; person_info_of in-lists=chunked; person_info_of out-lists=condensed; rating_of in-lists=chunked; rating_of out-lists=chunked; AkaName props=chunked; AkaTitle props=split; Character props=split; Company props=chunked; CompleteCast props=chunked; Keyword props=chunked; MovieInfo props=chunked; MovieLink props=chunked; MovieRating props=chunked; Name props=chunked; PersonInfo props=chunked; Title props=condensed,26367.672186,0.439605,1.254536,0.919924,0.273602,1.087046,,,
+IMDb / JOB,floor,geomean,,props_chunked_adj_chunked,a bound: each query at its own cheapest plan and per-part source,,17582.500389,0.293137,1.88137,0.631839,0.18792,1.582681,,,
+LinkBench,props_split_adj_split,sum,,,uniform,,,,,,,,238026.275371,1.070521,0.700005
+LinkBench,props_split_adj_condensed,sum,,,uniform,,,,,,,,222346.235078,1.0,0.74937
+LinkBench,props_split_adj_chunked,sum,,,uniform,,,,,,,,2467045.719043,11.095514,0.067538
+LinkBench,props_condensed_adj_split,sum,,,uniform,,,,,,,,182299.734356,0.819891,0.913988
+LinkBench,props_condensed_adj_condensed,sum,,,uniform,,,,,,,,166619.694063,0.74937,1.0
+LinkBench,props_condensed_adj_chunked,sum,,,uniform,,,,,,,,2411319.178027,10.844884,0.069099
+LinkBench,props_chunked_adj_split,sum,,,uniform,,,,,,,,676107.644951,3.040787,0.24644
+LinkBench,props_chunked_adj_condensed,sum,,,uniform,,,,,,,,660427.604658,2.970267,0.252291
+LinkBench,props_chunked_adj_chunked,sum,,,uniform,,,,,,,,2905127.088623,13.06578,0.057354
+LinkBench,mix,sum,sum,,"exact, proven (5 nodes; kvcost search-mix)",link1 out-lists=condensed; link2 out-lists=condensed; Node props=condensed,,,,,,,166619.694063,0.74937,1.0
+LinkBench,floor,sum,,,a bound: each query at its own cheapest plan and per-part source,,,,,,,,147491.811982,0.663343,1.129688

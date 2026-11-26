@@ -1,0 +1,261 @@
+{
+ "query_sha": "726c2fd8c124bda0",
+ "params": {
+  "personId": "6597069767668",
+  "tagName": "Ted_Kennedy"
+ },
+ "data": {
+  "schema_sha256": "03713a1e1c7b722e73bed6b150e079e69e9579c2a58c52e06f9d4384fdd4b80d",
+  "schema_path": "dgraph/schema/ldbcTypes.schema",
+  "sf": "0.1",
+  "created": "2026-11-21T03:25:44Z",
+  "git_sha": "92777160"
+ },
+ "fetched_at": "2026-11-21T01:08:12",
+ "raw": {
+  "_l1": [],
+  "_l2": [],
+  "tags": [
+   {
+    "tagName": "Mick_Jagger",
+    "postCount": 1
+   },
+   {
+    "tagName": "Peter_Hain",
+    "postCount": 1
+   },
+   {
+    "tagName": "Parallel_Lines",
+    "postCount": 1
+   },
+   {
+    "tagName": "Radio_Ga_Ga",
+    "postCount": 1
+   },
+   {
+    "tagName": "Give_It_to_Me_Right",
+    "postCount": 1
+   },
+   {
+    "tagName": "Jacques_Chirac",
+    "postCount": 1
+   },
+   {
+    "tagName": "Chen_Shui-bian",
+    "postCount": 1
+   },
+   {
+    "tagName": "Paul_the_Apostle",
+    "postCount": 1
+   },
+   {
+    "tagName": "Closer_to_Home",
+    "postCount": 1
+   },
+   {
+    "tagName": "Henry_VIII_of_England",
+    "postCount": 1
+   },
+   {
+    "tagName": "Mohandas_Karamchand_Gandhi",
+    "postCount": 1
+   },
+   {
+    "tagName": "Astral_Weeks",
+    "postCount": 1
+   },
+   {
+    "tagName": "L\u00e9opold_S\u00e9dar_Senghor",
+    "postCount": 1
+   },
+   {
+    "tagName": "Karl_Marx",
+    "postCount": 1
+   },
+   {
+    "tagName": "Love_Is_Blindness",
+    "postCount": 1
+   },
+   {
+    "tagName": "You_Really_Got_Me",
+    "postCount": 1
+   },
+   {
+    "tagName": "Chaka_Khan",
+    "postCount": 1
+   },
+   {
+    "tagName": "My_Christmas",
+    "postCount": 1
+   },
+   {
+    "tagName": "Love_Is_Strange",
+    "postCount": 1
+   },
+   {
+    "tagName": "Ban_Ki-moon",
+    "postCount": 1
+   },
+   {
+    "tagName": "Francis_Drake",
+    "postCount": 1
+   },
+   {
+    "tagName": "Homer",
+    "postCount": 1
+   },
+   {
+    "tagName": "El_Salvador",
+    "postCount": 1
+   },
+   {
+    "tagName": "Bunyoro",
+    "postCount": 1
+   },
+   {
+    "tagName": "Lee_Hyung-taik",
+    "postCount": 1
+   },
+   {
+    "tagName": "Liechtenstein",
+    "postCount": 1
+   },
+   {
+    "tagName": "Kingdom_of_Galicia",
+    "postCount": 1
+   },
+   {
+    "tagName": "Adam_Smith",
+    "postCount": 1
+   },
+   {
+    "tagName": "Tanzania",
+    "postCount": 1
+   },
+   {
+    "tagName": "Aceh_Sultanate",
+    "postCount": 1
+   },
+   {
+    "tagName": "Italy",
+    "postCount": 1
+   },
+   {
+    "tagName": "Austrian_Empire",
+    "postCount": 1
+   },
+   {
+    "tagName": "Statesboro_Blues",
+    "postCount": 1
+   },
+   {
+    "tagName": "Pope_John_XXIII",
+    "postCount": 1
+   },
+   {
+    "tagName": "Haile_Selassie_I",
+    "postCount": 1
+   },
+   {
+    "tagName": "Madagascar",
+    "postCount": 1
+   },
+   {
+    "tagName": "In_the_Ghetto",
+    "postCount": 1
+   },
+   {
+    "tagName": "John_Travolta",
+    "postCount": 1
+   },
+   {
+    "tagName": "Francis_I_of_France",
+    "postCount": 1
+   },
+   {
+    "tagName": "Everytime_You_Go_Away",
+    "postCount": 1
+   },
+   {
+    "tagName": "Graham_Greene",
+    "postCount": 1
+   },
+   {
+    "tagName": "Nepal",
+    "postCount": 1
+   },
+   {
+    "tagName": "Richard_II_of_England",
+    "postCount": 1
+   },
+   {
+    "tagName": "John_Rhys-Davies",
+    "postCount": 1
+   },
+   {
+    "tagName": "New_York_State_of_Mind",
+    "postCount": 1
+   },
+   {
+    "tagName": "Serena_Williams",
+    "postCount": 1
+   },
+   {
+    "tagName": "Dimitri_Tiomkin",
+    "postCount": 1
+   },
+   {
+    "tagName": "The_Notorious_B.I.G.",
+    "postCount": 1
+   },
+   {
+    "tagName": "Paula_Abdul",
+    "postCount": 1
+   },
+   {
+    "tagName": "British_North_America",
+    "postCount": 1
+   },
+   {
+    "tagName": "Early_modern_France",
+    "postCount": 1
+   },
+   {
+    "tagName": "Julia_Gillard",
+    "postCount": 1
+   },
+   {
+    "tagName": "Commonwealth_of_the_Philippines",
+    "postCount": 1
+   },
+   {
+    "tagName": "Leonard_Cohen",
+    "postCount": 1
+   },
+   {
+    "tagName": "Dutch_Republic",
+    "postCount": 1
+   },
+   {
+    "tagName": "Baby_Let_Me_Take_You_Home",
+    "postCount": 1
+   },
+   {
+    "tagName": "Johan_Christian_Fabricius",
+    "postCount": 1
+   },
+   {
+    "tagName": "Roman_Polanski",
+    "postCount": 1
+   },
+   {
+    "tagName": "Isaac_Hayes",
+    "postCount": 1
+   },
+   {
+    "tagName": "Listen_to_Me:_Buddy_Holly",
+    "postCount": 1
+   }
+  ]
+ }
+}

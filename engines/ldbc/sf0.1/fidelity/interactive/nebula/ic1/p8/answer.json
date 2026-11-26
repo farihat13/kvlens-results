@@ -1,0 +1,98 @@
+{
+ "query_sha": "d7c0e0884773459a",
+ "params": {
+  "personId": "person_19791209300317",
+  "firstName": "Geremi Sorele Njitap"
+ },
+ "data": {
+  "schema_sha256": "673074740eea54e4ba1fdc94eebf2087531b3007af7da660afffb3d1e8df0d1e",
+  "schema_path": "nebulagraph/schema/schema.gql",
+  "sf": "0.1",
+  "created": "2026-11-21T03:27:06Z",
+  "git_sha": "92777160"
+ },
+ "fetched_at": "2026-11-21T01:06:49",
+ "raw": {
+  "keys": [
+   "friendId",
+   "friendLastName",
+   "distanceFromPerson",
+   "friendBirthday",
+   "friendCreationDate",
+   "friendGender",
+   "friendBrowserUsed",
+   "friendLocationIp",
+   "friendEmails",
+   "friendLanguages",
+   "friendCityName",
+   "friendUniversities",
+   "friendCompanies",
+   "friendIdInt"
+  ],
+  "rows": [
+   {
+    "friendId": "person_10995116278142",
+    "friendLastName": "Anderson",
+    "distanceFromPerson": 2,
+    "friendBirthday": 423705600000,
+    "friendCreationDate": 1290895071212,
+    "friendGender": "male",
+    "friendBrowserUsed": "Firefox",
+    "friendLocationIp": "41.205.68.74",
+    "friendEmails": [
+     "Geremi.Sorele.Njitap10995116278142@gmail.com",
+     "Geremi.Sorele.Njitap10995116278142@gmx.com",
+     "Geremi.Sorele.Njitap10995116278142@yahoo.com"
+    ],
+    "friendLanguages": [
+     "fr",
+     "en"
+    ],
+    "friendCityName": "Garoua",
+    "friendUniversities": [],
+    "friendCompanies": [
+     [
+      "National_Airways_Cameroon",
+      2002,
+      "Cameroon"
+     ]
+    ],
+    "friendIdInt": 10995116278142
+   },
+   {
+    "friendId": "person_10995116279125",
+    "friendLastName": "Ako",
+    "distanceFromPerson": 3,
+    "friendBirthday": 568166400000,
+    "friendCreationDate": 1292333263747,
+    "friendGender": "male",
+    "friendBrowserUsed": "Chrome",
+    "friendLocationIp": "41.190.225.153",
+    "friendEmails": [
+     "Geremi.Sorele.Njitap10995116279125@gmail.com",
+     "Geremi.Sorele.Njitap10995116279125@yahoo.com"
+    ],
+    "friendLanguages": [
+     "fr",
+     "en"
+    ],
+    "friendCityName": "Baffoussam",
+    "friendUniversities": [
+     [
+      "University_of_Buea",
+      2009,
+      "Buea"
+     ]
+    ],
+    "friendCompanies": [
+     [
+      "Section_Liaison_Air_Yaound\u00e9",
+      2010,
+      "Cameroon"
+     ]
+    ],
+    "friendIdInt": 10995116279125
+   }
+  ]
+ }
+}

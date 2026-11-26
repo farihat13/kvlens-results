@@ -1,0 +1,32 @@
+{
+ "query_sha": "a0fe1ffc71b46f10",
+ "params": {
+  "messageId": "msg_32761"
+ },
+ "data": {
+  "schema_sha256": "673074740eea54e4ba1fdc94eebf2087531b3007af7da660afffb3d1e8df0d1e",
+  "schema_path": "nebulagraph/schema/schema.gql",
+  "sf": "0.1",
+  "created": "2026-11-21T03:27:06Z",
+  "git_sha": "92777160"
+ },
+ "fetched_at": "2026-11-21T01:08:54",
+ "raw": {
+  "keys": [
+   "forumId",
+   "forumTitle",
+   "moderatorId",
+   "moderatorFirstName",
+   "moderatorLastName"
+  ],
+  "rows": [
+   {
+    "forumId": "forum_1665",
+    "forumTitle": "Wall of Chen Yang",
+    "moderatorId": "person_555",
+    "moderatorFirstName": "Chen",
+    "moderatorLastName": "Yang"
+   }
+  ]
+ }
+}

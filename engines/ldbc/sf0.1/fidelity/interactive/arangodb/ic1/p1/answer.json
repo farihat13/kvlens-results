@@ -1,0 +1,59 @@
+{
+ "query_sha": "758b65813d7ffbd6",
+ "params": {
+  "personId": 30786325579101,
+  "firstName": "Ian"
+ },
+ "data": {
+  "schema_sha256": "b8e206f17e60692c830ba0c3c675fbc481a22f26011282ce523890eb09be8a74",
+  "schema_path": "arangodb/schema/ldbc_schema.json",
+  "sf": "0.1",
+  "created": "2026-11-21T03:27:46Z",
+  "git_sha": "92777160"
+ },
+ "fetched_at": "2026-11-21T01:04:45",
+ "raw": [
+  {
+   "friendId": 10995116279328,
+   "friendLastName": "Smith",
+   "distanceFromPerson": 2,
+   "friendBirthday": 513388800000,
+   "friendCreationDate": 1291220622426,
+   "friendGender": "male",
+   "friendBrowserUsed": "Internet Explorer",
+   "friendLocationIp": "199.103.115.201",
+   "friendEmails": [
+    "Ian10995116279328@gmail.com",
+    "Ian10995116279328@gmx.com"
+   ],
+   "friendLanguages": [
+    "en"
+   ],
+   "friendCityName": "Bristol",
+   "friendUniversities": [
+    [
+     "Faculty_of_Health",
+     2005,
+     "Birmingham"
+    ]
+   ],
+   "friendCompanies": [
+    [
+     "Airtours_International_Airways",
+     2006,
+     "United_Kingdom"
+    ],
+    [
+     "British_Mediterranean_Airways",
+     2007,
+     "United_Kingdom"
+    ],
+    [
+     "Flybe",
+     2007,
+     "United_Kingdom"
+    ]
+   ]
+  }
+ ]
+}

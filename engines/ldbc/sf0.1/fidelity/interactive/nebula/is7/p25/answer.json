@@ -1,0 +1,128 @@
+{
+ "query_sha": "4dcea213e133d224",
+ "params": {
+  "messageId": "msg_893353228816"
+ },
+ "data": {
+  "schema_sha256": "673074740eea54e4ba1fdc94eebf2087531b3007af7da660afffb3d1e8df0d1e",
+  "schema_path": "nebulagraph/schema/schema.gql",
+  "sf": "0.1",
+  "created": "2026-11-21T03:27:06Z",
+  "git_sha": "92777160"
+ },
+ "fetched_at": "2026-11-21T01:08:55",
+ "raw": {
+  "keys": [
+   "commentId",
+   "commentContent",
+   "commentCreationDate",
+   "replyAuthorId",
+   "replyAuthorFirstName",
+   "replyAuthorLastName",
+   "knows",
+   "replyAuthorIdInt"
+  ],
+  "rows": [
+   {
+    "commentId": "msg_893353228830",
+    "commentContent": "About Leonardo da Vinci, gelo. LeonardAbout Enrique Iglesias, o Latin arti",
+    "commentCreationDate": 1335727712490,
+    "replyAuthorId": "person_19791209301592",
+    "replyAuthorFirstName": "Michal",
+    "replyAuthorLastName": "Kaminski",
+    "knows": true,
+    "replyAuthorIdInt": 19791209301592
+   },
+   {
+    "commentId": "msg_893353228829",
+    "commentContent": "yes",
+    "commentCreationDate": 1335702517464,
+    "replyAuthorId": "person_28587302322946",
+    "replyAuthorFirstName": "Shweta",
+    "replyAuthorLastName": "Sharma",
+    "knows": true,
+    "replyAuthorIdInt": 28587302322946
+   },
+   {
+    "commentId": "msg_893353228817",
+    "commentContent": "right",
+    "commentCreationDate": 1335680823960,
+    "replyAuthorId": "person_13194139533500",
+    "replyAuthorFirstName": "Otto",
+    "replyAuthorLastName": "Becker",
+    "knows": true,
+    "replyAuthorIdInt": 13194139533500
+   },
+   {
+    "commentId": "msg_893353228822",
+    "commentContent": "About Enrique Iglesias, rd Hot 100 topAbout Red Red Wine, gles charts. DAbout Bea",
+    "commentCreationDate": 1335662491685,
+    "replyAuthorId": "person_13194139533770",
+    "replyAuthorFirstName": "Carlos",
+    "replyAuthorLastName": "Santos",
+    "knows": true,
+    "replyAuthorIdInt": 13194139533770
+   },
+   {
+    "commentId": "msg_893353228818",
+    "commentContent": "About Ren\u00e9 Descartes,  Western philoAbout Pyotr Ilyich Tchaikovsky, . Although m",
+    "commentCreationDate": 1335659971111,
+    "replyAuthorId": "person_19791209301023",
+    "replyAuthorFirstName": "Anson",
+    "replyAuthorLastName": "Wang",
+    "knows": true,
+    "replyAuthorIdInt": 19791209301023
+   },
+   {
+    "commentId": "msg_893353228823",
+    "commentContent": "About Mikhail Gorbachev, in 1985. Before About Enrique Iglesias, nal actor, p",
+    "commentCreationDate": 1335659904549,
+    "replyAuthorId": "person_15393162790300",
+    "replyAuthorFirstName": "Rahim",
+    "replyAuthorLastName": "Zaland",
+    "knows": true,
+    "replyAuthorIdInt": 15393162790300
+   },
+   {
+    "commentId": "msg_893353228828",
+    "commentContent": "roflol",
+    "commentCreationDate": 1335656502932,
+    "replyAuthorId": "person_19791209300153",
+    "replyAuthorFirstName": "Carlos",
+    "replyAuthorLastName": "Abascal",
+    "knows": true,
+    "replyAuthorIdInt": 19791209300153
+   },
+   {
+    "commentId": "msg_893353228824",
+    "commentContent": "About Louis XVI of France, mericans, who were seekiAbout Maurice Ravel, f any other French compoAbout D. H. Lawrence, ed reflection upon the ",
+    "commentCreationDate": 1335644259170,
+    "replyAuthorId": "person_26388279067479",
+    "replyAuthorFirstName": "Kenji",
+    "replyAuthorLastName": "Abe",
+    "knows": true,
+    "replyAuthorIdInt": 26388279067479
+   },
+   {
+    "commentId": "msg_893353228826",
+    "commentContent": "ok",
+    "commentCreationDate": 1335644090814,
+    "replyAuthorId": "person_6597069767242",
+    "replyAuthorFirstName": "Salim Ahmed",
+    "replyAuthorLastName": "Binalshibh",
+    "knows": true,
+    "replyAuthorIdInt": 6597069767242
+   },
+   {
+    "commentId": "msg_893353228821",
+    "commentContent": "I see",
+    "commentCreationDate": 1335643750291,
+    "replyAuthorId": "person_28587302323035",
+    "replyAuthorFirstName": "Aditya",
+    "replyAuthorLastName": "Khan",
+    "knows": true,
+    "replyAuthorIdInt": 28587302323035
+   }
+  ]
+ }
+}

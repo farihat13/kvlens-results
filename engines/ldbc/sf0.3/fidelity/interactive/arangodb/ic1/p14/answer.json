@@ -1,0 +1,85 @@
+{
+ "query_sha": "758b65813d7ffbd6",
+ "params": {
+  "personId": 1129,
+  "firstName": "Mart"
+ },
+ "data": {
+  "schema_sha256": "b8e206f17e60692c830ba0c3c675fbc481a22f26011282ce523890eb09be8a74",
+  "schema_path": "arangodb/schema/ldbc_schema.json",
+  "sf": "0.3",
+  "created": "2026-11-21T03:01:29Z",
+  "git_sha": "60910999"
+ },
+ "fetched_at": "2026-11-20T23:58:15",
+ "raw": [
+  {
+   "friendId": 2199023259002,
+   "friendLastName": "Aas",
+   "distanceFromPerson": 2,
+   "friendBirthday": 589248000000,
+   "friendCreationDate": 1268779780175,
+   "friendGender": "male",
+   "friendBrowserUsed": "Firefox",
+   "friendLocationIp": "80.66.249.219",
+   "friendEmails": [
+    "Mart2199023259002@gmail.com",
+    "Mart2199023259002@gmx.com",
+    "Mart2199023259002@hotmail.com",
+    "Mart2199023259002@yahoo.com"
+   ],
+   "friendLanguages": [
+    "et",
+    "en"
+   ],
+   "friendCityName": "Tallinn",
+   "friendUniversities": [],
+   "friendCompanies": [
+    [
+     "Enimex",
+     2009,
+     "Estonia"
+    ],
+    [
+     "Avies",
+     2012,
+     "Estonia"
+    ]
+   ]
+  },
+  {
+   "friendId": 4398046514664,
+   "friendLastName": "Laur",
+   "distanceFromPerson": 3,
+   "friendBirthday": 433468800000,
+   "friendCreationDate": 1275105658255,
+   "friendGender": "male",
+   "friendBrowserUsed": "Firefox",
+   "friendLocationIp": "109.235.241.138",
+   "friendEmails": [
+    "Mart4398046514664@gmail.com",
+    "Mart4398046514664@yahoo.com",
+    "Mart4398046514664@zoho.com"
+   ],
+   "friendLanguages": [
+    "et",
+    "en"
+   ],
+   "friendCityName": "Tallinn",
+   "friendUniversities": [
+    [
+     "Tallinn_University_of_Technology",
+     2005,
+     "Tallinn"
+    ]
+   ],
+   "friendCompanies": [
+    [
+     "Aero_Airlines",
+     2007,
+     "Estonia"
+    ]
+   ]
+  }
+ ]
+}

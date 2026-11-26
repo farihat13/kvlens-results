@@ -1,0 +1,53 @@
+{
+ "query_sha": "6935170dcded2085",
+ "params": {
+  "messageId": "549756049471"
+ },
+ "data": {
+  "schema_sha256": "03713a1e1c7b722e73bed6b150e079e69e9579c2a58c52e06f9d4384fdd4b80d",
+  "schema_path": "dgraph/schema/ldbcTypes.schema",
+  "sf": "0.1",
+  "created": "2026-11-21T03:25:44Z",
+  "git_sha": "92777160"
+ },
+ "fetched_at": "2026-11-21T01:08:19",
+ "raw": {
+  "origAuthor": [
+   {
+    "origAuthorId": 6597069766914
+   }
+  ],
+  "replies": [
+   {
+    "commentContent": "ok",
+    "commentCreationDate": "2011-05-13T03:43:30.819Z",
+    "commentId": 549756049473,
+    "knowsCount": 0,
+    "knowsCount2": 0,
+    "replyAuthorFirstName": "Ali",
+    "replyAuthorId": 2199023255936,
+    "replyAuthorLastName": "Hasanov"
+   },
+   {
+    "commentContent": "About John Leguizamo,  John LegAbout Pope Leo XIII, ch with rAbout Donovan, ailey ranAbout Slovakia, 2009.",
+    "commentCreationDate": "2011-05-12T16:32:11.053Z",
+    "commentId": 549756049474,
+    "knowsCount": 1,
+    "knowsCount2": 0,
+    "replyAuthorFirstName": "Allister",
+    "replyAuthorId": 2199023256277,
+    "replyAuthorLastName": "Miller"
+   },
+   {
+    "commentContent": "About John Leguizamo, ohn LeguAbout Henry IV of France, ty in FrAbout Pope Leo XIII,",
+    "commentCreationDate": "2011-05-12T16:10:25.896Z",
+    "commentId": 549756049477,
+    "knowsCount": 0,
+    "knowsCount2": 0,
+    "replyAuthorFirstName": "Salim Ahmed",
+    "replyAuthorId": 6597069767242,
+    "replyAuthorLastName": "Binalshibh"
+   }
+  ]
+ }
+}

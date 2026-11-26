@@ -1,0 +1,81 @@
+{
+ "query_sha": "e98a92aa07772002",
+ "params": {
+  "personId": "8796093023907",
+  "startDate": "2011-08-01T00:00:00Z",
+  "endDate": "2011-09-01T00:00:00Z"
+ },
+ "data": {
+  "schema_sha256": "03713a1e1c7b722e73bed6b150e079e69e9579c2a58c52e06f9d4384fdd4b80d",
+  "schema_path": "dgraph/schema/ldbcTypes.schema",
+  "sf": "0.3",
+  "created": "2026-11-21T02:56:18Z",
+  "git_sha": "60910999"
+ },
+ "fetched_at": "2026-11-21T00:03:11",
+ "raw": {
+  "_l1": [],
+  "tags": [
+   {
+    "tagName": "George_Albert_Boulenger",
+    "postCount": 2
+   },
+   {
+    "tagName": "Richard_E._Grant",
+    "postCount": 2
+   },
+   {
+    "tagName": "Nicolas_Sarkozy",
+    "postCount": 1
+   },
+   {
+    "tagName": "A_Little_Less_Conversation",
+    "postCount": 1
+   },
+   {
+    "tagName": "You_Make_Me_Feel_Like_Dancing",
+    "postCount": 1
+   },
+   {
+    "tagName": "Orphans:_Brawlers,_Bawlers_&_Bastards",
+    "postCount": 1
+   },
+   {
+    "tagName": "Harold_Arlen",
+    "postCount": 1
+   },
+   {
+    "tagName": "Recep_Tayyip_Erdo\u011fan",
+    "postCount": 1
+   },
+   {
+    "tagName": "Help_Me_Make_It_Through_the_Night",
+    "postCount": 1
+   },
+   {
+    "tagName": "Arnaud_Cl\u00e9ment",
+    "postCount": 1
+   },
+   {
+    "tagName": "Bad_Hair_Day",
+    "postCount": 1
+   },
+   {
+    "tagName": "50_Cent",
+    "postCount": 1
+   },
+   {
+    "tagName": "Napoleon",
+    "postCount": 1
+   },
+   {
+    "tagName": "Rough_Diamonds",
+    "postCount": 1
+   },
+   {
+    "tagName": "Key_to_the_Highway",
+    "postCount": 1
+   }
+  ]
+ }
+}

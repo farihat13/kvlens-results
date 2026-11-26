@@ -1,0 +1,97 @@
+{
+ "query_sha": "c20c841713234a9d",
+ "params": {
+  "personId": 8796093022749,
+  "month": 7
+ },
+ "data": {
+  "schema_sha256": "b8e206f17e60692c830ba0c3c675fbc481a22f26011282ce523890eb09be8a74",
+  "schema_path": "arangodb/schema/ldbc_schema.json",
+  "sf": "0.3",
+  "created": "2026-11-21T03:01:29Z",
+  "git_sha": "60910999"
+ },
+ "fetched_at": "2026-11-21T00:04:14",
+ "raw": [
+  {
+   "personId": 15393162790827,
+   "personFirstName": "Taufik",
+   "personLastName": "Lesmana",
+   "commonInterestScore": 0,
+   "personGender": "female",
+   "personCityName": "Yogyakarta"
+  },
+  {
+   "personId": 30786325578760,
+   "personFirstName": "Ashok",
+   "personLastName": "Sharma",
+   "commonInterestScore": 0,
+   "personGender": "male",
+   "personCityName": "Thanjavur"
+  },
+  {
+   "personId": 32985348833536,
+   "personFirstName": "Charles",
+   "personLastName": "David",
+   "commonInterestScore": 0,
+   "personGender": "male",
+   "personCityName": "Grenoble"
+  },
+  {
+   "personId": 32985348834100,
+   "personFirstName": "Bruno",
+   "personLastName": "Oliveira",
+   "commonInterestScore": 0,
+   "personGender": "male",
+   "personCityName": "Diamantina"
+  },
+  {
+   "personId": 32985348836361,
+   "personFirstName": "Amit",
+   "personLastName": "Singh",
+   "commonInterestScore": 0,
+   "personGender": "male",
+   "personCityName": "Vijayawada"
+  },
+  {
+   "personId": 10995116281653,
+   "personFirstName": "Mathieu",
+   "personLastName": "Bembo-Leta",
+   "commonInterestScore": -1,
+   "personGender": "female",
+   "personCityName": "Baraka"
+  },
+  {
+   "personId": 21990232556027,
+   "personFirstName": "Yacine",
+   "personLastName": "Abdelli",
+   "commonInterestScore": -1,
+   "personGender": "male",
+   "personCityName": "El_Oued"
+  },
+  {
+   "personId": 24189255813356,
+   "personFirstName": "Ayesha",
+   "personLastName": "Sheikh",
+   "commonInterestScore": -1,
+   "personGender": "male",
+   "personCityName": "Karachi"
+  },
+  {
+   "personId": 28587302322718,
+   "personFirstName": "Asher",
+   "personLastName": "Bahaina",
+   "commonInterestScore": -1,
+   "personGender": "female",
+   "personCityName": "Jimma"
+  },
+  {
+   "personId": 32985348836120,
+   "personFirstName": "Dimitrios",
+   "personLastName": "Angello",
+   "commonInterestScore": -1,
+   "personGender": "female",
+   "personCityName": "Crete"
+  }
+ ]
+}

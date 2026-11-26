@@ -1,0 +1,118 @@
+{
+ "query_sha": "e8d54b8612751a91",
+ "params": {
+  "personId": "person_28587302322565",
+  "month": 11
+ },
+ "data": {
+  "schema_sha256": "673074740eea54e4ba1fdc94eebf2087531b3007af7da660afffb3d1e8df0d1e",
+  "schema_path": "nebulagraph/schema/schema.gql",
+  "sf": "0.3",
+  "created": "2026-11-21T03:42:54Z",
+  "git_sha": "1d6662c2"
+ },
+ "fetched_at": "2026-11-20T23:56:34",
+ "raw": {
+  "keys": [
+   "personId",
+   "personFirstName",
+   "personLastName",
+   "commonInterestScore",
+   "personGender",
+   "personCityName",
+   "personIdInt"
+  ],
+  "rows": [
+   {
+    "personId": "person_10995116278210",
+    "personFirstName": "Billinjer C",
+    "personLastName": "Nguyen",
+    "commonInterestScore": 1,
+    "personGender": "female",
+    "personCityName": "Bi\u00ean_H\u00f2a",
+    "personIdInt": 10995116278210
+   },
+   {
+    "personId": "person_8796093024058",
+    "personFirstName": "Paul",
+    "personLastName": "Williams",
+    "commonInterestScore": 0,
+    "personGender": "female",
+    "personCityName": "Ann_Arbor",
+    "personIdInt": 8796093024058
+   },
+   {
+    "personId": "person_17592186045089",
+    "personFirstName": "Sven",
+    "personLastName": "Persson",
+    "commonInterestScore": 0,
+    "personGender": "male",
+    "personCityName": "Rovaniemi",
+    "personIdInt": 17592186045089
+   },
+   {
+    "personId": "person_21990232555692",
+    "personFirstName": "Bruno",
+    "personLastName": "Oliveira",
+    "commonInterestScore": 0,
+    "personGender": "male",
+    "personCityName": "S\u00e3o_Lu\u00eds",
+    "personIdInt": 21990232555692
+   },
+   {
+    "personId": "person_24189255812535",
+    "personFirstName": "Marko",
+    "personLastName": "Brajkovi\u010d",
+    "commonInterestScore": 0,
+    "personGender": "male",
+    "personCityName": "Ljubljana",
+    "personIdInt": 24189255812535
+   },
+   {
+    "personId": "person_28587302322814",
+    "personFirstName": "Alexander",
+    "personLastName": "Basov",
+    "commonInterestScore": 0,
+    "personGender": "male",
+    "personCityName": "Saint_Petersburg",
+    "personIdInt": 28587302322814
+   },
+   {
+    "personId": "person_30786325580446",
+    "personFirstName": "Karan",
+    "personLastName": "Rao",
+    "commonInterestScore": 0,
+    "personGender": "female",
+    "personCityName": "Bilaspur",
+    "personIdInt": 30786325580446
+   },
+   {
+    "personId": "person_21990232558393",
+    "personFirstName": "Binh",
+    "personLastName": "Do",
+    "commonInterestScore": -1,
+    "personGender": "male",
+    "personCityName": "M\u00f3ng_C\u00e1i",
+    "personIdInt": 21990232558393
+   },
+   {
+    "personId": "person_10995116280003",
+    "personFirstName": "A.",
+    "personLastName": "Khan",
+    "commonInterestScore": -3,
+    "personGender": "female",
+    "personCityName": "Rajasthan",
+    "personIdInt": 10995116280003
+   },
+   {
+    "personId": "person_32985348836239",
+    "personFirstName": "Otto",
+    "personLastName": "Kerndlova",
+    "commonInterestScore": -3,
+    "personGender": "male",
+    "personCityName": "Mlad\u00e1_Boleslav",
+    "personIdInt": 32985348836239
+   }
+  ]
+ }
+}

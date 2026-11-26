@@ -1,0 +1,161 @@
+{
+ "P": 8,
+ "binary": {
+  "allocator": {
+   "aggressive_decommit": 0,
+   "env": {},
+   "lib_sha256": "c3d7996e516f60360b9d6d591fea53e0b177df38a4bfa36296d713220741f42a",
+   "malloc_is_tcmalloc": true,
+   "name": "tcmalloc",
+   "release_rate": 0.0,
+   "version": "2.15-3build1"
+  },
+  "binary_dirty": false,
+  "binary_git_sha": "e9eadce5f179e59c5e264cb88ed1ab900553b50e",
+  "block_cache_priority": {
+   "high_pri_pool_ratio": 0.5,
+   "index_filter_high_priority": true
+  },
+  "build_key": "c72a3d11656336b6986f",
+  "compiler": "GNU 13.3.0",
+  "counting": {
+   "formats": {
+    "arangodb": {
+     "read": 3,
+     "write": 1
+    },
+    "arangodb_engine": {
+     "read": 3,
+     "write": 1
+    },
+    "dgraph": {
+     "read": 2,
+     "write": 1
+    },
+    "dgraph_engine": {
+     "read": 2,
+     "write": 1
+    },
+    "meta": {
+     "read": 3,
+     "write": 1
+    },
+    "nebula": {
+     "read": 3,
+     "write": 1
+    },
+    "nebula_engine": {
+     "read": 3,
+     "write": 1
+    },
+    "pertype_csr": {
+     "read": 2,
+     "write": 1
+    }
+   },
+   "seam": {
+    "read": 4,
+    "write": 1
+   }
+  },
+  "engine_key_layouts": {
+   "arangodb_engine": "realistic-v7",
+   "dgraph_engine": "realistic-engine-v1",
+   "nebula_engine": "realistic-v4"
+  },
+  "flags": " -Wall -Wextra -Wno-unused-parameter -Wno-dangling-reference -O2 -g",
+  "host": {
+   "cpu": "AMD EPYC 9354P 32-Core Processor",
+   "kernel": "Linux 6.8.0-149-generic"
+  },
+  "ingest_index_filter_blocks": "partitioned",
+  "key_layouts": {
+   "arangodb": "realistic-v7",
+   "dgraph": "realistic-part-start",
+   "meta": "meta-v4-chunk-bytes",
+   "nebula": "realistic-v4",
+   "pertype_csr": "realistic-v7"
+  },
+  "key_roles_version": 6,
+  "librocksdb_sha256": "5de397b9a75279a914a7fe663bddfc32f5db6b85aa17de3268ebaf654614dc68",
+  "rocksdb": "7.5.3",
+  "rocksdb_source": "7.5.3@540d5aae516265170564ec27b3e67a54a11b7045",
+  "tally_version": 2
+ },
+ "cell": "props_chunked_c256k_adj_chunked_c64k",
+ "cell_inputs": null,
+ "complete": true,
+ "composed_from": {
+  "adjacency parts": "captures/ldbc/sf3/microbench/reported/parts/props_chunked_adj_chunked.csv",
+  "props and index parts": "captures/ldbc/sf3/microbench/reported/parts/props_chunked_c256k_adj_chunked_c256k.csv"
+ },
+ "composed_from_sha": {
+  "captures/ldbc/sf3/microbench/reported/counts/props_chunked_adj_chunked.csv": "8035bb12583a6a12e31f5422415ad6aa97a146ad492c2c88a5080c65a09b1063",
+  "captures/ldbc/sf3/microbench/reported/counts/props_chunked_c256k_adj_chunked_c256k.csv": "592f63855782eb58aea342983227da3aeae60686bf092ac82dee3ac300003c5e",
+  "captures/ldbc/sf3/microbench/reported/parts/props_chunked_adj_chunked.csv": "627b8cdc365ab74d235dc17bcb2fe686077d4a14aa2d9130f79bcf7a2eb26146",
+  "captures/ldbc/sf3/microbench/reported/parts/props_chunked_c256k_adj_chunked_c256k.csv": "813a1d2061344440c36ef8d87453d94fde364fa850672b46207fc2b7817037b6"
+ },
+ "counting": {
+  "format": 3,
+  "seam": 4,
+  "write_format": 1,
+  "write_seam": 1
+ },
+ "exec": "serve",
+ "free_rows": true,
+ "inputs": "afbc2b23aa743d85",
+ "measurement_version": 7,
+ "nparam": 5,
+ "plan_pipeline": 2,
+ "resumed": 0,
+ "sf": "3",
+ "slice": {
+  "params": null,
+  "queries": null
+ },
+ "spec": {
+  "adjacency": {
+   "group": "owner",
+   "owners": {
+    "pack": 65536
+   },
+   "split": "never"
+  },
+  "direction": "declared",
+  "index": {
+   "group": "item",
+   "owners": "one",
+   "scope": "type",
+   "split": "never",
+   "term": "exact"
+  },
+  "version": 1,
+  "vertex_props": {
+   "group": "owner",
+   "owners": {
+    "pack": 262144
+   },
+   "split": "never"
+  }
+ },
+ "spec_path": "specs/props_chunked_c256k_adj_chunked_c64k.json",
+ "store": "",
+ "store_content": {
+  "ingest_counts": {
+   "adjacency_parts": 0,
+   "adjacency_split_units": 0,
+   "edges": 52695734,
+   "vertices": 9281922
+  },
+  "keys": 9313697,
+  "records": "1bf087c2e188ee94cb56cb01842c74f5e612947715927a3ad80c4577de9d980e",
+  "schema": "38709a627d9ca5c4e642881a35b11e3039e41c7471fa0c5efd2faf6415a5e58c"
+ },
+ "store_manifest": null,
+ "tree": {
+  "git_dirty": false,
+  "git_sha": "6091099991b4a8f5c0e56563c5e3880fe8370b8f"
+ },
+ "wall_s": 0.036,
+ "workload": "microbench"
+}

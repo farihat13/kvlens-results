@@ -1,0 +1,57 @@
+{
+ "query_sha": "32998970dd90364b",
+ "params": {
+  "personId": "person_15393162789699",
+  "tagClassName": "Band"
+ },
+ "data": {
+  "schema_sha256": "673074740eea54e4ba1fdc94eebf2087531b3007af7da660afffb3d1e8df0d1e",
+  "schema_path": "nebulagraph/schema/schema.gql",
+  "sf": "0.3",
+  "created": "2026-11-21T03:42:54Z",
+  "git_sha": "1d6662c2"
+ },
+ "fetched_at": "2026-11-21T00:02:53",
+ "raw": {
+  "keys": [
+   "friendId",
+   "friendFirstName",
+   "friendLastName",
+   "tagNames",
+   "replyCount",
+   "friendIdInt"
+  ],
+  "rows": [
+   {
+    "friendId": "person_4398046512902",
+    "friendFirstName": "A.",
+    "friendLastName": "Khan",
+    "tagNames": [
+     "The_Everly_Brothers"
+    ],
+    "replyCount": 1,
+    "friendIdInt": 4398046512902
+   },
+   {
+    "friendId": "person_10995116280854",
+    "friendFirstName": "Abdul Rahman",
+    "friendLastName": "Budjana",
+    "tagNames": [
+     "The_Everly_Brothers"
+    ],
+    "replyCount": 1,
+    "friendIdInt": 10995116280854
+   },
+   {
+    "friendId": "person_19791209302403",
+    "friendFirstName": "Bibit",
+    "friendLastName": "Balawan",
+    "tagNames": [
+     "The_Everly_Brothers"
+    ],
+    "replyCount": 1,
+    "friendIdInt": 19791209302403
+   }
+  ]
+ }
+}

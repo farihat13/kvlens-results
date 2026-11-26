@@ -1,0 +1,57 @@
+{
+ "query_sha": "ca817504079a16c1",
+ "params": {
+  "personId": 30786325579101,
+  "tagName": "Shakira"
+ },
+ "data": {
+  "schema_sha256": "b8e206f17e60692c830ba0c3c675fbc481a22f26011282ce523890eb09be8a74",
+  "schema_path": "arangodb/schema/ldbc_schema.json",
+  "sf": "0.1",
+  "created": "2026-11-21T03:27:46Z",
+  "git_sha": "92777160"
+ },
+ "fetched_at": "2026-11-21T01:05:19",
+ "raw": [
+  {
+   "tagName": "David_Foster",
+   "postCount": 4
+  },
+  {
+   "tagName": "Muammar_Gaddafi",
+   "postCount": 2
+  },
+  {
+   "tagName": "Robert_John_Mutt_Lange",
+   "postCount": 2
+  },
+  {
+   "tagName": "Alfred_the_Great",
+   "postCount": 1
+  },
+  {
+   "tagName": "Andre_Agassi",
+   "postCount": 1
+  },
+  {
+   "tagName": "Andy_Roddick",
+   "postCount": 1
+  },
+  {
+   "tagName": "Bangladesh",
+   "postCount": 1
+  },
+  {
+   "tagName": "Benito_Mussolini",
+   "postCount": 1
+  },
+  {
+   "tagName": "Clark_Gable",
+   "postCount": 1
+  },
+  {
+   "tagName": "Condoleezza_Rice",
+   "postCount": 1
+  }
+ ]
+}

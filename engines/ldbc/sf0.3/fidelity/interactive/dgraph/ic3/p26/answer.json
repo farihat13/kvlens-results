@@ -1,0 +1,32 @@
+{
+ "query_sha": "907f15bd35b7d66e",
+ "params": {
+  "personId": "2199023257277",
+  "startDate": "2011-05-01T00:00:00Z",
+  "countryXName": "Latvia",
+  "countryYName": "Rwanda",
+  "endDate": "2011-06-07T00:00:00Z"
+ },
+ "data": {
+  "schema_sha256": "03713a1e1c7b722e73bed6b150e079e69e9579c2a58c52e06f9d4384fdd4b80d",
+  "schema_path": "dgraph/schema/ldbcTypes.schema",
+  "sf": "0.3",
+  "created": "2026-11-21T02:56:18Z",
+  "git_sha": "60910999"
+ },
+ "fetched_at": "2026-11-21T00:04:30",
+ "raw": {
+  "_n1": [],
+  "_n2": [],
+  "friends": [
+   {
+    "friendId": 2199023258179,
+    "friendFirstName": "Daniel",
+    "friendLastName": "Rodriguez",
+    "xCount": 1,
+    "yCount": 1,
+    "count": 2
+   }
+  ]
+ }
+}

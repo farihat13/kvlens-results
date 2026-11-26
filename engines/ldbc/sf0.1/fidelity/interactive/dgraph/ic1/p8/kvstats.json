@@ -1,0 +1,24 @@
+{
+ "query_sha": "cc60061064f78218",
+ "params": {
+  "personId": "19791209300317",
+  "firstName": "Geremi Sorele Njitap"
+ },
+ "data_created": "2026-11-21T03:25:44Z",
+ "measured_at": "2026-11-21T01:03:24",
+ "raw": {
+  "get_bytes": 1481,
+  "get_count": 24,
+  "get_found_count": 24,
+  "get_latency_ns": 1569854,
+  "next_bytes": 0,
+  "next_count": 0,
+  "next_latency_ns": 0,
+  "seek_bytes": 1823226,
+  "seek_count": 964,
+  "seek_latency_ns": 4027080,
+  "set_bytes": 0,
+  "set_count": 0,
+  "set_latency_ns": 0
+ }
+}

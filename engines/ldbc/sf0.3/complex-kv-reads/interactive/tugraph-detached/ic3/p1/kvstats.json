@@ -1,0 +1,236 @@
+{
+ "query_sha": "b6851cd742c4a4a8",
+ "params": {
+  "personId": 8796093022946,
+  "startDate": 1291161600000,
+  "countryXName": "Rwanda",
+  "countryYName": "Panama",
+  "endDate": 1293753600000
+ },
+ "data_created": "2026-11-23T19:08:22Z",
+ "measured_at": "2026-11-23T13:11:13",
+ "raw": {
+  "get_count": 1030597,
+  "get_miss_count": 0,
+  "get_key_bytes": 5152985,
+  "get_value_bytes": 93959413,
+  "get_bytes": 99112398,
+  "get_latency_ns": 189272159,
+  "seek_count": 1376040,
+  "seek_miss_count": 0,
+  "seek_key_bytes": 7590575,
+  "seek_value_bytes": 46513965,
+  "seek_bytes": 54104540,
+  "seek_latency_ns": 228700152,
+  "next_count": 359281,
+  "next_miss_count": 0,
+  "next_key_bytes": 2137055,
+  "next_value_bytes": 28347703,
+  "next_bytes": 30484758,
+  "next_latency_ns": 12046808,
+  "prev_count": 0,
+  "prev_miss_count": 0,
+  "prev_key_bytes": 0,
+  "prev_value_bytes": 0,
+  "prev_bytes": 0,
+  "prev_latency_ns": 0,
+  "get_current_count": 0,
+  "get_current_miss_count": 0,
+  "get_current_key_bytes": 0,
+  "get_current_value_bytes": 0,
+  "get_current_bytes": 0,
+  "get_current_latency_ns": 0,
+  "other_count": 0,
+  "other_miss_count": 0,
+  "other_key_bytes": 0,
+  "other_value_bytes": 0,
+  "other_bytes": 0,
+  "other_latency_ns": 0,
+  "put_count": 0,
+  "put_miss_count": 0,
+  "put_key_bytes": 0,
+  "put_value_bytes": 0,
+  "put_bytes": 0,
+  "put_latency_ns": 0,
+  "del_count": 0,
+  "del_miss_count": 0,
+  "del_key_bytes": 0,
+  "del_value_bytes": 0,
+  "del_bytes": 0,
+  "del_latency_ns": 0,
+  "commit_count": 0,
+  "commit_latency_ns": 0,
+  "by_call": {
+   "mdb_get": {
+    "count": 1030597,
+    "miss_count": 0,
+    "key_bytes": 5152985,
+    "value_bytes": 93959413,
+    "latency_ns": 189272159
+   },
+   "cursor_set_key": {
+    "count": 0,
+    "miss_count": 0,
+    "key_bytes": 0,
+    "value_bytes": 0,
+    "latency_ns": 0
+   },
+   "cursor_set_range": {
+    "count": 1376040,
+    "miss_count": 0,
+    "key_bytes": 7590575,
+    "value_bytes": 46513965,
+    "latency_ns": 228700152
+   },
+   "cursor_first": {
+    "count": 0,
+    "miss_count": 0,
+    "key_bytes": 0,
+    "value_bytes": 0,
+    "latency_ns": 0
+   },
+   "cursor_last": {
+    "count": 0,
+    "miss_count": 0,
+    "key_bytes": 0,
+    "value_bytes": 0,
+    "latency_ns": 0
+   },
+   "cursor_next": {
+    "count": 359281,
+    "miss_count": 0,
+    "key_bytes": 2137055,
+    "value_bytes": 28347703,
+    "latency_ns": 12046808
+   },
+   "cursor_prev": {
+    "count": 0,
+    "miss_count": 0,
+    "key_bytes": 0,
+    "value_bytes": 0,
+    "latency_ns": 0
+   },
+   "cursor_get_current": {
+    "count": 0,
+    "miss_count": 0,
+    "key_bytes": 0,
+    "value_bytes": 0,
+    "latency_ns": 0
+   },
+   "cursor_other": {
+    "count": 0,
+    "miss_count": 0,
+    "key_bytes": 0,
+    "value_bytes": 0,
+    "latency_ns": 0
+   },
+   "mdb_put": {
+    "count": 0,
+    "miss_count": 0,
+    "key_bytes": 0,
+    "value_bytes": 0,
+    "latency_ns": 0
+   },
+   "cursor_put": {
+    "count": 0,
+    "miss_count": 0,
+    "key_bytes": 0,
+    "value_bytes": 0,
+    "latency_ns": 0
+   },
+   "mdb_del": {
+    "count": 0,
+    "miss_count": 0,
+    "key_bytes": 0,
+    "value_bytes": 0,
+    "latency_ns": 0
+   },
+   "cursor_del": {
+    "count": 0,
+    "miss_count": 0,
+    "key_bytes": 0,
+    "value_bytes": 0,
+    "latency_ns": 0
+   }
+  },
+  "by_table": {
+   "3203B31DFBF1664B5C7E1F582BC2EA18:_vertex_property_Person": {
+    "mdb_get": {
+     "count": 476,
+     "miss_count": 0,
+     "key_bytes": 2380,
+     "value_bytes": 79009,
+     "latency_ns": 186233
+    }
+   },
+   "3203B31DFBF1664B5C7E1F582BC2EA18:_vertex_property_Post": {
+    "mdb_get": {
+     "count": 203352,
+     "miss_count": 0,
+     "key_bytes": 1016760,
+     "value_bytes": 23000868,
+     "latency_ns": 34579943
+    }
+   },
+   "3203B31DFBF1664B5C7E1F582BC2EA18:_vertex_property_Comment": {
+    "mdb_get": {
+     "count": 482760,
+     "miss_count": 0,
+     "key_bytes": 2413800,
+     "value_bytes": 45378160,
+     "latency_ns": 122116297
+    }
+   },
+   "3203B31DFBF1664B5C7E1F582BC2EA18:_vertex_property_Place": {
+    "mdb_get": {
+     "count": 344008,
+     "miss_count": 0,
+     "key_bytes": 1720040,
+     "value_bytes": 25501284,
+     "latency_ns": 32387941
+    }
+   },
+   "3203B31DFBF1664B5C7E1F582BC2EA18:_graph_": {
+    "cursor_set_range": {
+     "count": 1376039,
+     "miss_count": 0,
+     "key_bytes": 7590567,
+     "value_bytes": 46513949,
+     "latency_ns": 228699073
+    },
+    "cursor_next": {
+     "count": 359280,
+     "miss_count": 0,
+     "key_bytes": 2137047,
+     "value_bytes": 28347687,
+     "latency_ns": 12046471
+    }
+   },
+   "3203B31DFBF1664B5C7E1F582BC2EA18:Person_@lgraph@_id_@lgraph@_vertex_index": {
+    "cursor_set_range": {
+     "count": 1,
+     "miss_count": 0,
+     "key_bytes": 8,
+     "value_bytes": 16,
+     "latency_ns": 1079
+    },
+    "cursor_next": {
+     "count": 1,
+     "miss_count": 0,
+     "key_bytes": 8,
+     "value_bytes": 16,
+     "latency_ns": 337
+    }
+   },
+   ".meta:_user_table_": {
+    "mdb_get": {
+     "count": 1,
+     "miss_count": 0,
+     "key_bytes": 5,
+     "value_bytes": 92,
+     "latency_ns": 1745
+    }
+   }
+  }
+ }
+}

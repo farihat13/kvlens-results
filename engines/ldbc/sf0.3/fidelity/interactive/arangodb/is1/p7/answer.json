@@ -1,0 +1,26 @@
+{
+ "query_sha": "928263439c71fcc2",
+ "params": {
+  "personId": 2199023259063
+ },
+ "data": {
+  "schema_sha256": "b8e206f17e60692c830ba0c3c675fbc481a22f26011282ce523890eb09be8a74",
+  "schema_path": "arangodb/schema/ldbc_schema.json",
+  "sf": "0.3",
+  "created": "2026-11-21T03:01:29Z",
+  "git_sha": "60910999"
+ },
+ "fetched_at": "2026-11-20T23:54:49",
+ "raw": [
+  {
+   "firstName": "Rahim",
+   "lastName": "Qaderi",
+   "birthday": 336182400000,
+   "locationIP": "125.213.199.242",
+   "browserUsed": "Firefox",
+   "cityId": 957,
+   "gender": "female",
+   "creationDate": 1269838041924
+  }
+ ]
+}

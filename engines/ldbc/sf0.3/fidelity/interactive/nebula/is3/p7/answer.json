@@ -1,0 +1,95 @@
+{
+ "query_sha": "6ff3aa62b8626f5b",
+ "params": {
+  "personId": "person_2199023259063"
+ },
+ "data": {
+  "schema_sha256": "673074740eea54e4ba1fdc94eebf2087531b3007af7da660afffb3d1e8df0d1e",
+  "schema_path": "nebulagraph/schema/schema.gql",
+  "sf": "0.3",
+  "created": "2026-11-21T03:42:54Z",
+  "git_sha": "1d6662c2"
+ },
+ "fetched_at": "2026-11-20T23:54:49",
+ "raw": {
+  "keys": [
+   "friendId",
+   "friendFirstName",
+   "friendLastName",
+   "friendshipCreationDate",
+   "friendIdInt"
+  ],
+  "rows": [
+   {
+    "friendId": "person_30786325578932",
+    "friendFirstName": "Alexander",
+    "friendLastName": "Hleb",
+    "friendshipCreationDate": 1339120526954,
+    "friendIdInt": 30786325578932
+   },
+   {
+    "friendId": "person_26388279066885",
+    "friendFirstName": "Andrei",
+    "friendLastName": "Kahnovich",
+    "friendshipCreationDate": 1331177255537,
+    "friendIdInt": 26388279066885
+   },
+   {
+    "friendId": "person_24189255811663",
+    "friendFirstName": "Chris",
+    "friendLastName": "Hall",
+    "friendshipCreationDate": 1323589687394,
+    "friendIdInt": 24189255811663
+   },
+   {
+    "friendId": "person_21990232557330",
+    "friendFirstName": "Gerhard",
+    "friendLastName": "M\u00fcller",
+    "friendshipCreationDate": 1317957062016,
+    "friendIdInt": 21990232557330
+   },
+   {
+    "friendId": "person_21990232556410",
+    "friendFirstName": "Aa Ngurah",
+    "friendLastName": "Gallagher",
+    "friendshipCreationDate": 1315852593689,
+    "friendIdInt": 21990232556410
+   },
+   {
+    "friendId": "person_19791209303491",
+    "friendFirstName": "George",
+    "friendLastName": "Nagy",
+    "friendshipCreationDate": 1315390195255,
+    "friendIdInt": 19791209303491
+   },
+   {
+    "friendId": "person_17592186047036",
+    "friendFirstName": "Daniil",
+    "friendLastName": "Ivanov",
+    "friendshipCreationDate": 1311729201948,
+    "friendIdInt": 17592186047036
+   },
+   {
+    "friendId": "person_15393162789093",
+    "friendFirstName": "Rafael",
+    "friendLastName": "Fern\u00e1ndez",
+    "friendshipCreationDate": 1303644863036,
+    "friendIdInt": 15393162789093
+   },
+   {
+    "friendId": "person_13194139537008",
+    "friendFirstName": "Ivan Ignatyevich",
+    "friendLastName": "Hleb",
+    "friendshipCreationDate": 1296607178804,
+    "friendIdInt": 13194139537008
+   },
+   {
+    "friendId": "person_2214",
+    "friendFirstName": "Alexander",
+    "friendLastName": "Ivanov",
+    "friendshipCreationDate": 1271591232296,
+    "friendIdInt": 2214
+   }
+  ]
+ }
+}

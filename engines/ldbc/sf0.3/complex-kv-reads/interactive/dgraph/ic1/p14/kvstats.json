@@ -1,0 +1,31 @@
+{
+ "query_sha": "cc60061064f78218",
+ "params": {
+  "personId": "1129",
+  "firstName": "Mart"
+ },
+ "data_created": "2026-11-23T09:38:23Z",
+ "measured_at": "2026-11-23T13:10:34",
+ "raw": {
+  "get_bytes": 1482,
+  "get_count": 25,
+  "get_found_count": 25,
+  "get_latency_ns": 388273,
+  "next_bytes": 0,
+  "next_count": 0,
+  "next_latency_ns": 0,
+  "seek_bytes": 4757749,
+  "seek_count": 2057,
+  "seek_latency_ns": 9121341,
+  "set_bytes": 0,
+  "set_count": 0,
+  "set_latency_ns": 0
+ },
+ "config": {
+  "cache_mode": "off",
+  "ineqfilterpath": "per_vertex",
+  "eqfilterpath": "index",
+  "typefilterpath": "index",
+  "detsort": "enable"
+ }
+}

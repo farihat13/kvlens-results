@@ -1,0 +1,593 @@
+{
+ "query_sha": "ed769e6bae6731fc",
+ "params": {
+  "personId": "30786325578932"
+ },
+ "data": {
+  "schema_sha256": "03713a1e1c7b722e73bed6b150e079e69e9579c2a58c52e06f9d4384fdd4b80d",
+  "schema_path": "dgraph/schema/ldbcTypes.schema",
+  "sf": "0.1",
+  "created": "2026-11-21T03:25:44Z",
+  "git_sha": "92777160"
+ },
+ "fetched_at": "2026-11-21T01:06:41",
+ "raw": {
+  "result": [
+   {
+    "friendId": 28587302322552,
+    "friendFirstName": "A.",
+    "friendLastName": "Rao",
+    "isNew": 0,
+    "likes": [
+     {
+      "messageId": 1030792218869,
+      "messageContent": "About Lucy in the Sky with Diamonds, release, speculation arose that the first lette",
+      "messageCreationDate": "2012-09-02T16:29:28.976Z",
+      "likesCreationDate": "2012-09-07T09:31:22.007+00:00"
+     }
+    ]
+   },
+   {
+    "friendId": 30786325578932,
+    "friendFirstName": "Alexander",
+    "friendLastName": "Hleb",
+    "isNew": 1,
+    "likes": [
+     {
+      "messageId": 1030792218869,
+      "messageContent": "About Lucy in the Sky with Diamonds, release, speculation arose that the first lette",
+      "messageCreationDate": "2012-09-02T16:29:28.976Z",
+      "likesCreationDate": "2012-09-04T20:04:37.740+00:00"
+     }
+    ]
+   },
+   {
+    "friendId": 26388279067910,
+    "friendFirstName": "Andrei",
+    "friendLastName": "Berman",
+    "isNew": 1,
+    "likes": [
+     {
+      "messageId": 1030792218869,
+      "messageContent": "About Lucy in the Sky with Diamonds, release, speculation arose that the first lette",
+      "messageCreationDate": "2012-09-02T16:29:28.976Z",
+      "likesCreationDate": "2012-09-04T15:59:45.926+00:00"
+     }
+    ]
+   },
+   {
+    "friendId": 2199023256452,
+    "friendFirstName": "Richard",
+    "friendLastName": "Lawson",
+    "isNew": 1,
+    "likes": [
+     {
+      "messageId": 1030792218869,
+      "messageContent": "About Lucy in the Sky with Diamonds, release, speculation arose that the first lette",
+      "messageCreationDate": "2012-09-02T16:29:28.976Z",
+      "likesCreationDate": "2012-09-03T10:07:50.285+00:00"
+     }
+    ]
+   },
+   {
+    "friendId": 6597069767377,
+    "friendFirstName": "Priyanka",
+    "friendLastName": "Khan",
+    "isNew": 1,
+    "likes": [
+     {
+      "messageId": 1030792218869,
+      "messageContent": "About Lucy in the Sky with Diamonds, release, speculation arose that the first lette",
+      "messageCreationDate": "2012-09-02T16:29:28.976Z",
+      "likesCreationDate": "2012-09-03T14:28:54.192+00:00"
+     }
+    ]
+   },
+   {
+    "friendId": 26388279067532,
+    "friendFirstName": "David",
+    "friendLastName": "Adhia",
+    "isNew": 1,
+    "likes": [
+     {
+      "messageId": 1030792218869,
+      "messageContent": "About Lucy in the Sky with Diamonds, release, speculation arose that the first lette",
+      "messageCreationDate": "2012-09-02T16:29:28.976Z",
+      "likesCreationDate": "2012-09-02T21:37:42.092+00:00"
+     }
+    ]
+   },
+   {
+    "friendId": 13194139534376,
+    "friendFirstName": "Li",
+    "friendLastName": "Li",
+    "isNew": 1,
+    "likes": [
+     {
+      "messageId": 1030792218869,
+      "messageContent": "About Lucy in the Sky with Diamonds, release, speculation arose that the first lette",
+      "messageCreationDate": "2012-09-02T16:29:28.976Z",
+      "likesCreationDate": "2012-09-04T04:03:52.374+00:00"
+     }
+    ]
+   },
+   {
+    "friendId": 26388279067331,
+    "friendFirstName": "Peng",
+    "friendLastName": "Zhang",
+    "isNew": 1,
+    "likes": [
+     {
+      "messageId": 1030792218869,
+      "messageContent": "About Lucy in the Sky with Diamonds, release, speculation arose that the first lette",
+      "messageCreationDate": "2012-09-02T16:29:28.976Z",
+      "likesCreationDate": "2012-09-05T14:59:50.942+00:00"
+     }
+    ]
+   },
+   {
+    "friendId": 15393162789093,
+    "friendFirstName": "Rafael",
+    "friendLastName": "Fern\u00e1ndez",
+    "isNew": 0,
+    "likes": [
+     {
+      "messageId": 1030792218869,
+      "messageContent": "About Lucy in the Sky with Diamonds, release, speculation arose that the first lette",
+      "messageCreationDate": "2012-09-02T16:29:28.976Z",
+      "likesCreationDate": "2012-09-03T04:32:21.942+00:00"
+     }
+    ]
+   },
+   {
+    "friendId": 8796093022290,
+    "friendFirstName": "Alexei",
+    "friendLastName": "Codreanu",
+    "isNew": 1,
+    "likes": [
+     {
+      "messageId": 1030792218869,
+      "messageContent": "About Lucy in the Sky with Diamonds, release, speculation arose that the first lette",
+      "messageCreationDate": "2012-09-02T16:29:28.976Z",
+      "likesCreationDate": "2012-09-07T11:45:43.480+00:00"
+     }
+    ]
+   },
+   {
+    "friendId": 10995116278973,
+    "friendFirstName": "Paolo",
+    "friendLastName": "Colombo",
+    "isNew": 1,
+    "likes": [
+     {
+      "messageId": 1030792218061,
+      "messageContent": "About Samuel L. Jackson,  and his performance received several award nominations and critical accl",
+      "messageImageFile": "",
+      "messageCreationDate": "2012-08-30T17:30:08.612Z",
+      "likesCreationDate": "2012-09-02T12:59:16.614+00:00"
+     }
+    ]
+   },
+   {
+    "friendId": 17592186044994,
+    "friendFirstName": "Jie",
+    "friendLastName": "Wang",
+    "isNew": 1,
+    "likes": [
+     {
+      "messageId": 1030792330624,
+      "messageContent": "About Ulysses S. Grant, ghts. He used the army to build the RepublicAbout Portugal, nd",
+      "messageCreationDate": "2012-07-14T23:20:17.167Z",
+      "likesCreationDate": "2012-07-17T03:00:09.688+00:00"
+     }
+    ]
+   },
+   {
+    "friendId": 24189255812574,
+    "friendFirstName": "Lorenzo",
+    "friendLastName": "Sotto",
+    "isNew": 0,
+    "likes": [
+     {
+      "messageId": 1030792218869,
+      "messageContent": "About Lucy in the Sky with Diamonds, release, speculation arose that the first lette",
+      "messageCreationDate": "2012-09-02T16:29:28.976Z",
+      "likesCreationDate": "2012-09-03T05:10:38.299+00:00"
+     }
+    ]
+   },
+   {
+    "friendId": 32985348833314,
+    "friendFirstName": "Roberto",
+    "friendLastName": "Diaz",
+    "isNew": 1,
+    "likes": [
+     {
+      "messageId": 1030792218869,
+      "messageContent": "About Lucy in the Sky with Diamonds, release, speculation arose that the first lette",
+      "messageCreationDate": "2012-09-02T16:29:28.976Z",
+      "likesCreationDate": "2012-09-03T22:07:20.917+00:00"
+     }
+    ]
+   },
+   {
+    "friendId": 24189255812226,
+    "friendFirstName": "Deepak",
+    "friendLastName": "Bose",
+    "isNew": 0,
+    "likes": [
+     {
+      "messageId": 1030792218869,
+      "messageContent": "About Lucy in the Sky with Diamonds, release, speculation arose that the first lette",
+      "messageCreationDate": "2012-09-02T16:29:28.976Z",
+      "likesCreationDate": "2012-09-03T09:37:16.628+00:00"
+     }
+    ]
+   },
+   {
+    "friendId": 28587302323139,
+    "friendFirstName": "Ernst",
+    "friendLastName": "Kurkov\u00e1",
+    "isNew": 1,
+    "likes": [
+     {
+      "messageId": 1030792218869,
+      "messageContent": "About Lucy in the Sky with Diamonds, release, speculation arose that the first lette",
+      "messageCreationDate": "2012-09-02T16:29:28.976Z",
+      "likesCreationDate": "2012-09-05T05:53:41.264+00:00"
+     }
+    ]
+   },
+   {
+    "friendId": 10995116279144,
+    "friendFirstName": "Nirina",
+    "friendLastName": "Roindefo",
+    "isNew": 1,
+    "likes": [
+     {
+      "messageId": 1030792218869,
+      "messageContent": "About Lucy in the Sky with Diamonds, release, speculation arose that the first lette",
+      "messageCreationDate": "2012-09-02T16:29:28.976Z",
+      "likesCreationDate": "2012-09-04T23:27:18.097+00:00"
+     }
+    ]
+   },
+   {
+    "friendId": 21990232555531,
+    "friendFirstName": "Cheng",
+    "friendLastName": "Wei",
+    "isNew": 1,
+    "likes": [
+     {
+      "messageId": 1030792218869,
+      "messageContent": "About Lucy in the Sky with Diamonds, release, speculation arose that the first lette",
+      "messageCreationDate": "2012-09-02T16:29:28.976Z",
+      "likesCreationDate": "2012-09-07T11:49:48.958+00:00"
+     }
+    ]
+   },
+   {
+    "friendId": 2199023256816,
+    "friendFirstName": "K.",
+    "friendLastName": "Bose",
+    "isNew": 1,
+    "likes": [
+     {
+      "messageId": 1030792218869,
+      "messageContent": "About Lucy in the Sky with Diamonds, release, speculation arose that the first lette",
+      "messageCreationDate": "2012-09-02T16:29:28.976Z",
+      "likesCreationDate": "2012-09-05T21:15:47.580+00:00"
+     }
+    ]
+   },
+   {
+    "friendId": 19791209300479,
+    "friendFirstName": "Hao",
+    "friendLastName": "Wang",
+    "isNew": 1,
+    "likes": [
+     {
+      "messageId": 1030792218869,
+      "messageContent": "About Lucy in the Sky with Diamonds, release, speculation arose that the first lette",
+      "messageCreationDate": "2012-09-02T16:29:28.976Z",
+      "likesCreationDate": "2012-09-03T23:39:14.634+00:00"
+     }
+    ]
+   },
+   {
+    "friendId": 19791209300831,
+    "friendFirstName": "Ilias",
+    "friendLastName": "Fampas",
+    "isNew": 1,
+    "likes": [
+     {
+      "messageId": 1030792218869,
+      "messageContent": "About Lucy in the Sky with Diamonds, release, speculation arose that the first lette",
+      "messageCreationDate": "2012-09-02T16:29:28.976Z",
+      "likesCreationDate": "2012-09-03T09:50:18.929+00:00"
+     }
+    ]
+   },
+   {
+    "friendId": 26388279067685,
+    "friendFirstName": "Ning",
+    "friendLastName": "Zhang",
+    "isNew": 1,
+    "likes": [
+     {
+      "messageId": 1030792218869,
+      "messageContent": "About Lucy in the Sky with Diamonds, release, speculation arose that the first lette",
+      "messageCreationDate": "2012-09-02T16:29:28.976Z",
+      "likesCreationDate": "2012-09-05T21:51:53.987+00:00"
+     }
+    ]
+   },
+   {
+    "friendId": 17592186045739,
+    "friendFirstName": "Shweta",
+    "friendLastName": "Singh",
+    "isNew": 0,
+    "likes": [
+     {
+      "messageId": 1030792218869,
+      "messageContent": "About Lucy in the Sky with Diamonds, release, speculation arose that the first lette",
+      "messageCreationDate": "2012-09-02T16:29:28.976Z",
+      "likesCreationDate": "2012-09-03T01:29:50.394+00:00"
+     }
+    ]
+   },
+   {
+    "friendId": 21990232555889,
+    "friendFirstName": "Yang",
+    "friendLastName": "Lei",
+    "isNew": 1,
+    "likes": [
+     {
+      "messageId": 1030792218869,
+      "messageContent": "About Lucy in the Sky with Diamonds, release, speculation arose that the first lette",
+      "messageCreationDate": "2012-09-02T16:29:28.976Z",
+      "likesCreationDate": "2012-09-02T17:05:53.800+00:00"
+     }
+    ]
+   },
+   {
+    "friendId": 21990232556252,
+    "friendFirstName": "Piers",
+    "friendLastName": "Eri",
+    "isNew": 1,
+    "likes": [
+     {
+      "messageId": 1030792218869,
+      "messageContent": "About Lucy in the Sky with Diamonds, release, speculation arose that the first lette",
+      "messageCreationDate": "2012-09-02T16:29:28.976Z",
+      "likesCreationDate": "2012-09-03T03:40:19.087+00:00"
+     }
+    ]
+   },
+   {
+    "friendId": 30786325578784,
+    "friendFirstName": "Yang",
+    "friendLastName": "Xu",
+    "isNew": 1,
+    "likes": [
+     {
+      "messageId": 1030792218869,
+      "messageContent": "About Lucy in the Sky with Diamonds, release, speculation arose that the first lette",
+      "messageCreationDate": "2012-09-02T16:29:28.976Z",
+      "likesCreationDate": "2012-09-06T15:39:57.605+00:00"
+     }
+    ]
+   },
+   {
+    "friendId": 24189255812733,
+    "friendFirstName": "Alejandro",
+    "friendLastName": "Gonzalez",
+    "isNew": 1,
+    "likes": [
+     {
+      "messageId": 1030792218869,
+      "messageContent": "About Lucy in the Sky with Diamonds, release, speculation arose that the first lette",
+      "messageCreationDate": "2012-09-02T16:29:28.976Z",
+      "likesCreationDate": "2012-09-03T15:09:47.518+00:00"
+     }
+    ]
+   },
+   {
+    "friendId": 4398046512162,
+    "friendFirstName": "Abdul Baseer",
+    "friendLastName": "Khan",
+    "isNew": 1,
+    "likes": [
+     {
+      "messageId": 1030792218869,
+      "messageContent": "About Lucy in the Sky with Diamonds, release, speculation arose that the first lette",
+      "messageCreationDate": "2012-09-02T16:29:28.976Z",
+      "likesCreationDate": "2012-09-04T11:58:42.404+00:00"
+     }
+    ]
+   },
+   {
+    "friendId": 30786325578029,
+    "friendFirstName": "Jose",
+    "friendLastName": "Santos",
+    "isNew": 1,
+    "likes": [
+     {
+      "messageId": 1030792218869,
+      "messageContent": "About Lucy in the Sky with Diamonds, release, speculation arose that the first lette",
+      "messageCreationDate": "2012-09-02T16:29:28.976Z",
+      "likesCreationDate": "2012-09-03T04:41:35.488+00:00"
+     }
+    ]
+   },
+   {
+    "friendId": 13194139533535,
+    "friendFirstName": "Shweta",
+    "friendLastName": "Singh",
+    "isNew": 1,
+    "likes": [
+     {
+      "messageId": 962072692098,
+      "messageContent": "About Nicolas Mahut, nnis history against John Isner in the fAbout John Wayne, ",
+      "messageCreationDate": "2012-06-25T01:02:52.475Z",
+      "likesCreationDate": "2012-06-26T12:43:42.619+00:00"
+     }
+    ]
+   },
+   {
+    "friendId": 870,
+    "friendFirstName": "Dionysis",
+    "friendLastName": "Karvelas",
+    "isNew": 1,
+    "likes": [
+     {
+      "messageId": 1030792218869,
+      "messageContent": "About Lucy in the Sky with Diamonds, release, speculation arose that the first lette",
+      "messageCreationDate": "2012-09-02T16:29:28.976Z",
+      "likesCreationDate": "2012-09-04T13:00:11.970+00:00"
+     }
+    ]
+   },
+   {
+    "friendId": 24189255811801,
+    "friendFirstName": "Barbara Kanam",
+    "friendLastName": "Omonga",
+    "isNew": 1,
+    "likes": [
+     {
+      "messageId": 1030792218869,
+      "messageContent": "About Lucy in the Sky with Diamonds, release, speculation arose that the first lette",
+      "messageCreationDate": "2012-09-02T16:29:28.976Z",
+      "likesCreationDate": "2012-09-04T03:25:58.461+00:00"
+     }
+    ]
+   },
+   {
+    "friendId": 8796093023215,
+    "friendFirstName": "John",
+    "friendLastName": "Murphy",
+    "isNew": 1,
+    "likes": [
+     {
+      "messageId": 1030792218869,
+      "messageContent": "About Lucy in the Sky with Diamonds, release, speculation arose that the first lette",
+      "messageCreationDate": "2012-09-02T16:29:28.976Z",
+      "likesCreationDate": "2012-09-06T22:07:07.056+00:00"
+     }
+    ]
+   },
+   {
+    "friendId": 13194139534578,
+    "friendFirstName": "Kunal",
+    "friendLastName": "Sharma",
+    "isNew": 0,
+    "likes": [
+     {
+      "messageId": 1030792218869,
+      "messageContent": "About Lucy in the Sky with Diamonds, release, speculation arose that the first lette",
+      "messageCreationDate": "2012-09-02T16:29:28.976Z",
+      "likesCreationDate": "2012-09-03T15:12:15.287+00:00"
+     }
+    ]
+   },
+   {
+    "friendId": 13194139533618,
+    "friendFirstName": "Yang",
+    "friendLastName": "Zhang",
+    "isNew": 1,
+    "likes": [
+     {
+      "messageId": 1030792218869,
+      "messageContent": "About Lucy in the Sky with Diamonds, release, speculation arose that the first lette",
+      "messageCreationDate": "2012-09-02T16:29:28.976Z",
+      "likesCreationDate": "2012-09-02T20:52:06.724+00:00"
+     }
+    ]
+   },
+   {
+    "friendId": 143,
+    "friendFirstName": "Maria",
+    "friendLastName": "Alkaios",
+    "isNew": 1,
+    "likes": [
+     {
+      "messageId": 1030792218869,
+      "messageContent": "About Lucy in the Sky with Diamonds, release, speculation arose that the first lette",
+      "messageCreationDate": "2012-09-02T16:29:28.976Z",
+      "likesCreationDate": "2012-09-03T02:45:20.474+00:00"
+     }
+    ]
+   },
+   {
+    "friendId": 459,
+    "friendFirstName": "Jharana Bajracharya Rashid",
+    "friendLastName": "Shrestha",
+    "isNew": 1,
+    "likes": [
+     {
+      "messageId": 1030792218869,
+      "messageContent": "About Lucy in the Sky with Diamonds, release, speculation arose that the first lette",
+      "messageCreationDate": "2012-09-02T16:29:28.976Z",
+      "likesCreationDate": "2012-09-03T03:03:56.267+00:00"
+     }
+    ]
+   },
+   {
+    "friendId": 17592186045044,
+    "friendFirstName": "Abdul Haris",
+    "friendLastName": "Anwar",
+    "isNew": 1,
+    "likes": [
+     {
+      "messageId": 1030792218869,
+      "messageContent": "About Lucy in the Sky with Diamonds, release, speculation arose that the first lette",
+      "messageCreationDate": "2012-09-02T16:29:28.976Z",
+      "likesCreationDate": "2012-09-04T22:14:12.400+00:00"
+     }
+    ]
+   },
+   {
+    "friendId": 1161,
+    "friendFirstName": "Li",
+    "friendLastName": "Zhang",
+    "isNew": 1,
+    "likes": [
+     {
+      "messageId": 1030792218869,
+      "messageContent": "About Lucy in the Sky with Diamonds, release, speculation arose that the first lette",
+      "messageCreationDate": "2012-09-02T16:29:28.976Z",
+      "likesCreationDate": "2012-09-02T18:55:46.228+00:00"
+     }
+    ]
+   },
+   {
+    "friendId": 32985348833548,
+    "friendFirstName": "Aleksandr",
+    "friendLastName": "Bajt",
+    "isNew": 1,
+    "likes": [
+     {
+      "messageId": 1030792218869,
+      "messageContent": "About Lucy in the Sky with Diamonds, release, speculation arose that the first lette",
+      "messageCreationDate": "2012-09-02T16:29:28.976Z",
+      "likesCreationDate": "2012-09-03T20:51:28.960+00:00"
+     }
+    ]
+   },
+   {
+    "friendId": 15393162790275,
+    "friendFirstName": "Sergio",
+    "friendLastName": "Machado",
+    "isNew": 1,
+    "likes": [
+     {
+      "messageId": 1030792218869,
+      "messageContent": "About Lucy in the Sky with Diamonds, release, speculation arose that the first lette",
+      "messageCreationDate": "2012-09-02T16:29:28.976Z",
+      "likesCreationDate": "2012-09-04T12:32:24.145+00:00"
+     }
+    ]
+   }
+  ]
+ }
+}

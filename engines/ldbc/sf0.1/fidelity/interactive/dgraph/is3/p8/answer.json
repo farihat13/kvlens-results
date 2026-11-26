@@ -1,0 +1,90 @@
+{
+ "query_sha": "00f75f489d160871",
+ "params": {
+  "personId": "19791209300317"
+ },
+ "data": {
+  "schema_sha256": "03713a1e1c7b722e73bed6b150e079e69e9579c2a58c52e06f9d4384fdd4b80d",
+  "schema_path": "dgraph/schema/ldbcTypes.schema",
+  "sf": "0.1",
+  "created": "2026-11-21T03:25:44Z",
+  "git_sha": "92777160"
+ },
+ "fetched_at": "2026-11-21T01:07:27",
+ "raw": {
+  "person": [
+   {
+    "knows": [
+     {
+      "friendId": 21990232555524,
+      "friendFirstName": "Bryn",
+      "friendLastName": "Davies",
+      "knows|creationDate": "2011-10-17T15:49:05.132+00:00"
+     },
+     {
+      "friendId": 26388279067551,
+      "friendFirstName": "Anand",
+      "friendLastName": "Rao",
+      "knows|creationDate": "2012-03-01T06:36:04.677+00:00"
+     },
+     {
+      "friendId": 21990232556410,
+      "friendFirstName": "Aa Ngurah",
+      "friendLastName": "Gallagher",
+      "knows|creationDate": "2011-09-09T12:07:15.171+00:00"
+     },
+     {
+      "friendId": 19791209300796,
+      "friendFirstName": "Leandro",
+      "friendLastName": "Silva",
+      "knows|creationDate": "2011-08-18T22:10:00.763+00:00"
+     },
+     {
+      "friendId": 24189255811862,
+      "friendFirstName": "Kalu",
+      "friendLastName": "Bembo-Leta",
+      "knows|creationDate": "2011-11-26T14:18:43.714+00:00"
+     }
+    ],
+    "~knows": [
+     {
+      "friendId": 2199023256881,
+      "friendFirstName": "Ammar",
+      "friendLastName": "David",
+      "~knows|creationDate": "2011-08-07T23:37:36.340+00:00"
+     },
+     {
+      "friendId": 2199023256277,
+      "friendFirstName": "Allister",
+      "friendLastName": "Miller",
+      "~knows|creationDate": "2011-08-07T12:38:13.623+00:00"
+     },
+     {
+      "friendId": 17592186045497,
+      "friendFirstName": "Keisuke",
+      "friendLastName": "Sato",
+      "~knows|creationDate": "2011-08-14T13:20:16.528+00:00"
+     },
+     {
+      "friendId": 13194139534279,
+      "friendFirstName": "Isabel",
+      "friendLastName": "Fernandez",
+      "~knows|creationDate": "2011-08-08T00:18:48.571+00:00"
+     },
+     {
+      "friendId": 8796093022367,
+      "friendFirstName": "David",
+      "friendLastName": "Alonso",
+      "~knows|creationDate": "2011-08-21T12:49:18.037+00:00"
+     },
+     {
+      "friendId": 13194139533574,
+      "friendFirstName": "Benhalima",
+      "friendLastName": "Ferrer",
+      "~knows|creationDate": "2011-08-27T04:52:05.626+00:00"
+     }
+    ]
+   }
+  ]
+ }
+}

@@ -1,0 +1,218 @@
+{
+ "query_sha": "afd1398a68b07f16",
+ "params": {
+  "personId": "19791209300317"
+ },
+ "data": {
+  "schema_sha256": "03713a1e1c7b722e73bed6b150e079e69e9579c2a58c52e06f9d4384fdd4b80d",
+  "schema_path": "dgraph/schema/ldbcTypes.schema",
+  "sf": "0.1",
+  "created": "2026-11-21T03:25:44Z",
+  "git_sha": "92777160"
+ },
+ "fetched_at": "2026-11-21T01:07:27",
+ "raw": {
+  "person": [
+   {
+    "messages": [
+     {
+      "messageId": 1099511722707,
+      "messageCreationDate": "2012-09-12T10:13:22.52Z",
+      "content": "maybe",
+      "messageType": [
+       "comment"
+      ],
+      "selfAsOriginal": [
+       {
+        "authorId": 19791209300317,
+        "authorFirstName": "Bertin",
+        "authorLastName": "Bona"
+       }
+      ],
+      "parentComment": {
+       "dgraph.type": [
+        "comment"
+       ],
+       "grandParentPost": {
+        "postId": 1099511722701,
+        "originalPoster": [
+         {
+          "authorId": 4398046511424,
+          "authorFirstName": "Tom",
+          "authorLastName": "Wilson"
+         }
+        ]
+       }
+      }
+     },
+     {
+      "messageId": 1030792246512,
+      "messageCreationDate": "2012-08-31T22:21:42.114Z",
+      "content": "roflol",
+      "messageType": [
+       "comment"
+      ],
+      "originalPost": {
+       "postId": 1030792246508,
+       "postCreationDate": "2012-08-31T16:10:33.907Z",
+       "postContent": "About David Lloyd George, Peace Conference of 1919 that reordered the world after the Great War. Lloyd Georg",
+       "originalPoster": [
+        {
+         "authorId": 19791209301374,
+         "authorFirstName": "Francis",
+         "authorLastName": "Santos"
+        }
+       ]
+      },
+      "selfAsOriginal": [
+       {
+        "authorId": 19791209300317,
+        "authorFirstName": "Bertin",
+        "authorLastName": "Bona"
+       }
+      ]
+     },
+     {
+      "messageId": 1030792209969,
+      "messageCreationDate": "2012-08-21T02:57:46.47Z",
+      "content": "About Hilary Duff, utside the top twenty on the Billboard Top 40 MainstreaAbout Destination Calabria, bria an",
+      "messageType": [
+       "comment"
+      ],
+      "originalPost": {
+       "postId": 1030792209966,
+       "postCreationDate": "2012-08-20T15:27:57.317Z",
+       "postContent": "About Hilary Duff,  100. Fly was the only single released in the United States. The second Australian single, Someone",
+       "originalPoster": [
+        {
+         "authorId": 19791209300081,
+         "authorFirstName": "Abhishek",
+         "authorLastName": "Singh"
+        }
+       ]
+      },
+      "selfAsOriginal": [
+       {
+        "authorId": 19791209300317,
+        "authorFirstName": "Bertin",
+        "authorLastName": "Bona"
+       }
+      ]
+     },
+     {
+      "messageId": 1030792452184,
+      "messageCreationDate": "2012-08-13T09:29:36.762Z",
+      "imageFile": "photo1030792452184.jpg",
+      "content": "",
+      "messageType": [
+       "post"
+      ],
+      "selfAsOriginal": [
+       {
+        "authorId": 19791209300317,
+        "authorFirstName": "Bertin",
+        "authorLastName": "Bona"
+       }
+      ]
+     },
+     {
+      "messageId": 1030792452183,
+      "messageCreationDate": "2012-08-13T09:29:35.762Z",
+      "imageFile": "photo1030792452183.jpg",
+      "content": "",
+      "messageType": [
+       "post"
+      ],
+      "selfAsOriginal": [
+       {
+        "authorId": 19791209300317,
+        "authorFirstName": "Bertin",
+        "authorLastName": "Bona"
+       }
+      ]
+     },
+     {
+      "messageId": 1030792452182,
+      "messageCreationDate": "2012-08-13T09:29:34.762Z",
+      "imageFile": "photo1030792452182.jpg",
+      "content": "",
+      "messageType": [
+       "post"
+      ],
+      "selfAsOriginal": [
+       {
+        "authorId": 19791209300317,
+        "authorFirstName": "Bertin",
+        "authorLastName": "Bona"
+       }
+      ]
+     },
+     {
+      "messageId": 1030792452181,
+      "messageCreationDate": "2012-08-13T09:29:33.762Z",
+      "imageFile": "photo1030792452181.jpg",
+      "content": "",
+      "messageType": [
+       "post"
+      ],
+      "selfAsOriginal": [
+       {
+        "authorId": 19791209300317,
+        "authorFirstName": "Bertin",
+        "authorLastName": "Bona"
+       }
+      ]
+     },
+     {
+      "messageId": 1030792452180,
+      "messageCreationDate": "2012-08-13T09:29:32.762Z",
+      "imageFile": "photo1030792452180.jpg",
+      "content": "",
+      "messageType": [
+       "post"
+      ],
+      "selfAsOriginal": [
+       {
+        "authorId": 19791209300317,
+        "authorFirstName": "Bertin",
+        "authorLastName": "Bona"
+       }
+      ]
+     },
+     {
+      "messageId": 1030792452179,
+      "messageCreationDate": "2012-08-13T09:29:31.762Z",
+      "imageFile": "photo1030792452179.jpg",
+      "content": "",
+      "messageType": [
+       "post"
+      ],
+      "selfAsOriginal": [
+       {
+        "authorId": 19791209300317,
+        "authorFirstName": "Bertin",
+        "authorLastName": "Bona"
+       }
+      ]
+     },
+     {
+      "messageId": 1030792452178,
+      "messageCreationDate": "2012-08-13T09:29:30.762Z",
+      "imageFile": "photo1030792452178.jpg",
+      "content": "",
+      "messageType": [
+       "post"
+      ],
+      "selfAsOriginal": [
+       {
+        "authorId": 19791209300317,
+        "authorFirstName": "Bertin",
+        "authorLastName": "Bona"
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

@@ -1,0 +1,197 @@
+{
+ "query_sha": "d8dd21d2a7dc0b5c",
+ "params": {
+  "personId": 1129,
+  "firstName": "Mart"
+ },
+ "data_created": "2026-11-23T18:02:34Z",
+ "measured_at": "2026-11-23T13:10:34",
+ "raw": {
+  "get_count": 1,
+  "get_miss_count": 0,
+  "get_key_bytes": 5,
+  "get_value_bytes": 92,
+  "get_bytes": 97,
+  "get_latency_ns": 2120,
+  "seek_count": 63607,
+  "seek_miss_count": 0,
+  "seek_key_bytes": 404785,
+  "seek_value_bytes": 10785457,
+  "seek_bytes": 11190242,
+  "seek_latency_ns": 20940247,
+  "next_count": 26195,
+  "next_miss_count": 0,
+  "next_key_bytes": 631008,
+  "next_value_bytes": 15091754,
+  "next_bytes": 15722762,
+  "next_latency_ns": 1483378,
+  "prev_count": 0,
+  "prev_miss_count": 0,
+  "prev_key_bytes": 0,
+  "prev_value_bytes": 0,
+  "prev_bytes": 0,
+  "prev_latency_ns": 0,
+  "get_current_count": 0,
+  "get_current_miss_count": 0,
+  "get_current_key_bytes": 0,
+  "get_current_value_bytes": 0,
+  "get_current_bytes": 0,
+  "get_current_latency_ns": 0,
+  "other_count": 0,
+  "other_miss_count": 0,
+  "other_key_bytes": 0,
+  "other_value_bytes": 0,
+  "other_bytes": 0,
+  "other_latency_ns": 0,
+  "put_count": 0,
+  "put_miss_count": 0,
+  "put_key_bytes": 0,
+  "put_value_bytes": 0,
+  "put_bytes": 0,
+  "put_latency_ns": 0,
+  "del_count": 0,
+  "del_miss_count": 0,
+  "del_key_bytes": 0,
+  "del_value_bytes": 0,
+  "del_bytes": 0,
+  "del_latency_ns": 0,
+  "commit_count": 0,
+  "commit_latency_ns": 0,
+  "by_call": {
+   "mdb_get": {
+    "count": 1,
+    "miss_count": 0,
+    "key_bytes": 5,
+    "value_bytes": 92,
+    "latency_ns": 2120
+   },
+   "cursor_set_key": {
+    "count": 0,
+    "miss_count": 0,
+    "key_bytes": 0,
+    "value_bytes": 0,
+    "latency_ns": 0
+   },
+   "cursor_set_range": {
+    "count": 63607,
+    "miss_count": 0,
+    "key_bytes": 404785,
+    "value_bytes": 10785457,
+    "latency_ns": 20940247
+   },
+   "cursor_first": {
+    "count": 0,
+    "miss_count": 0,
+    "key_bytes": 0,
+    "value_bytes": 0,
+    "latency_ns": 0
+   },
+   "cursor_last": {
+    "count": 0,
+    "miss_count": 0,
+    "key_bytes": 0,
+    "value_bytes": 0,
+    "latency_ns": 0
+   },
+   "cursor_next": {
+    "count": 26195,
+    "miss_count": 0,
+    "key_bytes": 631008,
+    "value_bytes": 15091754,
+    "latency_ns": 1483378
+   },
+   "cursor_prev": {
+    "count": 0,
+    "miss_count": 0,
+    "key_bytes": 0,
+    "value_bytes": 0,
+    "latency_ns": 0
+   },
+   "cursor_get_current": {
+    "count": 0,
+    "miss_count": 0,
+    "key_bytes": 0,
+    "value_bytes": 0,
+    "latency_ns": 0
+   },
+   "cursor_other": {
+    "count": 0,
+    "miss_count": 0,
+    "key_bytes": 0,
+    "value_bytes": 0,
+    "latency_ns": 0
+   },
+   "mdb_put": {
+    "count": 0,
+    "miss_count": 0,
+    "key_bytes": 0,
+    "value_bytes": 0,
+    "latency_ns": 0
+   },
+   "cursor_put": {
+    "count": 0,
+    "miss_count": 0,
+    "key_bytes": 0,
+    "value_bytes": 0,
+    "latency_ns": 0
+   },
+   "mdb_del": {
+    "count": 0,
+    "miss_count": 0,
+    "key_bytes": 0,
+    "value_bytes": 0,
+    "latency_ns": 0
+   },
+   "cursor_del": {
+    "count": 0,
+    "miss_count": 0,
+    "key_bytes": 0,
+    "value_bytes": 0,
+    "latency_ns": 0
+   }
+  },
+  "by_table": {
+   "1012FECAC63DE8C35520B3AA82BEEA18:_graph_": {
+    "cursor_set_range": {
+     "count": 63606,
+     "miss_count": 0,
+     "key_bytes": 404777,
+     "value_bytes": 10785441,
+     "latency_ns": 20939226
+    },
+    "cursor_next": {
+     "count": 26194,
+     "miss_count": 0,
+     "key_bytes": 631000,
+     "value_bytes": 15091738,
+     "latency_ns": 1483117
+    }
+   },
+   "1012FECAC63DE8C35520B3AA82BEEA18:Person_@lgraph@_id_@lgraph@_vertex_index": {
+    "cursor_set_range": {
+     "count": 1,
+     "miss_count": 0,
+     "key_bytes": 8,
+     "value_bytes": 16,
+     "latency_ns": 1021
+    },
+    "cursor_next": {
+     "count": 1,
+     "miss_count": 0,
+     "key_bytes": 8,
+     "value_bytes": 16,
+     "latency_ns": 261
+    }
+   },
+   ".meta:_user_table_": {
+    "mdb_get": {
+     "count": 1,
+     "miss_count": 0,
+     "key_bytes": 5,
+     "value_bytes": 92,
+     "latency_ns": 2120
+    }
+   }
+  }
+ }
+}

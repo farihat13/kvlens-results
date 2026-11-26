@@ -1,0 +1,90 @@
+{
+ "P": 1,
+ "backend": "cpp",
+ "binary": {
+  "binary_dirty": false,
+  "binary_git_sha": "e22430d124f05ed0e6dea30d3b55b2ffb65978d6",
+  "counting": {
+   "formats": {
+    "arangodb": {
+     "read": 3,
+     "write": 1
+    },
+    "arangodb_engine": {
+     "read": 3,
+     "write": 1
+    },
+    "dgraph": {
+     "read": 2,
+     "write": 1
+    },
+    "dgraph_engine": {
+     "read": 2,
+     "write": 1
+    },
+    "meta": {
+     "read": 3,
+     "write": 1
+    },
+    "nebula": {
+     "read": 3,
+     "write": 1
+    },
+    "nebula_engine": {
+     "read": 3,
+     "write": 1
+    },
+    "pertype_csr": {
+     "read": 2,
+     "write": 1
+    }
+   },
+   "seam": {
+    "read": 4,
+    "write": 1
+   }
+  },
+  "path": "build/cpp/kvevaluator"
+ },
+ "cell": "props_chunked_c64k_adj_chunked_c4k",
+ "cell_inputs": null,
+ "composed_from": {
+  "adjacency parts": "captures/ldbc/sf3/writes/reported/parts/props_chunked_c4k_adj_chunked_c4k.csv",
+  "props and index parts": "captures/ldbc/sf3/writes/reported/parts/props_chunked_adj_chunked.csv"
+ },
+ "composed_from_sha": {
+  "captures/ldbc/sf3/writes/reported/counts/props_chunked_adj_chunked.csv": "8527a9c852ddd2e4a43ff7b2fe2362e1c77e53f451b5509554bcfbee6e829d35",
+  "captures/ldbc/sf3/writes/reported/counts/props_chunked_c4k_adj_chunked_c4k.csv": "957dbc99829930fd5030a93dcf0ca0f91278dba3cb0d030c20bdfa6e1c10bc63",
+  "captures/ldbc/sf3/writes/reported/parts/props_chunked_adj_chunked.csv": "5be72c38a4257c7977d82b4808acf1f72481220a55ce485b880bc42c47c8c66b",
+  "captures/ldbc/sf3/writes/reported/parts/props_chunked_c4k_adj_chunked_c4k.csv": "b475916b93f7dc04d1dc9b82232a31c65ade36f779595dcb801c14875e1b58cf"
+ },
+ "counting": {
+  "format": 3,
+  "seam": 4,
+  "write_format": 1,
+  "write_seam": 1
+ },
+ "dbs": [
+  "meta"
+ ],
+ "free_rows": true,
+ "generated": "2026-11-20T13:41:14",
+ "git_commit": "e22430d1",
+ "git_dirty": false,
+ "inputs": "b9baa6ef4772369f",
+ "measurement_version": 11,
+ "nparam": 5,
+ "param_sha": null,
+ "queries": 20,
+ "rows": 100,
+ "sf": "3",
+ "slice": {
+  "params": null,
+  "queries": null
+ },
+ "store": "",
+ "store_manifest": null,
+ "variant": "canonical",
+ "wall_s": 0.008,
+ "workload": "writes"
+}

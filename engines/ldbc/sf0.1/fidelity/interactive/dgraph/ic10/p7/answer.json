@@ -1,0 +1,241 @@
+{
+ "query_sha": "d8702ab8a41d1dac",
+ "params": {
+  "personId": "2199023256919",
+  "month": "12"
+ },
+ "data": {
+  "schema_sha256": "03713a1e1c7b722e73bed6b150e079e69e9579c2a58c52e06f9d4384fdd4b80d",
+  "schema_path": "dgraph/schema/ldbcTypes.schema",
+  "sf": "0.1",
+  "created": "2026-11-21T03:25:44Z",
+  "git_sha": "92777160"
+ },
+ "fetched_at": "2026-11-21T01:06:02",
+ "raw": {
+  "_l1": [],
+  "_l2": [],
+  "recs": [
+   {
+    "birthday": "1986-08-29T00:00:00Z",
+    "commonInterestScore": 1,
+    "commonPostCount": 1,
+    "personCityName": "Anyang",
+    "personFirstName": "Peng",
+    "personGender": "female",
+    "personId": 28587302323597,
+    "personLastName": "Yang",
+    "postCount": 1
+   },
+   {
+    "birthday": "1987-09-14T00:00:00Z",
+    "commonInterestScore": 0,
+    "commonPostCount": 1,
+    "personCityName": "Dezhou",
+    "personFirstName": "Peng",
+    "personGender": "female",
+    "personId": 2199023255663,
+    "personLastName": "Liu",
+    "postCount": 2
+   },
+   {
+    "birthday": "1986-12-03T00:00:00Z",
+    "commonInterestScore": 0,
+    "commonPostCount": 0,
+    "personCityName": "Taxila",
+    "personFirstName": "Babar",
+    "personGender": "female",
+    "personId": 4398046512720,
+    "personLastName": "Ahmed",
+    "postCount": 0
+   },
+   {
+    "birthday": "1985-01-15T00:00:00Z",
+    "commonInterestScore": 0,
+    "commonPostCount": 0,
+    "personCityName": "Ambovombe",
+    "personFirstName": "Nirina",
+    "personGender": "male",
+    "personId": 6597069766938,
+    "personLastName": "Simon",
+    "postCount": 0
+   },
+   {
+    "birthday": "1989-03-19T00:00:00Z",
+    "commonInterestScore": 0,
+    "commonPostCount": 0,
+    "personCityName": "Brisbane",
+    "personFirstName": "Ron",
+    "personGender": "male",
+    "personId": 6597069767301,
+    "personLastName": "Anderson",
+    "postCount": 0
+   },
+   {
+    "birthday": "1981-10-18T00:00:00Z",
+    "commonInterestScore": 0,
+    "commonPostCount": 0,
+    "personCityName": "Gejiu",
+    "personFirstName": "Bing",
+    "personGender": "male",
+    "personId": 13194139534234,
+    "personLastName": "Liu",
+    "postCount": 0
+   },
+   {
+    "birthday": "1985-01-09T00:00:00Z",
+    "commonInterestScore": 0,
+    "commonPostCount": 0,
+    "personCityName": "Friedberg",
+    "personFirstName": "Hermann",
+    "personGender": "male",
+    "personId": 19791209300372,
+    "personLastName": "Becker",
+    "postCount": 0
+   },
+   {
+    "birthday": "1985-05-05T00:00:00Z",
+    "commonInterestScore": 0,
+    "commonPostCount": 0,
+    "personCityName": "Kharkiv",
+    "personFirstName": "Alexander",
+    "personGender": "male",
+    "personId": 19791209301284,
+    "personLastName": "Eduard",
+    "postCount": 0
+   },
+   {
+    "birthday": "1989-10-13T00:00:00Z",
+    "commonInterestScore": 0,
+    "commonPostCount": 0,
+    "personCityName": "Astana",
+    "personFirstName": "Oleg",
+    "personGender": "female",
+    "personId": 21990232555571,
+    "personLastName": "Bazayev",
+    "postCount": 0
+   },
+   {
+    "birthday": "1989-01-10T00:00:00Z",
+    "commonInterestScore": 0,
+    "commonPostCount": 0,
+    "personCityName": "Banda_Aceh",
+    "personFirstName": "Ahmad Rafiq",
+    "personGender": "male",
+    "personId": 24189255812419,
+    "personLastName": "Irama",
+    "postCount": 0
+   },
+   {
+    "birthday": "1982-04-08T00:00:00Z",
+    "commonInterestScore": 0,
+    "commonPostCount": 0,
+    "personCityName": "Hyderabad",
+    "personFirstName": "John",
+    "personGender": "male",
+    "personId": 26388279066795,
+    "personLastName": "Reddy",
+    "postCount": 0
+   },
+   {
+    "birthday": "1987-02-26T00:00:00Z",
+    "commonInterestScore": 0,
+    "commonPostCount": 0,
+    "personCityName": "Shah_Alam",
+    "personFirstName": "Amir",
+    "personGender": "male",
+    "personId": 26388279067627,
+    "personLastName": "Chen",
+    "postCount": 0
+   },
+   {
+    "birthday": "1985-05-01T00:00:00Z",
+    "commonInterestScore": 0,
+    "commonPostCount": 0,
+    "personCityName": "Dandong",
+    "personFirstName": "Yang",
+    "personGender": "male",
+    "personId": 26388279068083,
+    "personLastName": "Xu",
+    "postCount": 0
+   },
+   {
+    "birthday": "1987-12-15T00:00:00Z",
+    "commonInterestScore": 0,
+    "commonPostCount": 0,
+    "personCityName": "Kalimpong",
+    "personFirstName": "A.",
+    "personGender": "female",
+    "personId": 26388279068264,
+    "personLastName": "Khan",
+    "postCount": 0
+   },
+   {
+    "birthday": "1980-07-03T00:00:00Z",
+    "commonInterestScore": 0,
+    "commonPostCount": 0,
+    "personCityName": "La_Marsa",
+    "personFirstName": "Karim",
+    "personGender": "male",
+    "personId": 30786325578056,
+    "personLastName": "Bhiari",
+    "postCount": 0
+   },
+   {
+    "birthday": "1981-02-26T00:00:00Z",
+    "commonInterestScore": 0,
+    "commonPostCount": 0,
+    "personCityName": "Purwokerto",
+    "personFirstName": "Benny",
+    "personGender": "male",
+    "personId": 30786325578292,
+    "personLastName": "Gallagher",
+    "postCount": 0
+   },
+   {
+    "birthday": "1982-11-29T00:00:00Z",
+    "commonInterestScore": 0,
+    "commonPostCount": 0,
+    "personCityName": "Sittwe_District",
+    "personFirstName": "Abraham",
+    "personGender": "male",
+    "personId": 30786325578640,
+    "personLastName": "Nariman",
+    "postCount": 0
+   },
+   {
+    "birthday": "1983-12-28T00:00:00Z",
+    "commonInterestScore": 0,
+    "commonPostCount": 0,
+    "personCityName": "Maastricht",
+    "personFirstName": "Aad De",
+    "personGender": "female",
+    "personId": 30786325578711,
+    "personLastName": "Bos",
+    "postCount": 0
+   },
+   {
+    "birthday": "1983-04-12T00:00:00Z",
+    "commonInterestScore": 0,
+    "commonPostCount": 0,
+    "personCityName": "Nagakute",
+    "personFirstName": "Yuki",
+    "personGender": "male",
+    "personId": 30786325578795,
+    "personLastName": "Ito",
+    "postCount": 0
+   },
+   {
+    "birthday": "1987-05-23T00:00:00Z",
+    "commonInterestScore": 0,
+    "commonPostCount": 0,
+    "personCityName": "Bukavu",
+    "personFirstName": "Eugene Moke",
+    "personGender": "male",
+    "personId": 30786325578914,
+    "personLastName": "Kanam",
+    "postCount": 0
+   }
+  ]
+ }
+}

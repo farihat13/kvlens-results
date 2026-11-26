@@ -1,0 +1,117 @@
+{
+ "query_sha": "726c2fd8c124bda0",
+ "params": {
+  "personId": "19791209300317",
+  "tagName": "Nat_King_Cole"
+ },
+ "data": {
+  "schema_sha256": "03713a1e1c7b722e73bed6b150e079e69e9579c2a58c52e06f9d4384fdd4b80d",
+  "schema_path": "dgraph/schema/ldbcTypes.schema",
+  "sf": "0.1",
+  "created": "2026-11-21T03:25:44Z",
+  "git_sha": "92777160"
+ },
+ "fetched_at": "2026-11-21T01:07:19",
+ "raw": {
+  "_l1": [],
+  "_l2": [],
+  "tags": [
+   {
+    "tagName": "I_Write_the_Songs",
+    "postCount": 1
+   },
+   {
+    "tagName": "Hassan_II_of_Morocco",
+    "postCount": 1
+   },
+   {
+    "tagName": "Arthur_Wellesley,_1st_Duke_of_Wellington",
+    "postCount": 1
+   },
+   {
+    "tagName": "The_Girl_from_Ipanema",
+    "postCount": 1
+   },
+   {
+    "tagName": "Alexander_Downer",
+    "postCount": 1
+   },
+   {
+    "tagName": "The_Shape_of_Jazz_to_Come",
+    "postCount": 1
+   },
+   {
+    "tagName": "Ray_Bradbury",
+    "postCount": 1
+   },
+   {
+    "tagName": "Everybody_Hurts",
+    "postCount": 1
+   },
+   {
+    "tagName": "D._H._Lawrence",
+    "postCount": 1
+   },
+   {
+    "tagName": "Tie_a_Yellow_Ribbon_Round_the_Ole_Oak_Tree",
+    "postCount": 1
+   },
+   {
+    "tagName": "Mobutu_Sese_Seko",
+    "postCount": 1
+   },
+   {
+    "tagName": "Paul_Martin",
+    "postCount": 1
+   },
+   {
+    "tagName": "James_A._Garfield",
+    "postCount": 1
+   },
+   {
+    "tagName": "Danish_West_Indies",
+    "postCount": 1
+   },
+   {
+    "tagName": "Luciano_Pavarotti",
+    "postCount": 1
+   },
+   {
+    "tagName": "Arantxa_S\u00e1nchez_Vicario",
+    "postCount": 1
+   },
+   {
+    "tagName": "John_Rhys-Davies",
+    "postCount": 1
+   },
+   {
+    "tagName": "Backwoods_Barbie",
+    "postCount": 1
+   },
+   {
+    "tagName": "Kingdom_of_Prussia",
+    "postCount": 1
+   },
+   {
+    "tagName": "American_Samoa",
+    "postCount": 1
+   },
+   {
+    "tagName": "Julia_Gillard",
+    "postCount": 1
+   },
+   {
+    "tagName": "James_Monroe",
+    "postCount": 1
+   },
+   {
+    "tagName": "Mecca_and_the_Soul_Brother",
+    "postCount": 1
+   },
+   {
+    "tagName": "Achtung_Baby",
+    "postCount": 1
+   }
+  ]
+ }
+}

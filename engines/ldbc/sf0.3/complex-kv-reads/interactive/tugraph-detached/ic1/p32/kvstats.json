@@ -1,0 +1,242 @@
+{
+ "query_sha": "d8dd21d2a7dc0b5c",
+ "params": {
+  "personId": 30786325579745,
+  "firstName": "Georgios"
+ },
+ "data_created": "2026-11-23T19:08:22Z",
+ "measured_at": "2026-11-23T13:11:11",
+ "raw": {
+  "get_count": 134021,
+  "get_miss_count": 0,
+  "get_key_bytes": 670159,
+  "get_value_bytes": 22219254,
+  "get_bytes": 22889413,
+  "get_latency_ns": 19352324,
+  "seek_count": 70856,
+  "seek_miss_count": 0,
+  "seek_key_bytes": 448836,
+  "seek_value_bytes": 1221799,
+  "seek_bytes": 1670635,
+  "seek_latency_ns": 21950084,
+  "next_count": 25800,
+  "next_miss_count": 0,
+  "next_key_bytes": 620202,
+  "next_value_bytes": 13699868,
+  "next_bytes": 14320070,
+  "next_latency_ns": 991768,
+  "prev_count": 0,
+  "prev_miss_count": 0,
+  "prev_key_bytes": 0,
+  "prev_value_bytes": 0,
+  "prev_bytes": 0,
+  "prev_latency_ns": 0,
+  "get_current_count": 0,
+  "get_current_miss_count": 0,
+  "get_current_key_bytes": 0,
+  "get_current_value_bytes": 0,
+  "get_current_bytes": 0,
+  "get_current_latency_ns": 0,
+  "other_count": 0,
+  "other_miss_count": 0,
+  "other_key_bytes": 0,
+  "other_value_bytes": 0,
+  "other_bytes": 0,
+  "other_latency_ns": 0,
+  "put_count": 0,
+  "put_miss_count": 0,
+  "put_key_bytes": 0,
+  "put_value_bytes": 0,
+  "put_bytes": 0,
+  "put_latency_ns": 0,
+  "del_count": 0,
+  "del_miss_count": 0,
+  "del_key_bytes": 0,
+  "del_value_bytes": 0,
+  "del_bytes": 0,
+  "del_latency_ns": 0,
+  "commit_count": 0,
+  "commit_latency_ns": 0,
+  "by_call": {
+   "mdb_get": {
+    "count": 134021,
+    "miss_count": 0,
+    "key_bytes": 670159,
+    "value_bytes": 22219254,
+    "latency_ns": 19352324
+   },
+   "cursor_set_key": {
+    "count": 0,
+    "miss_count": 0,
+    "key_bytes": 0,
+    "value_bytes": 0,
+    "latency_ns": 0
+   },
+   "cursor_set_range": {
+    "count": 70856,
+    "miss_count": 0,
+    "key_bytes": 448836,
+    "value_bytes": 1221799,
+    "latency_ns": 21950084
+   },
+   "cursor_first": {
+    "count": 0,
+    "miss_count": 0,
+    "key_bytes": 0,
+    "value_bytes": 0,
+    "latency_ns": 0
+   },
+   "cursor_last": {
+    "count": 0,
+    "miss_count": 0,
+    "key_bytes": 0,
+    "value_bytes": 0,
+    "latency_ns": 0
+   },
+   "cursor_next": {
+    "count": 25800,
+    "miss_count": 0,
+    "key_bytes": 620202,
+    "value_bytes": 13699868,
+    "latency_ns": 991768
+   },
+   "cursor_prev": {
+    "count": 0,
+    "miss_count": 0,
+    "key_bytes": 0,
+    "value_bytes": 0,
+    "latency_ns": 0
+   },
+   "cursor_get_current": {
+    "count": 0,
+    "miss_count": 0,
+    "key_bytes": 0,
+    "value_bytes": 0,
+    "latency_ns": 0
+   },
+   "cursor_other": {
+    "count": 0,
+    "miss_count": 0,
+    "key_bytes": 0,
+    "value_bytes": 0,
+    "latency_ns": 0
+   },
+   "mdb_put": {
+    "count": 0,
+    "miss_count": 0,
+    "key_bytes": 0,
+    "value_bytes": 0,
+    "latency_ns": 0
+   },
+   "cursor_put": {
+    "count": 0,
+    "miss_count": 0,
+    "key_bytes": 0,
+    "value_bytes": 0,
+    "latency_ns": 0
+   },
+   "mdb_del": {
+    "count": 0,
+    "miss_count": 0,
+    "key_bytes": 0,
+    "value_bytes": 0,
+    "latency_ns": 0
+   },
+   "cursor_del": {
+    "count": 0,
+    "miss_count": 0,
+    "key_bytes": 0,
+    "value_bytes": 0,
+    "latency_ns": 0
+   }
+  },
+  "by_table": {
+   "3203B31DFBF1664B5C7E1F582BC2EA18:_vertex_property_Person": {
+    "mdb_get": {
+     "count": 133993,
+     "miss_count": 0,
+     "key_bytes": 669965,
+     "value_bytes": 22217155,
+     "latency_ns": 19338684
+    }
+   },
+   "3203B31DFBF1664B5C7E1F582BC2EA18:_vertex_property_Organisation": {
+    "mdb_get": {
+     "count": 12,
+     "miss_count": 0,
+     "key_bytes": 60,
+     "value_bytes": 1294,
+     "latency_ns": 4885
+    }
+   },
+   "3203B31DFBF1664B5C7E1F582BC2EA18:_vertex_property_Place": {
+    "mdb_get": {
+     "count": 9,
+     "miss_count": 0,
+     "key_bytes": 45,
+     "value_bytes": 641,
+     "latency_ns": 2263
+    }
+   },
+   "3203B31DFBF1664B5C7E1F582BC2EA18:_edge_property_STUDY_AT": {
+    "mdb_get": {
+     "count": 3,
+     "miss_count": 0,
+     "key_bytes": 42,
+     "value_bytes": 36,
+     "latency_ns": 1847
+    }
+   },
+   "3203B31DFBF1664B5C7E1F582BC2EA18:_edge_property_WORK_AT": {
+    "mdb_get": {
+     "count": 3,
+     "miss_count": 0,
+     "key_bytes": 42,
+     "value_bytes": 36,
+     "latency_ns": 3651
+    }
+   },
+   "3203B31DFBF1664B5C7E1F582BC2EA18:_graph_": {
+    "cursor_set_range": {
+     "count": 70855,
+     "miss_count": 0,
+     "key_bytes": 448828,
+     "value_bytes": 1221783,
+     "latency_ns": 21949459
+    },
+    "cursor_next": {
+     "count": 25799,
+     "miss_count": 0,
+     "key_bytes": 620194,
+     "value_bytes": 13699852,
+     "latency_ns": 991583
+    }
+   },
+   "3203B31DFBF1664B5C7E1F582BC2EA18:Person_@lgraph@_id_@lgraph@_vertex_index": {
+    "cursor_set_range": {
+     "count": 1,
+     "miss_count": 0,
+     "key_bytes": 8,
+     "value_bytes": 16,
+     "latency_ns": 625
+    },
+    "cursor_next": {
+     "count": 1,
+     "miss_count": 0,
+     "key_bytes": 8,
+     "value_bytes": 16,
+     "latency_ns": 185
+    }
+   },
+   ".meta:_user_table_": {
+    "mdb_get": {
+     "count": 1,
+     "miss_count": 0,
+     "key_bytes": 5,
+     "value_bytes": 92,
+     "latency_ns": 994
+    }
+   }
+  }
+ }
+}

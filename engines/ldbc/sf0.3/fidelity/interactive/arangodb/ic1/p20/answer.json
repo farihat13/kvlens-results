@@ -1,0 +1,89 @@
+{
+ "query_sha": "758b65813d7ffbd6",
+ "params": {
+  "personId": 13194139535032,
+  "firstName": "Daniil"
+ },
+ "data": {
+  "schema_sha256": "b8e206f17e60692c830ba0c3c675fbc481a22f26011282ce523890eb09be8a74",
+  "schema_path": "arangodb/schema/ldbc_schema.json",
+  "sf": "0.3",
+  "created": "2026-11-21T03:01:29Z",
+  "git_sha": "60910999"
+ },
+ "fetched_at": "2026-11-21T00:01:19",
+ "raw": [
+  {
+   "friendId": 17592186047036,
+   "friendLastName": "Ivanov",
+   "distanceFromPerson": 3,
+   "friendBirthday": 520732800000,
+   "friendCreationDate": 1309333863820,
+   "friendGender": "male",
+   "friendBrowserUsed": "Chrome",
+   "friendLocationIp": "31.8.228.66",
+   "friendEmails": [
+    "Daniil17592186047036@gmail.com",
+    "Daniil17592186047036@hotmail.com",
+    "Daniil17592186047036@zoho.com"
+   ],
+   "friendLanguages": [
+    "ru",
+    "en"
+   ],
+   "friendCityName": "Zaoksky",
+   "friendUniversities": [
+    [
+     "Volgograd_State_University",
+     2006,
+     "Volgograd"
+    ]
+   ],
+   "friendCompanies": [
+    [
+     "Kuban_Airlines",
+     2006,
+     "Russia"
+    ],
+    [
+     "Aviacon_Zitotrans",
+     2007,
+     "Russia"
+    ],
+    [
+     "UTair_Aviation",
+     2007,
+     "Russia"
+    ]
+   ]
+  },
+  {
+   "friendId": 2292,
+   "friendLastName": "Popov",
+   "distanceFromPerson": 3,
+   "friendBirthday": 562032000000,
+   "friendCreationDate": 1263664538998,
+   "friendGender": "male",
+   "friendBrowserUsed": "Safari",
+   "friendLocationIp": "31.7.233.110",
+   "friendEmails": [
+    "Daniil2292@gmail.com",
+    "Daniil2292@gmx.com",
+    "Daniil2292@hotmail.com"
+   ],
+   "friendLanguages": [
+    "ru",
+    "en"
+   ],
+   "friendCityName": "Ufa",
+   "friendUniversities": [
+    [
+     "Ural_State_Mining_University",
+     2008,
+     "Yekaterinburg"
+    ]
+   ],
+   "friendCompanies": []
+  }
+ ]
+}

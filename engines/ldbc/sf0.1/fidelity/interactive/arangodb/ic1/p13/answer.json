@@ -1,0 +1,101 @@
+{
+ "query_sha": "758b65813d7ffbd6",
+ "params": {
+  "personId": 8796093023655,
+  "firstName": "Mike"
+ },
+ "data": {
+  "schema_sha256": "b8e206f17e60692c830ba0c3c675fbc481a22f26011282ce523890eb09be8a74",
+  "schema_path": "arangodb/schema/ldbc_schema.json",
+  "sf": "0.1",
+  "created": "2026-11-21T03:27:46Z",
+  "git_sha": "92777160"
+ },
+ "fetched_at": "2026-11-21T01:07:28",
+ "raw": [
+  {
+   "friendId": 15393162789346,
+   "friendLastName": "Jones",
+   "distanceFromPerson": 2,
+   "friendBirthday": 468028800000,
+   "friendCreationDate": 1299757249138,
+   "friendGender": "female",
+   "friendBrowserUsed": "Firefox",
+   "friendLocationIp": "24.72.152.125",
+   "friendEmails": [
+    "Mike15393162789346@gmail.com",
+    "Mike15393162789346@gmx.com",
+    "Mike15393162789346@yahoo.com"
+   ],
+   "friendLanguages": [
+    "es",
+    "en"
+   ],
+   "friendCityName": "Fayetteville",
+   "friendUniversities": [
+    [
+     "Virginia_College",
+     2005,
+     "Birmingham"
+    ]
+   ],
+   "friendCompanies": [
+    [
+     "Alsek_Air_Service",
+     2006,
+     "United_States"
+    ],
+    [
+     "Lynx_Air_International",
+     2007,
+     "United_States"
+    ]
+   ]
+  },
+  {
+   "friendId": 4398046511322,
+   "friendLastName": "Wilson",
+   "distanceFromPerson": 3,
+   "friendBirthday": 456796800000,
+   "friendCreationDate": 1275103885690,
+   "friendGender": "female",
+   "friendBrowserUsed": "Internet Explorer",
+   "friendLocationIp": "24.53.139.223",
+   "friendEmails": [
+    "Mike4398046511322@gmail.com",
+    "Mike4398046511322@gmx.com",
+    "Mike4398046511322@hotmail.com",
+    "Mike4398046511322@yahoo.com"
+   ],
+   "friendLanguages": [
+    "en",
+    "es"
+   ],
+   "friendCityName": "Indianapolis",
+   "friendUniversities": [
+    [
+     "Florida_State_University_College_of_Medicine",
+     2006,
+     "Tallahassee"
+    ]
+   ],
+   "friendCompanies": [
+    [
+     "West_Air",
+     2007,
+     "United_States"
+    ],
+    [
+     "Express.Net_Airlines",
+     2007,
+     "United_States"
+    ],
+    [
+     "Florida_West_International_Airways",
+     2006,
+     "United_States"
+    ]
+   ]
+  }
+ ]
+}

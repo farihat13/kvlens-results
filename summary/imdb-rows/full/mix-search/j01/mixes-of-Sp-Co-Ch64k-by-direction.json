@@ -1,0 +1,399 @@
+{
+ "rows": [
+  {
+   "assignment": {
+    "AkaName props": "Ch64k",
+    "AkaTitle props": "Sp",
+    "Character props": "Sp",
+    "Company props": "Ch64k",
+    "CompleteCast props": "Ch64k",
+    "Keyword props": "Ch64k",
+    "MovieInfo props": "Ch64k",
+    "MovieLink props": "Ch64k",
+    "MovieRating props": "Ch64k",
+    "Name props": "Ch64k",
+    "PersonInfo props": "Ch64k",
+    "Title props": "Co",
+    "aka_name_of in-lists": "Ch64k",
+    "aka_title_of in-lists": "Ch64k",
+    "cast_actor in-lists": "Co",
+    "cast_actor out-lists": "Co",
+    "cast_actress in-lists": "Ch64k",
+    "cast_actress out-lists": "Ch64k",
+    "cast_cinematographer in-lists": "Ch64k",
+    "cast_cinematographer out-lists": "Ch64k",
+    "cast_composer in-lists": "Ch64k",
+    "cast_composer out-lists": "Ch64k",
+    "cast_costume_designer in-lists": "Ch64k",
+    "cast_costume_designer out-lists": "Ch64k",
+    "cast_director in-lists": "Ch64k",
+    "cast_director out-lists": "Ch64k",
+    "cast_editor in-lists": "Ch64k",
+    "cast_editor out-lists": "Ch64k",
+    "cast_miscellaneous_crew in-lists": "Ch64k",
+    "cast_miscellaneous_crew out-lists": "Ch64k",
+    "cast_producer in-lists": "Ch64k",
+    "cast_producer out-lists": "Ch64k",
+    "cast_production_designer in-lists": "Ch64k",
+    "cast_production_designer out-lists": "Ch64k",
+    "cast_writer in-lists": "Ch64k",
+    "cast_writer out-lists": "Ch64k",
+    "company_distributor in-lists": "Co",
+    "company_distributor out-lists": "Ch64k",
+    "company_production in-lists": "Ch64k",
+    "company_production out-lists": "Ch64k",
+    "complete_cast_of in-lists": "Ch64k",
+    "complete_cast_of out-lists": "Ch64k",
+    "has_keyword in-lists": "Co",
+    "has_keyword out-lists": "Ch64k",
+    "info_of in-lists": "Co",
+    "info_of out-lists": "Ch64k",
+    "link_from in-lists": "Co",
+    "link_from out-lists": "Ch64k",
+    "link_to in-lists": "Ch64k",
+    "link_to out-lists": "Ch64k",
+    "person_info_of in-lists": "Ch64k",
+    "person_info_of out-lists": "Co",
+    "rating_of in-lists": "Ch64k",
+    "rating_of out-lists": "Ch64k"
+   },
+   "benchmark": "imdb",
+   "bound": {
+    "gap": 0.0,
+    "root": 0.6318393307989095,
+    "value": 0.9199240647637859,
+    "what": "the lowest any mix could be: proven, the answer; else the lowest of the answer and the bounds of the parts of the search not done (each query at its cheapest plan valid there, each free part at its cheapest setting); root: the same with nothing decided"
+   },
+   "bytes_reference": "props_split_adj_condensed",
+   "capture": "<elsewhere>/captures/grid",
+   "chunk_view": "half",
+   "command": "kvcost search-mix --dataset imdb --sf imdb --from <elsewhere>/captures/grid --out <elsewhere>/ms --workload j01 --option-set per-type-and-direction --model wops_bytes4k --weighting additive --max-nodes 1000000",
+   "criterion": null,
+   "dominated": null,
+   "fits": true,
+   "identity": {
+    "capture": "<elsewhere>/captures/grid",
+    "code_commit": "33e2eface9e15a199b08a7491967d0c7bef6fddb",
+    "code_dirty": false,
+    "cost_cache_keys": [],
+    "counting": {
+     "job": [
+      "{\"format\": 3, \"seam\": 4, \"write_format\": 1, \"write_seam\": 1}"
+     ]
+    },
+    "measurement_version": {
+     "job": [
+      7
+     ]
+    },
+    "pick_record": "inputs/picks/pick_record.json",
+    "pick_record_commit": "dd7a258cbb65b8591db261af75228e0c6e3ba804",
+    "plan_files_commit": "45b248fff7ef890c2967e591585e974763a57b01",
+    "source_kinds": {
+     "job": {
+      "props_chunked_adj_chunked": "measured",
+      "props_chunked_adj_condensed": "composed",
+      "props_chunked_adj_split": "composed",
+      "props_condensed_adj_chunked": "composed",
+      "props_condensed_adj_condensed": "measured",
+      "props_condensed_adj_split": "composed",
+      "props_split_adj_chunked": "composed",
+      "props_split_adj_condensed": "composed",
+      "props_split_adj_split": "measured"
+     }
+    }
+   },
+   "lanes": {
+    "D": 0.0,
+    "G": 1908462.0,
+    "N": 43023445.0,
+    "P": 0.0,
+    "S": 1406887.0,
+    "get_key": 19273730.0,
+    "get_miss_key": 0.0,
+    "get_value": 153746579.0,
+    "miss_key_bytes": 2705608.0,
+    "next_miss_key": 4774.0,
+    "read_bytes": 23518810293.0,
+    "read_ops": 3886272.1500000004,
+    "scan_key": 692587383.0,
+    "scan_value": 22650496993.0,
+    "seek_miss_key": 2700834.0,
+    "write_bytes": 0.0,
+    "write_key": 0.0,
+    "write_ops": 0.0,
+    "write_rmw_bytes": 0.0,
+    "write_rmw_miss_key_bytes": 0.0,
+    "write_rmw_ops": 0.0,
+    "write_value": 0.0
+   },
+   "limit": null,
+   "max_nodes": 1000000,
+   "model": "wops_bytes4k",
+   "nodes": 119665,
+   "option_set": "per-type-and-direction",
+   "per_part": {
+    "('adj', 'aka_name_of', 'in')": {
+     "bytes": 27721403.0,
+     "ops": 1108.7999999999995
+    },
+    "('adj', 'aka_title_of', 'in')": {
+     "bytes": 5622477.0,
+     "ops": 224.4
+    },
+    "('adj', 'cast_actor', 'in')": {
+     "bytes": 125256162.0,
+     "ops": 633766.1000000001
+    },
+    "('adj', 'cast_actor', 'out')": {
+     "bytes": 3458018.0,
+     "ops": 58448.5
+    },
+    "('adj', 'cast_actress', 'in')": {
+     "bytes": 1271176078.0,
+     "ops": 24589.399999999998
+    },
+    "('adj', 'cast_actress', 'out')": {
+     "bytes": 899879601.0,
+     "ops": 34559.799999999996
+    },
+    "('adj', 'cast_cinematographer', 'in')": {
+     "bytes": 193495476.0,
+     "ops": 4501.2
+    },
+    "('adj', 'cast_cinematographer', 'out')": {
+     "bytes": 10912358.0,
+     "ops": 9964.9
+    },
+    "('adj', 'cast_composer', 'in')": {
+     "bytes": 129044952.0,
+     "ops": 3121.8
+    },
+    "('adj', 'cast_composer', 'out')": {
+     "bytes": 6240119.0,
+     "ops": 8628.4
+    },
+    "('adj', 'cast_costume_designer', 'in')": {
+     "bytes": 51476934.0,
+     "ops": 1383.8000000000002
+    },
+    "('adj', 'cast_costume_designer', 'out')": {
+     "bytes": 1992439.0,
+     "ops": 7979.4
+    },
+    "('adj', 'cast_director', 'in')": {
+     "bytes": 255170430.0,
+     "ops": 6183.1
+    },
+    "('adj', 'cast_director', 'out')": {
+     "bytes": 14578043.0,
+     "ops": 7573.500000000001
+    },
+    "('adj', 'cast_editor', 'in')": {
+     "bytes": 160951989.0,
+     "ops": 3923.7
+    },
+    "('adj', 'cast_editor', 'out')": {
+     "bytes": 7691606.0,
+     "ops": 6443.8
+    },
+    "('adj', 'cast_miscellaneous_crew', 'in')": {
+     "bytes": 1188530164.0,
+     "ops": 22095.699999999997
+    },
+    "('adj', 'cast_miscellaneous_crew', 'out')": {
+     "bytes": 74842258.0,
+     "ops": 2960.1
+    },
+    "('adj', 'cast_producer', 'in')": {
+     "bytes": 974367533.0,
+     "ops": 18388.699999999997
+    },
+    "('adj', 'cast_producer', 'out')": {
+     "bytes": 76380325.0,
+     "ops": 14525.5
+    },
+    "('adj', 'cast_production_designer', 'in')": {
+     "bytes": 53920085.0,
+     "ops": 1389.3
+    },
+    "('adj', 'cast_production_designer', 'out')": {
+     "bytes": 2786556.0,
+     "ops": 1234.1999999999998
+    },
+    "('adj', 'cast_writer', 'in')": {
+     "bytes": 607177606.0,
+     "ops": 12271.600000000002
+    },
+    "('adj', 'cast_writer', 'out')": {
+     "bytes": 54342353.0,
+     "ops": 12005.400000000001
+    },
+    "('adj', 'company_distributor', 'in')": {
+     "bytes": 39603689.0,
+     "ops": 217844.2
+    },
+    "('adj', 'company_distributor', 'out')": {
+     "bytes": 829683982.0,
+     "ops": 20484.199999999997
+    },
+    "('adj', 'company_production', 'in')": {
+     "bytes": 55243937.0,
+     "ops": 1492.7
+    },
+    "('adj', 'company_production', 'out')": {
+     "bytes": 374289163.0,
+     "ops": 16927.900000000005
+    },
+    "('adj', 'complete_cast_of', 'in')": {
+     "bytes": 7810479.0,
+     "ops": 320.09999999999997
+    },
+    "('adj', 'complete_cast_of', 'out')": {
+     "bytes": 951609.0,
+     "ops": 31.9
+    },
+    "('adj', 'has_keyword', 'in')": {
+     "bytes": 1144580.0,
+     "ops": 248.60000000000008
+    },
+    "('adj', 'has_keyword', 'out')": {
+     "bytes": 104224059.0,
+     "ops": 5167.8
+    },
+    "('adj', 'info_of', 'in')": {
+     "bytes": 8121522.0,
+     "ops": 123530.00000000001
+    },
+    "('adj', 'info_of', 'out')": {
+     "bytes": 206225405.0,
+     "ops": 6863.999999999997
+    },
+    "('adj', 'link_from', 'in')": {
+     "bytes": 11.0,
+     "ops": 1.1
+    },
+    "('adj', 'link_from', 'out')": {
+     "bytes": 3009014.0,
+     "ops": 124.30000000000003
+    },
+    "('adj', 'link_to', 'in')": {
+     "bytes": 194049.0,
+     "ops": 8.8
+    },
+    "('adj', 'link_to', 'out')": {
+     "bytes": 3150795.0,
+     "ops": 115.50000000000003
+    },
+    "('adj', 'person_info_of', 'in')": {
+     "bytes": 1080155.0,
+     "ops": 62.7
+    },
+    "('adj', 'person_info_of', 'out')": {
+     "bytes": 2042.0,
+     "ops": 140.8
+    },
+    "('adj', 'rating_of', 'in')": {
+     "bytes": 84443987.0,
+     "ops": 3916.0
+    },
+    "('adj', 'rating_of', 'out')": {
+     "bytes": 13646384.0,
+     "ops": 456.5
+    },
+    "('props', 'AkaName')": {
+     "bytes": 459585634.0,
+     "ops": 9103.6
+    },
+    "('props', 'AkaTitle')": {
+     "bytes": 6730.0,
+     "ops": 211.0
+    },
+    "('props', 'Character')": {
+     "bytes": 4687633.0,
+     "ops": 188899.0
+    },
+    "('props', 'Company')": {
+     "bytes": 487285762.0,
+     "ops": 9179.729999999998
+    },
+    "('props', 'CompleteCast')": {
+     "bytes": 31020878.0,
+     "ops": 894.96
+    },
+    "('props', 'Keyword')": {
+     "bytes": 83097254.0,
+     "ops": 1918.0199999999998
+    },
+    "('props', 'MovieInfo')": {
+     "bytes": 6591086161.0,
+     "ops": 149994.90000000005
+    },
+    "('props', 'MovieLink')": {
+     "bytes": 1644192.0,
+     "ops": 39.930000000000014
+    },
+    "('props', 'MovieRating')": {
+     "bytes": 434197188.0,
+     "ops": 11567.199999999999
+    },
+    "('props', 'Name')": {
+     "bytes": 5205396379.0,
+     "ops": 67908.04999999999
+    },
+    "('props', 'PersonInfo')": {
+     "bytes": 110298780.0,
+     "ops": 2048.2
+    },
+    "('props', 'Title')": {
+     "bytes": 1652645084.0,
+     "ops": 1871057.3199999998
+    },
+    "None": {
+     "bytes": 528018791.0,
+     "ops": 278442.0399999996
+    }
+   },
+   "plan_rule": "record=inputs/picks/pick_record.json; anchor=True; pin=True; in_sample=None; historical=False",
+   "proven": true,
+   "queries_by_query_pick": 0,
+   "question": "fewest",
+   "reference_bytes": 13459919709.0,
+   "run_id": "20261105T031422Z-76155d",
+   "scale": "imdb",
+   "score": {
+    "additive_reference": "props_chunked_adj_chunked",
+    "form": "additive",
+    "queries": 113,
+    "value": 0.9199240647637859
+   },
+   "sizes": [],
+   "solver": "no-cost-cache",
+   "start": {
+    "best_uniform": "chunked/chunked",
+    "two_step": {
+     "after_each_part_alone": 110.78095383948857,
+     "moves_tried": 217,
+     "start_total": 113.0,
+     "total": 103.9514193183078
+    },
+    "used": "the two-step mix"
+   },
+   "times": {
+    "bodies_s": 1.434,
+    "cost_s": 0.269,
+    "solve_s": 178.031,
+    "start_s": 2.979
+   },
+   "totals": {
+    "bytes": 23518810293.0,
+    "wops": 3886272.1500000004,
+    "wops_bytes4k": 9628169.194189453
+   },
+   "walk_seconds": null,
+   "weighting": "additive",
+   "weights": "1:1.1:0.01",
+   "workload": "j01"
+  }
+ ]
+}

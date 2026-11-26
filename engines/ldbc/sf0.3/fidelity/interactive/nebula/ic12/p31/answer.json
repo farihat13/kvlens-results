@@ -1,0 +1,67 @@
+{
+ "query_sha": "32998970dd90364b",
+ "params": {
+  "personId": "person_24189255812419",
+  "tagClassName": "MilitaryUnit"
+ },
+ "data": {
+  "schema_sha256": "673074740eea54e4ba1fdc94eebf2087531b3007af7da660afffb3d1e8df0d1e",
+  "schema_path": "nebulagraph/schema/schema.gql",
+  "sf": "0.3",
+  "created": "2026-11-21T03:42:54Z",
+  "git_sha": "1d6662c2"
+ },
+ "fetched_at": "2026-11-21T00:05:36",
+ "raw": {
+  "keys": [
+   "friendId",
+   "friendFirstName",
+   "friendLastName",
+   "tagNames",
+   "replyCount",
+   "friendIdInt"
+  ],
+  "rows": [
+   {
+    "friendId": "person_26388279068863",
+    "friendFirstName": "Nikhil",
+    "friendLastName": "Khan",
+    "tagNames": [
+     "Hannibal"
+    ],
+    "replyCount": 2,
+    "friendIdInt": 26388279068863
+   },
+   {
+    "friendId": "person_10995116280854",
+    "friendFirstName": "Abdul Rahman",
+    "friendLastName": "Budjana",
+    "tagNames": [
+     "Hannibal"
+    ],
+    "replyCount": 1,
+    "friendIdInt": 10995116280854
+   },
+   {
+    "friendId": "person_15393162792459",
+    "friendFirstName": "Bich Phuong",
+    "friendLastName": "Hai",
+    "tagNames": [
+     "Hannibal"
+    ],
+    "replyCount": 1,
+    "friendIdInt": 15393162792459
+   },
+   {
+    "friendId": "person_17592186045408",
+    "friendFirstName": "Ayesha",
+    "friendLastName": "Iqbal",
+    "tagNames": [
+     "Hannibal"
+    ],
+    "replyCount": 1,
+    "friendIdInt": 17592186045408
+   }
+  ]
+ }
+}

@@ -1,0 +1,25 @@
+{
+ "query_sha": "ca333ec0cb2132c2",
+ "params": {
+  "messageId": "32761"
+ },
+ "data": {
+  "schema_sha256": "03713a1e1c7b722e73bed6b150e079e69e9579c2a58c52e06f9d4384fdd4b80d",
+  "schema_path": "dgraph/schema/ldbcTypes.schema",
+  "sf": "0.1",
+  "created": "2026-11-21T03:25:44Z",
+  "git_sha": "92777160"
+ },
+ "fetched_at": "2026-11-21T01:08:54",
+ "raw": {
+  "m": [
+   {
+    "forumId": 1665,
+    "forumTitle": "Wall of Chen Yang",
+    "moderatorFirstName": "Chen",
+    "moderatorId": 555,
+    "moderatorLastName": "Yang"
+   }
+  ]
+ }
+}

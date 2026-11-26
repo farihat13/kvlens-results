@@ -1,0 +1,437 @@
+{
+ "query_sha": "e98a92aa07772002",
+ "params": {
+  "personId": "17592186046293",
+  "startDate": "2011-04-01T00:00:00Z",
+  "endDate": "2011-05-04T00:00:00Z"
+ },
+ "data": {
+  "schema_sha256": "03713a1e1c7b722e73bed6b150e079e69e9579c2a58c52e06f9d4384fdd4b80d",
+  "schema_path": "dgraph/schema/ldbcTypes.schema",
+  "sf": "0.3",
+  "created": "2026-11-21T02:56:18Z",
+  "git_sha": "60910999"
+ },
+ "fetched_at": "2026-11-21T00:00:29",
+ "raw": {
+  "_l1": [],
+  "tags": [
+   {
+    "tagName": "Gil_Kane",
+    "postCount": 65
+   },
+   {
+    "tagName": "Louis_Armstrong",
+    "postCount": 2
+   },
+   {
+    "tagName": "Libya",
+    "postCount": 2
+   },
+   {
+    "tagName": "Joh_Bjelke-Petersen",
+    "postCount": 2
+   },
+   {
+    "tagName": "Titian",
+    "postCount": 2
+   },
+   {
+    "tagName": "The_Saints_Are_Coming",
+    "postCount": 1
+   },
+   {
+    "tagName": "I_Have_Nothing",
+    "postCount": 1
+   },
+   {
+    "tagName": "Making_Your_Mind_Up",
+    "postCount": 1
+   },
+   {
+    "tagName": "Try_Whistling_This",
+    "postCount": 1
+   },
+   {
+    "tagName": "Chinese_Democracy",
+    "postCount": 1
+   },
+   {
+    "tagName": "Goryeo",
+    "postCount": 1
+   },
+   {
+    "tagName": "Two_Is_Better_Than_One",
+    "postCount": 1
+   },
+   {
+    "tagName": "Cyndi_Lauper",
+    "postCount": 1
+   },
+   {
+    "tagName": "Prussia",
+    "postCount": 1
+   },
+   {
+    "tagName": "Azerbaijan",
+    "postCount": 1
+   },
+   {
+    "tagName": "Khmer_Empire",
+    "postCount": 1
+   },
+   {
+    "tagName": "Midnite_Vultures",
+    "postCount": 1
+   },
+   {
+    "tagName": "Spirit_of_Eden",
+    "postCount": 1
+   },
+   {
+    "tagName": "Please_Remember_Me",
+    "postCount": 1
+   },
+   {
+    "tagName": "Mohandas_Karamchand_Gandhi",
+    "postCount": 1
+   },
+   {
+    "tagName": "Feels_Like_Tonight",
+    "postCount": 1
+   },
+   {
+    "tagName": "Magic_Man",
+    "postCount": 1
+   },
+   {
+    "tagName": "We_Belong",
+    "postCount": 1
+   },
+   {
+    "tagName": "Brian_Mulroney",
+    "postCount": 1
+   },
+   {
+    "tagName": "Tommy_Robredo",
+    "postCount": 1
+   },
+   {
+    "tagName": "Nobody_Told_Me",
+    "postCount": 1
+   },
+   {
+    "tagName": "Trilogy:_Past_Present_Future",
+    "postCount": 1
+   },
+   {
+    "tagName": "The_Lamb_Lies_Down_on_Broadway",
+    "postCount": 1
+   },
+   {
+    "tagName": "Bob_Dylan_at_Budokan",
+    "postCount": 1
+   },
+   {
+    "tagName": "Here_Lies_Love",
+    "postCount": 1
+   },
+   {
+    "tagName": "Eminem",
+    "postCount": 1
+   },
+   {
+    "tagName": "Fatimid_Caliphate",
+    "postCount": 1
+   },
+   {
+    "tagName": "Taiwan_under_Japanese_rule",
+    "postCount": 1
+   },
+   {
+    "tagName": "Francis_Ford_Coppola",
+    "postCount": 1
+   },
+   {
+    "tagName": "Paloma_Blanca",
+    "postCount": 1
+   },
+   {
+    "tagName": "European_Economic_Community",
+    "postCount": 1
+   },
+   {
+    "tagName": "The_Genius_of_Ray_Charles",
+    "postCount": 1
+   },
+   {
+    "tagName": "Kingdom_of_Lombardy\u2013Venetia",
+    "postCount": 1
+   },
+   {
+    "tagName": "Run_the_Show",
+    "postCount": 1
+   },
+   {
+    "tagName": "Video_Killed_the_Radio_Star",
+    "postCount": 1
+   },
+   {
+    "tagName": "No_Woman,_No_Cry",
+    "postCount": 1
+   },
+   {
+    "tagName": "Jugband_Blues",
+    "postCount": 1
+   },
+   {
+    "tagName": "A_Message_to_You,_Rudy",
+    "postCount": 1
+   },
+   {
+    "tagName": "Oracular_Spectacular",
+    "postCount": 1
+   },
+   {
+    "tagName": "Mauritius",
+    "postCount": 1
+   },
+   {
+    "tagName": "I_Shot_the_Sheriff",
+    "postCount": 1
+   },
+   {
+    "tagName": "Skywriter",
+    "postCount": 1
+   },
+   {
+    "tagName": "The_Modern_World",
+    "postCount": 1
+   },
+   {
+    "tagName": "Cry_Cry_Cry",
+    "postCount": 1
+   },
+   {
+    "tagName": "Run_This_Town",
+    "postCount": 1
+   },
+   {
+    "tagName": "Best_of_You",
+    "postCount": 1
+   },
+   {
+    "tagName": "Rubber_Soul",
+    "postCount": 1
+   },
+   {
+    "tagName": "His_Hand_in_Mine",
+    "postCount": 1
+   },
+   {
+    "tagName": "Luciano_Pavarotti",
+    "postCount": 1
+   },
+   {
+    "tagName": "Magadha",
+    "postCount": 1
+   },
+   {
+    "tagName": "Benin",
+    "postCount": 1
+   },
+   {
+    "tagName": "Greatest_Hits:_1965\u20131992",
+    "postCount": 1
+   },
+   {
+    "tagName": "I_Feel_You",
+    "postCount": 1
+   },
+   {
+    "tagName": "Always_Be_My_Baby",
+    "postCount": 1
+   },
+   {
+    "tagName": "Kamakura_shogunate",
+    "postCount": 1
+   },
+   {
+    "tagName": "One_Headlight",
+    "postCount": 1
+   },
+   {
+    "tagName": "Doris_Day",
+    "postCount": 1
+   },
+   {
+    "tagName": "A_Year_and_a_Half_in_the_Life_of_Metallica",
+    "postCount": 1
+   },
+   {
+    "tagName": "The_Captain_&_the_Kid",
+    "postCount": 1
+   },
+   {
+    "tagName": "Palestinian_National_Authority",
+    "postCount": 1
+   },
+   {
+    "tagName": "The_Nightfly",
+    "postCount": 1
+   },
+   {
+    "tagName": "Warped_Tour_2003_Tour_Compilation",
+    "postCount": 1
+   },
+   {
+    "tagName": "A_Picture_of_Nectar",
+    "postCount": 1
+   },
+   {
+    "tagName": "Wichita_Lineman",
+    "postCount": 1
+   },
+   {
+    "tagName": "Room_on_Fire",
+    "postCount": 1
+   },
+   {
+    "tagName": "Buganda",
+    "postCount": 1
+   },
+   {
+    "tagName": "Dance,_Dance",
+    "postCount": 1
+   },
+   {
+    "tagName": "Runaround_Sue",
+    "postCount": 1
+   },
+   {
+    "tagName": "Let_There_Be_Rock",
+    "postCount": 1
+   },
+   {
+    "tagName": "Kanye_West",
+    "postCount": 1
+   },
+   {
+    "tagName": "Ill_Na_Na",
+    "postCount": 1
+   },
+   {
+    "tagName": "I_Like_the_Way",
+    "postCount": 1
+   },
+   {
+    "tagName": "Stop_the_Violence_Movement",
+    "postCount": 1
+   },
+   {
+    "tagName": "My_Winter_Storm",
+    "postCount": 1
+   },
+   {
+    "tagName": "Electorate_of_Saxony",
+    "postCount": 1
+   },
+   {
+    "tagName": "Baby,_I_Love_Your_Way",
+    "postCount": 1
+   },
+   {
+    "tagName": "Rage_for_Order",
+    "postCount": 1
+   },
+   {
+    "tagName": "New_York_Mining_Disaster_1941",
+    "postCount": 1
+   },
+   {
+    "tagName": "The_Sidewinder",
+    "postCount": 1
+   },
+   {
+    "tagName": "Enamorada",
+    "postCount": 1
+   },
+   {
+    "tagName": "River_of_Dreams",
+    "postCount": 1
+   },
+   {
+    "tagName": "Spirit_in_the_Sky",
+    "postCount": 1
+   },
+   {
+    "tagName": "Poor_Little_Fool",
+    "postCount": 1
+   },
+   {
+    "tagName": "I_Am_Not_a_Robot",
+    "postCount": 1
+   },
+   {
+    "tagName": "Dancing_Undercover",
+    "postCount": 1
+   },
+   {
+    "tagName": "Margraviate_of_Brandenburg",
+    "postCount": 1
+   },
+   {
+    "tagName": "Abbey_Road",
+    "postCount": 1
+   },
+   {
+    "tagName": "Republic_of_New_Granada",
+    "postCount": 1
+   },
+   {
+    "tagName": "Bye_Bye_Bye",
+    "postCount": 1
+   },
+   {
+    "tagName": "Impacto",
+    "postCount": 1
+   },
+   {
+    "tagName": "Jonas_Bj\u00f6rkman",
+    "postCount": 1
+   },
+   {
+    "tagName": "To_Try_for_the_Sun",
+    "postCount": 1
+   },
+   {
+    "tagName": "Saint-Domingue",
+    "postCount": 1
+   },
+   {
+    "tagName": "Planet_Drum",
+    "postCount": 1
+   },
+   {
+    "tagName": "Who_Are_You",
+    "postCount": 1
+   },
+   {
+    "tagName": "The_End_of_Heartache",
+    "postCount": 1
+   },
+   {
+    "tagName": "Duchy_of_Burgundy",
+    "postCount": 1
+   },
+   {
+    "tagName": "Strange_Fruit",
+    "postCount": 1
+   },
+   {
+    "tagName": "Saint_Pierre_and_Miquelon",
+    "postCount": 1
+   }
+  ]
+ }
+}

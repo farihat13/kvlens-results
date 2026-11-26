@@ -1,0 +1,27 @@
+{
+ "query_sha": "907f15bd35b7d66e",
+ "params": {
+  "personId": "8796093022946",
+  "startDate": "2010-12-01T00:00:00Z",
+  "countryXName": "Rwanda",
+  "countryYName": "Panama",
+  "endDate": "2010-12-31T00:00:00Z"
+ },
+ "data_created": "2026-11-21T02:56:18Z",
+ "measured_at": "2026-11-20T23:01:54",
+ "raw": {
+  "get_bytes": 47332196,
+  "get_count": 686116,
+  "get_found_count": 686116,
+  "get_latency_ns": 88733516866,
+  "next_bytes": 0,
+  "next_count": 0,
+  "next_latency_ns": 0,
+  "seek_bytes": 19873925,
+  "seek_count": 344505,
+  "seek_latency_ns": 46957411998,
+  "set_bytes": 0,
+  "set_count": 0,
+  "set_latency_ns": 0
+ }
+}

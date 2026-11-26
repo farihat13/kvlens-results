@@ -1,0 +1,63 @@
+{
+ "query_sha": "ad17deb8111088bd",
+ "params": {
+  "personId": "person_24189255813168",
+  "tagName": "Beyonc\u00e9_Knowles"
+ },
+ "data": {
+  "schema_sha256": "673074740eea54e4ba1fdc94eebf2087531b3007af7da660afffb3d1e8df0d1e",
+  "schema_path": "nebulagraph/schema/schema.gql",
+  "sf": "0.3",
+  "created": "2026-11-21T03:42:54Z",
+  "git_sha": "1d6662c2"
+ },
+ "fetched_at": "2026-11-20T23:50:46",
+ "raw": {
+  "keys": [
+   "tagName",
+   "postCount"
+  ],
+  "rows": [
+   {
+    "tagName": "Camille_Saint-Sa\u00ebns",
+    "postCount": 4
+   },
+   {
+    "tagName": "Muammar_Gaddafi",
+    "postCount": 4
+   },
+   {
+    "tagName": "Neil_Young",
+    "postCount": 4
+   },
+   {
+    "tagName": "Augustine_of_Hippo",
+    "postCount": 3
+   },
+   {
+    "tagName": "Maria_Theresa",
+    "postCount": 3
+   },
+   {
+    "tagName": "Dmitry_Medvedev",
+    "postCount": 2
+   },
+   {
+    "tagName": "Edgar_Prado",
+    "postCount": 2
+   },
+   {
+    "tagName": "Genghis_Khan",
+    "postCount": 2
+   },
+   {
+    "tagName": "George_Gershwin",
+    "postCount": 2
+   },
+   {
+    "tagName": "Ho_Chi_Minh",
+    "postCount": 2
+   }
+  ]
+ }
+}

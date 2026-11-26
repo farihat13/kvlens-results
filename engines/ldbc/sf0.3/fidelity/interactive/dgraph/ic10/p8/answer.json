@@ -1,0 +1,241 @@
+{
+ "query_sha": "d8702ab8a41d1dac",
+ "params": {
+  "personId": "32985348834334",
+  "month": "5"
+ },
+ "data": {
+  "schema_sha256": "03713a1e1c7b722e73bed6b150e079e69e9579c2a58c52e06f9d4384fdd4b80d",
+  "schema_path": "dgraph/schema/ldbcTypes.schema",
+  "sf": "0.3",
+  "created": "2026-11-21T02:56:18Z",
+  "git_sha": "60910999"
+ },
+ "fetched_at": "2026-11-20T23:54:53",
+ "raw": {
+  "_l1": [],
+  "_l2": [],
+  "recs": [
+   {
+    "birthday": "1983-03-26T00:00:00Z",
+    "commonInterestScore": 23,
+    "commonPostCount": 54,
+    "personCityName": "Oran",
+    "personFirstName": "Jacques",
+    "personGender": "male",
+    "personId": 2199023257034,
+    "personLastName": "Alcazar",
+    "postCount": 85
+   },
+   {
+    "birthday": "1983-03-12T00:00:00Z",
+    "commonInterestScore": 11,
+    "commonPostCount": 19,
+    "personCityName": "http://maps.google.com/maps?ll=25.530889,69.017306&spn=0.01,0.01&t=m&q=25.530889,69.017306",
+    "personFirstName": "Faisal",
+    "personGender": "male",
+    "personId": 3325,
+    "personLastName": "Hussain",
+    "postCount": 27
+   },
+   {
+    "birthday": "1981-10-30T00:00:00Z",
+    "commonInterestScore": 6,
+    "commonPostCount": 20,
+    "personCityName": "Bristol",
+    "personFirstName": "Jack",
+    "personGender": "female",
+    "personId": 8796093022492,
+    "personLastName": "Ellis",
+    "postCount": 34
+   },
+   {
+    "birthday": "1986-09-12T00:00:00Z",
+    "commonInterestScore": 6,
+    "commonPostCount": 9,
+    "personCityName": "Corrientes",
+    "personFirstName": "Carlos",
+    "personGender": "male",
+    "personId": 15393162790818,
+    "personLastName": "Diaz",
+    "postCount": 12
+   },
+   {
+    "birthday": "1988-05-19T00:00:00Z",
+    "commonInterestScore": 4,
+    "commonPostCount": 9,
+    "personCityName": "Baraka",
+    "personFirstName": "Jibriel Denewade Omonga",
+    "personGender": "female",
+    "personId": 19791209303024,
+    "personLastName": "Nimba",
+    "postCount": 14
+   },
+   {
+    "birthday": "1981-03-22T00:00:00Z",
+    "commonInterestScore": 2,
+    "commonPostCount": 3,
+    "personCityName": "Swansea",
+    "personFirstName": "Roger",
+    "personGender": "male",
+    "personId": 4398046511779,
+    "personLastName": "Jones",
+    "postCount": 4
+   },
+   {
+    "birthday": "1985-11-29T00:00:00Z",
+    "commonInterestScore": 2,
+    "commonPostCount": 2,
+    "personCityName": "Florence",
+    "personFirstName": "Giorgio",
+    "personGender": "female",
+    "personId": 6597069769095,
+    "personLastName": "Bianchi",
+    "postCount": 2
+   },
+   {
+    "birthday": "1986-04-08T00:00:00Z",
+    "commonInterestScore": 2,
+    "commonPostCount": 3,
+    "personCityName": "B\u1eafc_Giang",
+    "personFirstName": "Eve-Mary Thai",
+    "personGender": "male",
+    "personId": 13194139535930,
+    "personLastName": "Hoang",
+    "postCount": 4
+   },
+   {
+    "birthday": "1981-11-06T00:00:00Z",
+    "commonInterestScore": 2,
+    "commonPostCount": 7,
+    "personCityName": "Constan\u021ba",
+    "personFirstName": "Victor",
+    "personGender": "female",
+    "personId": 21990232556463,
+    "personLastName": "Antonescu",
+    "postCount": 12
+   },
+   {
+    "birthday": "1980-11-11T00:00:00Z",
+    "commonInterestScore": 1,
+    "commonPostCount": 1,
+    "personCityName": "Cuttack",
+    "personFirstName": "Arjun",
+    "personGender": "female",
+    "personId": 367,
+    "personLastName": "Reddy",
+    "postCount": 1
+   },
+   {
+    "birthday": "1981-01-29T00:00:00Z",
+    "commonInterestScore": 1,
+    "commonPostCount": 2,
+    "personCityName": "Sittwe_District",
+    "personFirstName": "Fali Sam",
+    "personGender": "male",
+    "personId": 15393162789932,
+    "personLastName": "Price",
+    "postCount": 3
+   },
+   {
+    "birthday": "1982-11-14T00:00:00Z",
+    "commonInterestScore": 1,
+    "commonPostCount": 2,
+    "personCityName": "Constan\u021ba",
+    "personFirstName": "Radu",
+    "personGender": "female",
+    "personId": 17592186045803,
+    "personLastName": "Antonescu",
+    "postCount": 3
+   },
+   {
+    "birthday": "1981-09-13T00:00:00Z",
+    "commonInterestScore": 1,
+    "commonPostCount": 1,
+    "personCityName": "Valencia",
+    "personFirstName": "Pablo",
+    "personGender": "male",
+    "personId": 32985348835144,
+    "personLastName": "Martinez",
+    "postCount": 1
+   },
+   {
+    "birthday": "1989-04-12T00:00:00Z",
+    "commonInterestScore": 0,
+    "commonPostCount": 8,
+    "personCityName": "M\u00f3ng_C\u00e1i",
+    "personFirstName": "Binh",
+    "personGender": "male",
+    "personId": 4398046512532,
+    "personLastName": "Nguyen",
+    "postCount": 16
+   },
+   {
+    "birthday": "1981-10-15T00:00:00Z",
+    "commonInterestScore": 0,
+    "commonPostCount": 0,
+    "personCityName": "\u0110i\u1ec7n_Bi\u00ean_Ph\u1ee7",
+    "personFirstName": "D\u1eb7ng Dinh",
+    "personGender": "female",
+    "personId": 8796093022438,
+    "personLastName": "Hoang",
+    "postCount": 0
+   },
+   {
+    "birthday": "1987-03-20T00:00:00Z",
+    "commonInterestScore": 0,
+    "commonPostCount": 0,
+    "personCityName": "Changsha",
+    "personFirstName": "Jie",
+    "personGender": "male",
+    "personId": 13194139536353,
+    "personLastName": "Li",
+    "postCount": 0
+   },
+   {
+    "birthday": "1988-09-06T00:00:00Z",
+    "commonInterestScore": 0,
+    "commonPostCount": 2,
+    "personCityName": "Baharampur",
+    "personFirstName": "R.",
+    "personGender": "female",
+    "personId": 13194139536438,
+    "personLastName": "Khan",
+    "postCount": 4
+   },
+   {
+    "birthday": "1986-03-09T00:00:00Z",
+    "commonInterestScore": 0,
+    "commonPostCount": 0,
+    "personCityName": "B\u00e0_R\u1ecba",
+    "personFirstName": "Kieu Anh",
+    "personGender": "male",
+    "personId": 13194139536811,
+    "personLastName": "Loan",
+    "postCount": 0
+   },
+   {
+    "birthday": "1987-04-12T00:00:00Z",
+    "commonInterestScore": 0,
+    "commonPostCount": 0,
+    "personCityName": "Gaobeidian",
+    "personFirstName": "Lin",
+    "personGender": "male",
+    "personId": 21990232557562,
+    "personLastName": "Zhao",
+    "postCount": 0
+   },
+   {
+    "birthday": "1988-09-20T00:00:00Z",
+    "commonInterestScore": 0,
+    "commonPostCount": 1,
+    "personCityName": "Seville",
+    "personFirstName": "Javier",
+    "personGender": "male",
+    "personId": 21990232559004,
+    "personLastName": "Perez",
+    "postCount": 2
+   }
+  ]
+ }
+}

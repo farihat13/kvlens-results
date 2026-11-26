@@ -1,0 +1,60 @@
+{
+ "query_sha": "65d8bc3e36e27e95",
+ "params": {
+  "personId": "person_2199023259220",
+  "countryName": "New_Zealand",
+  "workFromYear": 2014
+ },
+ "data": {
+  "schema_sha256": "673074740eea54e4ba1fdc94eebf2087531b3007af7da660afffb3d1e8df0d1e",
+  "schema_path": "nebulagraph/schema/schema.gql",
+  "sf": "0.3",
+  "created": "2026-11-21T03:42:54Z",
+  "git_sha": "1d6662c2"
+ },
+ "fetched_at": "2026-11-20T23:51:17",
+ "raw": {
+  "keys": [
+   "friendId",
+   "friendFirstName",
+   "friendLastName",
+   "organizationName",
+   "organizationWorkFromYear",
+   "friendIdInt"
+  ],
+  "rows": [
+   {
+    "friendId": "person_26388279067248",
+    "friendFirstName": "John",
+    "friendLastName": "Kumar",
+    "organizationName": "Freedom_Air_(New_Zealand)",
+    "organizationWorkFromYear": 1998,
+    "friendIdInt": 26388279067248
+   },
+   {
+    "friendId": "person_6597069767572",
+    "friendFirstName": "Babar",
+    "friendLastName": "Iqbal",
+    "organizationName": "Great_Barrier_Airlines",
+    "organizationWorkFromYear": 2008,
+    "friendIdInt": 6597069767572
+   },
+   {
+    "friendId": "person_17592186047200",
+    "friendFirstName": "Victor",
+    "friendLastName": "Codreanu",
+    "organizationName": "Salt_Air",
+    "organizationWorkFromYear": 2009,
+    "friendIdInt": 17592186047200
+   },
+   {
+    "friendId": "person_6597069769791",
+    "friendFirstName": "Mehmet",
+    "friendLastName": "Arikan",
+    "organizationName": "Pacific_Blue_Airlines",
+    "organizationWorkFromYear": 2010,
+    "friendIdInt": 6597069769791
+   }
+  ]
+ }
+}

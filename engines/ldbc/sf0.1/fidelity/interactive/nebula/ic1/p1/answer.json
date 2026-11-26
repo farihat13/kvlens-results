@@ -1,0 +1,78 @@
+{
+ "query_sha": "d7c0e0884773459a",
+ "params": {
+  "personId": "person_30786325579101",
+  "firstName": "Ian"
+ },
+ "data": {
+  "schema_sha256": "673074740eea54e4ba1fdc94eebf2087531b3007af7da660afffb3d1e8df0d1e",
+  "schema_path": "nebulagraph/schema/schema.gql",
+  "sf": "0.1",
+  "created": "2026-11-21T03:27:06Z",
+  "git_sha": "92777160"
+ },
+ "fetched_at": "2026-11-21T01:04:45",
+ "raw": {
+  "keys": [
+   "friendId",
+   "friendLastName",
+   "distanceFromPerson",
+   "friendBirthday",
+   "friendCreationDate",
+   "friendGender",
+   "friendBrowserUsed",
+   "friendLocationIp",
+   "friendEmails",
+   "friendLanguages",
+   "friendCityName",
+   "friendUniversities",
+   "friendCompanies",
+   "friendIdInt"
+  ],
+  "rows": [
+   {
+    "friendId": "person_10995116279328",
+    "friendLastName": "Smith",
+    "distanceFromPerson": 2,
+    "friendBirthday": 513388800000,
+    "friendCreationDate": 1291220622426,
+    "friendGender": "male",
+    "friendBrowserUsed": "Internet Explorer",
+    "friendLocationIp": "199.103.115.201",
+    "friendEmails": [
+     "Ian10995116279328@gmail.com",
+     "Ian10995116279328@gmx.com"
+    ],
+    "friendLanguages": [
+     "en"
+    ],
+    "friendCityName": "Bristol",
+    "friendUniversities": [
+     [
+      "Faculty_of_Health",
+      2005,
+      "Birmingham"
+     ]
+    ],
+    "friendCompanies": [
+     [
+      "British_Mediterranean_Airways",
+      2007,
+      "United_Kingdom"
+     ],
+     [
+      "Airtours_International_Airways",
+      2006,
+      "United_Kingdom"
+     ],
+     [
+      "Flybe",
+      2007,
+      "United_Kingdom"
+     ]
+    ],
+    "friendIdInt": 10995116279328
+   }
+  ]
+ }
+}

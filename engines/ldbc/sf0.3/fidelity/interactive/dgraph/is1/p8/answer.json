@@ -1,0 +1,28 @@
+{
+ "query_sha": "6f63960c0f9c5e7e",
+ "params": {
+  "personId": "32985348834334"
+ },
+ "data": {
+  "schema_sha256": "03713a1e1c7b722e73bed6b150e079e69e9579c2a58c52e06f9d4384fdd4b80d",
+  "schema_path": "dgraph/schema/ldbcTypes.schema",
+  "sf": "0.3",
+  "created": "2026-11-21T02:56:18Z",
+  "git_sha": "60910999"
+ },
+ "fetched_at": "2026-11-20T23:56:28",
+ "raw": {
+  "person": [
+   {
+    "birthday": "1985-10-03T00:00:00Z",
+    "browserUsed": "Firefox",
+    "cityId": 1287,
+    "creationDate": "2012-08-23T06:47:48.101Z",
+    "firstName": "Antonio",
+    "gender": "female",
+    "lastName": "Carvalho",
+    "locationIP": "84.18.254.60"
+   }
+  ]
+ }
+}

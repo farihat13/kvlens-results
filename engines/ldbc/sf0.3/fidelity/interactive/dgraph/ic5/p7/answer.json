@@ -1,0 +1,121 @@
+{
+ "query_sha": "d4f7d149421ba277",
+ "params": {
+  "personId": "19791209300775",
+  "minDate": "2012-08-06T00:00:00Z"
+ },
+ "data": {
+  "schema_sha256": "03713a1e1c7b722e73bed6b150e079e69e9579c2a58c52e06f9d4384fdd4b80d",
+  "schema_path": "dgraph/schema/ldbcTypes.schema",
+  "sf": "0.3",
+  "created": "2026-11-21T02:56:18Z",
+  "git_sha": "60910999"
+ },
+ "fetched_at": "2026-11-20T23:53:55",
+ "raw": {
+  "_l1": [],
+  "_l2": [],
+  "forums": [
+   {
+    "forumName": "Wall of Alexander Dobrunov",
+    "postCount": 693,
+    "forumId": 22831
+   },
+   {
+    "forumName": "Wall of Salim Ahmed Binalshibh",
+    "postCount": 440,
+    "forumId": 206158463877
+   },
+   {
+    "forumName": "Wall of George Nagy",
+    "postCount": 290,
+    "forumId": 618475322949
+   },
+   {
+    "forumName": "Wall of Yang Zhang",
+    "postCount": 268,
+    "forumId": 412316870400
+   },
+   {
+    "forumName": "Wall of Jorge Gonzalez",
+    "postCount": 235,
+    "forumId": 549755847086
+   },
+   {
+    "forumName": "Wall of Deepak Kumar",
+    "postCount": 197,
+    "forumId": 137438956978
+   },
+   {
+    "forumName": "Wall of The Kunda",
+    "postCount": 141,
+    "forumId": 755914268600
+   },
+   {
+    "forumName": "Wall of Jean De Bie",
+    "postCount": 104,
+    "forumId": 137438956260
+   },
+   {
+    "forumName": "Wall of Adje van den Berg Berg",
+    "postCount": 97,
+    "forumId": 206158436964
+   },
+   {
+    "forumName": "Wall of Anna Kogan",
+    "postCount": 95,
+    "forumId": 549755814489
+   },
+   {
+    "forumName": "Wall of Rudolf Engel",
+    "postCount": 94,
+    "forumId": 68719488518
+   },
+   {
+    "forumName": "Wall of Javed Ahmed",
+    "postCount": 93,
+    "forumId": 68719482689
+   },
+   {
+    "forumName": "Wall of Muhammad Amjad",
+    "postCount": 93,
+    "forumId": 274877908384
+   },
+   {
+    "forumName": "Wall of Carlos Abarca",
+    "postCount": 85,
+    "forumId": 36508
+   },
+   {
+    "forumName": "Wall of Carlos Gonzalez",
+    "postCount": 83,
+    "forumId": 412316861886
+   },
+   {
+    "forumName": "Wall of Rafael Alves",
+    "postCount": 83,
+    "forumId": 412316866182
+   },
+   {
+    "forumName": "Wall of Mohamed Aouadhi",
+    "postCount": 80,
+    "forumId": 137438968173
+   },
+   {
+    "forumName": "Wall of Peter Laszlo",
+    "postCount": 80,
+    "forumId": 206158449208
+   },
+   {
+    "forumName": "Wall of Giuseppe Rossi",
+    "postCount": 79,
+    "forumId": 274877923909
+   },
+   {
+    "forumName": "Wall of Eddie Garcia",
+    "postCount": 76,
+    "forumId": 274877919806
+   }
+  ]
+ }
+}

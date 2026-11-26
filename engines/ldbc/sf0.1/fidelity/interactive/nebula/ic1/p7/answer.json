@@ -1,0 +1,70 @@
+{
+ "query_sha": "d7c0e0884773459a",
+ "params": {
+  "personId": "person_2199023256919",
+  "firstName": "Ahmad Rafiq"
+ },
+ "data": {
+  "schema_sha256": "673074740eea54e4ba1fdc94eebf2087531b3007af7da660afffb3d1e8df0d1e",
+  "schema_path": "nebulagraph/schema/schema.gql",
+  "sf": "0.1",
+  "created": "2026-11-21T03:27:06Z",
+  "git_sha": "92777160"
+ },
+ "fetched_at": "2026-11-21T01:06:01",
+ "raw": {
+  "keys": [
+   "friendId",
+   "friendLastName",
+   "distanceFromPerson",
+   "friendBirthday",
+   "friendCreationDate",
+   "friendGender",
+   "friendBrowserUsed",
+   "friendLocationIp",
+   "friendEmails",
+   "friendLanguages",
+   "friendCityName",
+   "friendUniversities",
+   "friendCompanies",
+   "friendIdInt"
+  ],
+  "rows": [
+   {
+    "friendId": "person_24189255812419",
+    "friendLastName": "Irama",
+    "distanceFromPerson": 2,
+    "friendBirthday": 600393600000,
+    "friendCreationDate": 1324630205545,
+    "friendGender": "male",
+    "friendBrowserUsed": "Chrome",
+    "friendLocationIp": "103.22.165.62",
+    "friendEmails": [
+     "Ahmad.Rafiq24189255812419@gmail.com",
+     "Ahmad.Rafiq24189255812419@yahoo.com"
+    ],
+    "friendLanguages": [
+     "jv",
+     "nl",
+     "en"
+    ],
+    "friendCityName": "Banda_Aceh",
+    "friendUniversities": [
+     [
+      "Trunojoyo_University",
+      2010,
+      "Bangkalan"
+     ]
+    ],
+    "friendCompanies": [
+     [
+      "Pelita_Air_Service",
+      2011,
+      "Indonesia"
+     ]
+    ],
+    "friendIdInt": 24189255812419
+   }
+  ]
+ }
+}

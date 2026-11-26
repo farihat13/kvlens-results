@@ -1,0 +1,98 @@
+{
+ "query_sha": "4dcea213e133d224",
+ "params": {
+  "messageId": "msg_687195057240"
+ },
+ "data": {
+  "schema_sha256": "673074740eea54e4ba1fdc94eebf2087531b3007af7da660afffb3d1e8df0d1e",
+  "schema_path": "nebulagraph/schema/schema.gql",
+  "sf": "0.1",
+  "created": "2026-11-21T03:27:06Z",
+  "git_sha": "92777160"
+ },
+ "fetched_at": "2026-11-21T01:08:54",
+ "raw": {
+  "keys": [
+   "commentId",
+   "commentContent",
+   "commentCreationDate",
+   "replyAuthorId",
+   "replyAuthorFirstName",
+   "replyAuthorLastName",
+   "knows",
+   "replyAuthorIdInt"
+  ],
+  "rows": [
+   {
+    "commentId": "msg_687195057241",
+    "commentContent": "no way!",
+    "commentCreationDate": 1320369669836,
+    "replyAuthorId": "person_2199023256077",
+    "replyAuthorFirstName": "Ibrahim Bare",
+    "replyAuthorLastName": "Ousmane",
+    "knows": true,
+    "replyAuthorIdInt": 2199023256077
+   },
+   {
+    "commentId": "msg_687195057242",
+    "commentContent": "I see",
+    "commentCreationDate": 1320367257584,
+    "replyAuthorId": "person_8796093023550",
+    "replyAuthorFirstName": "Konstantinos",
+    "replyAuthorLastName": "Angello",
+    "knows": true,
+    "replyAuthorIdInt": 8796093023550
+   },
+   {
+    "commentId": "msg_687195057243",
+    "commentContent": "About Bryan Adams, ammy Award nominations including a win for About Zachary Taylor, R",
+    "commentCreationDate": 1320321772276,
+    "replyAuthorId": "person_8796093023851",
+    "replyAuthorFirstName": "Evangelos",
+    "replyAuthorLastName": "Dionysiou",
+    "knows": true,
+    "replyAuthorIdInt": 8796093023851
+   },
+   {
+    "commentId": "msg_687195057247",
+    "commentContent": "no way!",
+    "commentCreationDate": 1320315076048,
+    "replyAuthorId": "person_6597069768211",
+    "replyAuthorFirstName": "Edward",
+    "replyAuthorLastName": "Ouma",
+    "knows": true,
+    "replyAuthorIdInt": 6597069768211
+   },
+   {
+    "commentId": "msg_687195057254",
+    "commentContent": "right",
+    "commentCreationDate": 1320314771238,
+    "replyAuthorId": "person_19791209301121",
+    "replyAuthorFirstName": "Giorgos",
+    "replyAuthorLastName": "Ioannidis",
+    "knows": true,
+    "replyAuthorIdInt": 19791209301121
+   },
+   {
+    "commentId": "msg_687195057248",
+    "commentContent": "ok",
+    "commentCreationDate": 1320304390205,
+    "replyAuthorId": "person_2199023255952",
+    "replyAuthorFirstName": "Konstantinos",
+    "replyAuthorLastName": "Antoniou",
+    "knows": true,
+    "replyAuthorIdInt": 2199023255952
+   },
+   {
+    "commentId": "msg_687195057250",
+    "commentContent": "I see",
+    "commentCreationDate": 1320287656122,
+    "replyAuthorId": "person_6597069768211",
+    "replyAuthorFirstName": "Edward",
+    "replyAuthorLastName": "Ouma",
+    "knows": true,
+    "replyAuthorIdInt": 6597069768211
+   }
+  ]
+ }
+}

@@ -1,0 +1,34 @@
+{
+ "query_sha": "c060b3ffba4ba4fe",
+ "params": {
+  "messageId": 343598113697
+ },
+ "data": {
+  "schema_sha256": "b8e206f17e60692c830ba0c3c675fbc481a22f26011282ce523890eb09be8a74",
+  "schema_path": "arangodb/schema/ldbc_schema.json",
+  "sf": "0.3",
+  "created": "2026-11-21T03:01:29Z",
+  "git_sha": "60910999"
+ },
+ "fetched_at": "2026-11-20T23:54:49",
+ "raw": [
+  {
+   "commentId": 343598113698,
+   "commentContent": "ok",
+   "commentCreationDate": 1289622203787,
+   "replyAuthorId": 2199023259200,
+   "replyAuthorFirstName": "V.",
+   "replyAuthorLastName": "Joshi",
+   "replyAuthorKnowsOriginalMessageAuthor": true
+  },
+  {
+   "commentId": 343598113699,
+   "commentContent": "maybe",
+   "commentCreationDate": 1289594101838,
+   "replyAuthorId": 6597069766733,
+   "replyAuthorFirstName": "Karl",
+   "replyAuthorLastName": "Fischer",
+   "replyAuthorKnowsOriginalMessageAuthor": false
+  }
+ ]
+}

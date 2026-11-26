@@ -1,0 +1,105 @@
+{
+ "query_sha": "d7c0e0884773459a",
+ "params": {
+  "personId": "person_1129",
+  "firstName": "Mart"
+ },
+ "data": {
+  "schema_sha256": "673074740eea54e4ba1fdc94eebf2087531b3007af7da660afffb3d1e8df0d1e",
+  "schema_path": "nebulagraph/schema/schema.gql",
+  "sf": "0.3",
+  "created": "2026-11-21T03:42:54Z",
+  "git_sha": "1d6662c2"
+ },
+ "fetched_at": "2026-11-20T23:58:15",
+ "raw": {
+  "keys": [
+   "friendId",
+   "friendLastName",
+   "distanceFromPerson",
+   "friendBirthday",
+   "friendCreationDate",
+   "friendGender",
+   "friendBrowserUsed",
+   "friendLocationIp",
+   "friendEmails",
+   "friendLanguages",
+   "friendCityName",
+   "friendUniversities",
+   "friendCompanies",
+   "friendIdInt"
+  ],
+  "rows": [
+   {
+    "friendId": "person_2199023259002",
+    "friendLastName": "Aas",
+    "distanceFromPerson": 2,
+    "friendBirthday": 589248000000,
+    "friendCreationDate": 1268779780175,
+    "friendGender": "male",
+    "friendBrowserUsed": "Firefox",
+    "friendLocationIp": "80.66.249.219",
+    "friendEmails": [
+     "Mart2199023259002@gmail.com",
+     "Mart2199023259002@gmx.com",
+     "Mart2199023259002@hotmail.com",
+     "Mart2199023259002@yahoo.com"
+    ],
+    "friendLanguages": [
+     "et",
+     "en"
+    ],
+    "friendCityName": "Tallinn",
+    "friendUniversities": [],
+    "friendCompanies": [
+     [
+      "Avies",
+      2012,
+      "Estonia"
+     ],
+     [
+      "Enimex",
+      2009,
+      "Estonia"
+     ]
+    ],
+    "friendIdInt": 2199023259002
+   },
+   {
+    "friendId": "person_4398046514664",
+    "friendLastName": "Laur",
+    "distanceFromPerson": 3,
+    "friendBirthday": 433468800000,
+    "friendCreationDate": 1275105658255,
+    "friendGender": "male",
+    "friendBrowserUsed": "Firefox",
+    "friendLocationIp": "109.235.241.138",
+    "friendEmails": [
+     "Mart4398046514664@gmail.com",
+     "Mart4398046514664@yahoo.com",
+     "Mart4398046514664@zoho.com"
+    ],
+    "friendLanguages": [
+     "et",
+     "en"
+    ],
+    "friendCityName": "Tallinn",
+    "friendUniversities": [
+     [
+      "Tallinn_University_of_Technology",
+      2005,
+      "Tallinn"
+     ]
+    ],
+    "friendCompanies": [
+     [
+      "Aero_Airlines",
+      2007,
+      "Estonia"
+     ]
+    ],
+    "friendIdInt": 4398046514664
+   }
+  ]
+ }
+}

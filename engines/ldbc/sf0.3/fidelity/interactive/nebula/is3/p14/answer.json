@@ -1,0 +1,74 @@
+{
+ "query_sha": "6ff3aa62b8626f5b",
+ "params": {
+  "personId": "person_1129"
+ },
+ "data": {
+  "schema_sha256": "673074740eea54e4ba1fdc94eebf2087531b3007af7da660afffb3d1e8df0d1e",
+  "schema_path": "nebulagraph/schema/schema.gql",
+  "sf": "0.3",
+  "created": "2026-11-21T03:42:54Z",
+  "git_sha": "1d6662c2"
+ },
+ "fetched_at": "2026-11-20T23:59:58",
+ "raw": {
+  "keys": [
+   "friendId",
+   "friendFirstName",
+   "friendLastName",
+   "friendshipCreationDate",
+   "friendIdInt"
+  ],
+  "rows": [
+   {
+    "friendId": "person_32985348834375",
+    "friendFirstName": "Alfred",
+    "friendLastName": "Hoffmann",
+    "friendshipCreationDate": 1345657873732,
+    "friendIdInt": 32985348834375
+   },
+   {
+    "friendId": "person_24189255813517",
+    "friendFirstName": "Farhad Nasher",
+    "friendLastName": "Zaland",
+    "friendshipCreationDate": 1325314251286,
+    "friendIdInt": 24189255813517
+   },
+   {
+    "friendId": "person_24189255814068",
+    "friendFirstName": "Karl",
+    "friendLastName": "Wagner",
+    "friendshipCreationDate": 1321830587899,
+    "friendIdInt": 24189255814068
+   },
+   {
+    "friendId": "person_15393162789093",
+    "friendFirstName": "Rafael",
+    "friendLastName": "Fern\u00e1ndez",
+    "friendshipCreationDate": 1304059991356,
+    "friendIdInt": 15393162789093
+   },
+   {
+    "friendId": "person_6597069769310",
+    "friendFirstName": "Bichang",
+    "friendLastName": "Liu",
+    "friendshipCreationDate": 1281090126511,
+    "friendIdInt": 6597069769310
+   },
+   {
+    "friendId": "person_2199023256437",
+    "friendFirstName": "Rudolf",
+    "friendLastName": "Engel",
+    "friendshipCreationDate": 1272402737534,
+    "friendIdInt": 2199023256437
+   },
+   {
+    "friendId": "person_1242",
+    "friendFirstName": "Hans",
+    "friendLastName": "Johansson",
+    "friendshipCreationDate": 1265640844061,
+    "friendIdInt": 1242
+   }
+  ]
+ }
+}

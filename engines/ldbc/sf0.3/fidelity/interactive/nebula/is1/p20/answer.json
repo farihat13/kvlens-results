@@ -1,0 +1,38 @@
+{
+ "query_sha": "ad58b82c66ab2c6f",
+ "params": {
+  "personId": "person_13194139535032"
+ },
+ "data": {
+  "schema_sha256": "673074740eea54e4ba1fdc94eebf2087531b3007af7da660afffb3d1e8df0d1e",
+  "schema_path": "nebulagraph/schema/schema.gql",
+  "sf": "0.3",
+  "created": "2026-11-21T03:42:54Z",
+  "git_sha": "1d6662c2"
+ },
+ "fetched_at": "2026-11-21T00:02:42",
+ "raw": {
+  "keys": [
+   "firstName",
+   "lastName",
+   "birthday",
+   "locationIP",
+   "browserUsed",
+   "cityId",
+   "gender",
+   "creationDate"
+  ],
+  "rows": [
+   {
+    "firstName": "Ivan",
+    "lastName": "Popov",
+    "birthday": 321321600000,
+    "locationIP": "31.130.215.26",
+    "browserUsed": "Internet Explorer",
+    "cityId": "place_868",
+    "gender": "female",
+    "creationDate": 1298526442926
+   }
+  ]
+ }
+}

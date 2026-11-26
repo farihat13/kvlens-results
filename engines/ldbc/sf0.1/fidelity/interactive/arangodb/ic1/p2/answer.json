@@ -1,0 +1,809 @@
+{
+ "query_sha": "758b65813d7ffbd6",
+ "params": {
+  "personId": 24189255811707,
+  "firstName": "Jun"
+ },
+ "data": {
+  "schema_sha256": "b8e206f17e60692c830ba0c3c675fbc481a22f26011282ce523890eb09be8a74",
+  "schema_path": "arangodb/schema/ldbc_schema.json",
+  "sf": "0.1",
+  "created": "2026-11-21T03:27:46Z",
+  "git_sha": "92777160"
+ },
+ "fetched_at": "2026-11-21T01:05:28",
+ "raw": [
+  {
+   "friendId": 8796093022435,
+   "friendLastName": "Chen",
+   "distanceFromPerson": 2,
+   "friendBirthday": 355449600000,
+   "friendCreationDate": 1286248446553,
+   "friendGender": "female",
+   "friendBrowserUsed": "Chrome",
+   "friendLocationIp": "1.207.98.196",
+   "friendEmails": [
+    "Jun8796093022435@gmx.com"
+   ],
+   "friendLanguages": [
+    "zh",
+    "en"
+   ],
+   "friendCityName": "Chizhou",
+   "friendUniversities": [],
+   "friendCompanies": [
+    [
+     "Chang'an_Airlines",
+     2011,
+     "China"
+    ]
+   ]
+  },
+  {
+   "friendId": 26388279067358,
+   "friendLastName": "Chen",
+   "distanceFromPerson": 2,
+   "friendBirthday": 439084800000,
+   "friendCreationDate": 1327319316524,
+   "friendGender": "female",
+   "friendBrowserUsed": "Firefox",
+   "friendLocationIp": "1.4.4.25",
+   "friendEmails": [
+    "Jun26388279067358@gmail.com"
+   ],
+   "friendLanguages": [
+    "zh",
+    "en"
+   ],
+   "friendCityName": "Lanzhou",
+   "friendUniversities": [],
+   "friendCompanies": [
+    [
+     "Shenzhen_Donghai_Airlines",
+     2004,
+     "China"
+    ]
+   ]
+  },
+  {
+   "friendId": 21990232557038,
+   "friendLastName": "He",
+   "distanceFromPerson": 2,
+   "friendBirthday": 322617600000,
+   "friendCreationDate": 1315626655636,
+   "friendGender": "female",
+   "friendBrowserUsed": "Firefox",
+   "friendLocationIp": "1.28.102.211",
+   "friendEmails": [
+    "Jun21990232557038@gmail.com",
+    "Jun21990232557038@gmx.com",
+    "Jun21990232557038@yahoo.com"
+   ],
+   "friendLanguages": [
+    "zh",
+    "en"
+   ],
+   "friendCityName": "Hefei",
+   "friendUniversities": [
+    [
+     "Xi'an_Polytechnic_University",
+     2000,
+     "Xi'an"
+    ]
+   ],
+   "friendCompanies": [
+    [
+     "United_Eagle_Airlines",
+     2000,
+     "China"
+    ],
+    [
+     "Shenzhen_Airlines",
+     2000,
+     "China"
+    ],
+    [
+     "Air_China_Cargo",
+     2001,
+     "China"
+    ],
+    [
+     "China_Southern_Airlines",
+     2000,
+     "China"
+    ]
+   ]
+  },
+  {
+   "friendId": 17592186045019,
+   "friendLastName": "Ito",
+   "distanceFromPerson": 2,
+   "friendBirthday": 424828800000,
+   "friendCreationDate": 1309549672978,
+   "friendGender": "female",
+   "friendBrowserUsed": "Chrome",
+   "friendLocationIp": "27.118.2.33",
+   "friendEmails": [
+    "Jun17592186045019@gmail.com"
+   ],
+   "friendLanguages": [
+    "ja",
+    "en"
+   ],
+   "friendCityName": "Osaka",
+   "friendUniversities": [
+    [
+     "Hachinohe_Junior_College",
+     2005,
+     "Hachinohe"
+    ]
+   ],
+   "friendCompanies": []
+  },
+  {
+   "friendId": 32985348833702,
+   "friendLastName": "Kato",
+   "distanceFromPerson": 2,
+   "friendBirthday": 524361600000,
+   "friendCreationDate": 1342519797251,
+   "friendGender": "female",
+   "friendBrowserUsed": "Internet Explorer",
+   "friendLocationIp": "27.111.77.194",
+   "friendEmails": [
+    "Jun32985348833702@gmail.com",
+    "Jun32985348833702@gmx.com",
+    "Jun32985348833702@yahoo.com",
+    "Jun32985348833702@zoho.com"
+   ],
+   "friendLanguages": [
+    "ja",
+    "en"
+   ],
+   "friendCityName": "Chiyoda",
+   "friendUniversities": [
+    [
+     "S\u014dka_University",
+     2008,
+     "Hachi\u014dji"
+    ]
+   ],
+   "friendCompanies": [
+    [
+     "Air_Hokkaido",
+     2008,
+     "Japan"
+    ],
+    [
+     "Air_Next",
+     2009,
+     "Japan"
+    ]
+   ]
+  },
+  {
+   "friendId": 17592186044857,
+   "friendLastName": "Li",
+   "distanceFromPerson": 2,
+   "friendBirthday": 545875200000,
+   "friendCreationDate": 1308847044350,
+   "friendGender": "female",
+   "friendBrowserUsed": "Firefox",
+   "friendLocationIp": "27.50.46.217",
+   "friendEmails": [
+    "Jun17592186044857@gmail.com"
+   ],
+   "friendLanguages": [
+    "zh",
+    "en"
+   ],
+   "friendCityName": "Dangyang",
+   "friendUniversities": [
+    [
+     "Hangzhou_International_School",
+     2009,
+     "Hangzhou"
+    ]
+   ],
+   "friendCompanies": [
+    [
+     "Shenzhen_Airlines",
+     2009,
+     "China"
+    ]
+   ]
+  },
+  {
+   "friendId": 4398046511870,
+   "friendLastName": "Wang",
+   "distanceFromPerson": 2,
+   "friendBirthday": 561772800000,
+   "friendCreationDate": 1273381996555,
+   "friendGender": "female",
+   "friendBrowserUsed": "Firefox",
+   "friendLocationIp": "1.204.167.114",
+   "friendEmails": [
+    "Jun4398046511870@gmail.com"
+   ],
+   "friendLanguages": [
+    "zh",
+    "en"
+   ],
+   "friendCityName": "Nanchong",
+   "friendUniversities": [
+    [
+     "College_of_Traditional_Chinese_Medicine_of_Xinjiang_Medical_University",
+     2008,
+     "\u00dcr\u00fcmqi"
+    ]
+   ],
+   "friendCompanies": [
+    [
+     "Sichuan_Airlines",
+     2010,
+     "China"
+    ],
+    [
+     "Spring_Airlines",
+     2009,
+     "China"
+    ],
+    [
+     "Chongqing_Airlines",
+     2009,
+     "China"
+    ]
+   ]
+  },
+  {
+   "friendId": 26388279068220,
+   "friendLastName": "Wang",
+   "distanceFromPerson": 2,
+   "friendBirthday": 575424000000,
+   "friendCreationDate": 1331161432355,
+   "friendGender": "female",
+   "friendBrowserUsed": "Opera",
+   "friendLocationIp": "1.12.242.179",
+   "friendEmails": [
+    "Jun26388279068220@gmail.com",
+    "Jun26388279068220@gmx.com"
+   ],
+   "friendLanguages": [
+    "zh",
+    "en"
+   ],
+   "friendCityName": "Shanxi",
+   "friendUniversities": [
+    [
+     "Hangzhou_Dianzi_University",
+     2007,
+     "Hangzhou"
+    ]
+   ],
+   "friendCompanies": [
+    [
+     "Air_China_Cargo",
+     2008,
+     "China"
+    ],
+    [
+     "Shandong_Airlines",
+     2008,
+     "China"
+    ],
+    [
+     "Okay_Airways",
+     2007,
+     "China"
+    ]
+   ]
+  },
+  {
+   "friendId": 24189255812657,
+   "friendLastName": "Yang",
+   "distanceFromPerson": 2,
+   "friendBirthday": 427075200000,
+   "friendCreationDate": 1324523295963,
+   "friendGender": "female",
+   "friendBrowserUsed": "Firefox",
+   "friendLocationIp": "1.203.198.207",
+   "friendEmails": [
+    "Jun24189255812657@gmail.com",
+    "Jun24189255812657@gmx.com",
+    "Jun24189255812657@yahoo.com"
+   ],
+   "friendLanguages": [
+    "zh",
+    "en"
+   ],
+   "friendCityName": "Anqing",
+   "friendUniversities": [
+    [
+     "Xi'an_Polytechnic_University",
+     2004,
+     "Xi'an"
+    ]
+   ],
+   "friendCompanies": [
+    [
+     "Guizhou_Airlines",
+     2005,
+     "China"
+    ],
+    [
+     "Spring_Airlines",
+     2006,
+     "China"
+    ],
+    [
+     "Air_China",
+     2005,
+     "China"
+    ],
+    [
+     "Chang'an_Airlines",
+     2006,
+     "China"
+    ],
+    [
+     "Wuhan_Airlines",
+     2005,
+     "China"
+    ]
+   ]
+  },
+  {
+   "friendId": 13194139534915,
+   "friendLastName": "Zhang",
+   "distanceFromPerson": 2,
+   "friendBirthday": 583200000000,
+   "friendCreationDate": 1298480519319,
+   "friendGender": "female",
+   "friendBrowserUsed": "Internet Explorer",
+   "friendLocationIp": "1.10.15.31",
+   "friendEmails": [
+    "Jun13194139534915@gmail.com"
+   ],
+   "friendLanguages": [
+    "zh",
+    "en"
+   ],
+   "friendCityName": "Chishui",
+   "friendUniversities": [
+    [
+     "Yangtze_Normal_University",
+     2008,
+     "Chongqing"
+    ]
+   ],
+   "friendCompanies": [
+    [
+     "United_Eagle_Airlines",
+     2009,
+     "China"
+    ],
+    [
+     "Tibet_Airlines",
+     2009,
+     "China"
+    ],
+    [
+     "China_Yunnan_Airlines",
+     2010,
+     "China"
+    ],
+    [
+     "East_Star_Airlines",
+     2008,
+     "China"
+    ],
+    [
+     "Shanghai_Airlines_Cargo",
+     2008,
+     "China"
+    ]
+   ]
+  },
+  {
+   "friendId": 21990232556482,
+   "friendLastName": "Zhu",
+   "distanceFromPerson": 2,
+   "friendBirthday": 612489600000,
+   "friendCreationDate": 1315475423141,
+   "friendGender": "female",
+   "friendBrowserUsed": "Internet Explorer",
+   "friendLocationIp": "1.1.22.34",
+   "friendEmails": [
+    "Jun21990232556482@gmail.com",
+    "Jun21990232556482@yahoo.com",
+    "Jun21990232556482@zoho.com"
+   ],
+   "friendLanguages": [
+    "zh",
+    "en"
+   ],
+   "friendCityName": "Feicheng",
+   "friendUniversities": [
+    [
+     "China_Europe_International_Business_School",
+     2009,
+     "Shanghai"
+    ]
+   ],
+   "friendCompanies": [
+    [
+     "China_Northern_Airlines",
+     2009,
+     "China"
+    ],
+    [
+     "Kunming_Airlines",
+     2011,
+     "China"
+    ]
+   ]
+  },
+  {
+   "friendId": 26388279068269,
+   "friendLastName": "Zhu",
+   "distanceFromPerson": 2,
+   "friendBirthday": 566265600000,
+   "friendCreationDate": 1328965090694,
+   "friendGender": "female",
+   "friendBrowserUsed": "Firefox",
+   "friendLocationIp": "1.189.111.251",
+   "friendEmails": [
+    "Jun26388279068269@gmail.com",
+    "Jun26388279068269@gmx.com"
+   ],
+   "friendLanguages": [
+    "zh",
+    "en"
+   ],
+   "friendCityName": "Gongyi",
+   "friendUniversities": [
+    [
+     "Southwest_University",
+     2008,
+     "Chongqing"
+    ]
+   ],
+   "friendCompanies": [
+    [
+     "Guizhou_Airlines",
+     2010,
+     "China"
+    ],
+    [
+     "Mahan_Air",
+     2010,
+     "Iran"
+    ],
+    [
+     "Tianjin_Airlines",
+     2010,
+     "China"
+    ],
+    [
+     "West_Air_(People's_Republic_of_China)",
+     2010,
+     "China"
+    ],
+    [
+     "Great_Wall_Airlines",
+     2009,
+     "China"
+    ]
+   ]
+  },
+  {
+   "friendId": 13194139533469,
+   "friendLastName": "Chen",
+   "distanceFromPerson": 3,
+   "friendBirthday": 420854400000,
+   "friendCreationDate": 1295900807705,
+   "friendGender": "female",
+   "friendBrowserUsed": "Chrome",
+   "friendLocationIp": "1.2.7.208",
+   "friendEmails": [
+    "Jun13194139533469@gmail.com",
+    "Jun13194139533469@yahoo.com",
+    "Jun13194139533469@zoho.com"
+   ],
+   "friendLanguages": [
+    "zh",
+    "en"
+   ],
+   "friendCityName": "Dalian",
+   "friendUniversities": [
+    [
+     "Hangzhou_International_School",
+     2004,
+     "Hangzhou"
+    ]
+   ],
+   "friendCompanies": [
+    [
+     "Sichuan_Airlines",
+     2004,
+     "China"
+    ],
+    [
+     "Lao_Air",
+     2006,
+     "Laos"
+    ],
+    [
+     "China_Northwest_Airlines",
+     2005,
+     "China"
+    ],
+    [
+     "Chongqing_Airlines",
+     2005,
+     "China"
+    ]
+   ]
+  },
+  {
+   "friendId": 6597069767359,
+   "friendLastName": "Li",
+   "distanceFromPerson": 3,
+   "friendBirthday": 451440000000,
+   "friendCreationDate": 1279083169439,
+   "friendGender": "female",
+   "friendBrowserUsed": "Safari",
+   "friendLocationIp": "27.29.124.155",
+   "friendEmails": [
+    "Jun6597069767359@gmx.com",
+    "Jun6597069767359@hotmail.com"
+   ],
+   "friendLanguages": [
+    "zh",
+    "en"
+   ],
+   "friendCityName": "Nanning",
+   "friendUniversities": [
+    [
+     "Shenyang_Aerospace_University",
+     2003,
+     "Shenyang"
+    ]
+   ],
+   "friendCompanies": [
+    [
+     "China_Flying_Dragon_Aviation",
+     2005,
+     "China"
+    ],
+    [
+     "Touma\u00ef_Air_Tchad",
+     2003,
+     "Chad"
+    ],
+    [
+     "Tianjin_Airlines",
+     2004,
+     "China"
+    ],
+    [
+     "Okay_Airways",
+     2003,
+     "China"
+    ]
+   ]
+  },
+  {
+   "friendId": 24189255811079,
+   "friendLastName": "Li",
+   "distanceFromPerson": 3,
+   "friendBirthday": 560563200000,
+   "friendCreationDate": 1325145399032,
+   "friendGender": "female",
+   "friendBrowserUsed": "Chrome",
+   "friendLocationIp": "1.29.220.142",
+   "friendEmails": [
+    "Jun24189255811079@gmail.com",
+    "Jun24189255811079@yahoo.com"
+   ],
+   "friendLanguages": [
+    "zh",
+    "en"
+   ],
+   "friendCityName": "Bei'an",
+   "friendUniversities": [
+    [
+     "Shenyang_Conservatory_of_Music",
+     2006,
+     "Shenyang"
+    ]
+   ],
+   "friendCompanies": [
+    [
+     "United_Eagle_Airlines",
+     2007,
+     "China"
+    ],
+    [
+     "Air_China_Cargo",
+     2007,
+     "China"
+    ],
+    [
+     "Tianjin_Airlines",
+     2008,
+     "China"
+    ],
+    [
+     "China_Postal_Airlines",
+     2008,
+     "China"
+    ]
+   ]
+  },
+  {
+   "friendId": 30786325578075,
+   "friendLastName": "Li",
+   "distanceFromPerson": 3,
+   "friendBirthday": 388454400000,
+   "friendCreationDate": 1340740844538,
+   "friendGender": "female",
+   "friendBrowserUsed": "Chrome",
+   "friendLocationIp": "1.92.53.196",
+   "friendEmails": [
+    "Jun30786325578075@gmail.com",
+    "Jun30786325578075@yahoo.com"
+   ],
+   "friendLanguages": [
+    "zh",
+    "en"
+   ],
+   "friendCityName": "Dandong",
+   "friendUniversities": [
+    [
+     "China_Jiliang_University",
+     2003,
+     "Hangzhou"
+    ]
+   ],
+   "friendCompanies": [
+    [
+     "United_Eagle_Airlines",
+     2003,
+     "China"
+    ],
+    [
+     "Shandong_Airlines",
+     2004,
+     "China"
+    ],
+    [
+     "Chang'an_Airlines",
+     2004,
+     "China"
+    ]
+   ]
+  },
+  {
+   "friendId": 19791209300572,
+   "friendLastName": "Xu",
+   "distanceFromPerson": 3,
+   "friendBirthday": 339897600000,
+   "friendCreationDate": 1311071220805,
+   "friendGender": "female",
+   "friendBrowserUsed": "Chrome",
+   "friendLocationIp": "27.98.216.57",
+   "friendEmails": [
+    "Jun19791209300572@gmail.com"
+   ],
+   "friendLanguages": [
+    "zh",
+    "en"
+   ],
+   "friendCityName": "Cangzhou",
+   "friendUniversities": [
+    [
+     "Hangzhou_International_School",
+     2002,
+     "Hangzhou"
+    ]
+   ],
+   "friendCompanies": [
+    [
+     "Chang'an_Airlines",
+     2003,
+     "China"
+    ],
+    [
+     "Great_Wall_Airlines",
+     2004,
+     "China"
+    ],
+    [
+     "Shanghai_Airlines_Cargo",
+     2003,
+     "China"
+    ]
+   ]
+  },
+  {
+   "friendId": 10995116279040,
+   "friendLastName": "Yamada",
+   "distanceFromPerson": 3,
+   "friendBirthday": 426038400000,
+   "friendCreationDate": 1292012983883,
+   "friendGender": "female",
+   "friendBrowserUsed": "Firefox",
+   "friendLocationIp": "27.110.117.214",
+   "friendEmails": [
+    "Jun10995116279040@gmail.com",
+    "Jun10995116279040@gmx.com"
+   ],
+   "friendLanguages": [
+    "ja",
+    "en"
+   ],
+   "friendCityName": "Yokohama",
+   "friendUniversities": [],
+   "friendCompanies": []
+  },
+  {
+   "friendId": 30786325578060,
+   "friendLastName": "Yang",
+   "distanceFromPerson": 3,
+   "friendBirthday": 538531200000,
+   "friendCreationDate": 1338357297910,
+   "friendGender": "female",
+   "friendBrowserUsed": "Chrome",
+   "friendLocationIp": "1.2.0.161",
+   "friendEmails": [
+    "Jun30786325578060@gmail.com"
+   ],
+   "friendLanguages": [
+    "zh",
+    "en"
+   ],
+   "friendCityName": "Cenxi",
+   "friendUniversities": [
+    [
+     "Xi'an_Polytechnic_University",
+     2005,
+     "Xi'an"
+    ]
+   ],
+   "friendCompanies": [
+    [
+     "Air_China_Cargo",
+     2007,
+     "China"
+    ]
+   ]
+  },
+  {
+   "friendId": 19791209300990,
+   "friendLastName": "Zhang",
+   "distanceFromPerson": 3,
+   "friendBirthday": 471398400000,
+   "friendCreationDate": 1312756650150,
+   "friendGender": "female",
+   "friendBrowserUsed": "Chrome",
+   "friendLocationIp": "1.10.21.91",
+   "friendEmails": [
+    "Jun19791209300990@gmail.com",
+    "Jun19791209300990@gmx.com"
+   ],
+   "friendLanguages": [
+    "zh",
+    "en"
+   ],
+   "friendCityName": "Dali",
+   "friendUniversities": [
+    [
+     "Anhui_University_of_Science_and_Technology",
+     2004,
+     "Huainan"
+    ]
+   ],
+   "friendCompanies": []
+  }
+ ]
+}

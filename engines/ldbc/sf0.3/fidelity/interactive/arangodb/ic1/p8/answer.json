@@ -1,0 +1,593 @@
+{
+ "query_sha": "758b65813d7ffbd6",
+ "params": {
+  "personId": 32985348834334,
+  "firstName": "Francisco"
+ },
+ "data": {
+  "schema_sha256": "b8e206f17e60692c830ba0c3c675fbc481a22f26011282ce523890eb09be8a74",
+  "schema_path": "arangodb/schema/ldbc_schema.json",
+  "sf": "0.3",
+  "created": "2026-11-21T03:01:29Z",
+  "git_sha": "60910999"
+ },
+ "fetched_at": "2026-11-20T23:54:51",
+ "raw": [
+  {
+   "friendId": 2199023258445,
+   "friendLastName": "Alonso",
+   "distanceFromPerson": 2,
+   "friendBirthday": 492566400000,
+   "friendCreationDate": 1269158022166,
+   "friendGender": "female",
+   "friendBrowserUsed": "Chrome",
+   "friendLocationIp": "31.31.89.136",
+   "friendEmails": [
+    "Francisco2199023258445@gmail.com",
+    "Francisco2199023258445@gmx.com"
+   ],
+   "friendLanguages": [
+    "es",
+    "gl",
+    "en"
+   ],
+   "friendCityName": "Bilbao",
+   "friendUniversities": [
+    [
+     "University_of_Salamanca",
+     2005,
+     "Salamanca"
+    ]
+   ],
+   "friendCompanies": [
+    [
+     "Mayoral_Executive_Jet",
+     2005,
+     "Spain"
+    ],
+    [
+     "TAER_Andalus",
+     2005,
+     "Spain"
+    ],
+    [
+     "Orionair",
+     2005,
+     "Spain"
+    ],
+    [
+     "Islas_Airways",
+     2005,
+     "Spain"
+    ],
+    [
+     "Air_Asturias",
+     2007,
+     "Spain"
+    ]
+   ]
+  },
+  {
+   "friendId": 8796093025694,
+   "friendLastName": "Pinto",
+   "distanceFromPerson": 2,
+   "friendBirthday": 571276800000,
+   "friendCreationDate": 1285763294783,
+   "friendGender": "female",
+   "friendBrowserUsed": "Chrome",
+   "friendLocationIp": "190.91.219.74",
+   "friendEmails": [
+    "Francisco8796093025694@gmail.com",
+    "Francisco8796093025694@gmx.com"
+   ],
+   "friendLanguages": [
+    "es",
+    "de",
+    "en"
+   ],
+   "friendCityName": "Osorno",
+   "friendUniversities": [
+    [
+     "Facultad_de_Arquitectura_y_Urbanismo",
+     2007,
+     "Santiago"
+    ]
+   ],
+   "friendCompanies": [
+    [
+     "Alpine_Air_Express_Chile",
+     2007,
+     "Chile"
+    ],
+    [
+     "Air_Comet_Chile",
+     2008,
+     "Chile"
+    ]
+   ]
+  },
+  {
+   "friendId": 8796093024039,
+   "friendLastName": "Abascal",
+   "distanceFromPerson": 3,
+   "friendBirthday": 588902400000,
+   "friendCreationDate": 1283808914584,
+   "friendGender": "male",
+   "friendBrowserUsed": "Chrome",
+   "friendLocationIp": "189.190.152.141",
+   "friendEmails": [
+    "Francisco8796093024039@gmail.com",
+    "Francisco8796093024039@gmx.com",
+    "Francisco8796093024039@yahoo.com"
+   ],
+   "friendLanguages": [
+    "es",
+    "en"
+   ],
+   "friendCityName": "Hermosillo",
+   "friendUniversities": [
+    [
+     "Escuela_Normal_Miguel_F._Mart\u00ednez",
+     2008,
+     "Monterrey"
+    ]
+   ],
+   "friendCompanies": [
+    [
+     "Aeromexpress",
+     2010,
+     "Mexico"
+    ]
+   ]
+  },
+  {
+   "friendId": 2199023259099,
+   "friendLastName": "Alvarez",
+   "distanceFromPerson": 3,
+   "friendBirthday": 451958400000,
+   "friendCreationDate": 1267741151814,
+   "friendGender": "male",
+   "friendBrowserUsed": "Firefox",
+   "friendLocationIp": "187.161.66.16",
+   "friendEmails": [
+    "Francisco2199023259099@gmail.com"
+   ],
+   "friendLanguages": [
+    "es",
+    "en"
+   ],
+   "friendCityName": "Culiac\u00e1n",
+   "friendUniversities": [
+    [
+     "Centro_de_Investigaci\u00f3n_y_Desarrollo_Tecnol\u00f3gico_en_Electroqu\u00edmica",
+     2004,
+     "Quer\u00e9taro"
+    ]
+   ],
+   "friendCompanies": [
+    [
+     "Air_S\u00e9n\u00e9gal_International",
+     2005,
+     "Senegal"
+    ],
+    [
+     "ALMA_de_M\u00e9xico",
+     2005,
+     "Mexico"
+    ],
+    [
+     "MexicanaLink",
+     2004,
+     "Mexico"
+    ],
+    [
+     "Global_Air_(Mexico)",
+     2005,
+     "Mexico"
+    ]
+   ]
+  },
+  {
+   "friendId": 26388279068895,
+   "friendLastName": "Alvarez",
+   "distanceFromPerson": 3,
+   "friendBirthday": 393120000000,
+   "friendCreationDate": 1329606499633,
+   "friendGender": "male",
+   "friendBrowserUsed": "Firefox",
+   "friendLocationIp": "200.14.53.182",
+   "friendEmails": [
+    "Francisco26388279068895@gmail.com",
+    "Francisco26388279068895@gmx.com"
+   ],
+   "friendLanguages": [
+    "es",
+    "en"
+   ],
+   "friendCityName": "Santiago_de_Cuba",
+   "friendUniversities": [
+    [
+     "ITM_Jose_Marti",
+     2004,
+     "Marianao"
+    ]
+   ],
+   "friendCompanies": [
+    [
+     "Aerogaviota",
+     2004,
+     "Cuba"
+    ],
+    [
+     "Cubana_de_Aviaci\u00f3n",
+     2004,
+     "Cuba"
+    ]
+   ]
+  },
+  {
+   "friendId": 30786325579720,
+   "friendLastName": "Alvarez",
+   "distanceFromPerson": 3,
+   "friendBirthday": 405561600000,
+   "friendCreationDate": 1341468923348,
+   "friendGender": "male",
+   "friendBrowserUsed": "Firefox",
+   "friendLocationIp": "189.208.130.91",
+   "friendEmails": [
+    "Francisco30786325579720@gmail.com",
+    "Francisco30786325579720@gmx.com"
+   ],
+   "friendLanguages": [
+    "es",
+    "en"
+   ],
+   "friendCityName": "San_Pedro_Garza_Garc\u00eda",
+   "friendUniversities": [
+    [
+     "Chihuahua_Institute_of_Technology",
+     2001,
+     "Chihuahua"
+    ]
+   ],
+   "friendCompanies": [
+    [
+     "Aero_California",
+     2002,
+     "Mexico"
+    ],
+    [
+     "Regional_Cargo",
+     2002,
+     "Mexico"
+    ]
+   ]
+  },
+  {
+   "friendId": 13194139535995,
+   "friendLastName": "Bravo",
+   "distanceFromPerson": 3,
+   "friendBirthday": 573868800000,
+   "friendCreationDate": 1297655087243,
+   "friendGender": "male",
+   "friendBrowserUsed": "Chrome",
+   "friendLocationIp": "148.245.109.234",
+   "friendEmails": [
+    "Francisco13194139535995@gmail.com",
+    "Francisco13194139535995@gmx.com"
+   ],
+   "friendLanguages": [
+    "es",
+    "en"
+   ],
+   "friendCityName": "Hermosillo",
+   "friendUniversities": [
+    [
+     "Technological_Institute_of_Mexicali",
+     2008,
+     "Mexicali"
+    ]
+   ],
+   "friendCompanies": [
+    [
+     "Aviacsa",
+     2009,
+     "Mexico"
+    ]
+   ]
+  },
+  {
+   "friendId": 6597069768080,
+   "friendLastName": "Garcia",
+   "distanceFromPerson": 3,
+   "friendBirthday": 433382400000,
+   "friendCreationDate": 1278531330955,
+   "friendGender": "male",
+   "friendBrowserUsed": "Firefox",
+   "friendLocationIp": "200.0.136.201",
+   "friendEmails": [
+    "Francisco6597069768080@gmail.com",
+    "Francisco6597069768080@hotmail.com",
+    "Francisco6597069768080@yahoo.com"
+   ],
+   "friendLanguages": [
+    "es",
+    "qu",
+    "en"
+   ],
+   "friendCityName": "Callao",
+   "friendUniversities": [],
+   "friendCompanies": [
+    [
+     "TANS_Per\u00fa",
+     2008,
+     "Peru"
+    ],
+    [
+     "LAN_Per\u00fa",
+     2011,
+     "Peru"
+    ],
+    [
+     "Nuevo_Continente",
+     2009,
+     "Peru"
+    ],
+    [
+     "Aeroper\u00fa",
+     2003,
+     "Peru"
+    ],
+    [
+     "Wayraper\u00fa",
+     2012,
+     "Peru"
+    ]
+   ]
+  },
+  {
+   "friendId": 26388279070362,
+   "friendLastName": "Gonzalez",
+   "distanceFromPerson": 3,
+   "friendBirthday": 602035200000,
+   "friendCreationDate": 1327968719767,
+   "friendGender": "female",
+   "friendBrowserUsed": "Firefox",
+   "friendLocationIp": "190.95.46.164",
+   "friendEmails": [
+    "Francisco26388279070362@zarqa.cc"
+   ],
+   "friendLanguages": [
+    "es",
+    "en"
+   ],
+   "friendCityName": "Puerto_Montt",
+   "friendUniversities": [
+    [
+     "University_of_Informatics_Sciences",
+     2009,
+     "Santiago"
+    ]
+   ],
+   "friendCompanies": [
+    [
+     "Air_Comet_Chile",
+     2010,
+     "Chile"
+    ]
+   ]
+  },
+  {
+   "friendId": 8796093024014,
+   "friendLastName": "Mendez",
+   "distanceFromPerson": 3,
+   "friendBirthday": 370915200000,
+   "friendCreationDate": 1287709993687,
+   "friendGender": "male",
+   "friendBrowserUsed": "Internet Explorer",
+   "friendLocationIp": "132.248.156.95",
+   "friendEmails": [
+    "Francisco8796093024014@gmail.com",
+    "Francisco8796093024014@yahoo.com"
+   ],
+   "friendLanguages": [
+    "es",
+    "en"
+   ],
+   "friendCityName": "Nuevo_Laredo",
+   "friendUniversities": [
+    [
+     "Autonomous_University_of_Campeche",
+     2003,
+     "Campeche"
+    ]
+   ],
+   "friendCompanies": [
+    [
+     "Aeromar",
+     2003,
+     "Mexico"
+    ],
+    [
+     "Aero_Cuahonte",
+     2005,
+     "Mexico"
+    ]
+   ]
+  },
+  {
+   "friendId": 19791209302057,
+   "friendLastName": "Mendez",
+   "distanceFromPerson": 3,
+   "friendBirthday": 513820800000,
+   "friendCreationDate": 1314435352554,
+   "friendGender": "male",
+   "friendBrowserUsed": "Internet Explorer",
+   "friendLocationIp": "158.97.192.203",
+   "friendEmails": [
+    "Francisco19791209302057@gmail.com"
+   ],
+   "friendLanguages": [
+    "es",
+    "en"
+   ],
+   "friendCityName": "Villahermosa",
+   "friendUniversities": [
+    [
+     "Instituto_Tecnol\u00f3gico_de_Puebla",
+     2007,
+     "Puebla"
+    ]
+   ],
+   "friendCompanies": [
+    [
+     "Jetclub",
+     2009,
+     "Mexico"
+    ]
+   ]
+  },
+  {
+   "friendId": 26388279068490,
+   "friendLastName": "Parra",
+   "distanceFromPerson": 3,
+   "friendBirthday": 530064000000,
+   "friendCreationDate": 1326919356768,
+   "friendGender": "female",
+   "friendBrowserUsed": "Internet Explorer",
+   "friendLocationIp": "190.96.91.18",
+   "friendEmails": [
+    "Francisco26388279068490@gmx.com",
+    "Francisco26388279068490@hotmail.com",
+    "Francisco26388279068490@yahoo.com"
+   ],
+   "friendLanguages": [
+    "es",
+    "en"
+   ],
+   "friendCityName": "Vi\u00f1a_del_Mar",
+   "friendUniversities": [],
+   "friendCompanies": [
+    [
+     "Alpine_Air_Express_Chile",
+     2009,
+     "Chile"
+    ],
+    [
+     "LAN_Express",
+     2008,
+     "Chile"
+    ],
+    [
+     "Aerocardal",
+     2008,
+     "Chile"
+    ]
+   ]
+  },
+  {
+   "friendId": 35184372088899,
+   "friendLastName": "Reyes",
+   "distanceFromPerson": 3,
+   "friendBirthday": 498700800000,
+   "friendCreationDate": 1347337602403,
+   "friendGender": "female",
+   "friendBrowserUsed": "Firefox",
+   "friendLocationIp": "123.242.207.8",
+   "friendEmails": [
+    "Francisco35184372088899@gmail.com",
+    "Francisco35184372088899@gmx.com",
+    "Francisco35184372088899@yahoo.com"
+   ],
+   "friendLanguages": [
+    "en"
+   ],
+   "friendCityName": "Cebu_City",
+   "friendUniversities": [
+    [
+     "Josefina_H._Cerilles_Polytechnic_College",
+     2003,
+     "San_Miguel"
+    ]
+   ],
+   "friendCompanies": []
+  },
+  {
+   "friendId": 24189255812295,
+   "friendLastName": "Sanchez",
+   "distanceFromPerson": 3,
+   "friendBirthday": 392947200000,
+   "friendCreationDate": 1324106151979,
+   "friendGender": "female",
+   "friendBrowserUsed": "Safari",
+   "friendLocationIp": "31.25.211.55",
+   "friendEmails": [
+    "Francisco24189255812295@gmail.com",
+    "Francisco24189255812295@gmx.com",
+    "Francisco24189255812295@hotmail.com"
+   ],
+   "friendLanguages": [
+    "es",
+    "en"
+   ],
+   "friendCityName": "San_Sebasti\u00e1n",
+   "friendUniversities": [
+    [
+     "University_of_the_Basque_Country",
+     2002,
+     "San_Sebasti\u00e1n"
+    ]
+   ],
+   "friendCompanies": [
+    [
+     "Navegacion_y_Servicios_A\u00e9reos_Canarios_(NAYSA)",
+     2004,
+     "Spain"
+    ],
+    [
+     "Flylink_Express",
+     2003,
+     "Spain"
+    ],
+    [
+     "Air_Madrid",
+     2003,
+     "Spain"
+    ]
+   ]
+  },
+  {
+   "friendId": 19791209302453,
+   "friendLastName": "Sumac",
+   "distanceFromPerson": 3,
+   "friendBirthday": 350611200000,
+   "friendCreationDate": 1311318314091,
+   "friendGender": "male",
+   "friendBrowserUsed": "Internet Explorer",
+   "friendLocationIp": "200.10.250.196",
+   "friendEmails": [
+    "Francisco19791209302453@gmail.com",
+    "Francisco19791209302453@gmx.com"
+   ],
+   "friendLanguages": [
+    "ay",
+    "qu",
+    "en"
+   ],
+   "friendCityName": "Chosica,Lima",
+   "friendUniversities": [],
+   "friendCompanies": [
+    [
+     "Aeroper\u00fa",
+     2011,
+     "Peru"
+    ],
+    [
+     "Air_Per\u00fa",
+     2001,
+     "Peru"
+    ]
+   ]
+  }
+ ]
+}

@@ -1,0 +1,106 @@
+{
+ "query_sha": "c060b3ffba4ba4fe",
+ "params": {
+  "messageId": 893353228816
+ },
+ "data": {
+  "schema_sha256": "b8e206f17e60692c830ba0c3c675fbc481a22f26011282ce523890eb09be8a74",
+  "schema_path": "arangodb/schema/ldbc_schema.json",
+  "sf": "0.1",
+  "created": "2026-11-21T03:27:46Z",
+  "git_sha": "92777160"
+ },
+ "fetched_at": "2026-11-21T01:08:55",
+ "raw": [
+  {
+   "commentId": 893353228830,
+   "commentContent": "About Leonardo da Vinci, gelo. LeonardAbout Enrique Iglesias, o Latin arti",
+   "commentCreationDate": 1335727712490,
+   "replyAuthorId": 19791209301592,
+   "replyAuthorFirstName": "Michal",
+   "replyAuthorLastName": "Kaminski",
+   "replyAuthorKnowsOriginalMessageAuthor": true
+  },
+  {
+   "commentId": 893353228829,
+   "commentContent": "yes",
+   "commentCreationDate": 1335702517464,
+   "replyAuthorId": 28587302322946,
+   "replyAuthorFirstName": "Shweta",
+   "replyAuthorLastName": "Sharma",
+   "replyAuthorKnowsOriginalMessageAuthor": true
+  },
+  {
+   "commentId": 893353228817,
+   "commentContent": "right",
+   "commentCreationDate": 1335680823960,
+   "replyAuthorId": 13194139533500,
+   "replyAuthorFirstName": "Otto",
+   "replyAuthorLastName": "Becker",
+   "replyAuthorKnowsOriginalMessageAuthor": true
+  },
+  {
+   "commentId": 893353228822,
+   "commentContent": "About Enrique Iglesias, rd Hot 100 topAbout Red Red Wine, gles charts. DAbout Bea",
+   "commentCreationDate": 1335662491685,
+   "replyAuthorId": 13194139533770,
+   "replyAuthorFirstName": "Carlos",
+   "replyAuthorLastName": "Santos",
+   "replyAuthorKnowsOriginalMessageAuthor": true
+  },
+  {
+   "commentId": 893353228818,
+   "commentContent": "About Ren\u00e9 Descartes,  Western philoAbout Pyotr Ilyich Tchaikovsky, . Although m",
+   "commentCreationDate": 1335659971111,
+   "replyAuthorId": 19791209301023,
+   "replyAuthorFirstName": "Anson",
+   "replyAuthorLastName": "Wang",
+   "replyAuthorKnowsOriginalMessageAuthor": true
+  },
+  {
+   "commentId": 893353228823,
+   "commentContent": "About Mikhail Gorbachev, in 1985. Before About Enrique Iglesias, nal actor, p",
+   "commentCreationDate": 1335659904549,
+   "replyAuthorId": 15393162790300,
+   "replyAuthorFirstName": "Rahim",
+   "replyAuthorLastName": "Zaland",
+   "replyAuthorKnowsOriginalMessageAuthor": true
+  },
+  {
+   "commentId": 893353228828,
+   "commentContent": "roflol",
+   "commentCreationDate": 1335656502932,
+   "replyAuthorId": 19791209300153,
+   "replyAuthorFirstName": "Carlos",
+   "replyAuthorLastName": "Abascal",
+   "replyAuthorKnowsOriginalMessageAuthor": true
+  },
+  {
+   "commentId": 893353228824,
+   "commentContent": "About Louis XVI of France, mericans, who were seekiAbout Maurice Ravel, f any other French compoAbout D. H. Lawrence, ed reflection upon the ",
+   "commentCreationDate": 1335644259170,
+   "replyAuthorId": 26388279067479,
+   "replyAuthorFirstName": "Kenji",
+   "replyAuthorLastName": "Abe",
+   "replyAuthorKnowsOriginalMessageAuthor": true
+  },
+  {
+   "commentId": 893353228826,
+   "commentContent": "ok",
+   "commentCreationDate": 1335644090814,
+   "replyAuthorId": 6597069767242,
+   "replyAuthorFirstName": "Salim Ahmed",
+   "replyAuthorLastName": "Binalshibh",
+   "replyAuthorKnowsOriginalMessageAuthor": true
+  },
+  {
+   "commentId": 893353228821,
+   "commentContent": "I see",
+   "commentCreationDate": 1335643750291,
+   "replyAuthorId": 28587302323035,
+   "replyAuthorFirstName": "Aditya",
+   "replyAuthorLastName": "Khan",
+   "replyAuthorKnowsOriginalMessageAuthor": true
+  }
+ ]
+}

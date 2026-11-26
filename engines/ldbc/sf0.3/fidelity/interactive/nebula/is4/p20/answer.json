@@ -1,0 +1,30 @@
+{
+ "query_sha": "90d81e5ff49d1a92",
+ "params": {
+  "messageId": "msg_110137"
+ },
+ "data": {
+  "schema_sha256": "673074740eea54e4ba1fdc94eebf2087531b3007af7da660afffb3d1e8df0d1e",
+  "schema_path": "nebulagraph/schema/schema.gql",
+  "sf": "0.3",
+  "created": "2026-11-21T03:42:54Z",
+  "git_sha": "1d6662c2"
+ },
+ "fetched_at": "2026-11-21T00:02:43",
+ "raw": {
+  "keys": [
+   "messageCreationDate",
+   "messageContent",
+   "messageId",
+   "messageType"
+  ],
+  "rows": [
+   {
+    "messageCreationDate": 1267426042753,
+    "messageContent": "cool",
+    "messageId": "msg_110137",
+    "messageType": "comment"
+   }
+  ]
+ }
+}

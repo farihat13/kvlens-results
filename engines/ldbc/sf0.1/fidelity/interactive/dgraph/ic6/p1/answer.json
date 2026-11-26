@@ -1,0 +1,141 @@
+{
+ "query_sha": "726c2fd8c124bda0",
+ "params": {
+  "personId": "30786325579101",
+  "tagName": "Shakira"
+ },
+ "data": {
+  "schema_sha256": "03713a1e1c7b722e73bed6b150e079e69e9579c2a58c52e06f9d4384fdd4b80d",
+  "schema_path": "dgraph/schema/ldbcTypes.schema",
+  "sf": "0.1",
+  "created": "2026-11-21T03:25:44Z",
+  "git_sha": "92777160"
+ },
+ "fetched_at": "2026-11-21T01:05:19",
+ "raw": {
+  "_l1": [],
+  "_l2": [],
+  "tags": [
+   {
+    "tagName": "David_Foster",
+    "postCount": 4
+   },
+   {
+    "tagName": "Robert_John_Mutt_Lange",
+    "postCount": 2
+   },
+   {
+    "tagName": "Muammar_Gaddafi",
+    "postCount": 2
+   },
+   {
+    "tagName": "Bangladesh",
+    "postCount": 1
+   },
+   {
+    "tagName": "Laurence_Olivier",
+    "postCount": 1
+   },
+   {
+    "tagName": "Hugo_Ch\u00e1vez",
+    "postCount": 1
+   },
+   {
+    "tagName": "Jump_Around",
+    "postCount": 1
+   },
+   {
+    "tagName": "Pope_Leo_XIII",
+    "postCount": 1
+   },
+   {
+    "tagName": "Wayne_Gretzky",
+    "postCount": 1
+   },
+   {
+    "tagName": "Rupert_Murdoch",
+    "postCount": 1
+   },
+   {
+    "tagName": "Pope_John_Paul_II",
+    "postCount": 1
+   },
+   {
+    "tagName": "Alfred_the_Great",
+    "postCount": 1
+   },
+   {
+    "tagName": "Diana,_Princess_of_Wales",
+    "postCount": 1
+   },
+   {
+    "tagName": "Benito_Mussolini",
+    "postCount": 1
+   },
+   {
+    "tagName": "The_Saints_Are_Coming",
+    "postCount": 1
+   },
+   {
+    "tagName": "Vichy_France",
+    "postCount": 1
+   },
+   {
+    "tagName": "Hung_Up",
+    "postCount": 1
+   },
+   {
+    "tagName": "Got_the_Life",
+    "postCount": 1
+   },
+   {
+    "tagName": "Roy_Orbison",
+    "postCount": 1
+   },
+   {
+    "tagName": "Andre_Agassi",
+    "postCount": 1
+   },
+   {
+    "tagName": "Clark_Gable",
+    "postCount": 1
+   },
+   {
+    "tagName": "Estonia",
+    "postCount": 1
+   },
+   {
+    "tagName": "Da_Real_World",
+    "postCount": 1
+   },
+   {
+    "tagName": "Dolly_Parton",
+    "postCount": 1
+   },
+   {
+    "tagName": "Ivan_Ljubi\u010di\u0107",
+    "postCount": 1
+   },
+   {
+    "tagName": "Andy_Roddick",
+    "postCount": 1
+   },
+   {
+    "tagName": "Rainer_Sch\u00fcttler",
+    "postCount": 1
+   },
+   {
+    "tagName": "Mariano_Rivera",
+    "postCount": 1
+   },
+   {
+    "tagName": "Condoleezza_Rice",
+    "postCount": 1
+   },
+   {
+    "tagName": "Unknown_Pleasures",
+    "postCount": 1
+   }
+  ]
+ }
+}

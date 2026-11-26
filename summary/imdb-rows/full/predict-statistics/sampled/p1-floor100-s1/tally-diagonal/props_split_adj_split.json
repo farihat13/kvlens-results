@@ -1,0 +1,1385 @@
+{
+ "format": "meta",
+ "tally_version": 2,
+ "spec": {
+  "adjacency": {
+   "group": "item",
+   "owners": "one",
+   "split": "never"
+  },
+  "direction": "declared",
+  "index": {
+   "group": "item",
+   "owners": "one",
+   "scope": "type",
+   "split": "never",
+   "term": "exact"
+  },
+  "version": 1,
+  "vertex_props": {
+   "group": "item",
+   "owners": "one",
+   "split": "never"
+  }
+ },
+ "records": {
+  "path": "imdb-rows/full/records.jsonl",
+  "key_sha256": "5d887e02919c79d5d64ec23a774bb33e0b6effe349a63fa8b4caa4c90ad6b6fe",
+  "content_sha256": "3941dffbdf5696d22466d450f31be72eafb44c6569184572d4a920b60ae40555",
+  "sources_sha256": "4ad6a8221a357cd824816aff42bb59669116220c476ef7bc53f736563c23f3b7",
+  "schema_sha256": "0961d6a8d90ab4173b1fd3e643caf8a3345a7360b21df147883ec07812db429b",
+  "lines": 95592355
+ },
+ "groups": [
+  {
+   "part": "adjacency",
+   "type": "aka_name_of",
+   "direction": "in",
+   "owner": "Name",
+   "detail": "",
+   "keys": 914800,
+   "key_bytes": 17381200,
+   "value_bytes": 0,
+   "payload_bytes": 0,
+   "framing_bytes": 17381200,
+   "empty_values": 0
+  },
+  {
+   "part": "adjacency",
+   "type": "aka_name_of",
+   "direction": "out",
+   "owner": "AkaName",
+   "detail": "",
+   "keys": 885700,
+   "key_bytes": 16828300,
+   "value_bytes": 0,
+   "payload_bytes": 0,
+   "framing_bytes": 16828300,
+   "empty_values": 0
+  },
+  {
+   "part": "adjacency",
+   "type": "aka_title_of",
+   "direction": "in",
+   "owner": "Title",
+   "detail": "",
+   "keys": 357300,
+   "key_bytes": 6788700,
+   "value_bytes": 0,
+   "payload_bytes": 0,
+   "framing_bytes": 6788700,
+   "empty_values": 0
+  },
+  {
+   "part": "adjacency",
+   "type": "aka_title_of",
+   "direction": "out",
+   "owner": "AkaTitle",
+   "detail": "",
+   "keys": 372000,
+   "key_bytes": 7068000,
+   "value_bytes": 0,
+   "payload_bytes": 0,
+   "framing_bytes": 7068000,
+   "empty_values": 0
+  },
+  {
+   "part": "adjacency",
+   "type": "cast_actor",
+   "direction": "in",
+   "owner": "Title",
+   "detail": "",
+   "keys": 12204400,
+   "key_bytes": 231883600,
+   "value_bytes": 181664700,
+   "payload_bytes": 161731900,
+   "framing_bytes": 251816400,
+   "empty_values": 0
+  },
+  {
+   "part": "adjacency",
+   "type": "cast_actor",
+   "direction": "out",
+   "owner": "Name",
+   "detail": "",
+   "keys": 12183400,
+   "key_bytes": 231484600,
+   "value_bytes": 182344600,
+   "payload_bytes": 162523200,
+   "framing_bytes": 251306000,
+   "empty_values": 0
+  },
+  {
+   "part": "adjacency",
+   "type": "cast_actress",
+   "direction": "in",
+   "owner": "Title",
+   "detail": "",
+   "keys": 7192100,
+   "key_bytes": 136649900,
+   "value_bytes": 104328600,
+   "payload_bytes": 93268500,
+   "framing_bytes": 147710000,
+   "empty_values": 0
+  },
+  {
+   "part": "adjacency",
+   "type": "cast_actress",
+   "direction": "out",
+   "owner": "Name",
+   "detail": "",
+   "keys": 7826600,
+   "key_bytes": 148705400,
+   "value_bytes": 114141900,
+   "payload_bytes": 101718500,
+   "framing_bytes": 161128800,
+   "empty_values": 0
+  },
+  {
+   "part": "adjacency",
+   "type": "cast_cinematographer",
+   "direction": "in",
+   "owner": "Title",
+   "detail": "",
+   "keys": 901300,
+   "key_bytes": 17124700,
+   "value_bytes": 6674600,
+   "payload_bytes": 4958100,
+   "framing_bytes": 18841200,
+   "empty_values": 0
+  },
+  {
+   "part": "adjacency",
+   "type": "cast_cinematographer",
+   "direction": "out",
+   "owner": "Name",
+   "detail": "",
+   "keys": 865800,
+   "key_bytes": 16450200,
+   "value_bytes": 5927000,
+   "payload_bytes": 4326800,
+   "framing_bytes": 18050400,
+   "empty_values": 0
+  },
+  {
+   "part": "adjacency",
+   "type": "cast_composer",
+   "direction": "in",
+   "owner": "Title",
+   "detail": "",
+   "keys": 749600,
+   "key_bytes": 14242400,
+   "value_bytes": 2871000,
+   "payload_bytes": 1726200,
+   "framing_bytes": 15387200,
+   "empty_values": 0
+  },
+  {
+   "part": "adjacency",
+   "type": "cast_composer",
+   "direction": "out",
+   "owner": "Name",
+   "detail": "",
+   "keys": 728800,
+   "key_bytes": 13847200,
+   "value_bytes": 2282400,
+   "payload_bytes": 1256000,
+   "framing_bytes": 14873600,
+   "empty_values": 0
+  },
+  {
+   "part": "adjacency",
+   "type": "cast_costume_designer",
+   "direction": "in",
+   "owner": "Title",
+   "detail": "",
+   "keys": 263000,
+   "key_bytes": 4997000,
+   "value_bytes": 928100,
+   "payload_bytes": 551500,
+   "framing_bytes": 5373600,
+   "empty_values": 0
+  },
+  {
+   "part": "adjacency",
+   "type": "cast_costume_designer",
+   "direction": "out",
+   "owner": "Name",
+   "detail": "",
+   "keys": 321000,
+   "key_bytes": 6099000,
+   "value_bytes": 965000,
+   "payload_bytes": 527600,
+   "framing_bytes": 6536400,
+   "empty_values": 0
+  },
+  {
+   "part": "adjacency",
+   "type": "cast_director",
+   "direction": "in",
+   "owner": "Title",
+   "detail": "",
+   "keys": 1690700,
+   "key_bytes": 32123300,
+   "value_bytes": 5613900,
+   "payload_bytes": 3232400,
+   "framing_bytes": 34504800,
+   "empty_values": 0
+  },
+  {
+   "part": "adjacency",
+   "type": "cast_director",
+   "direction": "out",
+   "owner": "Name",
+   "detail": "",
+   "keys": 1741300,
+   "key_bytes": 33084700,
+   "value_bytes": 4520800,
+   "payload_bytes": 2263500,
+   "framing_bytes": 35342000,
+   "empty_values": 0
+  },
+  {
+   "part": "adjacency",
+   "type": "cast_editor",
+   "direction": "in",
+   "owner": "Title",
+   "detail": "",
+   "keys": 1098600,
+   "key_bytes": 20873400,
+   "value_bytes": 3506300,
+   "payload_bytes": 1952900,
+   "framing_bytes": 22426800,
+   "empty_values": 0
+  },
+  {
+   "part": "adjacency",
+   "type": "cast_editor",
+   "direction": "out",
+   "owner": "Name",
+   "detail": "",
+   "keys": 1109700,
+   "key_bytes": 21084300,
+   "value_bytes": 3648400,
+   "payload_bytes": 2063500,
+   "framing_bytes": 22669200,
+   "empty_values": 0
+  },
+  {
+   "part": "adjacency",
+   "type": "cast_miscellaneous_crew",
+   "direction": "in",
+   "owner": "Title",
+   "detail": "",
+   "keys": 4302000,
+   "key_bytes": 81738000,
+   "value_bytes": 121498900,
+   "payload_bytes": 99988900,
+   "framing_bytes": 103248000,
+   "empty_values": 0
+  },
+  {
+   "part": "adjacency",
+   "type": "cast_miscellaneous_crew",
+   "direction": "out",
+   "owner": "Name",
+   "detail": "",
+   "keys": 4644300,
+   "key_bytes": 88241700,
+   "value_bytes": 130621100,
+   "payload_bytes": 107399600,
+   "framing_bytes": 111463200,
+   "empty_values": 0
+  },
+  {
+   "part": "adjacency",
+   "type": "cast_producer",
+   "direction": "in",
+   "owner": "Title",
+   "detail": "",
+   "keys": 3911900,
+   "key_bytes": 74326100,
+   "value_bytes": 87202900,
+   "payload_bytes": 67643400,
+   "framing_bytes": 93885600,
+   "empty_values": 0
+  },
+  {
+   "part": "adjacency",
+   "type": "cast_producer",
+   "direction": "out",
+   "owner": "Name",
+   "detail": "",
+   "keys": 3690700,
+   "key_bytes": 70123300,
+   "value_bytes": 80729000,
+   "payload_bytes": 62275500,
+   "framing_bytes": 88576800,
+   "empty_values": 0
+  },
+  {
+   "part": "adjacency",
+   "type": "cast_production_designer",
+   "direction": "in",
+   "owner": "Title",
+   "detail": "",
+   "keys": 305600,
+   "key_bytes": 5806400,
+   "value_bytes": 949300,
+   "payload_bytes": 531700,
+   "framing_bytes": 6224000,
+   "empty_values": 0
+  },
+  {
+   "part": "adjacency",
+   "type": "cast_production_designer",
+   "direction": "out",
+   "owner": "Name",
+   "detail": "",
+   "keys": 366300,
+   "key_bytes": 6959700,
+   "value_bytes": 1123800,
+   "payload_bytes": 645500,
+   "framing_bytes": 7438000,
+   "empty_values": 0
+  },
+  {
+   "part": "adjacency",
+   "type": "cast_writer",
+   "direction": "in",
+   "owner": "Title",
+   "detail": "",
+   "keys": 2553300,
+   "key_bytes": 48512700,
+   "value_bytes": 39207600,
+   "payload_bytes": 28569100,
+   "framing_bytes": 59151200,
+   "empty_values": 0
+  },
+  {
+   "part": "adjacency",
+   "type": "cast_writer",
+   "direction": "out",
+   "owner": "Name",
+   "detail": "",
+   "keys": 2855100,
+   "key_bytes": 54246900,
+   "value_bytes": 43450800,
+   "payload_bytes": 31400900,
+   "framing_bytes": 66296800,
+   "empty_values": 0
+  },
+  {
+   "part": "adjacency",
+   "type": "company_distributor",
+   "direction": "in",
+   "owner": "Company",
+   "detail": "",
+   "keys": 1107200,
+   "key_bytes": 21036800,
+   "value_bytes": 29918200,
+   "payload_bytes": 24830600,
+   "framing_bytes": 26124400,
+   "empty_values": 0
+  },
+  {
+   "part": "adjacency",
+   "type": "company_distributor",
+   "direction": "out",
+   "owner": "Title",
+   "detail": "",
+   "keys": 1217200,
+   "key_bytes": 23126800,
+   "value_bytes": 33030100,
+   "payload_bytes": 27250100,
+   "framing_bytes": 28906800,
+   "empty_values": 0
+  },
+  {
+   "part": "adjacency",
+   "type": "company_production",
+   "direction": "in",
+   "owner": "Company",
+   "detail": "",
+   "keys": 1543900,
+   "key_bytes": 29334100,
+   "value_bytes": 5257900,
+   "payload_bytes": 3076400,
+   "framing_bytes": 31515600,
+   "empty_values": 0
+  },
+  {
+   "part": "adjacency",
+   "type": "company_production",
+   "direction": "out",
+   "owner": "Title",
+   "detail": "",
+   "keys": 1314800,
+   "key_bytes": 24981200,
+   "value_bytes": 4526500,
+   "payload_bytes": 2675300,
+   "framing_bytes": 26832400,
+   "empty_values": 0
+  },
+  {
+   "part": "adjacency",
+   "type": "complete_cast_of",
+   "direction": "in",
+   "owner": "Title",
+   "detail": "",
+   "keys": 137100,
+   "key_bytes": 2604900,
+   "value_bytes": 0,
+   "payload_bytes": 0,
+   "framing_bytes": 2604900,
+   "empty_values": 0
+  },
+  {
+   "part": "adjacency",
+   "type": "complete_cast_of",
+   "direction": "out",
+   "owner": "CompleteCast",
+   "detail": "",
+   "keys": 126600,
+   "key_bytes": 2405400,
+   "value_bytes": 0,
+   "payload_bytes": 0,
+   "framing_bytes": 2405400,
+   "empty_values": 0
+  },
+  {
+   "part": "adjacency",
+   "type": "episode_of",
+   "direction": "in",
+   "owner": "Title",
+   "detail": "",
+   "keys": 1335500,
+   "key_bytes": 25374500,
+   "value_bytes": 0,
+   "payload_bytes": 0,
+   "framing_bytes": 25374500,
+   "empty_values": 0
+  },
+  {
+   "part": "adjacency",
+   "type": "episode_of",
+   "direction": "out",
+   "owner": "Title",
+   "detail": "",
+   "keys": 1546300,
+   "key_bytes": 29379700,
+   "value_bytes": 0,
+   "payload_bytes": 0,
+   "framing_bytes": 29379700,
+   "empty_values": 0
+  },
+  {
+   "part": "adjacency",
+   "type": "has_keyword",
+   "direction": "in",
+   "owner": "Keyword",
+   "detail": "",
+   "keys": 4834900,
+   "key_bytes": 91863100,
+   "value_bytes": 0,
+   "payload_bytes": 0,
+   "framing_bytes": 91863100,
+   "empty_values": 0
+  },
+  {
+   "part": "adjacency",
+   "type": "has_keyword",
+   "direction": "out",
+   "owner": "Title",
+   "detail": "",
+   "keys": 4335900,
+   "key_bytes": 82382100,
+   "value_bytes": 0,
+   "payload_bytes": 0,
+   "framing_bytes": 82382100,
+   "empty_values": 0
+  },
+  {
+   "part": "adjacency",
+   "type": "info_of",
+   "direction": "in",
+   "owner": "Title",
+   "detail": "",
+   "keys": 14942400,
+   "key_bytes": 283905600,
+   "value_bytes": 0,
+   "payload_bytes": 0,
+   "framing_bytes": 283905600,
+   "empty_values": 0
+  },
+  {
+   "part": "adjacency",
+   "type": "info_of",
+   "direction": "out",
+   "owner": "MovieInfo",
+   "detail": "",
+   "keys": 14792300,
+   "key_bytes": 281053700,
+   "value_bytes": 0,
+   "payload_bytes": 0,
+   "framing_bytes": 281053700,
+   "empty_values": 0
+  },
+  {
+   "part": "adjacency",
+   "type": "link_from",
+   "direction": "in",
+   "owner": "Title",
+   "detail": "",
+   "keys": 25600,
+   "key_bytes": 486400,
+   "value_bytes": 0,
+   "payload_bytes": 0,
+   "framing_bytes": 486400,
+   "empty_values": 0
+  },
+  {
+   "part": "adjacency",
+   "type": "link_from",
+   "direction": "out",
+   "owner": "MovieLink",
+   "detail": "",
+   "keys": 29100,
+   "key_bytes": 552900,
+   "value_bytes": 0,
+   "payload_bytes": 0,
+   "framing_bytes": 552900,
+   "empty_values": 0
+  },
+  {
+   "part": "adjacency",
+   "type": "link_to",
+   "direction": "in",
+   "owner": "Title",
+   "detail": "",
+   "keys": 31600,
+   "key_bytes": 600400,
+   "value_bytes": 0,
+   "payload_bytes": 0,
+   "framing_bytes": 600400,
+   "empty_values": 0
+  },
+  {
+   "part": "adjacency",
+   "type": "link_to",
+   "direction": "out",
+   "owner": "MovieLink",
+   "detail": "",
+   "keys": 29100,
+   "key_bytes": 552900,
+   "value_bytes": 0,
+   "payload_bytes": 0,
+   "framing_bytes": 552900,
+   "empty_values": 0
+  },
+  {
+   "part": "adjacency",
+   "type": "person_info_of",
+   "direction": "in",
+   "owner": "Name",
+   "detail": "",
+   "keys": 3023200,
+   "key_bytes": 57440800,
+   "value_bytes": 0,
+   "payload_bytes": 0,
+   "framing_bytes": 57440800,
+   "empty_values": 0
+  },
+  {
+   "part": "adjacency",
+   "type": "person_info_of",
+   "direction": "out",
+   "owner": "PersonInfo",
+   "detail": "",
+   "keys": 2930000,
+   "key_bytes": 55670000,
+   "value_bytes": 0,
+   "payload_bytes": 0,
+   "framing_bytes": 55670000,
+   "empty_values": 0
+  },
+  {
+   "part": "adjacency",
+   "type": "rating_of",
+   "direction": "in",
+   "owner": "Title",
+   "detail": "",
+   "keys": 1348800,
+   "key_bytes": 25627200,
+   "value_bytes": 0,
+   "payload_bytes": 0,
+   "framing_bytes": 25627200,
+   "empty_values": 0
+  },
+  {
+   "part": "adjacency",
+   "type": "rating_of",
+   "direction": "out",
+   "owner": "MovieRating",
+   "detail": "",
+   "keys": 1372300,
+   "key_bytes": 26073700,
+   "value_bytes": 0,
+   "payload_bytes": 0,
+   "framing_bytes": 26073700,
+   "empty_values": 0
+  },
+  {
+   "part": "index",
+   "type": "AkaName",
+   "direction": "",
+   "owner": "",
+   "detail": "",
+   "keys": 885700,
+   "key_bytes": 11514100,
+   "value_bytes": 0,
+   "payload_bytes": 0,
+   "framing_bytes": 11514100,
+   "empty_values": 0
+  },
+  {
+   "part": "index",
+   "type": "AkaTitle",
+   "direction": "",
+   "owner": "",
+   "detail": "",
+   "keys": 372100,
+   "key_bytes": 4837300,
+   "value_bytes": 0,
+   "payload_bytes": 0,
+   "framing_bytes": 4837300,
+   "empty_values": 0
+  },
+  {
+   "part": "index",
+   "type": "Character",
+   "direction": "",
+   "owner": "",
+   "detail": "name",
+   "keys": 3163200,
+   "key_bytes": 93094500,
+   "value_bytes": 0,
+   "payload_bytes": 0,
+   "framing_bytes": 93094500,
+   "empty_values": 0
+  },
+  {
+   "part": "index",
+   "type": "CompCastType",
+   "direction": "",
+   "owner": "",
+   "detail": "",
+   "keys": 4,
+   "key_bytes": 52,
+   "value_bytes": 0,
+   "payload_bytes": 0,
+   "framing_bytes": 52,
+   "empty_values": 0
+  },
+  {
+   "part": "index",
+   "type": "Company",
+   "direction": "",
+   "owner": "",
+   "detail": "country_code",
+   "keys": 211500,
+   "key_bytes": 3808000,
+   "value_bytes": 0,
+   "payload_bytes": 0,
+   "framing_bytes": 3808000,
+   "empty_values": 0
+  },
+  {
+   "part": "index",
+   "type": "Company",
+   "direction": "",
+   "owner": "",
+   "detail": "name",
+   "keys": 234600,
+   "key_bytes": 7614100,
+   "value_bytes": 0,
+   "payload_bytes": 0,
+   "framing_bytes": 7614100,
+   "empty_values": 0
+  },
+  {
+   "part": "index",
+   "type": "CompleteCast",
+   "direction": "",
+   "owner": "",
+   "detail": "status_id",
+   "keys": 126600,
+   "key_bytes": 2658600,
+   "value_bytes": 0,
+   "payload_bytes": 0,
+   "framing_bytes": 2658600,
+   "empty_values": 0
+  },
+  {
+   "part": "index",
+   "type": "CompleteCast",
+   "direction": "",
+   "owner": "",
+   "detail": "subject_id",
+   "keys": 126600,
+   "key_bytes": 2658600,
+   "value_bytes": 0,
+   "payload_bytes": 0,
+   "framing_bytes": 2658600,
+   "empty_values": 0
+  },
+  {
+   "part": "index",
+   "type": "InfoType",
+   "direction": "",
+   "owner": "",
+   "detail": "",
+   "keys": 114,
+   "key_bytes": 1484,
+   "value_bytes": 0,
+   "payload_bytes": 0,
+   "framing_bytes": 1484,
+   "empty_values": 0
+  },
+  {
+   "part": "index",
+   "type": "Keyword",
+   "direction": "",
+   "owner": "",
+   "detail": "keyword",
+   "keys": 135300,
+   "key_bytes": 3935000,
+   "value_bytes": 0,
+   "payload_bytes": 0,
+   "framing_bytes": 3935000,
+   "empty_values": 0
+  },
+  {
+   "part": "index",
+   "type": "KindType",
+   "direction": "",
+   "owner": "",
+   "detail": "",
+   "keys": 7,
+   "key_bytes": 91,
+   "value_bytes": 0,
+   "payload_bytes": 0,
+   "framing_bytes": 91,
+   "empty_values": 0
+  },
+  {
+   "part": "index",
+   "type": "LinkType",
+   "direction": "",
+   "owner": "",
+   "detail": "",
+   "keys": 18,
+   "key_bytes": 234,
+   "value_bytes": 0,
+   "payload_bytes": 0,
+   "framing_bytes": 234,
+   "empty_values": 0
+  },
+  {
+   "part": "index",
+   "type": "MovieInfo",
+   "direction": "",
+   "owner": "",
+   "detail": "info",
+   "keys": 14792300,
+   "key_bytes": 849045900,
+   "value_bytes": 0,
+   "payload_bytes": 0,
+   "framing_bytes": 849045900,
+   "empty_values": 0
+  },
+  {
+   "part": "index",
+   "type": "MovieInfo",
+   "direction": "",
+   "owner": "",
+   "detail": "info_type_id",
+   "keys": 14792300,
+   "key_bytes": 310638300,
+   "value_bytes": 0,
+   "payload_bytes": 0,
+   "framing_bytes": 310638300,
+   "empty_values": 0
+  },
+  {
+   "part": "index",
+   "type": "MovieLink",
+   "direction": "",
+   "owner": "",
+   "detail": "link_type_id",
+   "keys": 29100,
+   "key_bytes": 611100,
+   "value_bytes": 0,
+   "payload_bytes": 0,
+   "framing_bytes": 611100,
+   "empty_values": 0
+  },
+  {
+   "part": "index",
+   "type": "MovieRating",
+   "direction": "",
+   "owner": "",
+   "detail": "info_type_id",
+   "keys": 1372300,
+   "key_bytes": 28818300,
+   "value_bytes": 0,
+   "payload_bytes": 0,
+   "framing_bytes": 28818300,
+   "empty_values": 0
+  },
+  {
+   "part": "index",
+   "type": "Name",
+   "direction": "",
+   "owner": "",
+   "detail": "",
+   "keys": 4191800,
+   "key_bytes": 54493400,
+   "value_bytes": 0,
+   "payload_bytes": 0,
+   "framing_bytes": 54493400,
+   "empty_values": 0
+  },
+  {
+   "part": "index",
+   "type": "Name",
+   "direction": "",
+   "owner": "",
+   "detail": "gender",
+   "keys": 2723100,
+   "key_bytes": 40846500,
+   "value_bytes": 0,
+   "payload_bytes": 0,
+   "framing_bytes": 40846500,
+   "empty_values": 0
+  },
+  {
+   "part": "index",
+   "type": "PersonInfo",
+   "direction": "",
+   "owner": "",
+   "detail": "info_type_id",
+   "keys": 2930000,
+   "key_bytes": 61530000,
+   "value_bytes": 0,
+   "payload_bytes": 0,
+   "framing_bytes": 61530000,
+   "empty_values": 0
+  },
+  {
+   "part": "index",
+   "type": "PersonInfo",
+   "direction": "",
+   "owner": "",
+   "detail": "note",
+   "keys": 84600,
+   "key_bytes": 2396900,
+   "value_bytes": 0,
+   "payload_bytes": 0,
+   "framing_bytes": 2396900,
+   "empty_values": 0
+  },
+  {
+   "part": "index",
+   "type": "Title",
+   "direction": "",
+   "owner": "",
+   "detail": "kind_id",
+   "keys": 2524800,
+   "key_bytes": 53020800,
+   "value_bytes": 0,
+   "payload_bytes": 0,
+   "framing_bytes": 53020800,
+   "empty_values": 0
+  },
+  {
+   "part": "index",
+   "type": "Title",
+   "direction": "",
+   "owner": "",
+   "detail": "production_year",
+   "keys": 2451400,
+   "key_bytes": 51479400,
+   "value_bytes": 0,
+   "payload_bytes": 0,
+   "framing_bytes": 51479400,
+   "empty_values": 0
+  },
+  {
+   "part": "index",
+   "type": "Title",
+   "direction": "",
+   "owner": "",
+   "detail": "title",
+   "keys": 2524800,
+   "key_bytes": 76834100,
+   "value_bytes": 0,
+   "payload_bytes": 0,
+   "framing_bytes": 76834100,
+   "empty_values": 0
+  },
+  {
+   "part": "vertex_props",
+   "type": "AkaName",
+   "direction": "",
+   "owner": "",
+   "detail": "",
+   "keys": 4043500,
+   "key_bytes": 44478500,
+   "value_bytes": 52025500,
+   "payload_bytes": 52025500,
+   "framing_bytes": 44478500,
+   "empty_values": 0
+  },
+  {
+   "part": "vertex_props",
+   "type": "AkaTitle",
+   "direction": "",
+   "owner": "",
+   "detail": "",
+   "keys": 2205700,
+   "key_bytes": 24262700,
+   "value_bytes": 35014300,
+   "payload_bytes": 35014300,
+   "framing_bytes": 24262700,
+   "empty_values": 0
+  },
+  {
+   "part": "vertex_props",
+   "type": "Character",
+   "direction": "",
+   "owner": "",
+   "detail": "",
+   "keys": 12185000,
+   "key_bytes": 134035000,
+   "value_bytes": 174035500,
+   "payload_bytes": 174035500,
+   "framing_bytes": 134035000,
+   "empty_values": 0
+  },
+  {
+   "part": "vertex_props",
+   "type": "CompCastType",
+   "direction": "",
+   "owner": "",
+   "detail": "",
+   "keys": 4,
+   "key_bytes": 44,
+   "value_bytes": 33,
+   "payload_bytes": 33,
+   "framing_bytes": 44,
+   "empty_values": 0
+  },
+  {
+   "part": "vertex_props",
+   "type": "Company",
+   "direction": "",
+   "owner": "",
+   "detail": "",
+   "keys": 1126800,
+   "key_bytes": 12394800,
+   "value_bytes": 14850000,
+   "payload_bytes": 14850000,
+   "framing_bytes": 12394800,
+   "empty_values": 0
+  },
+  {
+   "part": "vertex_props",
+   "type": "CompleteCast",
+   "direction": "",
+   "owner": "",
+   "detail": "",
+   "keys": 253200,
+   "key_bytes": 2785200,
+   "value_bytes": 2025600,
+   "payload_bytes": 2025600,
+   "framing_bytes": 2785200,
+   "empty_values": 0
+  },
+  {
+   "part": "vertex_props",
+   "type": "InfoType",
+   "direction": "",
+   "owner": "",
+   "detail": "",
+   "keys": 114,
+   "key_bytes": 1255,
+   "value_bytes": 1470,
+   "payload_bytes": 1470,
+   "framing_bytes": 1255,
+   "empty_values": 0
+  },
+  {
+   "part": "vertex_props",
+   "type": "Keyword",
+   "direction": "",
+   "owner": "",
+   "detail": "",
+   "keys": 270600,
+   "key_bytes": 2976600,
+   "value_bytes": 2671300,
+   "payload_bytes": 2671300,
+   "framing_bytes": 2976600,
+   "empty_values": 0
+  },
+  {
+   "part": "vertex_props",
+   "type": "KindType",
+   "direction": "",
+   "owner": "",
+   "detail": "",
+   "keys": 7,
+   "key_bytes": 77,
+   "value_bytes": 64,
+   "payload_bytes": 64,
+   "framing_bytes": 77,
+   "empty_values": 0
+  },
+  {
+   "part": "vertex_props",
+   "type": "LinkType",
+   "direction": "",
+   "owner": "",
+   "detail": "",
+   "keys": 18,
+   "key_bytes": 198,
+   "value_bytes": 198,
+   "payload_bytes": 198,
+   "framing_bytes": 198,
+   "empty_values": 0
+  },
+  {
+   "part": "vertex_props",
+   "type": "MovieInfo",
+   "direction": "",
+   "owner": "",
+   "detail": "",
+   "keys": 31021100,
+   "key_bytes": 341232100,
+   "value_bytes": 778410900,
+   "payload_bytes": 778410900,
+   "framing_bytes": 341232100,
+   "empty_values": 0
+  },
+  {
+   "part": "vertex_props",
+   "type": "MovieLink",
+   "direction": "",
+   "owner": "",
+   "detail": "",
+   "keys": 29100,
+   "key_bytes": 320100,
+   "value_bytes": 232800,
+   "payload_bytes": 232800,
+   "framing_bytes": 320100,
+   "empty_values": 0
+  },
+  {
+   "part": "vertex_props",
+   "type": "MovieRating",
+   "direction": "",
+   "owner": "",
+   "detail": "",
+   "keys": 2744600,
+   "key_bytes": 30190600,
+   "value_bytes": 17857300,
+   "payload_bytes": 17857300,
+   "framing_bytes": 30190600,
+   "empty_values": 0
+  },
+  {
+   "part": "vertex_props",
+   "type": "Name",
+   "direction": "",
+   "owner": "",
+   "detail": "",
+   "keys": 23520200,
+   "key_bytes": 258722200,
+   "value_bytes": 248975700,
+   "payload_bytes": 248975700,
+   "framing_bytes": 258722200,
+   "empty_values": 0
+  },
+  {
+   "part": "vertex_props",
+   "type": "PersonInfo",
+   "direction": "",
+   "owner": "",
+   "detail": "",
+   "keys": 5944600,
+   "key_bytes": 65390600,
+   "value_bytes": 350954000,
+   "payload_bytes": 350954000,
+   "framing_bytes": 65390600,
+   "empty_values": 0
+  },
+  {
+   "part": "vertex_props",
+   "type": "Title",
+   "direction": "",
+   "owner": "",
+   "detail": "",
+   "keys": 14136000,
+   "key_bytes": 155496000,
+   "value_bytes": 188884100,
+   "payload_bytes": 188884100,
+   "framing_bytes": 155496000,
+   "empty_values": 0
+  }
+ ],
+ "chunks": {},
+ "locality": [],
+ "totals": {
+  "keys": 281211886,
+  "key_bytes": 5203245635,
+  "value_bytes": 3062872165
+ },
+ "wall_s": 152.32627028,
+ "provenance": {
+  "allocator": {
+   "aggressive_decommit": 0,
+   "env": {},
+   "lib_sha256": "c3d7996e516f60360b9d6d591fea53e0b177df38a4bfa36296d713220741f42a",
+   "malloc_is_tcmalloc": true,
+   "name": "tcmalloc",
+   "release_rate": 0.0,
+   "version": "2.15-3build1"
+  },
+  "binary_dirty": false,
+  "binary_git_sha": "53eca44bbf5fe909325ae4a547b977721eaa0246",
+  "block_cache_priority": {
+   "high_pri_pool_ratio": 0.5,
+   "index_filter_high_priority": true
+  },
+  "compiler": "GNU 13.3.0",
+  "flags": " -Wall -Wextra -Wno-unused-parameter -Wno-dangling-reference -O2 -g",
+  "host": {
+   "cpu": "AMD EPYC 9354P 32-Core Processor",
+   "kernel": "Linux 6.8.0-149-generic"
+  },
+  "ingest_index_filter_blocks": "partitioned",
+  "librocksdb_sha256": "5de397b9a75279a914a7fe663bddfc32f5db6b85aa17de3268ebaf654614dc68",
+  "rocksdb": "7.5.3",
+  "rocksdb_source": "7.5.3@540d5aae516265170564ec27b3e67a54a11b7045"
+ },
+ "owner_sample": {
+  "percent": 1.0,
+  "seed": 1,
+  "floor": 100,
+  "rates": {
+   "AkaName": 0.01,
+   "AkaTitle": 0.01,
+   "Character": 0.01,
+   "CompCastType": 1.0,
+   "Company": 0.01,
+   "CompleteCast": 0.01,
+   "InfoType": 0.8849557522123894,
+   "Keyword": 0.01,
+   "KindType": 1.0,
+   "LinkType": 1.0,
+   "MovieInfo": 0.01,
+   "MovieLink": 0.01,
+   "MovieRating": 0.01,
+   "Name": 0.01,
+   "PersonInfo": 0.01,
+   "Title": 0.01
+  },
+  "rule": "a label's rate max(percent / 100, min(1, floor / its vertices)); each count scaled by 1 / its owner's rate; a chunk count from the chunks' fill; chunk ranges cut at the sampled owners' byte shares; a family whose owners are all kept whole keeps its chunks",
+  "kept": {
+   "vertices": {
+    "AkaName": {
+     "read": 901343,
+     "kept": 8857
+    },
+    "AkaTitle": {
+     "read": 361472,
+     "kept": 3721
+    },
+    "Character": {
+     "read": 3140339,
+     "kept": 31632
+    },
+    "CompCastType": {
+     "read": 4,
+     "kept": 4
+    },
+    "Company": {
+     "read": 234997,
+     "kept": 2346
+    },
+    "CompleteCast": {
+     "read": 135086,
+     "kept": 1266
+    },
+    "InfoType": {
+     "read": 113,
+     "kept": 101
+    },
+    "Keyword": {
+     "read": 134170,
+     "kept": 1353
+    },
+    "KindType": {
+     "read": 7,
+     "kept": 7
+    },
+    "LinkType": {
+     "read": 18,
+     "kept": 18
+    },
+    "MovieInfo": {
+     "read": 14835720,
+     "kept": 147923
+    },
+    "MovieLink": {
+     "read": 29997,
+     "kept": 291
+    },
+    "MovieRating": {
+     "read": 1380035,
+     "kept": 13723
+    },
+    "Name": {
+     "read": 4167491,
+     "kept": 41918
+    },
+    "PersonInfo": {
+     "read": 2963664,
+     "kept": 29300
+    },
+    "Title": {
+     "read": 2528312,
+     "kept": 25248
+    }
+   },
+   "edges": {
+    "aka_name_of": {
+     "read": 901343,
+     "out_lists": 8857,
+     "in_lists": 9148
+    },
+    "aka_title_of": {
+     "read": 361379,
+     "out_lists": 3720,
+     "in_lists": 3573
+    },
+    "cast_actor": {
+     "read": 12330538,
+     "out_lists": 121834,
+     "in_lists": 122044
+    },
+    "cast_actress": {
+     "read": 7326773,
+     "out_lists": 78266,
+     "in_lists": 71921
+    },
+    "cast_cinematographer": {
+     "read": 898282,
+     "out_lists": 8658,
+     "in_lists": 9013
+    },
+    "cast_composer": {
+     "read": 773140,
+     "out_lists": 7288,
+     "in_lists": 7496
+    },
+    "cast_costume_designer": {
+     "read": 276403,
+     "out_lists": 3210,
+     "in_lists": 2630
+    },
+    "cast_director": {
+     "read": 1701086,
+     "out_lists": 17413,
+     "in_lists": 16907
+    },
+    "cast_editor": {
+     "read": 1093367,
+     "out_lists": 11097,
+     "in_lists": 10986
+    },
+    "cast_miscellaneous_crew": {
+     "read": 4263707,
+     "out_lists": 46443,
+     "in_lists": 43020
+    },
+    "cast_producer": {
+     "read": 3955795,
+     "out_lists": 36907,
+     "in_lists": 39119
+    },
+    "cast_production_designer": {
+     "read": 316100,
+     "out_lists": 3663,
+     "in_lists": 3056
+    },
+    "cast_writer": {
+     "read": 2594356,
+     "out_lists": 28551,
+     "in_lists": 25533
+    },
+    "company_distributor": {
+     "read": 1215529,
+     "out_lists": 12172,
+     "in_lists": 11072
+    },
+    "company_production": {
+     "read": 1333580,
+     "out_lists": 13148,
+     "in_lists": 15439
+    },
+    "complete_cast_of": {
+     "read": 135086,
+     "out_lists": 1266,
+     "in_lists": 1371
+    },
+    "episode_of": {
+     "read": 1543264,
+     "out_lists": 15463,
+     "in_lists": 13355
+    },
+    "has_keyword": {
+     "read": 4520446,
+     "out_lists": 43359,
+     "in_lists": 48349
+    },
+    "info_of": {
+     "read": 14835720,
+     "out_lists": 147923,
+     "in_lists": 149424
+    },
+    "link_from": {
+     "read": 29997,
+     "out_lists": 291,
+     "in_lists": 256
+    },
+    "link_to": {
+     "read": 29997,
+     "out_lists": 291,
+     "in_lists": 316
+    },
+    "person_info_of": {
+     "read": 2963664,
+     "out_lists": 29300,
+     "in_lists": 30232
+    },
+    "rating_of": {
+     "read": 1380035,
+     "out_lists": 13723,
+     "in_lists": 13488
+    }
+   }
+  },
+  "range_ends": "chunks.<family>.first_id: the family's lowest owner, read whole (exact); chunks.<family>.last_chunk_value_bytes with last_chunk_bound: the bytes of the owners the last chunk can hold (from the highest id in its vid group down, while the chunker's estimates stay under the pack target), read whole, each encoded alone (an upper bound on the last chunk); a family kept whole: both its own"
+ }
+}

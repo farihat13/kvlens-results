@@ -1,0 +1,70 @@
+{
+ "query_sha": "aab56a2aedd27dfa",
+ "params": {
+  "personId": 26388279069094
+ },
+ "data": {
+  "schema_sha256": "b8e206f17e60692c830ba0c3c675fbc481a22f26011282ce523890eb09be8a74",
+  "schema_path": "arangodb/schema/ldbc_schema.json",
+  "sf": "0.3",
+  "created": "2026-11-21T03:01:29Z",
+  "git_sha": "60910999"
+ },
+ "fetched_at": "2026-11-21T00:04:11",
+ "raw": [
+  {
+   "friendId": 17592186046943,
+   "friendFirstName": "Ai",
+   "friendLastName": "Zhang",
+   "friendshipCreationDate": 1331886614069
+  },
+  {
+   "friendId": 26388279069685,
+   "friendFirstName": "Rico",
+   "friendLastName": "Garcia",
+   "friendshipCreationDate": 1331613590454
+  },
+  {
+   "friendId": 8796093023000,
+   "friendFirstName": "Peng",
+   "friendLastName": "Zhang",
+   "friendshipCreationDate": 1331502244784
+  },
+  {
+   "friendId": 10995116279461,
+   "friendFirstName": "Gregorio",
+   "friendLastName": "Cajes",
+   "friendshipCreationDate": 1331441734620
+  },
+  {
+   "friendId": 13194139534548,
+   "friendFirstName": "Bing",
+   "friendLastName": "Zheng",
+   "friendshipCreationDate": 1331156812704
+  },
+  {
+   "friendId": 8796093025074,
+   "friendFirstName": "Eve-Mary Thai",
+   "friendLastName": "Hoang",
+   "friendshipCreationDate": 1331106564527
+  },
+  {
+   "friendId": 13194139535025,
+   "friendFirstName": "Yang",
+   "friendLastName": "Zhang",
+   "friendshipCreationDate": 1330908479661
+  },
+  {
+   "friendId": 6597069768549,
+   "friendFirstName": "Peter",
+   "friendLastName": "Laszlo",
+   "friendshipCreationDate": 1330663914691
+  },
+  {
+   "friendId": 26388279068852,
+   "friendFirstName": "Binh",
+   "friendLastName": "Do",
+   "friendshipCreationDate": 1329696334590
+  }
+ ]
+}

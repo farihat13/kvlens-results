@@ -1,0 +1,36 @@
+{
+ "query_sha": "8342c82fdf4c127f",
+ "params": {
+  "personId": 26388279069922,
+  "tagClassName": "FormulaOneRacer"
+ },
+ "data": {
+  "schema_sha256": "b8e206f17e60692c830ba0c3c675fbc481a22f26011282ce523890eb09be8a74",
+  "schema_path": "arangodb/schema/ldbc_schema.json",
+  "sf": "0.3",
+  "created": "2026-11-21T03:01:29Z",
+  "git_sha": "60910999"
+ },
+ "fetched_at": "2026-11-20T23:58:24",
+ "raw": [
+  {
+   "personId": 6597069767242,
+   "personFirstName": "Salim Ahmed",
+   "personLastName": "Binalshibh",
+   "tagNames": [
+    "Denny_Hulme",
+    "Michael_Schumacher"
+   ],
+   "replyCount": 3
+  },
+  {
+   "personId": 8796093025074,
+   "personFirstName": "Eve-Mary Thai",
+   "personLastName": "Hoang",
+   "tagNames": [
+    "Michael_Schumacher"
+   ],
+   "replyCount": 1
+  }
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "query_sha": "0a9c88a67984b764",
+ "params": {
+  "messageId": 110363
+ },
+ "data": {
+  "schema_sha256": "b8e206f17e60692c830ba0c3c675fbc481a22f26011282ce523890eb09be8a74",
+  "schema_path": "arangodb/schema/ldbc_schema.json",
+  "sf": "0.3",
+  "created": "2026-11-21T03:01:29Z",
+  "git_sha": "60910999"
+ },
+ "fetched_at": "2026-11-21T00:04:11",
+ "raw": [
+  {
+   "messageCreationDate": 1267292518452,
+   "messageContent": "About Jacques Chirac,  and Grand Master About Can You Feel the Love Tonight,  a song from"
+  }
+ ]
+}

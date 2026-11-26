@@ -1,0 +1,43 @@
+{
+ "query_sha": "6935170dcded2085",
+ "params": {
+  "messageId": "5519"
+ },
+ "data": {
+  "schema_sha256": "03713a1e1c7b722e73bed6b150e079e69e9579c2a58c52e06f9d4384fdd4b80d",
+  "schema_path": "dgraph/schema/ldbcTypes.schema",
+  "sf": "0.3",
+  "created": "2026-11-21T02:56:18Z",
+  "git_sha": "60910999"
+ },
+ "fetched_at": "2026-11-20T23:52:59",
+ "raw": {
+  "origAuthor": [
+   {
+    "origAuthorId": 2099
+   }
+  ],
+  "replies": [
+   {
+    "commentContent": "About Katarina Srebotnik, ofessional tennis player. SrebotniAbout Aldous Huxley, s widely recognized to be one of tAbout Angelina Jo",
+    "commentCreationDate": "2010-02-26T00:03:56.431Z",
+    "commentId": 5521,
+    "knowsCount": 1,
+    "knowsCount2": 0,
+    "replyAuthorFirstName": "Li",
+    "replyAuthorId": 1161,
+    "replyAuthorLastName": "Zhang"
+   },
+   {
+    "commentContent": "good",
+    "commentCreationDate": "2010-02-25T02:12:27.027Z",
+    "commentId": 5520,
+    "knowsCount": 1,
+    "knowsCount2": 0,
+    "replyAuthorFirstName": "Li",
+    "replyAuthorId": 1161,
+    "replyAuthorLastName": "Zhang"
+   }
+  ]
+ }
+}

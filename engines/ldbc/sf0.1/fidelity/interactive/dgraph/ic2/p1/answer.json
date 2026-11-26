@@ -1,0 +1,362 @@
+{
+ "query_sha": "e534711ff51080e0",
+ "params": {
+  "personId": "19791209300143",
+  "maxDate": "2012-11-28T00:00:00Z"
+ },
+ "data": {
+  "schema_sha256": "03713a1e1c7b722e73bed6b150e079e69e9579c2a58c52e06f9d4384fdd4b80d",
+  "schema_path": "dgraph/schema/ldbcTypes.schema",
+  "sf": "0.1",
+  "created": "2026-11-21T03:25:44Z",
+  "git_sha": "92777160"
+ },
+ "fetched_at": "2026-11-21T01:04:49",
+ "raw": {
+  "_n1": [],
+  "posts": [
+   {
+    "friendFirstName": "The",
+    "friendId": 24189255811566,
+    "friendLastName": "Kunda",
+    "messageContent": "About Zine El Abidine Ben Ali, rSchool of Applied ArtillerySenior Intelligence School in Maryland Sch",
+    "messageCreationDate": "2012-09-13T09:11:42.71Z",
+    "messageId": 1099511875186,
+    "messageImageFile": ""
+   },
+   {
+    "friendFirstName": "Peng",
+    "friendId": 8796093023000,
+    "friendLastName": "Zhang",
+    "messageContent": "About Talk on Corners,  UK top 10 hit, partly helped by BBC Radio One's decision to include a Corrs si",
+    "messageCreationDate": "2012-09-12T08:41:18.393Z",
+    "messageId": 1099511959863,
+    "messageImageFile": ""
+   },
+   {
+    "friendFirstName": "Arjun",
+    "friendId": 10995116278184,
+    "friendLastName": "Kumar",
+    "messageContent": "About Louis Philippe I, t 21 years in exile. He was proclaimed king in 1830 after King Charles X was for",
+    "messageCreationDate": "2012-09-10T03:17:05.076Z",
+    "messageId": 1099511738987,
+    "messageImageFile": ""
+   },
+   {
+    "friendFirstName": "The",
+    "friendId": 24189255811566,
+    "friendLastName": "Kunda",
+    "messageContent": "About Hilary Duff, ingles that were not major hits. It was eventually certified platinum by the Recording Industry Association of America (RIAA). Hilary Duff was number sixty-five on Billboard magazine's year-end top albums ch",
+    "messageCreationDate": "2012-09-10T00:24:17.923Z",
+    "messageId": 1099511686294,
+    "messageImageFile": ""
+   },
+   {
+    "friendFirstName": "The",
+    "friendId": 24189255811566,
+    "friendLastName": "Kunda",
+    "messageContent": "About David Lloyd George, ives than by his own Liberals, and the subsequent split was a key factor in the decline of the Liberal Party as a serious political force. When he eventually became leader of the Liberal Party a decade later he was",
+    "messageCreationDate": "2012-09-07T13:12:40.5Z",
+    "messageId": 1030792245324,
+    "messageImageFile": ""
+   },
+   {
+    "friendFirstName": "Ge",
+    "friendId": 4398046511596,
+    "friendLastName": "Wei",
+    "messageContent": "",
+    "messageCreationDate": "2012-09-05T21:17:02.093Z",
+    "messageId": 1030792289792,
+    "messageImageFile": "photo1030792289792.jpg"
+   },
+   {
+    "friendFirstName": "Ge",
+    "friendId": 4398046511596,
+    "friendLastName": "Wei",
+    "messageContent": "",
+    "messageCreationDate": "2012-09-05T21:17:01.093Z",
+    "messageId": 1030792289791,
+    "messageImageFile": "photo1030792289791.jpg"
+   },
+   {
+    "friendFirstName": "Ge",
+    "friendId": 4398046511596,
+    "friendLastName": "Wei",
+    "messageContent": "",
+    "messageCreationDate": "2012-09-05T21:17:00.093Z",
+    "messageId": 1030792289790,
+    "messageImageFile": "photo1030792289790.jpg"
+   },
+   {
+    "friendFirstName": "Ge",
+    "friendId": 4398046511596,
+    "friendLastName": "Wei",
+    "messageContent": "",
+    "messageCreationDate": "2012-09-05T21:16:59.093Z",
+    "messageId": 1030792289789,
+    "messageImageFile": "photo1030792289789.jpg"
+   },
+   {
+    "friendFirstName": "Ge",
+    "friendId": 4398046511596,
+    "friendLastName": "Wei",
+    "messageContent": "",
+    "messageCreationDate": "2012-09-05T21:16:58.093Z",
+    "messageId": 1030792289788,
+    "messageImageFile": "photo1030792289788.jpg"
+   },
+   {
+    "friendFirstName": "Ge",
+    "friendId": 4398046511596,
+    "friendLastName": "Wei",
+    "messageContent": "",
+    "messageCreationDate": "2012-09-05T21:16:57.093Z",
+    "messageId": 1030792289787,
+    "messageImageFile": "photo1030792289787.jpg"
+   },
+   {
+    "friendFirstName": "Ge",
+    "friendId": 4398046511596,
+    "friendLastName": "Wei",
+    "messageContent": "",
+    "messageCreationDate": "2012-09-05T21:16:56.093Z",
+    "messageId": 1030792289786,
+    "messageImageFile": "photo1030792289786.jpg"
+   },
+   {
+    "friendFirstName": "Ge",
+    "friendId": 4398046511596,
+    "friendLastName": "Wei",
+    "messageContent": "",
+    "messageCreationDate": "2012-09-05T21:16:55.093Z",
+    "messageId": 1030792289785,
+    "messageImageFile": "photo1030792289785.jpg"
+   },
+   {
+    "friendFirstName": "Ge",
+    "friendId": 4398046511596,
+    "friendLastName": "Wei",
+    "messageContent": "",
+    "messageCreationDate": "2012-09-05T21:16:54.093Z",
+    "messageId": 1030792289784,
+    "messageImageFile": "photo1030792289784.jpg"
+   },
+   {
+    "friendFirstName": "Ge",
+    "friendId": 4398046511596,
+    "friendLastName": "Wei",
+    "messageContent": "",
+    "messageCreationDate": "2012-09-05T21:16:53.093Z",
+    "messageId": 1030792289783,
+    "messageImageFile": "photo1030792289783.jpg"
+   },
+   {
+    "friendFirstName": "Ge",
+    "friendId": 4398046511596,
+    "friendLastName": "Wei",
+    "messageContent": "",
+    "messageCreationDate": "2012-09-05T21:16:52.093Z",
+    "messageId": 1030792289782,
+    "messageImageFile": "photo1030792289782.jpg"
+   },
+   {
+    "friendFirstName": "Ge",
+    "friendId": 4398046511596,
+    "friendLastName": "Wei",
+    "messageContent": "",
+    "messageCreationDate": "2012-09-05T21:16:51.093Z",
+    "messageId": 1030792289781,
+    "messageImageFile": "photo1030792289781.jpg"
+   },
+   {
+    "friendFirstName": "Ge",
+    "friendId": 4398046511596,
+    "friendLastName": "Wei",
+    "messageContent": "",
+    "messageCreationDate": "2012-09-05T21:16:50.093Z",
+    "messageId": 1030792289780,
+    "messageImageFile": "photo1030792289780.jpg"
+   },
+   {
+    "friendFirstName": "Ge",
+    "friendId": 4398046511596,
+    "friendLastName": "Wei",
+    "messageContent": "",
+    "messageCreationDate": "2012-09-05T21:16:49.093Z",
+    "messageId": 1030792289779,
+    "messageImageFile": "photo1030792289779.jpg"
+   },
+   {
+    "friendFirstName": "The",
+    "friendId": 24189255811566,
+    "friendLastName": "Kunda",
+    "messageContent": "About Zine El Abidine Ben Ali, li is a Tunisian political figure who was the second Pres",
+    "messageCreationDate": "2012-09-05T09:32:13.379Z",
+    "messageId": 1030792398563,
+    "messageImageFile": ""
+   }
+  ],
+  "comments": [
+   {
+    "friendFirstName": "Zhang",
+    "friendId": 30786325578747,
+    "friendLastName": "Huang",
+    "messageContent": "About Rumours, widespread critical acclaim. Praise centred on its production quali",
+    "messageCreationDate": "2012-09-13T09:00:08.592Z",
+    "messageId": 1099511787223
+   },
+   {
+    "friendFirstName": "Peng",
+    "friendId": 8796093023000,
+    "friendLastName": "Zhang",
+    "messageContent": "thx",
+    "messageCreationDate": "2012-09-13T05:47:47.322Z",
+    "messageId": 1099511959866
+   },
+   {
+    "friendFirstName": "Shweta",
+    "friendId": 13194139533535,
+    "friendLastName": "Singh",
+    "messageContent": "ok",
+    "messageCreationDate": "2012-09-13T03:09:07.445Z",
+    "messageId": 1099511997952
+   },
+   {
+    "friendFirstName": "Shweta",
+    "friendId": 13194139533535,
+    "friendLastName": "Singh",
+    "messageContent": "About Robert Bourassa, to JanuarAbout Albert, Prince Consort,  of Saxe-About Joh",
+    "messageCreationDate": "2012-09-13T02:50:28.796Z",
+    "messageId": 1099511997953
+   },
+   {
+    "friendFirstName": "Shweta",
+    "friendId": 13194139533535,
+    "friendLastName": "Singh",
+    "messageContent": "ok",
+    "messageCreationDate": "2012-09-12T23:15:03.46Z",
+    "messageId": 1099511722622
+   },
+   {
+    "friendFirstName": "Shweta",
+    "friendId": 13194139533535,
+    "friendLastName": "Singh",
+    "messageContent": "no way!",
+    "messageCreationDate": "2012-09-12T22:47:36.485Z",
+    "messageId": 1099511997861
+   },
+   {
+    "friendFirstName": "Ge",
+    "friendId": 4398046511596,
+    "friendLastName": "Wei",
+    "messageContent": "About Arthur C. Clarke, n, the Science Fiction FouAbout Babe Ruth, s Babe R",
+    "messageCreationDate": "2012-09-12T19:42:43.448Z",
+    "messageId": 1099511949726
+   },
+   {
+    "friendFirstName": "Shweta",
+    "friendId": 13194139533535,
+    "friendLastName": "Singh",
+    "messageContent": "right",
+    "messageCreationDate": "2012-09-12T17:35:26.374Z",
+    "messageId": 1099511722621
+   },
+   {
+    "friendFirstName": "Ge",
+    "friendId": 4398046511596,
+    "friendLastName": "Wei",
+    "messageContent": "I see",
+    "messageCreationDate": "2012-09-12T08:01:49.8Z",
+    "messageId": 1099511681330
+   },
+   {
+    "friendFirstName": "Ge",
+    "friendId": 4398046511596,
+    "friendLastName": "Wei",
+    "messageContent": "About Humayun, ipt in India. Subsequently, in a very shorAbout England, s Royal Soc",
+    "messageCreationDate": "2012-09-12T07:08:20.832Z",
+    "messageId": 1099511949721
+   },
+   {
+    "friendFirstName": "Peng",
+    "friendId": 8796093023000,
+    "friendLastName": "Zhang",
+    "messageContent": "no",
+    "messageCreationDate": "2012-09-12T05:59:39.277Z",
+    "messageId": 1099511993242
+   },
+   {
+    "friendFirstName": "Peng",
+    "friendId": 8796093023000,
+    "friendLastName": "Zhang",
+    "messageContent": "LOL",
+    "messageCreationDate": "2012-09-11T19:45:08.117Z",
+    "messageId": 1099511980256
+   },
+   {
+    "friendFirstName": "Shweta",
+    "friendId": 13194139533535,
+    "friendLastName": "Singh",
+    "messageContent": "fine",
+    "messageCreationDate": "2012-09-11T10:44:14.327Z",
+    "messageId": 1099511997871
+   },
+   {
+    "friendFirstName": "Shweta",
+    "friendId": 13194139533535,
+    "friendLastName": "Singh",
+    "messageContent": "fine",
+    "messageCreationDate": "2012-09-10T23:38:59.523Z",
+    "messageId": 1099511645534
+   },
+   {
+    "friendFirstName": "Shweta",
+    "friendId": 13194139533535,
+    "friendLastName": "Singh",
+    "messageContent": "yes",
+    "messageCreationDate": "2012-09-10T22:36:57.227Z",
+    "messageId": 1099511722160
+   },
+   {
+    "friendFirstName": "Zhang",
+    "friendId": 30786325578747,
+    "friendLastName": "Huang",
+    "messageContent": "LOL",
+    "messageCreationDate": "2012-09-10T07:09:30.17Z",
+    "messageId": 1099511977072
+   },
+   {
+    "friendFirstName": "The",
+    "friendId": 24189255811566,
+    "friendLastName": "Kunda",
+    "messageContent": "About Principality of Brunswick-Wolfenb\u00fcttel,  ruled Brunswick-Wolfenb\u00fctte",
+    "messageCreationDate": "2012-09-10T06:14:50.275Z",
+    "messageId": 1099511738988
+   },
+   {
+    "friendFirstName": "Shweta",
+    "friendId": 13194139533535,
+    "friendLastName": "Singh",
+    "messageContent": "thx",
+    "messageCreationDate": "2012-09-10T05:22:59.028Z",
+    "messageId": 1099511860894
+   },
+   {
+    "friendFirstName": "Yang",
+    "friendId": 13194139533618,
+    "friendLastName": "Zhang",
+    "messageContent": "About Al Pacino,  a Woman won him the Academy Award for Best Actor in 1993 after rece",
+    "messageCreationDate": "2012-09-09T23:59:44.42Z",
+    "messageId": 1099511771248
+   },
+   {
+    "friendFirstName": "Shweta",
+    "friendId": 13194139533535,
+    "friendLastName": "Singh",
+    "messageContent": "no",
+    "messageCreationDate": "2012-09-09T21:38:09.501Z",
+    "messageId": 1099511860904
+   }
+  ]
+ }
+}

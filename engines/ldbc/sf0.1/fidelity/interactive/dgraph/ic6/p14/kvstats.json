@@ -1,0 +1,24 @@
+{
+ "query_sha": "726c2fd8c124bda0",
+ "params": {
+  "personId": "15393162789696",
+  "tagName": "Croatia"
+ },
+ "data_created": "2026-11-21T03:25:44Z",
+ "measured_at": "2026-11-21T01:04:39",
+ "raw": {
+  "get_bytes": 1911,
+  "get_count": 29,
+  "get_found_count": 29,
+  "get_latency_ns": 294544,
+  "next_bytes": 0,
+  "next_count": 0,
+  "next_latency_ns": 0,
+  "seek_bytes": 1980354,
+  "seek_count": 98939,
+  "seek_latency_ns": 1091740544,
+  "set_bytes": 0,
+  "set_count": 0,
+  "set_latency_ns": 0
+ }
+}

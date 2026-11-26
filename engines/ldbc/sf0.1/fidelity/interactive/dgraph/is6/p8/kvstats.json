@@ -1,0 +1,23 @@
+{
+ "query_sha": "ca333ec0cb2132c2",
+ "params": {
+  "messageId": "32486"
+ },
+ "data_created": "2026-11-21T03:25:44Z",
+ "measured_at": "2026-11-21T01:03:49",
+ "raw": {
+  "get_bytes": 291,
+  "get_count": 5,
+  "get_found_count": 5,
+  "get_latency_ns": 110590,
+  "next_bytes": 0,
+  "next_count": 0,
+  "next_latency_ns": 0,
+  "seek_bytes": 767465,
+  "seek_count": 12,
+  "seek_latency_ns": 540869,
+  "set_bytes": 0,
+  "set_count": 0,
+  "set_latency_ns": 0
+ }
+}

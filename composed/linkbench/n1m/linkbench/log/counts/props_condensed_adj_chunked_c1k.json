@@ -1,0 +1,160 @@
+{
+ "P": 8,
+ "binary": {
+  "allocator": {
+   "aggressive_decommit": 0,
+   "env": {},
+   "lib_sha256": "c3d7996e516f60360b9d6d591fea53e0b177df38a4bfa36296d713220741f42a",
+   "malloc_is_tcmalloc": true,
+   "name": "tcmalloc",
+   "release_rate": 0.0,
+   "version": "2.15-3build1"
+  },
+  "binary_dirty": false,
+  "binary_git_sha": "e22430d124f05ed0e6dea30d3b55b2ffb65978d6",
+  "block_cache_priority": {
+   "high_pri_pool_ratio": 0.5,
+   "index_filter_high_priority": true
+  },
+  "build_key": "1446a3391164c90cd76e",
+  "compiler": "GNU 13.3.0",
+  "counting": {
+   "formats": {
+    "arangodb": {
+     "read": 3,
+     "write": 1
+    },
+    "arangodb_engine": {
+     "read": 3,
+     "write": 1
+    },
+    "dgraph": {
+     "read": 2,
+     "write": 1
+    },
+    "dgraph_engine": {
+     "read": 2,
+     "write": 1
+    },
+    "meta": {
+     "read": 3,
+     "write": 1
+    },
+    "nebula": {
+     "read": 3,
+     "write": 1
+    },
+    "nebula_engine": {
+     "read": 3,
+     "write": 1
+    },
+    "pertype_csr": {
+     "read": 2,
+     "write": 1
+    }
+   },
+   "seam": {
+    "read": 4,
+    "write": 1
+   }
+  },
+  "engine_key_layouts": {
+   "arangodb_engine": "realistic-v7",
+   "dgraph_engine": "realistic-engine-v1",
+   "nebula_engine": "realistic-v4"
+  },
+  "flags": " -Wall -Wextra -Wno-unused-parameter -Wno-dangling-reference -O2 -g",
+  "host": {
+   "cpu": "AMD EPYC 9354P 32-Core Processor",
+   "kernel": "Linux 6.8.0-149-generic"
+  },
+  "ingest_index_filter_blocks": "partitioned",
+  "key_layouts": {
+   "arangodb": "realistic-v7",
+   "dgraph": "realistic-part-start",
+   "meta": "meta-v4-chunk-bytes",
+   "nebula": "realistic-v4",
+   "pertype_csr": "realistic-v7"
+  },
+  "key_roles_version": 6,
+  "librocksdb_sha256": "5de397b9a75279a914a7fe663bddfc32f5db6b85aa17de3268ebaf654614dc68",
+  "rocksdb": "7.5.3",
+  "rocksdb_source": "7.5.3@540d5aae516265170564ec27b3e67a54a11b7045",
+  "tally_version": 2
+ },
+ "cell": "props_condensed_adj_chunked_c1k",
+ "cell_inputs": null,
+ "complete": true,
+ "composed_from": {
+  "adjacency parts": "captures/linkbench/n1m/linkbench/log/parts/props_chunked_c1k_adj_chunked_c1k.csv",
+  "props and index parts": "captures/linkbench/n1m/linkbench/log/parts/props_condensed_adj_condensed.csv"
+ },
+ "composed_from_sha": {
+  "captures/linkbench/n1m/linkbench/log/counts/props_chunked_c1k_adj_chunked_c1k.csv": "83e82c58ea4321d47a0b5a258f7de4ff02fe1f1a8476bbd0eef5255a429f3d6d",
+  "captures/linkbench/n1m/linkbench/log/counts/props_condensed_adj_condensed.csv": "17e85d777e27b9c2db7963527ebbf494817ba65b977d87023abefd7deefc9fcf",
+  "captures/linkbench/n1m/linkbench/log/parts/props_chunked_c1k_adj_chunked_c1k.csv": "6ed8bde9897a53ec3d88bd2633ce30143f051314a61f110553562fa034aaefdc",
+  "captures/linkbench/n1m/linkbench/log/parts/props_condensed_adj_condensed.csv": "c9872fc7b1adb7432612758820a3198d1b764cb3479ea9528c621af238684c3d"
+ },
+ "counting": {
+  "format": 3,
+  "seam": 4,
+  "write_format": 1,
+  "write_seam": 1
+ },
+ "exec": "serve",
+ "free_rows": true,
+ "inputs": "b4c7cce200b0ab75",
+ "measurement_version": 7,
+ "nparam": 100000,
+ "param_set": "log",
+ "plan_pipeline": 2,
+ "resumed": 0,
+ "sf": "n1m",
+ "slice": {
+  "params": null,
+  "queries": null
+ },
+ "spec": {
+  "adjacency": {
+   "group": "owner",
+   "owners": {
+    "pack": 1024
+   },
+   "split": "never"
+  },
+  "direction": "declared",
+  "index": {
+   "group": "item",
+   "owners": "one",
+   "scope": "type",
+   "split": "never",
+   "term": "exact"
+  },
+  "version": 1,
+  "vertex_props": {
+   "group": "owner",
+   "owners": "one",
+   "split": "never"
+  }
+ },
+ "spec_path": "specs/props_condensed_adj_chunked_c1k.json",
+ "store": "",
+ "store_content": {
+  "ingest_counts": {
+   "adjacency_parts": 134,
+   "adjacency_split_units": 24,
+   "edges": 5249370,
+   "vertices": 1000000
+  },
+  "keys": 2772169,
+  "records": "2330c4acba5812cdb24b3dce9a5cbdc0143fec42aee6cb5137dacb58189db7ea",
+  "schema": "20cfc028c9a3a7d107d4c3e6561ad04775f694f94aec668055f0596de03fea7c"
+ },
+ "store_manifest": null,
+ "tree": {
+  "git_dirty": false,
+  "git_sha": "e22430d124f05ed0e6dea30d3b55b2ffb65978d6"
+ },
+ "wall_s": 1.937,
+ "workload": "linkbench"
+}

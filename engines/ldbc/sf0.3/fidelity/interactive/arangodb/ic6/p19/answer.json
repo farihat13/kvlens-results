@@ -1,0 +1,57 @@
+{
+ "query_sha": "ca817504079a16c1",
+ "params": {
+  "personId": 2199023256742,
+  "tagName": "Andrew_Johnson"
+ },
+ "data": {
+  "schema_sha256": "b8e206f17e60692c830ba0c3c675fbc481a22f26011282ce523890eb09be8a74",
+  "schema_path": "arangodb/schema/ldbc_schema.json",
+  "sf": "0.3",
+  "created": "2026-11-21T03:01:29Z",
+  "git_sha": "60910999"
+ },
+ "fetched_at": "2026-11-21T00:00:54",
+ "raw": [
+  {
+   "tagName": "Chiang_Kai-shek",
+   "postCount": 4
+  },
+  {
+   "tagName": "Jorge_Luis_Borges",
+   "postCount": 4
+  },
+  {
+   "tagName": "Muammar_Gaddafi",
+   "postCount": 3
+  },
+  {
+   "tagName": "Boris_Karloff",
+   "postCount": 2
+  },
+  {
+   "tagName": "Charles_Dickens",
+   "postCount": 2
+  },
+  {
+   "tagName": "Dare_You_to_Move",
+   "postCount": 2
+  },
+  {
+   "tagName": "Erich_von_Stroheim",
+   "postCount": 2
+  },
+  {
+   "tagName": "Hamid_Karzai",
+   "postCount": 2
+  },
+  {
+   "tagName": "Johnny_Cash",
+   "postCount": 2
+  },
+  {
+   "tagName": "Karol_Ku\u010dera",
+   "postCount": 2
+  }
+ ]
+}

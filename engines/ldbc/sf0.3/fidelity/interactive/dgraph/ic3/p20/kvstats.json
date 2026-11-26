@@ -1,0 +1,27 @@
+{
+ "query_sha": "907f15bd35b7d66e",
+ "params": {
+  "personId": "32985348833558",
+  "startDate": "2012-01-01T00:00:00Z",
+  "countryXName": "Latvia",
+  "countryYName": "Chad",
+  "endDate": "2012-01-31T00:00:00Z"
+ },
+ "data_created": "2026-11-21T02:56:18Z",
+ "measured_at": "2026-11-20T23:09:07",
+ "raw": {
+  "get_bytes": 44695612,
+  "get_count": 646764,
+  "get_found_count": 646764,
+  "get_latency_ns": 32734505794,
+  "next_bytes": 0,
+  "next_count": 0,
+  "next_latency_ns": 0,
+  "seek_bytes": 18787711,
+  "seek_count": 324744,
+  "seek_latency_ns": 12379211327,
+  "set_bytes": 0,
+  "set_count": 0,
+  "set_latency_ns": 0
+ }
+}

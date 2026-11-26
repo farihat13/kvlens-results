@@ -1,0 +1,57 @@
+{
+ "query_sha": "ca817504079a16c1",
+ "params": {
+  "personId": 28587302322565,
+  "tagName": "Monty_Python"
+ },
+ "data": {
+  "schema_sha256": "b8e206f17e60692c830ba0c3c675fbc481a22f26011282ce523890eb09be8a74",
+  "schema_path": "arangodb/schema/ldbc_schema.json",
+  "sf": "0.3",
+  "created": "2026-11-21T03:01:29Z",
+  "git_sha": "60910999"
+ },
+ "fetched_at": "2026-11-20T23:57:45",
+ "raw": [
+  {
+   "tagName": "Rupert_Murdoch",
+   "postCount": 3
+  },
+  {
+   "tagName": "David_Hockney",
+   "postCount": 2
+  },
+  {
+   "tagName": "Elton_John",
+   "postCount": 2
+  },
+  {
+   "tagName": "Francis_Bacon",
+   "postCount": 2
+  },
+  {
+   "tagName": "Haile_Selassie_I",
+   "postCount": 2
+  },
+  {
+   "tagName": "Imelda_Marcos",
+   "postCount": 2
+  },
+  {
+   "tagName": "John_of_Gaunt,_1st_Duke_of_Lancaster",
+   "postCount": 2
+  },
+  {
+   "tagName": "Marc_Gicquel",
+   "postCount": 2
+  },
+  {
+   "tagName": "Percy_Bysshe_Shelley",
+   "postCount": 2
+  },
+  {
+   "tagName": "Shapur_II",
+   "postCount": 2
+  }
+ ]
+}

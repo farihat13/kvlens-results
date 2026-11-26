@@ -1,0 +1,601 @@
+{
+ "query_sha": "e98a92aa07772002",
+ "params": {
+  "personId": "28587302322537",
+  "startDate": "2011-03-01T00:00:00Z",
+  "endDate": "2011-03-30T00:00:00Z"
+ },
+ "data": {
+  "schema_sha256": "03713a1e1c7b722e73bed6b150e079e69e9579c2a58c52e06f9d4384fdd4b80d",
+  "schema_path": "dgraph/schema/ldbcTypes.schema",
+  "sf": "0.3",
+  "created": "2026-11-21T02:56:18Z",
+  "git_sha": "60910999"
+ },
+ "fetched_at": "2026-11-21T00:01:49",
+ "raw": {
+  "_l1": [],
+  "tags": [
+   {
+    "tagName": "Sanath_Jayasuriya",
+    "postCount": 32
+   },
+   {
+    "tagName": "Kurt_G\u00f6del",
+    "postCount": 19
+   },
+   {
+    "tagName": "Woman_in_Love",
+    "postCount": 3
+   },
+   {
+    "tagName": "Margraviate_of_Brandenburg",
+    "postCount": 3
+   },
+   {
+    "tagName": "American_Samoa",
+    "postCount": 2
+   },
+   {
+    "tagName": "Trouble_in_Shangri-La",
+    "postCount": 2
+   },
+   {
+    "tagName": "Republic_of_Pisa",
+    "postCount": 2
+   },
+   {
+    "tagName": "Ashikaga_shogunate",
+    "postCount": 2
+   },
+   {
+    "tagName": "Kingdom_of_Castile",
+    "postCount": 2
+   },
+   {
+    "tagName": "Mary_I_of_England",
+    "postCount": 2
+   },
+   {
+    "tagName": "The_Arockalypse",
+    "postCount": 2
+   },
+   {
+    "tagName": "Urartu",
+    "postCount": 1
+   },
+   {
+    "tagName": "Lili_Marleen",
+    "postCount": 1
+   },
+   {
+    "tagName": "Goryeo",
+    "postCount": 1
+   },
+   {
+    "tagName": "You_Still_Believe_in_Me",
+    "postCount": 1
+   },
+   {
+    "tagName": "Cao_Wei",
+    "postCount": 1
+   },
+   {
+    "tagName": "Ten_Thousand_Fists",
+    "postCount": 1
+   },
+   {
+    "tagName": "In_This_Skin",
+    "postCount": 1
+   },
+   {
+    "tagName": "Ultimate_Santana",
+    "postCount": 1
+   },
+   {
+    "tagName": "Xia_Dynasty",
+    "postCount": 1
+   },
+   {
+    "tagName": "Buyid_dynasty",
+    "postCount": 1
+   },
+   {
+    "tagName": "Chera_Dynasty",
+    "postCount": 1
+   },
+   {
+    "tagName": "Beetlebum",
+    "postCount": 1
+   },
+   {
+    "tagName": "Live_at_the_Garden",
+    "postCount": 1
+   },
+   {
+    "tagName": "Shadow_of_the_Moon",
+    "postCount": 1
+   },
+   {
+    "tagName": "Hard_to_Beat",
+    "postCount": 1
+   },
+   {
+    "tagName": "I_Just_Want_to_Make_Love_to_You",
+    "postCount": 1
+   },
+   {
+    "tagName": "Sings_the_Ballads_of_the_True_West",
+    "postCount": 1
+   },
+   {
+    "tagName": "A_Trick_of_the_Tail",
+    "postCount": 1
+   },
+   {
+    "tagName": "The_Poor_People_of_Paris",
+    "postCount": 1
+   },
+   {
+    "tagName": "Live_Peace_in_Toronto_1969",
+    "postCount": 1
+   },
+   {
+    "tagName": "Eazy-Duz-It",
+    "postCount": 1
+   },
+   {
+    "tagName": "Western_Chalukya_Empire",
+    "postCount": 1
+   },
+   {
+    "tagName": "Vladimir_Nabokov",
+    "postCount": 1
+   },
+   {
+    "tagName": "Kingdom_of_Portugal",
+    "postCount": 1
+   },
+   {
+    "tagName": "Bahrain",
+    "postCount": 1
+   },
+   {
+    "tagName": "Duchy_of_Silesia",
+    "postCount": 1
+   },
+   {
+    "tagName": "Never_Take_Friendship_Personal",
+    "postCount": 1
+   },
+   {
+    "tagName": "Hell-O",
+    "postCount": 1
+   },
+   {
+    "tagName": "Chechen_Republic_of_Ichkeria",
+    "postCount": 1
+   },
+   {
+    "tagName": "Neil_Diamond",
+    "postCount": 1
+   },
+   {
+    "tagName": "South_Asian_Association_for_Regional_Cooperation",
+    "postCount": 1
+   },
+   {
+    "tagName": "Do_You_Want_to_Know_a_Secret",
+    "postCount": 1
+   },
+   {
+    "tagName": "The_Great_Pretender",
+    "postCount": 1
+   },
+   {
+    "tagName": "Whatever_and_Ever_Amen",
+    "postCount": 1
+   },
+   {
+    "tagName": "The_Fundamental_Elements_of_Southtown",
+    "postCount": 1
+   },
+   {
+    "tagName": "Rotuma",
+    "postCount": 1
+   },
+   {
+    "tagName": "Fabrice_Santoro",
+    "postCount": 1
+   },
+   {
+    "tagName": "The_Shape_of_Jazz_to_Come",
+    "postCount": 1
+   },
+   {
+    "tagName": "Silk_Degrees",
+    "postCount": 1
+   },
+   {
+    "tagName": "Disneymania_3",
+    "postCount": 1
+   },
+   {
+    "tagName": "I_Will_Always_Love_You",
+    "postCount": 1
+   },
+   {
+    "tagName": "Julia_Gillard",
+    "postCount": 1
+   },
+   {
+    "tagName": "Nastradamus",
+    "postCount": 1
+   },
+   {
+    "tagName": "Duchy_of_J\u00fclich",
+    "postCount": 1
+   },
+   {
+    "tagName": "Unknown_Pleasures",
+    "postCount": 1
+   },
+   {
+    "tagName": "Little_Boxes",
+    "postCount": 1
+   },
+   {
+    "tagName": "Thomas_Enqvist",
+    "postCount": 1
+   },
+   {
+    "tagName": "Ne_me_quitte_pas",
+    "postCount": 1
+   },
+   {
+    "tagName": "My_Generation",
+    "postCount": 1
+   },
+   {
+    "tagName": "Jonathan_Swift",
+    "postCount": 1
+   },
+   {
+    "tagName": "Phil_Collins",
+    "postCount": 1
+   },
+   {
+    "tagName": "Dahomey",
+    "postCount": 1
+   },
+   {
+    "tagName": "Duchy_of_Pomerania",
+    "postCount": 1
+   },
+   {
+    "tagName": "Kingdom_of_Asturias",
+    "postCount": 1
+   },
+   {
+    "tagName": "Van_Morrison:_The_Concert",
+    "postCount": 1
+   },
+   {
+    "tagName": "Year_of_the_Dog..._Again",
+    "postCount": 1
+   },
+   {
+    "tagName": "Stanley_Kubrick",
+    "postCount": 1
+   },
+   {
+    "tagName": "Kin_Endate",
+    "postCount": 1
+   },
+   {
+    "tagName": "Too_Little_Too_Late",
+    "postCount": 1
+   },
+   {
+    "tagName": "White_Light/White_Heat",
+    "postCount": 1
+   },
+   {
+    "tagName": "Wiretap_Scars",
+    "postCount": 1
+   },
+   {
+    "tagName": "Satavahana_dynasty",
+    "postCount": 1
+   },
+   {
+    "tagName": "Ferdinand_II,_Holy_Roman_Emperor",
+    "postCount": 1
+   },
+   {
+    "tagName": "Northern_Cyprus",
+    "postCount": 1
+   },
+   {
+    "tagName": "Victoria_Azarenka",
+    "postCount": 1
+   },
+   {
+    "tagName": "Last_Cup_of_Sorrow",
+    "postCount": 1
+   },
+   {
+    "tagName": "Colonial_Brazil",
+    "postCount": 1
+   },
+   {
+    "tagName": "China_in_Your_Hand",
+    "postCount": 1
+   },
+   {
+    "tagName": "Something/Anything?",
+    "postCount": 1
+   },
+   {
+    "tagName": "The_Supremes_Produced_and_Arranged_by_Jimmy_Webb",
+    "postCount": 1
+   },
+   {
+    "tagName": "Ric_Flair",
+    "postCount": 1
+   },
+   {
+    "tagName": "Somaliland",
+    "postCount": 1
+   },
+   {
+    "tagName": "Duchy_of_Styria",
+    "postCount": 1
+   },
+   {
+    "tagName": "Vince_McMahon",
+    "postCount": 1
+   },
+   {
+    "tagName": "Peter_Hain",
+    "postCount": 1
+   },
+   {
+    "tagName": "Second_Helping",
+    "postCount": 1
+   },
+   {
+    "tagName": "Hispania",
+    "postCount": 1
+   },
+   {
+    "tagName": "When_the_Pawn\u2026",
+    "postCount": 1
+   },
+   {
+    "tagName": "Gotta_Get_Away",
+    "postCount": 1
+   },
+   {
+    "tagName": "Arantxa_S\u00e1nchez_Vicario",
+    "postCount": 1
+   },
+   {
+    "tagName": "I_Can_See_Clearly_Now",
+    "postCount": 1
+   },
+   {
+    "tagName": "French_Third_Republic",
+    "postCount": 1
+   },
+   {
+    "tagName": "Western_Satraps",
+    "postCount": 1
+   },
+   {
+    "tagName": "All_Money_Is_Legal",
+    "postCount": 1
+   },
+   {
+    "tagName": "High_Violet",
+    "postCount": 1
+   },
+   {
+    "tagName": "Where_Is_My_Mind?",
+    "postCount": 1
+   },
+   {
+    "tagName": "A._R._Rahman",
+    "postCount": 1
+   },
+   {
+    "tagName": "Say_Hello_to_Sunshine",
+    "postCount": 1
+   },
+   {
+    "tagName": "Archbishopric_of_Bremen",
+    "postCount": 1
+   },
+   {
+    "tagName": "Jean-Luc_Godard",
+    "postCount": 1
+   },
+   {
+    "tagName": "Latvian_Soviet_Socialist_Republic",
+    "postCount": 1
+   },
+   {
+    "tagName": "Travelling_Without_Moving",
+    "postCount": 1
+   },
+   {
+    "tagName": "Psycho_Circus",
+    "postCount": 1
+   },
+   {
+    "tagName": "Sex_&_Drugs_&_Rock_&_Roll",
+    "postCount": 1
+   },
+   {
+    "tagName": "Jean_Chr\u00e9tien",
+    "postCount": 1
+   },
+   {
+    "tagName": "Juan_Carlos_I_of_Spain",
+    "postCount": 1
+   },
+   {
+    "tagName": "Under_Pressure",
+    "postCount": 1
+   },
+   {
+    "tagName": "Bootylicious",
+    "postCount": 1
+   },
+   {
+    "tagName": "Duchy_of_Cleves",
+    "postCount": 1
+   },
+   {
+    "tagName": "Northern_Alliance",
+    "postCount": 1
+   },
+   {
+    "tagName": "Material_Girl",
+    "postCount": 1
+   },
+   {
+    "tagName": "Lucy_in_the_Sky_with_Diamonds",
+    "postCount": 1
+   },
+   {
+    "tagName": "Kingdom_of_Aragon",
+    "postCount": 1
+   },
+   {
+    "tagName": "Spirit_in_the_Sky",
+    "postCount": 1
+   },
+   {
+    "tagName": "Odrysian_kingdom",
+    "postCount": 1
+   },
+   {
+    "tagName": "Parklife",
+    "postCount": 1
+   },
+   {
+    "tagName": "Sui_Dynasty",
+    "postCount": 1
+   },
+   {
+    "tagName": "Serbian_Empire",
+    "postCount": 1
+   },
+   {
+    "tagName": "Design_of_a_Decade_1986/1996",
+    "postCount": 1
+   },
+   {
+    "tagName": "Antichrist_Superstar",
+    "postCount": 1
+   },
+   {
+    "tagName": "Abbey_Road",
+    "postCount": 1
+   },
+   {
+    "tagName": "Lesotho",
+    "postCount": 1
+   },
+   {
+    "tagName": "Defenders_of_the_Faith",
+    "postCount": 1
+   },
+   {
+    "tagName": "Eastern_Wu",
+    "postCount": 1
+   },
+   {
+    "tagName": "Lorenz_Hart",
+    "postCount": 1
+   },
+   {
+    "tagName": "Free_City_of_Danzig",
+    "postCount": 1
+   },
+   {
+    "tagName": "Semi-Charmed_Life",
+    "postCount": 1
+   },
+   {
+    "tagName": "Cooperation_Council_for_the_Arab_States_of_the_Gulf",
+    "postCount": 1
+   },
+   {
+    "tagName": "Kingdom_of_Saxony",
+    "postCount": 1
+   },
+   {
+    "tagName": "Humphrey_Bogart",
+    "postCount": 1
+   },
+   {
+    "tagName": "Missy_Elliott",
+    "postCount": 1
+   },
+   {
+    "tagName": "Psychocandy",
+    "postCount": 1
+   },
+   {
+    "tagName": "Getting_Better",
+    "postCount": 1
+   },
+   {
+    "tagName": "Works_Volume_1",
+    "postCount": 1
+   },
+   {
+    "tagName": "Can_I_Get_a_Witness",
+    "postCount": 1
+   },
+   {
+    "tagName": "Symphonicities",
+    "postCount": 1
+   },
+   {
+    "tagName": "Awake_Is_the_New_Sleep",
+    "postCount": 1
+   },
+   {
+    "tagName": "Try_It_Baby",
+    "postCount": 1
+   },
+   {
+    "tagName": "Duchy_of_Burgundy",
+    "postCount": 1
+   },
+   {
+    "tagName": "Kingdom_of_Sardinia",
+    "postCount": 1
+   },
+   {
+    "tagName": "Lex_Luthor",
+    "postCount": 1
+   },
+   {
+    "tagName": "Sister_Christian",
+    "postCount": 1
+   },
+   {
+    "tagName": "Going_Underground",
+    "postCount": 1
+   },
+   {
+    "tagName": "Chalukya_dynasty",
+    "postCount": 1
+   }
+  ]
+ }
+}

@@ -1,0 +1,47 @@
+{
+ "query_sha": "32998970dd90364b",
+ "params": {
+  "personId": "person_24189255811500",
+  "tagClassName": "GolfPlayer"
+ },
+ "data": {
+  "schema_sha256": "673074740eea54e4ba1fdc94eebf2087531b3007af7da660afffb3d1e8df0d1e",
+  "schema_path": "nebulagraph/schema/schema.gql",
+  "sf": "0.1",
+  "created": "2026-11-21T03:27:06Z",
+  "git_sha": "92777160"
+ },
+ "fetched_at": "2026-11-21T01:08:23",
+ "raw": {
+  "keys": [
+   "friendId",
+   "friendFirstName",
+   "friendLastName",
+   "tagNames",
+   "replyCount",
+   "friendIdInt"
+  ],
+  "rows": [
+   {
+    "friendId": "person_4398046511684",
+    "friendFirstName": "Mohamed",
+    "friendLastName": "Aouadhi",
+    "tagNames": [
+     "Tiger_Woods"
+    ],
+    "replyCount": 1,
+    "friendIdInt": 4398046511684
+   },
+   {
+    "friendId": "person_21990232555834",
+    "friendFirstName": "John",
+    "friendLastName": "Garcia",
+    "tagNames": [
+     "Tiger_Woods"
+    ],
+    "replyCount": 1,
+    "friendIdInt": 21990232555834
+   }
+  ]
+ }
+}

@@ -1,0 +1,74 @@
+{
+ "query_sha": "6ff3aa62b8626f5b",
+ "params": {
+  "personId": "person_8796093022749"
+ },
+ "data": {
+  "schema_sha256": "673074740eea54e4ba1fdc94eebf2087531b3007af7da660afffb3d1e8df0d1e",
+  "schema_path": "nebulagraph/schema/schema.gql",
+  "sf": "0.3",
+  "created": "2026-11-21T03:42:54Z",
+  "git_sha": "1d6662c2"
+ },
+ "fetched_at": "2026-11-21T00:05:26",
+ "raw": {
+  "keys": [
+   "friendId",
+   "friendFirstName",
+   "friendLastName",
+   "friendshipCreationDate",
+   "friendIdInt"
+  ],
+  "rows": [
+   {
+    "friendId": "person_32985348833548",
+    "friendFirstName": "Aleksandr",
+    "friendLastName": "Bajt",
+    "friendshipCreationDate": 1345709923429,
+    "friendIdInt": 32985348833548
+   },
+   {
+    "friendId": "person_32985348836556",
+    "friendFirstName": "Maithripala",
+    "friendLastName": "Gunasekera",
+    "friendshipCreationDate": 1344909704986,
+    "friendIdInt": 32985348836556
+   },
+   {
+    "friendId": "person_32985348833438",
+    "friendFirstName": "Javed",
+    "friendLastName": "Khan",
+    "friendshipCreationDate": 1343145332127,
+    "friendIdInt": 32985348833438
+   },
+   {
+    "friendId": "person_26388279066936",
+    "friendFirstName": "Chen",
+    "friendLastName": "Zhang",
+    "friendshipCreationDate": 1329940329511,
+    "friendIdInt": 26388279066936
+   },
+   {
+    "friendId": "person_19791209302403",
+    "friendFirstName": "Bibit",
+    "friendLastName": "Balawan",
+    "friendshipCreationDate": 1312595806745,
+    "friendIdInt": 19791209302403
+   },
+   {
+    "friendId": "person_2194",
+    "friendFirstName": "Alexander",
+    "friendLastName": "Dobrunov",
+    "friendshipCreationDate": 1289179185989,
+    "friendIdInt": 2194
+   },
+   {
+    "friendId": "person_2199023258028",
+    "friendFirstName": "Babar",
+    "friendLastName": "Khan",
+    "friendshipCreationDate": 1288065789176,
+    "friendIdInt": 2199023258028
+   }
+  ]
+ }
+}

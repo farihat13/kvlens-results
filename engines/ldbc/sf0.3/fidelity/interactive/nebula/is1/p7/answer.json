@@ -1,0 +1,38 @@
+{
+ "query_sha": "ad58b82c66ab2c6f",
+ "params": {
+  "personId": "person_2199023259063"
+ },
+ "data": {
+  "schema_sha256": "673074740eea54e4ba1fdc94eebf2087531b3007af7da660afffb3d1e8df0d1e",
+  "schema_path": "nebulagraph/schema/schema.gql",
+  "sf": "0.3",
+  "created": "2026-11-21T03:42:54Z",
+  "git_sha": "1d6662c2"
+ },
+ "fetched_at": "2026-11-20T23:54:49",
+ "raw": {
+  "keys": [
+   "firstName",
+   "lastName",
+   "birthday",
+   "locationIP",
+   "browserUsed",
+   "cityId",
+   "gender",
+   "creationDate"
+  ],
+  "rows": [
+   {
+    "firstName": "Rahim",
+    "lastName": "Qaderi",
+    "birthday": 336182400000,
+    "locationIP": "125.213.199.242",
+    "browserUsed": "Firefox",
+    "cityId": "place_957",
+    "gender": "female",
+    "creationDate": 1269838041924
+   }
+  ]
+ }
+}

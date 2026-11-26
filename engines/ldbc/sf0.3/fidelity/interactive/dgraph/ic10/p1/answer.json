@@ -1,0 +1,241 @@
+{
+ "query_sha": "d8702ab8a41d1dac",
+ "params": {
+  "personId": "24189255813168",
+  "month": "3"
+ },
+ "data": {
+  "schema_sha256": "03713a1e1c7b722e73bed6b150e079e69e9579c2a58c52e06f9d4384fdd4b80d",
+  "schema_path": "dgraph/schema/ldbcTypes.schema",
+  "sf": "0.3",
+  "created": "2026-11-21T02:56:18Z",
+  "git_sha": "60910999"
+ },
+ "fetched_at": "2026-11-20T23:49:19",
+ "raw": {
+  "_l1": [],
+  "_l2": [],
+  "recs": [
+   {
+    "birthday": "1984-10-14T00:00:00Z",
+    "commonInterestScore": 63,
+    "commonPostCount": 82,
+    "personCityName": "Dengta",
+    "personFirstName": "Wei",
+    "personGender": "female",
+    "personId": 2608,
+    "personLastName": "Zhu",
+    "postCount": 101
+   },
+   {
+    "birthday": "1982-01-30T00:00:00Z",
+    "commonInterestScore": 29,
+    "commonPostCount": 68,
+    "personCityName": "Sucre",
+    "personFirstName": "Andrea",
+    "personGender": "male",
+    "personId": 4398046513186,
+    "personLastName": "Blanco",
+    "postCount": 107
+   },
+   {
+    "birthday": "1985-10-26T00:00:00Z",
+    "commonInterestScore": 28,
+    "commonPostCount": 39,
+    "personCityName": "Baotou",
+    "personFirstName": "Jun",
+    "personGender": "female",
+    "personId": 2199023257939,
+    "personLastName": "Li",
+    "postCount": 50
+   },
+   {
+    "birthday": "1985-11-01T00:00:00Z",
+    "commonInterestScore": 19,
+    "commonPostCount": 23,
+    "personCityName": "Lorena",
+    "personFirstName": "Marcelo",
+    "personGender": "male",
+    "personId": 683,
+    "personLastName": "Oliveira",
+    "postCount": 27
+   },
+   {
+    "birthday": "1981-03-27T00:00:00Z",
+    "commonInterestScore": 17,
+    "commonPostCount": 20,
+    "personCityName": "Changyi",
+    "personFirstName": "Zheng",
+    "personGender": "female",
+    "personId": 26388279068331,
+    "personLastName": "Zhu",
+    "postCount": 23
+   },
+   {
+    "birthday": "1980-10-09T00:00:00Z",
+    "commonInterestScore": 16,
+    "commonPostCount": 357,
+    "personCityName": "Santander",
+    "personFirstName": "Rafael",
+    "personGender": "female",
+    "personId": 2783,
+    "personLastName": "Alonso",
+    "postCount": 698
+   },
+   {
+    "birthday": "1982-05-23T00:00:00Z",
+    "commonInterestScore": 11,
+    "commonPostCount": 17,
+    "personCityName": "Yueyang",
+    "personFirstName": "Jie",
+    "personGender": "male",
+    "personId": 6597069770389,
+    "personLastName": "Xu",
+    "postCount": 23
+   },
+   {
+    "birthday": "1989-05-02T00:00:00Z",
+    "commonInterestScore": 10,
+    "commonPostCount": 15,
+    "personCityName": "Kunming",
+    "personFirstName": "Jie",
+    "personGender": "male",
+    "personId": 24189255811277,
+    "personLastName": "Wei",
+    "postCount": 20
+   },
+   {
+    "birthday": "1980-08-01T00:00:00Z",
+    "commonInterestScore": 7,
+    "commonPostCount": 16,
+    "personCityName": "Vigo",
+    "personFirstName": "Jose",
+    "personGender": "male",
+    "personId": 1793,
+    "personLastName": "Sanchez",
+    "postCount": 25
+   },
+   {
+    "birthday": "1981-03-28T00:00:00Z",
+    "commonInterestScore": 6,
+    "commonPostCount": 6,
+    "personCityName": "Changchun",
+    "personFirstName": "Zhang",
+    "personGender": "male",
+    "personId": 28587302322974,
+    "personLastName": "Li",
+    "postCount": 6
+   },
+   {
+    "birthday": "1980-03-12T00:00:00Z",
+    "commonInterestScore": 5,
+    "commonPostCount": 30,
+    "personCityName": "Anyang",
+    "personFirstName": "Wei",
+    "personGender": "female",
+    "personId": 4398046512904,
+    "personLastName": "Wang",
+    "postCount": 55
+   },
+   {
+    "birthday": "1987-12-31T00:00:00Z",
+    "commonInterestScore": 5,
+    "commonPostCount": 6,
+    "personCityName": "Fuyu",
+    "personFirstName": "Jun",
+    "personGender": "female",
+    "personId": 21990232558703,
+    "personLastName": "Li",
+    "postCount": 7
+   },
+   {
+    "birthday": "1984-02-02T00:00:00Z",
+    "commonInterestScore": 5,
+    "commonPostCount": 5,
+    "personCityName": "\u0110\u1ed3ng_H\u1edbi",
+    "personFirstName": "Hoang Yen",
+    "personGender": "female",
+    "personId": 32985348835374,
+    "personLastName": "Nguyen",
+    "postCount": 5
+   },
+   {
+    "birthday": "1985-08-14T00:00:00Z",
+    "commonInterestScore": 4,
+    "commonPostCount": 23,
+    "personCityName": "Addis_Ababa",
+    "personFirstName": "Aisso",
+    "personGender": "female",
+    "personId": 2199023259354,
+    "personLastName": "Mamo",
+    "postCount": 42
+   },
+   {
+    "birthday": "1989-04-13T00:00:00Z",
+    "commonInterestScore": 4,
+    "commonPostCount": 4,
+    "personCityName": "\u00dcr\u00fcmqi",
+    "personFirstName": "Michael",
+    "personGender": "male",
+    "personId": 6597069767407,
+    "personLastName": "Zhang",
+    "postCount": 4
+   },
+   {
+    "birthday": "1983-08-26T00:00:00Z",
+    "commonInterestScore": 4,
+    "commonPostCount": 9,
+    "personCityName": "Balkumari",
+    "personFirstName": "Jharana Bajracharya Rashid",
+    "personGender": "female",
+    "personId": 6597069769055,
+    "personLastName": "Bombo",
+    "postCount": 14
+   },
+   {
+    "birthday": "1983-07-28T00:00:00Z",
+    "commonInterestScore": 4,
+    "commonPostCount": 8,
+    "personCityName": "Ma_Liu_Shui",
+    "personFirstName": "Stephen",
+    "personGender": "male",
+    "personId": 15393162791186,
+    "personLastName": "Lam",
+    "postCount": 12
+   },
+   {
+    "birthday": "1983-10-10T00:00:00Z",
+    "commonInterestScore": 4,
+    "commonPostCount": 12,
+    "personCityName": "Anning",
+    "personFirstName": "Lin",
+    "personGender": "male",
+    "personId": 24189255812896,
+    "personLastName": "Chen",
+    "postCount": 20
+   },
+   {
+    "birthday": "1982-02-14T00:00:00Z",
+    "commonInterestScore": 4,
+    "commonPostCount": 4,
+    "personCityName": "Anzo\u00e1tegui",
+    "personFirstName": "Patricia",
+    "personGender": "male",
+    "personId": 26388279066868,
+    "personLastName": "Alvarez",
+    "postCount": 4
+   },
+   {
+    "birthday": "1980-05-22T00:00:00Z",
+    "commonInterestScore": 3,
+    "commonPostCount": 24,
+    "personCityName": "Bizerte",
+    "personFirstName": "Mohamed",
+    "personGender": "female",
+    "personId": 2199023257890,
+    "personLastName": "David",
+    "postCount": 45
+   }
+  ]
+ }
+}

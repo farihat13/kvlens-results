@@ -1,0 +1,26 @@
+{
+ "query_sha": "32998970dd90364b",
+ "params": {
+  "personId": "person_8796093023470",
+  "tagClassName": "BasketballPlayer"
+ },
+ "data": {
+  "schema_sha256": "673074740eea54e4ba1fdc94eebf2087531b3007af7da660afffb3d1e8df0d1e",
+  "schema_path": "nebulagraph/schema/schema.gql",
+  "sf": "0.1",
+  "created": "2026-11-21T03:27:06Z",
+  "git_sha": "92777160"
+ },
+ "fetched_at": "2026-11-21T01:06:05",
+ "raw": {
+  "keys": [
+   "friendId",
+   "friendFirstName",
+   "friendLastName",
+   "tagNames",
+   "replyCount",
+   "friendIdInt"
+  ],
+  "rows": []
+ }
+}

@@ -1,0 +1,35 @@
+{
+ "query_sha": "fd0a7e2668f270a0",
+ "params": {
+  "personId": 2199023257277,
+  "startDate": 1304208000000,
+  "durationDays": 37,
+  "countryXName": "Latvia",
+  "countryYName": "Rwanda"
+ },
+ "data_created": "2026-11-21T03:01:29Z",
+ "measured_at": "2026-11-20T23:10:46",
+ "raw": {
+  "get_count": 711292,
+  "get_found_count": 711292,
+  "get_time_ns": 1203544820,
+  "get_bytes": 66453692,
+  "seek_count": 9213,
+  "seek_time_ns": 324972277,
+  "seek_bytes": 423404,
+  "next_count": 338649,
+  "next_time_ns": 38418614,
+  "next_bytes": 18556616,
+  "prev_count": 0,
+  "prev_time_ns": 0,
+  "prev_bytes": 0,
+  "put_count": 0,
+  "put_time_ns": 0,
+  "put_bytes": 0,
+  "delete_count": 0,
+  "delete_time_ns": 0,
+  "delete_bytes": 0,
+  "commit_count": 0,
+  "commit_time_ns": 0
+ }
+}

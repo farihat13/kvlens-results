@@ -1,0 +1,33 @@
+{
+ "query_sha": "a28ac6b26a8dcd82",
+ "params": {
+  "personId": 8796093022749,
+  "countryName": "Bosnia_and_Herzegovina",
+  "workFromYear": 2012
+ },
+ "data_created": "2026-11-21T03:01:29Z",
+ "measured_at": "2026-11-20T23:10:39",
+ "raw": {
+  "get_count": 22426,
+  "get_found_count": 22426,
+  "get_time_ns": 29496145,
+  "get_bytes": 2024926,
+  "seek_count": 3140,
+  "seek_time_ns": 141499738,
+  "seek_bytes": 134343,
+  "next_count": 5681,
+  "next_time_ns": 710247,
+  "next_bytes": 148998,
+  "prev_count": 0,
+  "prev_time_ns": 0,
+  "prev_bytes": 0,
+  "put_count": 0,
+  "put_time_ns": 0,
+  "put_bytes": 0,
+  "delete_count": 0,
+  "delete_time_ns": 0,
+  "delete_bytes": 0,
+  "commit_count": 0,
+  "commit_time_ns": 0
+ }
+}

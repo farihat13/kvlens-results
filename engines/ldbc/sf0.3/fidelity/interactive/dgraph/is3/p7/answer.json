@@ -1,0 +1,84 @@
+{
+ "query_sha": "00f75f489d160871",
+ "params": {
+  "personId": "2199023259063"
+ },
+ "data": {
+  "schema_sha256": "03713a1e1c7b722e73bed6b150e079e69e9579c2a58c52e06f9d4384fdd4b80d",
+  "schema_path": "dgraph/schema/ldbcTypes.schema",
+  "sf": "0.3",
+  "created": "2026-11-21T02:56:18Z",
+  "git_sha": "60910999"
+ },
+ "fetched_at": "2026-11-20T23:54:49",
+ "raw": {
+  "person": [
+   {
+    "knows": [
+     {
+      "friendId": 15393162789093,
+      "friendFirstName": "Rafael",
+      "friendLastName": "Fern\u00e1ndez",
+      "knows|creationDate": "2011-04-24T11:34:23.036+00:00"
+     },
+     {
+      "friendId": 19791209303491,
+      "friendFirstName": "George",
+      "friendLastName": "Nagy",
+      "knows|creationDate": "2011-09-07T10:09:55.255+00:00"
+     },
+     {
+      "friendId": 30786325578932,
+      "friendFirstName": "Alexander",
+      "friendLastName": "Hleb",
+      "knows|creationDate": "2012-06-08T01:55:26.954+00:00"
+     },
+     {
+      "friendId": 26388279066885,
+      "friendFirstName": "Andrei",
+      "friendLastName": "Kahnovich",
+      "knows|creationDate": "2012-03-08T03:27:35.537+00:00"
+     },
+     {
+      "friendId": 21990232556410,
+      "friendFirstName": "Aa Ngurah",
+      "friendLastName": "Gallagher",
+      "knows|creationDate": "2011-09-12T18:36:33.689+00:00"
+     },
+     {
+      "friendId": 17592186047036,
+      "friendFirstName": "Daniil",
+      "friendLastName": "Ivanov",
+      "knows|creationDate": "2011-07-27T01:13:21.948+00:00"
+     },
+     {
+      "friendId": 13194139537008,
+      "friendFirstName": "Ivan Ignatyevich",
+      "friendLastName": "Hleb",
+      "knows|creationDate": "2011-02-02T00:39:38.804+00:00"
+     },
+     {
+      "friendId": 24189255811663,
+      "friendFirstName": "Chris",
+      "friendLastName": "Hall",
+      "knows|creationDate": "2011-12-11T07:48:07.394+00:00"
+     },
+     {
+      "friendId": 21990232557330,
+      "friendFirstName": "Gerhard",
+      "friendLastName": "M\u00fcller",
+      "knows|creationDate": "2011-10-07T03:11:02.016+00:00"
+     }
+    ],
+    "~knows": [
+     {
+      "friendId": 2214,
+      "friendFirstName": "Alexander",
+      "friendLastName": "Ivanov",
+      "~knows|creationDate": "2010-04-18T11:47:12.296+00:00"
+     }
+    ]
+   }
+  ]
+ }
+}

@@ -1,0 +1,241 @@
+{
+ "query_sha": "d8702ab8a41d1dac",
+ "params": {
+  "personId": "15393162789696",
+  "month": "7"
+ },
+ "data": {
+  "schema_sha256": "03713a1e1c7b722e73bed6b150e079e69e9579c2a58c52e06f9d4384fdd4b80d",
+  "schema_path": "dgraph/schema/ldbcTypes.schema",
+  "sf": "0.1",
+  "created": "2026-11-21T03:25:44Z",
+  "git_sha": "92777160"
+ },
+ "fetched_at": "2026-11-21T01:08:21",
+ "raw": {
+  "_l1": [],
+  "_l2": [],
+  "recs": [
+   {
+    "birthday": "1987-05-27T00:00:00Z",
+    "commonInterestScore": 19,
+    "commonPostCount": 37,
+    "personCityName": "Barasat",
+    "personFirstName": "Shweta",
+    "personGender": "male",
+    "personId": 609,
+    "personLastName": "Sharma",
+    "postCount": 55
+   },
+   {
+    "birthday": "1985-07-03T00:00:00Z",
+    "commonInterestScore": 11,
+    "commonPostCount": 17,
+    "personCityName": "Swansea",
+    "personFirstName": "Bryn",
+    "personGender": "male",
+    "personId": 21990232555524,
+    "personLastName": "Davies",
+    "postCount": 23
+   },
+   {
+    "birthday": "1985-05-01T00:00:00Z",
+    "commonInterestScore": 8,
+    "commonPostCount": 8,
+    "personCityName": "\u00dcr\u00fcmqi",
+    "personFirstName": "Chen",
+    "personGender": "female",
+    "personId": 26388279066936,
+    "personLastName": "Zhang",
+    "postCount": 8
+   },
+   {
+    "birthday": "1988-02-24T00:00:00Z",
+    "commonInterestScore": 7,
+    "commonPostCount": 8,
+    "personCityName": "Anqiu",
+    "personFirstName": "Ning",
+    "personGender": "female",
+    "personId": 19791209300961,
+    "personLastName": "Zhang",
+    "postCount": 9
+   },
+   {
+    "birthday": "1981-03-28T00:00:00Z",
+    "commonInterestScore": 3,
+    "commonPostCount": 3,
+    "personCityName": "Grenoble",
+    "personFirstName": "Michel",
+    "personGender": "male",
+    "personId": 32985348834483,
+    "personLastName": "Breton",
+    "postCount": 3
+   },
+   {
+    "birthday": "1985-06-29T00:00:00Z",
+    "commonInterestScore": 1,
+    "commonPostCount": 1,
+    "personCityName": "Iligan",
+    "personFirstName": "Juan",
+    "personGender": "female",
+    "personId": 30786325578737,
+    "personLastName": "Cruz",
+    "postCount": 1
+   },
+   {
+    "birthday": "1983-12-16T00:00:00Z",
+    "commonInterestScore": 0,
+    "commonPostCount": 0,
+    "personCityName": "San_Miguel_de_Tucum\u00e1n",
+    "personFirstName": "Juan",
+    "personGender": "female",
+    "personId": 6597069767375,
+    "personLastName": "Cejas",
+    "postCount": 0
+   },
+   {
+    "birthday": "1985-10-19T00:00:00Z",
+    "commonInterestScore": 0,
+    "commonPostCount": 1,
+    "personCityName": "Oujda",
+    "personFirstName": "Abdessamad",
+    "personGender": "male",
+    "personId": 8796093022975,
+    "personLastName": "Vanunu",
+    "postCount": 2
+   },
+   {
+    "birthday": "1987-01-29T00:00:00Z",
+    "commonInterestScore": 0,
+    "commonPostCount": 0,
+    "personCityName": "Medell\u00edn",
+    "personFirstName": "Alvaro",
+    "personGender": "female",
+    "personId": 8796093022995,
+    "personLastName": "Araujo Castro",
+    "postCount": 0
+   },
+   {
+    "birthday": "1988-10-07T00:00:00Z",
+    "commonInterestScore": 0,
+    "commonPostCount": 6,
+    "personCityName": "Sagamihara",
+    "personFirstName": "Akira",
+    "personGender": "female",
+    "personId": 13194139533439,
+    "personLastName": "Yamamoto",
+    "postCount": 12
+   },
+   {
+    "birthday": "1983-12-21T00:00:00Z",
+    "commonInterestScore": 0,
+    "commonPostCount": 0,
+    "personCityName": "Tlalpan",
+    "personFirstName": "Carlos",
+    "personGender": "male",
+    "personId": 19791209300153,
+    "personLastName": "Abascal",
+    "postCount": 0
+   },
+   {
+    "birthday": "1985-02-20T00:00:00Z",
+    "commonInterestScore": 0,
+    "commonPostCount": 0,
+    "personCityName": "Los_Angeles",
+    "personFirstName": "Robert",
+    "personGender": "male",
+    "personId": 19791209300845,
+    "personLastName": "Smith",
+    "postCount": 0
+   },
+   {
+    "birthday": "1989-10-13T00:00:00Z",
+    "commonInterestScore": 0,
+    "commonPostCount": 0,
+    "personCityName": "Astana",
+    "personFirstName": "Oleg",
+    "personGender": "female",
+    "personId": 21990232555571,
+    "personLastName": "Bazayev",
+    "postCount": 0
+   },
+   {
+    "birthday": "1988-08-22T00:00:00Z",
+    "commonInterestScore": 0,
+    "commonPostCount": 0,
+    "personCityName": "Guadalajara",
+    "personFirstName": "Laura",
+    "personGender": "female",
+    "personId": 21990232555987,
+    "personLastName": "Mendez",
+    "postCount": 0
+   },
+   {
+    "birthday": "1989-01-10T00:00:00Z",
+    "commonInterestScore": 0,
+    "commonPostCount": 0,
+    "personCityName": "Banda_Aceh",
+    "personFirstName": "Ahmad Rafiq",
+    "personGender": "male",
+    "personId": 24189255812419,
+    "personLastName": "Irama",
+    "postCount": 0
+   },
+   {
+    "birthday": "1988-04-21T00:00:00Z",
+    "commonInterestScore": 0,
+    "commonPostCount": 0,
+    "personCityName": "Sapporo",
+    "personFirstName": "Koji",
+    "personGender": "female",
+    "personId": 24189255812662,
+    "personLastName": "Nakamura",
+    "postCount": 0
+   },
+   {
+    "birthday": "1986-09-28T00:00:00Z",
+    "commonInterestScore": 0,
+    "commonPostCount": 0,
+    "personCityName": "Coventry",
+    "personFirstName": "George",
+    "personGender": "female",
+    "personId": 26388279066764,
+    "personLastName": "Jones",
+    "postCount": 0
+   },
+   {
+    "birthday": "1988-03-27T00:00:00Z",
+    "commonInterestScore": 0,
+    "commonPostCount": 1,
+    "personCityName": "Shanxi",
+    "personFirstName": "Jun",
+    "personGender": "female",
+    "personId": 26388279068220,
+    "personLastName": "Wang",
+    "postCount": 2
+   },
+   {
+    "birthday": "1986-05-19T00:00:00Z",
+    "commonInterestScore": 0,
+    "commonPostCount": 0,
+    "personCityName": "Los_Angeles",
+    "personFirstName": "James",
+    "personGender": "male",
+    "personId": 26388279068235,
+    "personLastName": "Wilson",
+    "postCount": 0
+   },
+   {
+    "birthday": "1980-04-16T00:00:00Z",
+    "commonInterestScore": 0,
+    "commonPostCount": 0,
+    "personCityName": "Feira_de_Santana",
+    "personFirstName": "Jose",
+    "personGender": "male",
+    "personId": 28587302322741,
+    "personLastName": "Silva",
+    "postCount": 0
+   }
+  ]
+ }
+}

@@ -1,0 +1,28 @@
+{
+ "query_sha": "6f63960c0f9c5e7e",
+ "params": {
+  "personId": "1129"
+ },
+ "data": {
+  "schema_sha256": "03713a1e1c7b722e73bed6b150e079e69e9579c2a58c52e06f9d4384fdd4b80d",
+  "schema_path": "dgraph/schema/ldbcTypes.schema",
+  "sf": "0.3",
+  "created": "2026-11-21T02:56:18Z",
+  "git_sha": "60910999"
+ },
+ "fetched_at": "2026-11-20T23:59:58",
+ "raw": {
+  "person": [
+   {
+    "birthday": "1984-02-18T00:00:00Z",
+    "browserUsed": "Internet Explorer",
+    "cityId": 519,
+    "creationDate": "2010-01-28T06:39:58.781Z",
+    "firstName": "Carmen",
+    "gender": "female",
+    "lastName": "Lepland",
+    "locationIP": "195.20.151.175"
+   }
+  ]
+ }
+}

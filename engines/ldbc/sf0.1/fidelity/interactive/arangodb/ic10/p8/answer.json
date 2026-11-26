@@ -1,0 +1,97 @@
+{
+ "query_sha": "c20c841713234a9d",
+ "params": {
+  "personId": 19791209300317,
+  "month": 1
+ },
+ "data": {
+  "schema_sha256": "b8e206f17e60692c830ba0c3c675fbc481a22f26011282ce523890eb09be8a74",
+  "schema_path": "arangodb/schema/ldbc_schema.json",
+  "sf": "0.1",
+  "created": "2026-11-21T03:27:46Z",
+  "git_sha": "92777160"
+ },
+ "fetched_at": "2026-11-21T01:06:49",
+ "raw": [
+  {
+   "personId": 28587302322327,
+   "personFirstName": "Mamoon Eshaq 0",
+   "personLastName": "Amin",
+   "commonInterestScore": -2,
+   "personGender": "male",
+   "personCityName": "Gard\u0113z"
+  },
+  {
+   "personId": 6597069766719,
+   "personFirstName": "Fritz",
+   "personLastName": "Engel",
+   "commonInterestScore": -6,
+   "personGender": "female",
+   "personCityName": "M\u00f6ckern"
+  },
+  {
+   "personId": 26388279067671,
+   "personFirstName": "Robert",
+   "personLastName": "Carter",
+   "commonInterestScore": -7,
+   "personGender": "male",
+   "personCityName": "San_Diego"
+  },
+  {
+   "personId": 21990232556585,
+   "personFirstName": "Faisal",
+   "personLastName": "Malik",
+   "commonInterestScore": -9,
+   "personGender": "male",
+   "personCityName": "Jamshoro"
+  },
+  {
+   "personId": 15393162788865,
+   "personFirstName": "Evangelos",
+   "personLastName": "Alkaios",
+   "commonInterestScore": -11,
+   "personGender": "male",
+   "personCityName": "Larissa"
+  },
+  {
+   "personId": 4398046511845,
+   "personFirstName": "Ning",
+   "personLastName": "Zhang",
+   "commonInterestScore": -14,
+   "personGender": "female",
+   "personCityName": "Anqing"
+  },
+  {
+   "personId": 17592186046110,
+   "personFirstName": "Carlos",
+   "personLastName": "Fernandez",
+   "commonInterestScore": -14,
+   "personGender": "male",
+   "personCityName": "Santiago_de_Cuba"
+  },
+  {
+   "personId": 378,
+   "personFirstName": "Wilhelm",
+   "personLastName": "Muller",
+   "commonInterestScore": -27,
+   "personGender": "male",
+   "personCityName": "Berlin"
+  },
+  {
+   "personId": 21990232556811,
+   "personFirstName": "Bruna",
+   "personLastName": "Costa",
+   "commonInterestScore": -58,
+   "personGender": "male",
+   "personCityName": "Santa_Maria"
+  },
+  {
+   "personId": 30786325579121,
+   "personFirstName": "Abdul Rahman",
+   "personLastName": "Rafiq",
+   "commonInterestScore": -59,
+   "personGender": "male",
+   "personCityName": "Badung_Regency"
+  }
+ ]
+}

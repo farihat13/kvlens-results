@@ -1,0 +1,93 @@
+{
+ "query_sha": "6935170dcded2085",
+ "params": {
+  "messageId": "687195057240"
+ },
+ "data": {
+  "schema_sha256": "03713a1e1c7b722e73bed6b150e079e69e9579c2a58c52e06f9d4384fdd4b80d",
+  "schema_path": "dgraph/schema/ldbcTypes.schema",
+  "sf": "0.1",
+  "created": "2026-11-21T03:25:44Z",
+  "git_sha": "92777160"
+ },
+ "fetched_at": "2026-11-21T01:08:54",
+ "raw": {
+  "origAuthor": [
+   {
+    "origAuthorId": 15393162790438
+   }
+  ],
+  "replies": [
+   {
+    "commentContent": "no way!",
+    "commentCreationDate": "2011-11-04T01:21:09.836Z",
+    "commentId": 687195057241,
+    "knowsCount": 1,
+    "knowsCount2": 0,
+    "replyAuthorFirstName": "Ibrahim Bare",
+    "replyAuthorId": 2199023256077,
+    "replyAuthorLastName": "Ousmane"
+   },
+   {
+    "commentContent": "I see",
+    "commentCreationDate": "2011-11-04T00:40:57.584Z",
+    "commentId": 687195057242,
+    "knowsCount": 1,
+    "knowsCount2": 0,
+    "replyAuthorFirstName": "Konstantinos",
+    "replyAuthorId": 8796093023550,
+    "replyAuthorLastName": "Angello"
+   },
+   {
+    "commentContent": "About Bryan Adams, ammy Award nominations including a win for About Zachary Taylor, R",
+    "commentCreationDate": "2011-11-03T12:02:52.276Z",
+    "commentId": 687195057243,
+    "knowsCount": 1,
+    "knowsCount2": 0,
+    "replyAuthorFirstName": "Evangelos",
+    "replyAuthorId": 8796093023851,
+    "replyAuthorLastName": "Dionysiou"
+   },
+   {
+    "commentContent": "no way!",
+    "commentCreationDate": "2011-11-03T10:11:16.048Z",
+    "commentId": 687195057247,
+    "knowsCount": 1,
+    "knowsCount2": 0,
+    "replyAuthorFirstName": "Edward",
+    "replyAuthorId": 6597069768211,
+    "replyAuthorLastName": "Ouma"
+   },
+   {
+    "commentContent": "right",
+    "commentCreationDate": "2011-11-03T10:06:11.238Z",
+    "commentId": 687195057254,
+    "knowsCount": 0,
+    "knowsCount2": 1,
+    "replyAuthorFirstName": "Giorgos",
+    "replyAuthorId": 19791209301121,
+    "replyAuthorLastName": "Ioannidis"
+   },
+   {
+    "commentContent": "ok",
+    "commentCreationDate": "2011-11-03T07:13:10.205Z",
+    "commentId": 687195057248,
+    "knowsCount": 1,
+    "knowsCount2": 0,
+    "replyAuthorFirstName": "Konstantinos",
+    "replyAuthorId": 2199023255952,
+    "replyAuthorLastName": "Antoniou"
+   },
+   {
+    "commentContent": "I see",
+    "commentCreationDate": "2011-11-03T02:34:16.122Z",
+    "commentId": 687195057250,
+    "knowsCount": 1,
+    "knowsCount2": 0,
+    "replyAuthorFirstName": "Edward",
+    "replyAuthorId": 6597069768211,
+    "replyAuthorLastName": "Ouma"
+   }
+  ]
+ }
+}

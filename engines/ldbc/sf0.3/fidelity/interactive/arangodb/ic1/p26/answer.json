@@ -1,0 +1,164 @@
+{
+ "query_sha": "758b65813d7ffbd6",
+ "params": {
+  "personId": 8796093022749,
+  "firstName": "Ahmad Rafiq"
+ },
+ "data": {
+  "schema_sha256": "b8e206f17e60692c830ba0c3c675fbc481a22f26011282ce523890eb09be8a74",
+  "schema_path": "arangodb/schema/ldbc_schema.json",
+  "sf": "0.3",
+  "created": "2026-11-21T03:01:29Z",
+  "git_sha": "60910999"
+ },
+ "fetched_at": "2026-11-21T00:04:12",
+ "raw": [
+  {
+   "friendId": 17592186047098,
+   "friendLastName": "Anwar",
+   "distanceFromPerson": 2,
+   "friendBirthday": 530841600000,
+   "friendCreationDate": 1305175574040,
+   "friendGender": "male",
+   "friendBrowserUsed": "Firefox",
+   "friendLocationIp": "27.121.83.35",
+   "friendEmails": [
+    "Ahmad.Rafiq17592186047098@gmail.com",
+    "Ahmad.Rafiq17592186047098@gmx.com",
+    "Ahmad.Rafiq17592186047098@whoever.com"
+   ],
+   "friendLanguages": [
+    "jv",
+    "en"
+   ],
+   "friendCityName": "Jimbaran",
+   "friendUniversities": [
+    [
+     "Mount_Klabat_College",
+     2006,
+     "Manado"
+    ]
+   ],
+   "friendCompanies": []
+  },
+  {
+   "friendId": 24189255812419,
+   "friendLastName": "Irama",
+   "distanceFromPerson": 2,
+   "friendBirthday": 600393600000,
+   "friendCreationDate": 1324630205545,
+   "friendGender": "male",
+   "friendBrowserUsed": "Chrome",
+   "friendLocationIp": "103.22.165.62",
+   "friendEmails": [
+    "Ahmad.Rafiq24189255812419@gmail.com",
+    "Ahmad.Rafiq24189255812419@yahoo.com"
+   ],
+   "friendLanguages": [
+    "jv",
+    "nl",
+    "en"
+   ],
+   "friendCityName": "Banda_Aceh",
+   "friendUniversities": [
+    [
+     "Trunojoyo_University",
+     2010,
+     "Bangkalan"
+    ]
+   ],
+   "friendCompanies": [
+    [
+     "Pelita_Air_Service",
+     2011,
+     "Indonesia"
+    ]
+   ]
+  },
+  {
+   "friendId": 15393162792659,
+   "friendLastName": "Balawan",
+   "distanceFromPerson": 3,
+   "friendBirthday": 408931200000,
+   "friendCreationDate": 1299683109458,
+   "friendGender": "male",
+   "friendBrowserUsed": "Firefox",
+   "friendLocationIp": "101.255.118.75",
+   "friendEmails": [
+    "Ahmad.Rafiq15393162792659@gmail.com"
+   ],
+   "friendLanguages": [
+    "nl",
+    "jv",
+    "en"
+   ],
+   "friendCityName": "Ambon",
+   "friendUniversities": [],
+   "friendCompanies": [
+    [
+     "Republic_Express_Airlines",
+     2009,
+     "Indonesia"
+    ],
+    [
+     "Lion_Air",
+     2009,
+     "Indonesia"
+    ],
+    [
+     "Kal_Star_Aviation",
+     2003,
+     "Indonesia"
+    ],
+    [
+     "Jatayu_Airlines",
+     2009,
+     "Indonesia"
+    ]
+   ]
+  },
+  {
+   "friendId": 2199023255821,
+   "friendLastName": "Irama",
+   "distanceFromPerson": 3,
+   "friendBirthday": 442454400000,
+   "friendCreationDate": 1269760613514,
+   "friendGender": "male",
+   "friendBrowserUsed": "Firefox",
+   "friendLocationIp": "58.145.168.50",
+   "friendEmails": [
+    "Ahmad.Rafiq2199023255821@gmail.com",
+    "Ahmad.Rafiq2199023255821@yahoo.com"
+   ],
+   "friendLanguages": [
+    "en",
+    "jv"
+   ],
+   "friendCityName": "Tangerang",
+   "friendUniversities": [
+    [
+     "Trunojoyo_University",
+     2005,
+     "Bangkalan"
+    ]
+   ],
+   "friendCompanies": [
+    [
+     "Citilink",
+     2005,
+     "Indonesia"
+    ],
+    [
+     "Wings_Abadi_Air",
+     2005,
+     "Indonesia"
+    ],
+    [
+     "Premiair",
+     2006,
+     "Indonesia"
+    ]
+   ]
+  }
+ ]
+}

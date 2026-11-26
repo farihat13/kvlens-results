@@ -1,0 +1,64 @@
+{
+ "query_sha": "e01ceefb030376e2",
+ "params": {
+  "personId": "person_8796093025406",
+  "startDate": 1335830400000,
+  "endDate": 1339113600000
+ },
+ "data": {
+  "schema_sha256": "673074740eea54e4ba1fdc94eebf2087531b3007af7da660afffb3d1e8df0d1e",
+  "schema_path": "nebulagraph/schema/schema.gql",
+  "sf": "0.3",
+  "created": "2026-11-21T03:42:54Z",
+  "git_sha": "1d6662c2"
+ },
+ "fetched_at": "2026-11-21T00:07:21",
+ "raw": {
+  "keys": [
+   "tagName",
+   "postCount"
+  ],
+  "rows": [
+   {
+    "tagName": "Imelda_Marcos",
+    "postCount": 111
+   },
+   {
+    "tagName": "Manuel_Noriega",
+    "postCount": 69
+   },
+   {
+    "tagName": "Alejandro_Falla",
+    "postCount": 7
+   },
+   {
+    "tagName": "Hassan_II_of_Morocco",
+    "postCount": 5
+   },
+   {
+    "tagName": "25_or_6_to_4",
+    "postCount": 1
+   },
+   {
+    "tagName": "A_Little_Bitty_Tear",
+    "postCount": 1
+   },
+   {
+    "tagName": "A_Little_Good_News",
+    "postCount": 1
+   },
+   {
+    "tagName": "A_Real_Diamond_in_the_Rough",
+    "postCount": 1
+   },
+   {
+    "tagName": "A_Whiter_Shade_of_Pale",
+    "postCount": 1
+   },
+   {
+    "tagName": "Advance_and_Vanquish",
+    "postCount": 1
+   }
+  ]
+ }
+}

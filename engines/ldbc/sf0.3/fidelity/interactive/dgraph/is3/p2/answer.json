@@ -1,0 +1,78 @@
+{
+ "query_sha": "00f75f489d160871",
+ "params": {
+  "personId": "2199023259220"
+ },
+ "data": {
+  "schema_sha256": "03713a1e1c7b722e73bed6b150e079e69e9579c2a58c52e06f9d4384fdd4b80d",
+  "schema_path": "dgraph/schema/ldbcTypes.schema",
+  "sf": "0.3",
+  "created": "2026-11-21T02:56:18Z",
+  "git_sha": "60910999"
+ },
+ "fetched_at": "2026-11-20T23:52:58",
+ "raw": {
+  "person": [
+   {
+    "knows": [
+     {
+      "friendId": 4398046514593,
+      "friendFirstName": "Aamer",
+      "friendLastName": "Qureshi",
+      "knows|creationDate": "2010-07-21T19:00:43.086+00:00"
+     },
+     {
+      "friendId": 32985348834483,
+      "friendFirstName": "Michel",
+      "friendLastName": "Breton",
+      "knows|creationDate": "2012-08-18T14:58:19.089+00:00"
+     },
+     {
+      "friendId": 32985348833548,
+      "friendFirstName": "Aleksandr",
+      "friendLastName": "Bajt",
+      "knows|creationDate": "2012-08-06T07:22:15.772+00:00"
+     },
+     {
+      "friendId": 24189255814531,
+      "friendFirstName": "Aharon",
+      "friendLastName": "Bouzid",
+      "knows|creationDate": "2012-01-11T09:13:54.602+00:00"
+     },
+     {
+      "friendId": 30786325580396,
+      "friendFirstName": "Zaenal",
+      "friendLastName": "Balawan",
+      "knows|creationDate": "2012-06-08T12:15:08.639+00:00"
+     },
+     {
+      "friendId": 17592186048261,
+      "friendFirstName": "Anna",
+      "friendLastName": "Kogan",
+      "knows|creationDate": "2011-07-11T19:08:42.367+00:00"
+     },
+     {
+      "friendId": 24189255811566,
+      "friendFirstName": "The",
+      "friendLastName": "Kunda",
+      "knows|creationDate": "2011-12-26T22:15:04.127+00:00"
+     },
+     {
+      "friendId": 10995116280854,
+      "friendFirstName": "Abdul Rahman",
+      "friendLastName": "Budjana",
+      "knows|creationDate": "2010-12-28T11:44:49.857+00:00"
+     }
+    ],
+    "~knows": [
+     {
+      "friendId": 296,
+      "friendFirstName": "Zaenal",
+      "friendLastName": "Gallagher",
+      "~knows|creationDate": "2010-04-11T20:21:22.015+00:00"
+     }
+    ]
+   }
+  ]
+ }
+}

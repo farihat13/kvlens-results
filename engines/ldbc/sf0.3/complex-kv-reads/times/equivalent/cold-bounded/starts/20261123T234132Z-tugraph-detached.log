@@ -1,0 +1,330 @@
+== [tugraph-detached] start (engine backup, sf0.3) via engines/tugraph/start-server.sh ==
+== [hook LC_PRE_RESTORE_CHECK] source 'engines/provenance.sh' && check_provenance tugraph-detached
+   provenance OK (schema sha256 ae8ceafff04b…)
+=== Stopping TuGraph, restoring the backup (engines/tugraph/backup/runs-sf0.3-detached) ===
+TuGraph stopped
+=== Starting TuGraph 4.5.2 as tugraph-detached (REST 7070, counters 7072; detach_property=true) ===
+pinned: lgraph_server (pid 2663875) on CPU 4
+== [hook LC_POST_START_CHECK] 'engines/../.venv/bin/python3' 'engines/tugraph/scripts/check_load.py' --expected 'engines/tugraph/backup/runs-sf0.3-detached/expected_rows.tsv' --schema 'engines/tugraph/schema/ldbc_import.json' --no-rows
+check_load: 0 labels and 12 indexes checked, 0 differ
+=== TuGraph up as tugraph-detached on its backup (sf0.3). ===
+== engine up: tugraph-detached (sf0.3) at the .env-declared operating point (dgraph: ineq=index, localcache=disable). ==
+== [tugraph-detached] start (engine backup, sf0.3) via engines/tugraph/start-server.sh ==
+== [hook LC_PRE_RESTORE_CHECK] source 'engines/provenance.sh' && check_provenance tugraph-detached
+   provenance OK (schema sha256 ae8ceafff04b…)
+=== Stopping TuGraph, restoring the backup (engines/tugraph/backup/runs-sf0.3-detached) ===
+TuGraph stopped
+=== Starting TuGraph 4.5.2 as tugraph-detached (REST 7070, counters 7072; detach_property=true) ===
+pinned: lgraph_server (pid 2664119) on CPU 4
+== [hook LC_POST_START_CHECK] 'engines/../.venv/bin/python3' 'engines/tugraph/scripts/check_load.py' --expected 'engines/tugraph/backup/runs-sf0.3-detached/expected_rows.tsv' --schema 'engines/tugraph/schema/ldbc_import.json' --no-rows
+check_load: 0 labels and 12 indexes checked, 0 differ
+=== TuGraph up as tugraph-detached on its backup (sf0.3). ===
+== engine up: tugraph-detached (sf0.3) at the .env-declared operating point (dgraph: ineq=index, localcache=disable). ==
+== [tugraph-detached] start (engine backup, sf0.3) via engines/tugraph/start-server.sh ==
+== [hook LC_PRE_RESTORE_CHECK] source 'engines/provenance.sh' && check_provenance tugraph-detached
+   provenance OK (schema sha256 ae8ceafff04b…)
+=== Stopping TuGraph, restoring the backup (engines/tugraph/backup/runs-sf0.3-detached) ===
+TuGraph stopped
+=== Starting TuGraph 4.5.2 as tugraph-detached (REST 7070, counters 7072; detach_property=true) ===
+pinned: lgraph_server (pid 2664364) on CPU 4
+== [hook LC_POST_START_CHECK] 'engines/../.venv/bin/python3' 'engines/tugraph/scripts/check_load.py' --expected 'engines/tugraph/backup/runs-sf0.3-detached/expected_rows.tsv' --schema 'engines/tugraph/schema/ldbc_import.json' --no-rows
+check_load: 0 labels and 12 indexes checked, 0 differ
+=== TuGraph up as tugraph-detached on its backup (sf0.3). ===
+== engine up: tugraph-detached (sf0.3) at the .env-declared operating point (dgraph: ineq=index, localcache=disable). ==
+== [tugraph-detached] start (engine backup, sf0.3) via engines/tugraph/start-server.sh ==
+== [hook LC_PRE_RESTORE_CHECK] source 'engines/provenance.sh' && check_provenance tugraph-detached
+   provenance OK (schema sha256 ae8ceafff04b…)
+=== Stopping TuGraph, restoring the backup (engines/tugraph/backup/runs-sf0.3-detached) ===
+TuGraph stopped
+=== Starting TuGraph 4.5.2 as tugraph-detached (REST 7070, counters 7072; detach_property=true) ===
+pinned: lgraph_server (pid 2664607) on CPU 4
+== [hook LC_POST_START_CHECK] 'engines/../.venv/bin/python3' 'engines/tugraph/scripts/check_load.py' --expected 'engines/tugraph/backup/runs-sf0.3-detached/expected_rows.tsv' --schema 'engines/tugraph/schema/ldbc_import.json' --no-rows
+check_load: 0 labels and 12 indexes checked, 0 differ
+=== TuGraph up as tugraph-detached on its backup (sf0.3). ===
+== engine up: tugraph-detached (sf0.3) at the .env-declared operating point (dgraph: ineq=index, localcache=disable). ==
+== [tugraph-detached] start (engine backup, sf0.3) via engines/tugraph/start-server.sh ==
+== [hook LC_PRE_RESTORE_CHECK] source 'engines/provenance.sh' && check_provenance tugraph-detached
+   provenance OK (schema sha256 ae8ceafff04b…)
+=== Stopping TuGraph, restoring the backup (engines/tugraph/backup/runs-sf0.3-detached) ===
+TuGraph stopped
+=== Starting TuGraph 4.5.2 as tugraph-detached (REST 7070, counters 7072; detach_property=true) ===
+pinned: lgraph_server (pid 2664850) on CPU 4
+== [hook LC_POST_START_CHECK] 'engines/../.venv/bin/python3' 'engines/tugraph/scripts/check_load.py' --expected 'engines/tugraph/backup/runs-sf0.3-detached/expected_rows.tsv' --schema 'engines/tugraph/schema/ldbc_import.json' --no-rows
+check_load: 0 labels and 12 indexes checked, 0 differ
+=== TuGraph up as tugraph-detached on its backup (sf0.3). ===
+== engine up: tugraph-detached (sf0.3) at the .env-declared operating point (dgraph: ineq=index, localcache=disable). ==
+== [tugraph-detached] start (engine backup, sf0.3) via engines/tugraph/start-server.sh ==
+== [hook LC_PRE_RESTORE_CHECK] source 'engines/provenance.sh' && check_provenance tugraph-detached
+   provenance OK (schema sha256 ae8ceafff04b…)
+=== Stopping TuGraph, restoring the backup (engines/tugraph/backup/runs-sf0.3-detached) ===
+TuGraph stopped
+=== Starting TuGraph 4.5.2 as tugraph-detached (REST 7070, counters 7072; detach_property=true) ===
+pinned: lgraph_server (pid 2665096) on CPU 4
+== [hook LC_POST_START_CHECK] 'engines/../.venv/bin/python3' 'engines/tugraph/scripts/check_load.py' --expected 'engines/tugraph/backup/runs-sf0.3-detached/expected_rows.tsv' --schema 'engines/tugraph/schema/ldbc_import.json' --no-rows
+check_load: 0 labels and 12 indexes checked, 0 differ
+=== TuGraph up as tugraph-detached on its backup (sf0.3). ===
+== engine up: tugraph-detached (sf0.3) at the .env-declared operating point (dgraph: ineq=index, localcache=disable). ==
+== [tugraph-detached] start (engine backup, sf0.3) via engines/tugraph/start-server.sh ==
+== [hook LC_PRE_RESTORE_CHECK] source 'engines/provenance.sh' && check_provenance tugraph-detached
+   provenance OK (schema sha256 ae8ceafff04b…)
+=== Stopping TuGraph, restoring the backup (engines/tugraph/backup/runs-sf0.3-detached) ===
+TuGraph stopped
+=== Starting TuGraph 4.5.2 as tugraph-detached (REST 7070, counters 7072; detach_property=true) ===
+pinned: lgraph_server (pid 2665352) on CPU 4
+== [hook LC_POST_START_CHECK] 'engines/../.venv/bin/python3' 'engines/tugraph/scripts/check_load.py' --expected 'engines/tugraph/backup/runs-sf0.3-detached/expected_rows.tsv' --schema 'engines/tugraph/schema/ldbc_import.json' --no-rows
+check_load: 0 labels and 12 indexes checked, 0 differ
+=== TuGraph up as tugraph-detached on its backup (sf0.3). ===
+== engine up: tugraph-detached (sf0.3) at the .env-declared operating point (dgraph: ineq=index, localcache=disable). ==
+== [tugraph-detached] start (engine backup, sf0.3) via engines/tugraph/start-server.sh ==
+== [hook LC_PRE_RESTORE_CHECK] source 'engines/provenance.sh' && check_provenance tugraph-detached
+   provenance OK (schema sha256 ae8ceafff04b…)
+=== Stopping TuGraph, restoring the backup (engines/tugraph/backup/runs-sf0.3-detached) ===
+TuGraph stopped
+=== Starting TuGraph 4.5.2 as tugraph-detached (REST 7070, counters 7072; detach_property=true) ===
+pinned: lgraph_server (pid 2665595) on CPU 4
+== [hook LC_POST_START_CHECK] 'engines/../.venv/bin/python3' 'engines/tugraph/scripts/check_load.py' --expected 'engines/tugraph/backup/runs-sf0.3-detached/expected_rows.tsv' --schema 'engines/tugraph/schema/ldbc_import.json' --no-rows
+check_load: 0 labels and 12 indexes checked, 0 differ
+=== TuGraph up as tugraph-detached on its backup (sf0.3). ===
+== engine up: tugraph-detached (sf0.3) at the .env-declared operating point (dgraph: ineq=index, localcache=disable). ==
+== [tugraph-detached] start (engine backup, sf0.3) via engines/tugraph/start-server.sh ==
+== [hook LC_PRE_RESTORE_CHECK] source 'engines/provenance.sh' && check_provenance tugraph-detached
+   provenance OK (schema sha256 ae8ceafff04b…)
+=== Stopping TuGraph, restoring the backup (engines/tugraph/backup/runs-sf0.3-detached) ===
+TuGraph stopped
+=== Starting TuGraph 4.5.2 as tugraph-detached (REST 7070, counters 7072; detach_property=true) ===
+pinned: lgraph_server (pid 2665840) on CPU 4
+== [hook LC_POST_START_CHECK] 'engines/../.venv/bin/python3' 'engines/tugraph/scripts/check_load.py' --expected 'engines/tugraph/backup/runs-sf0.3-detached/expected_rows.tsv' --schema 'engines/tugraph/schema/ldbc_import.json' --no-rows
+check_load: 0 labels and 12 indexes checked, 0 differ
+=== TuGraph up as tugraph-detached on its backup (sf0.3). ===
+== engine up: tugraph-detached (sf0.3) at the .env-declared operating point (dgraph: ineq=index, localcache=disable). ==
+== [tugraph-detached] start (engine backup, sf0.3) via engines/tugraph/start-server.sh ==
+== [hook LC_PRE_RESTORE_CHECK] source 'engines/provenance.sh' && check_provenance tugraph-detached
+   provenance OK (schema sha256 ae8ceafff04b…)
+=== Stopping TuGraph, restoring the backup (engines/tugraph/backup/runs-sf0.3-detached) ===
+TuGraph stopped
+=== Starting TuGraph 4.5.2 as tugraph-detached (REST 7070, counters 7072; detach_property=true) ===
+pinned: lgraph_server (pid 2666082) on CPU 4
+== [hook LC_POST_START_CHECK] 'engines/../.venv/bin/python3' 'engines/tugraph/scripts/check_load.py' --expected 'engines/tugraph/backup/runs-sf0.3-detached/expected_rows.tsv' --schema 'engines/tugraph/schema/ldbc_import.json' --no-rows
+check_load: 0 labels and 12 indexes checked, 0 differ
+=== TuGraph up as tugraph-detached on its backup (sf0.3). ===
+== engine up: tugraph-detached (sf0.3) at the .env-declared operating point (dgraph: ineq=index, localcache=disable). ==
+== [tugraph-detached] start (engine backup, sf0.3) via engines/tugraph/start-server.sh ==
+== [hook LC_PRE_RESTORE_CHECK] source 'engines/provenance.sh' && check_provenance tugraph-detached
+   provenance OK (schema sha256 ae8ceafff04b…)
+=== Stopping TuGraph, restoring the backup (engines/tugraph/backup/runs-sf0.3-detached) ===
+TuGraph stopped
+=== Starting TuGraph 4.5.2 as tugraph-detached (REST 7070, counters 7072; detach_property=true) ===
+pinned: lgraph_server (pid 2666333) on CPU 4
+== [hook LC_POST_START_CHECK] 'engines/../.venv/bin/python3' 'engines/tugraph/scripts/check_load.py' --expected 'engines/tugraph/backup/runs-sf0.3-detached/expected_rows.tsv' --schema 'engines/tugraph/schema/ldbc_import.json' --no-rows
+check_load: 0 labels and 12 indexes checked, 0 differ
+=== TuGraph up as tugraph-detached on its backup (sf0.3). ===
+== engine up: tugraph-detached (sf0.3) at the .env-declared operating point (dgraph: ineq=index, localcache=disable). ==
+== [tugraph-detached] start (engine backup, sf0.3) via engines/tugraph/start-server.sh ==
+== [hook LC_PRE_RESTORE_CHECK] source 'engines/provenance.sh' && check_provenance tugraph-detached
+   provenance OK (schema sha256 ae8ceafff04b…)
+=== Stopping TuGraph, restoring the backup (engines/tugraph/backup/runs-sf0.3-detached) ===
+TuGraph stopped
+=== Starting TuGraph 4.5.2 as tugraph-detached (REST 7070, counters 7072; detach_property=true) ===
+pinned: lgraph_server (pid 2666578) on CPU 4
+== [hook LC_POST_START_CHECK] 'engines/../.venv/bin/python3' 'engines/tugraph/scripts/check_load.py' --expected 'engines/tugraph/backup/runs-sf0.3-detached/expected_rows.tsv' --schema 'engines/tugraph/schema/ldbc_import.json' --no-rows
+check_load: 0 labels and 12 indexes checked, 0 differ
+=== TuGraph up as tugraph-detached on its backup (sf0.3). ===
+== engine up: tugraph-detached (sf0.3) at the .env-declared operating point (dgraph: ineq=index, localcache=disable). ==
+== [tugraph-detached] start (engine backup, sf0.3) via engines/tugraph/start-server.sh ==
+== [hook LC_PRE_RESTORE_CHECK] source 'engines/provenance.sh' && check_provenance tugraph-detached
+   provenance OK (schema sha256 ae8ceafff04b…)
+=== Stopping TuGraph, restoring the backup (engines/tugraph/backup/runs-sf0.3-detached) ===
+TuGraph stopped
+=== Starting TuGraph 4.5.2 as tugraph-detached (REST 7070, counters 7072; detach_property=true) ===
+pinned: lgraph_server (pid 2666821) on CPU 4
+== [hook LC_POST_START_CHECK] 'engines/../.venv/bin/python3' 'engines/tugraph/scripts/check_load.py' --expected 'engines/tugraph/backup/runs-sf0.3-detached/expected_rows.tsv' --schema 'engines/tugraph/schema/ldbc_import.json' --no-rows
+check_load: 0 labels and 12 indexes checked, 0 differ
+=== TuGraph up as tugraph-detached on its backup (sf0.3). ===
+== engine up: tugraph-detached (sf0.3) at the .env-declared operating point (dgraph: ineq=index, localcache=disable). ==
+== [tugraph-detached] start (engine backup, sf0.3) via engines/tugraph/start-server.sh ==
+== [hook LC_PRE_RESTORE_CHECK] source 'engines/provenance.sh' && check_provenance tugraph-detached
+   provenance OK (schema sha256 ae8ceafff04b…)
+=== Stopping TuGraph, restoring the backup (engines/tugraph/backup/runs-sf0.3-detached) ===
+TuGraph stopped
+=== Starting TuGraph 4.5.2 as tugraph-detached (REST 7070, counters 7072; detach_property=true) ===
+pinned: lgraph_server (pid 2667099) on CPU 4
+== [hook LC_POST_START_CHECK] 'engines/../.venv/bin/python3' 'engines/tugraph/scripts/check_load.py' --expected 'engines/tugraph/backup/runs-sf0.3-detached/expected_rows.tsv' --schema 'engines/tugraph/schema/ldbc_import.json' --no-rows
+check_load: 0 labels and 12 indexes checked, 0 differ
+=== TuGraph up as tugraph-detached on its backup (sf0.3). ===
+== engine up: tugraph-detached (sf0.3) at the .env-declared operating point (dgraph: ineq=index, localcache=disable). ==
+== [tugraph-detached] start (engine backup, sf0.3) via engines/tugraph/start-server.sh ==
+== [hook LC_PRE_RESTORE_CHECK] source 'engines/provenance.sh' && check_provenance tugraph-detached
+   provenance OK (schema sha256 ae8ceafff04b…)
+=== Stopping TuGraph, restoring the backup (engines/tugraph/backup/runs-sf0.3-detached) ===
+TuGraph stopped
+=== Starting TuGraph 4.5.2 as tugraph-detached (REST 7070, counters 7072; detach_property=true) ===
+pinned: lgraph_server (pid 2667342) on CPU 4
+== [hook LC_POST_START_CHECK] 'engines/../.venv/bin/python3' 'engines/tugraph/scripts/check_load.py' --expected 'engines/tugraph/backup/runs-sf0.3-detached/expected_rows.tsv' --schema 'engines/tugraph/schema/ldbc_import.json' --no-rows
+check_load: 0 labels and 12 indexes checked, 0 differ
+=== TuGraph up as tugraph-detached on its backup (sf0.3). ===
+== engine up: tugraph-detached (sf0.3) at the .env-declared operating point (dgraph: ineq=index, localcache=disable). ==
+== [tugraph-detached] start (engine backup, sf0.3) via engines/tugraph/start-server.sh ==
+== [hook LC_PRE_RESTORE_CHECK] source 'engines/provenance.sh' && check_provenance tugraph-detached
+   provenance OK (schema sha256 ae8ceafff04b…)
+=== Stopping TuGraph, restoring the backup (engines/tugraph/backup/runs-sf0.3-detached) ===
+TuGraph stopped
+=== Starting TuGraph 4.5.2 as tugraph-detached (REST 7070, counters 7072; detach_property=true) ===
+pinned: lgraph_server (pid 2667585) on CPU 4
+== [hook LC_POST_START_CHECK] 'engines/../.venv/bin/python3' 'engines/tugraph/scripts/check_load.py' --expected 'engines/tugraph/backup/runs-sf0.3-detached/expected_rows.tsv' --schema 'engines/tugraph/schema/ldbc_import.json' --no-rows
+check_load: 0 labels and 12 indexes checked, 0 differ
+=== TuGraph up as tugraph-detached on its backup (sf0.3). ===
+== engine up: tugraph-detached (sf0.3) at the .env-declared operating point (dgraph: ineq=index, localcache=disable). ==
+== [tugraph-detached] start (engine backup, sf0.3) via engines/tugraph/start-server.sh ==
+== [hook LC_PRE_RESTORE_CHECK] source 'engines/provenance.sh' && check_provenance tugraph-detached
+   provenance OK (schema sha256 ae8ceafff04b…)
+=== Stopping TuGraph, restoring the backup (engines/tugraph/backup/runs-sf0.3-detached) ===
+TuGraph stopped
+=== Starting TuGraph 4.5.2 as tugraph-detached (REST 7070, counters 7072; detach_property=true) ===
+pinned: lgraph_server (pid 2667835) on CPU 4
+== [hook LC_POST_START_CHECK] 'engines/../.venv/bin/python3' 'engines/tugraph/scripts/check_load.py' --expected 'engines/tugraph/backup/runs-sf0.3-detached/expected_rows.tsv' --schema 'engines/tugraph/schema/ldbc_import.json' --no-rows
+check_load: 0 labels and 12 indexes checked, 0 differ
+=== TuGraph up as tugraph-detached on its backup (sf0.3). ===
+== engine up: tugraph-detached (sf0.3) at the .env-declared operating point (dgraph: ineq=index, localcache=disable). ==
+== [tugraph-detached] start (engine backup, sf0.3) via engines/tugraph/start-server.sh ==
+== [hook LC_PRE_RESTORE_CHECK] source 'engines/provenance.sh' && check_provenance tugraph-detached
+   provenance OK (schema sha256 ae8ceafff04b…)
+=== Stopping TuGraph, restoring the backup (engines/tugraph/backup/runs-sf0.3-detached) ===
+TuGraph stopped
+=== Starting TuGraph 4.5.2 as tugraph-detached (REST 7070, counters 7072; detach_property=true) ===
+pinned: lgraph_server (pid 2668079) on CPU 4
+== [hook LC_POST_START_CHECK] 'engines/../.venv/bin/python3' 'engines/tugraph/scripts/check_load.py' --expected 'engines/tugraph/backup/runs-sf0.3-detached/expected_rows.tsv' --schema 'engines/tugraph/schema/ldbc_import.json' --no-rows
+check_load: 0 labels and 12 indexes checked, 0 differ
+=== TuGraph up as tugraph-detached on its backup (sf0.3). ===
+== engine up: tugraph-detached (sf0.3) at the .env-declared operating point (dgraph: ineq=index, localcache=disable). ==
+== [tugraph-detached] start (engine backup, sf0.3) via engines/tugraph/start-server.sh ==
+== [hook LC_PRE_RESTORE_CHECK] source 'engines/provenance.sh' && check_provenance tugraph-detached
+   provenance OK (schema sha256 ae8ceafff04b…)
+=== Stopping TuGraph, restoring the backup (engines/tugraph/backup/runs-sf0.3-detached) ===
+TuGraph stopped
+=== Starting TuGraph 4.5.2 as tugraph-detached (REST 7070, counters 7072; detach_property=true) ===
+pinned: lgraph_server (pid 2668324) on CPU 4
+== [hook LC_POST_START_CHECK] 'engines/../.venv/bin/python3' 'engines/tugraph/scripts/check_load.py' --expected 'engines/tugraph/backup/runs-sf0.3-detached/expected_rows.tsv' --schema 'engines/tugraph/schema/ldbc_import.json' --no-rows
+check_load: 0 labels and 12 indexes checked, 0 differ
+=== TuGraph up as tugraph-detached on its backup (sf0.3). ===
+== engine up: tugraph-detached (sf0.3) at the .env-declared operating point (dgraph: ineq=index, localcache=disable). ==
+== [tugraph-detached] start (engine backup, sf0.3) via engines/tugraph/start-server.sh ==
+== [hook LC_PRE_RESTORE_CHECK] source 'engines/provenance.sh' && check_provenance tugraph-detached
+   provenance OK (schema sha256 ae8ceafff04b…)
+=== Stopping TuGraph, restoring the backup (engines/tugraph/backup/runs-sf0.3-detached) ===
+TuGraph stopped
+=== Starting TuGraph 4.5.2 as tugraph-detached (REST 7070, counters 7072; detach_property=true) ===
+pinned: lgraph_server (pid 2668567) on CPU 4
+== [hook LC_POST_START_CHECK] 'engines/../.venv/bin/python3' 'engines/tugraph/scripts/check_load.py' --expected 'engines/tugraph/backup/runs-sf0.3-detached/expected_rows.tsv' --schema 'engines/tugraph/schema/ldbc_import.json' --no-rows
+check_load: 0 labels and 12 indexes checked, 0 differ
+=== TuGraph up as tugraph-detached on its backup (sf0.3). ===
+== engine up: tugraph-detached (sf0.3) at the .env-declared operating point (dgraph: ineq=index, localcache=disable). ==
+== [tugraph-detached] start (engine backup, sf0.3) via engines/tugraph/start-server.sh ==
+== [hook LC_PRE_RESTORE_CHECK] source 'engines/provenance.sh' && check_provenance tugraph-detached
+   provenance OK (schema sha256 ae8ceafff04b…)
+=== Stopping TuGraph, restoring the backup (engines/tugraph/backup/runs-sf0.3-detached) ===
+TuGraph stopped
+=== Starting TuGraph 4.5.2 as tugraph-detached (REST 7070, counters 7072; detach_property=true) ===
+pinned: lgraph_server (pid 2668822) on CPU 4
+== [hook LC_POST_START_CHECK] 'engines/../.venv/bin/python3' 'engines/tugraph/scripts/check_load.py' --expected 'engines/tugraph/backup/runs-sf0.3-detached/expected_rows.tsv' --schema 'engines/tugraph/schema/ldbc_import.json' --no-rows
+check_load: 0 labels and 12 indexes checked, 0 differ
+=== TuGraph up as tugraph-detached on its backup (sf0.3). ===
+== engine up: tugraph-detached (sf0.3) at the .env-declared operating point (dgraph: ineq=index, localcache=disable). ==
+== [tugraph-detached] start (engine backup, sf0.3) via engines/tugraph/start-server.sh ==
+== [hook LC_PRE_RESTORE_CHECK] source 'engines/provenance.sh' && check_provenance tugraph-detached
+   provenance OK (schema sha256 ae8ceafff04b…)
+=== Stopping TuGraph, restoring the backup (engines/tugraph/backup/runs-sf0.3-detached) ===
+TuGraph stopped
+=== Starting TuGraph 4.5.2 as tugraph-detached (REST 7070, counters 7072; detach_property=true) ===
+pinned: lgraph_server (pid 2669068) on CPU 4
+== [hook LC_POST_START_CHECK] 'engines/../.venv/bin/python3' 'engines/tugraph/scripts/check_load.py' --expected 'engines/tugraph/backup/runs-sf0.3-detached/expected_rows.tsv' --schema 'engines/tugraph/schema/ldbc_import.json' --no-rows
+check_load: 0 labels and 12 indexes checked, 0 differ
+=== TuGraph up as tugraph-detached on its backup (sf0.3). ===
+== engine up: tugraph-detached (sf0.3) at the .env-declared operating point (dgraph: ineq=index, localcache=disable). ==
+== [tugraph-detached] start (engine backup, sf0.3) via engines/tugraph/start-server.sh ==
+== [hook LC_PRE_RESTORE_CHECK] source 'engines/provenance.sh' && check_provenance tugraph-detached
+   provenance OK (schema sha256 ae8ceafff04b…)
+=== Stopping TuGraph, restoring the backup (engines/tugraph/backup/runs-sf0.3-detached) ===
+TuGraph stopped
+=== Starting TuGraph 4.5.2 as tugraph-detached (REST 7070, counters 7072; detach_property=true) ===
+pinned: lgraph_server (pid 2669313) on CPU 4
+== [hook LC_POST_START_CHECK] 'engines/../.venv/bin/python3' 'engines/tugraph/scripts/check_load.py' --expected 'engines/tugraph/backup/runs-sf0.3-detached/expected_rows.tsv' --schema 'engines/tugraph/schema/ldbc_import.json' --no-rows
+check_load: 0 labels and 12 indexes checked, 0 differ
+=== TuGraph up as tugraph-detached on its backup (sf0.3). ===
+== engine up: tugraph-detached (sf0.3) at the .env-declared operating point (dgraph: ineq=index, localcache=disable). ==
+== [tugraph-detached] start (engine backup, sf0.3) via engines/tugraph/start-server.sh ==
+== [hook LC_PRE_RESTORE_CHECK] source 'engines/provenance.sh' && check_provenance tugraph-detached
+   provenance OK (schema sha256 ae8ceafff04b…)
+=== Stopping TuGraph, restoring the backup (engines/tugraph/backup/runs-sf0.3-detached) ===
+TuGraph stopped
+=== Starting TuGraph 4.5.2 as tugraph-detached (REST 7070, counters 7072; detach_property=true) ===
+pinned: lgraph_server (pid 2669571) on CPU 4
+== [hook LC_POST_START_CHECK] 'engines/../.venv/bin/python3' 'engines/tugraph/scripts/check_load.py' --expected 'engines/tugraph/backup/runs-sf0.3-detached/expected_rows.tsv' --schema 'engines/tugraph/schema/ldbc_import.json' --no-rows
+check_load: 0 labels and 12 indexes checked, 0 differ
+=== TuGraph up as tugraph-detached on its backup (sf0.3). ===
+== engine up: tugraph-detached (sf0.3) at the .env-declared operating point (dgraph: ineq=index, localcache=disable). ==
+== [tugraph-detached] start (engine backup, sf0.3) via engines/tugraph/start-server.sh ==
+== [hook LC_PRE_RESTORE_CHECK] source 'engines/provenance.sh' && check_provenance tugraph-detached
+   provenance OK (schema sha256 ae8ceafff04b…)
+=== Stopping TuGraph, restoring the backup (engines/tugraph/backup/runs-sf0.3-detached) ===
+TuGraph stopped
+=== Starting TuGraph 4.5.2 as tugraph-detached (REST 7070, counters 7072; detach_property=true) ===
+pinned: lgraph_server (pid 2669821) on CPU 4
+== [hook LC_POST_START_CHECK] 'engines/../.venv/bin/python3' 'engines/tugraph/scripts/check_load.py' --expected 'engines/tugraph/backup/runs-sf0.3-detached/expected_rows.tsv' --schema 'engines/tugraph/schema/ldbc_import.json' --no-rows
+check_load: 0 labels and 12 indexes checked, 0 differ
+=== TuGraph up as tugraph-detached on its backup (sf0.3). ===
+== engine up: tugraph-detached (sf0.3) at the .env-declared operating point (dgraph: ineq=index, localcache=disable). ==
+== [tugraph-detached] start (engine backup, sf0.3) via engines/tugraph/start-server.sh ==
+== [hook LC_PRE_RESTORE_CHECK] source 'engines/provenance.sh' && check_provenance tugraph-detached
+   provenance OK (schema sha256 ae8ceafff04b…)
+=== Stopping TuGraph, restoring the backup (engines/tugraph/backup/runs-sf0.3-detached) ===
+TuGraph stopped
+=== Starting TuGraph 4.5.2 as tugraph-detached (REST 7070, counters 7072; detach_property=true) ===
+pinned: lgraph_server (pid 2670090) on CPU 4
+== [hook LC_POST_START_CHECK] 'engines/../.venv/bin/python3' 'engines/tugraph/scripts/check_load.py' --expected 'engines/tugraph/backup/runs-sf0.3-detached/expected_rows.tsv' --schema 'engines/tugraph/schema/ldbc_import.json' --no-rows
+check_load: 0 labels and 12 indexes checked, 0 differ
+=== TuGraph up as tugraph-detached on its backup (sf0.3). ===
+== engine up: tugraph-detached (sf0.3) at the .env-declared operating point (dgraph: ineq=index, localcache=disable). ==
+== [tugraph-detached] start (engine backup, sf0.3) via engines/tugraph/start-server.sh ==
+== [hook LC_PRE_RESTORE_CHECK] source 'engines/provenance.sh' && check_provenance tugraph-detached
+   provenance OK (schema sha256 ae8ceafff04b…)
+=== Stopping TuGraph, restoring the backup (engines/tugraph/backup/runs-sf0.3-detached) ===
+TuGraph stopped
+=== Starting TuGraph 4.5.2 as tugraph-detached (REST 7070, counters 7072; detach_property=true) ===
+pinned: lgraph_server (pid 2670344) on CPU 4
+== [hook LC_POST_START_CHECK] 'engines/../.venv/bin/python3' 'engines/tugraph/scripts/check_load.py' --expected 'engines/tugraph/backup/runs-sf0.3-detached/expected_rows.tsv' --schema 'engines/tugraph/schema/ldbc_import.json' --no-rows
+check_load: 0 labels and 12 indexes checked, 0 differ
+=== TuGraph up as tugraph-detached on its backup (sf0.3). ===
+== engine up: tugraph-detached (sf0.3) at the .env-declared operating point (dgraph: ineq=index, localcache=disable). ==
+== [tugraph-detached] start (engine backup, sf0.3) via engines/tugraph/start-server.sh ==
+== [hook LC_PRE_RESTORE_CHECK] source 'engines/provenance.sh' && check_provenance tugraph-detached
+   provenance OK (schema sha256 ae8ceafff04b…)
+=== Stopping TuGraph, restoring the backup (engines/tugraph/backup/runs-sf0.3-detached) ===
+TuGraph stopped
+=== Starting TuGraph 4.5.2 as tugraph-detached (REST 7070, counters 7072; detach_property=true) ===
+pinned: lgraph_server (pid 2670600) on CPU 4
+== [hook LC_POST_START_CHECK] 'engines/../.venv/bin/python3' 'engines/tugraph/scripts/check_load.py' --expected 'engines/tugraph/backup/runs-sf0.3-detached/expected_rows.tsv' --schema 'engines/tugraph/schema/ldbc_import.json' --no-rows
+check_load: 0 labels and 12 indexes checked, 0 differ
+=== TuGraph up as tugraph-detached on its backup (sf0.3). ===
+== engine up: tugraph-detached (sf0.3) at the .env-declared operating point (dgraph: ineq=index, localcache=disable). ==
+== [tugraph-detached] start (engine backup, sf0.3) via engines/tugraph/start-server.sh ==
+== [hook LC_PRE_RESTORE_CHECK] source 'engines/provenance.sh' && check_provenance tugraph-detached
+   provenance OK (schema sha256 ae8ceafff04b…)
+=== Stopping TuGraph, restoring the backup (engines/tugraph/backup/runs-sf0.3-detached) ===
+TuGraph stopped
+=== Starting TuGraph 4.5.2 as tugraph-detached (REST 7070, counters 7072; detach_property=true) ===
+pinned: lgraph_server (pid 2670855) on CPU 4
+== [hook LC_POST_START_CHECK] 'engines/../.venv/bin/python3' 'engines/tugraph/scripts/check_load.py' --expected 'engines/tugraph/backup/runs-sf0.3-detached/expected_rows.tsv' --schema 'engines/tugraph/schema/ldbc_import.json' --no-rows
+check_load: 0 labels and 12 indexes checked, 0 differ
+=== TuGraph up as tugraph-detached on its backup (sf0.3). ===
+== engine up: tugraph-detached (sf0.3) at the .env-declared operating point (dgraph: ineq=index, localcache=disable). ==
+== [tugraph-detached] start (engine backup, sf0.3) via engines/tugraph/start-server.sh ==
+== [hook LC_PRE_RESTORE_CHECK] source 'engines/provenance.sh' && check_provenance tugraph-detached
+   provenance OK (schema sha256 ae8ceafff04b…)
+=== Stopping TuGraph, restoring the backup (engines/tugraph/backup/runs-sf0.3-detached) ===
+TuGraph stopped
+=== Starting TuGraph 4.5.2 as tugraph-detached (REST 7070, counters 7072; detach_property=true) ===
+pinned: lgraph_server (pid 2671101) on CPU 4
+== [hook LC_POST_START_CHECK] 'engines/../.venv/bin/python3' 'engines/tugraph/scripts/check_load.py' --expected 'engines/tugraph/backup/runs-sf0.3-detached/expected_rows.tsv' --schema 'engines/tugraph/schema/ldbc_import.json' --no-rows
+check_load: 0 labels and 12 indexes checked, 0 differ
+=== TuGraph up as tugraph-detached on its backup (sf0.3). ===
+== engine up: tugraph-detached (sf0.3) at the .env-declared operating point (dgraph: ineq=index, localcache=disable). ==

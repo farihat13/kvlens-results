@@ -1,0 +1,109 @@
+{
+ "query_sha": "d7c0e0884773459a",
+ "params": {
+  "personId": "person_13194139535032",
+  "firstName": "Daniil"
+ },
+ "data": {
+  "schema_sha256": "673074740eea54e4ba1fdc94eebf2087531b3007af7da660afffb3d1e8df0d1e",
+  "schema_path": "nebulagraph/schema/schema.gql",
+  "sf": "0.3",
+  "created": "2026-11-21T03:42:54Z",
+  "git_sha": "1d6662c2"
+ },
+ "fetched_at": "2026-11-21T00:01:19",
+ "raw": {
+  "keys": [
+   "friendId",
+   "friendLastName",
+   "distanceFromPerson",
+   "friendBirthday",
+   "friendCreationDate",
+   "friendGender",
+   "friendBrowserUsed",
+   "friendLocationIp",
+   "friendEmails",
+   "friendLanguages",
+   "friendCityName",
+   "friendUniversities",
+   "friendCompanies",
+   "friendIdInt"
+  ],
+  "rows": [
+   {
+    "friendId": "person_17592186047036",
+    "friendLastName": "Ivanov",
+    "distanceFromPerson": 3,
+    "friendBirthday": 520732800000,
+    "friendCreationDate": 1309333863820,
+    "friendGender": "male",
+    "friendBrowserUsed": "Chrome",
+    "friendLocationIp": "31.8.228.66",
+    "friendEmails": [
+     "Daniil17592186047036@gmail.com",
+     "Daniil17592186047036@hotmail.com",
+     "Daniil17592186047036@zoho.com"
+    ],
+    "friendLanguages": [
+     "ru",
+     "en"
+    ],
+    "friendCityName": "Zaoksky",
+    "friendUniversities": [
+     [
+      "Volgograd_State_University",
+      2006,
+      "Volgograd"
+     ]
+    ],
+    "friendCompanies": [
+     [
+      "Kuban_Airlines",
+      2006,
+      "Russia"
+     ],
+     [
+      "UTair_Aviation",
+      2007,
+      "Russia"
+     ],
+     [
+      "Aviacon_Zitotrans",
+      2007,
+      "Russia"
+     ]
+    ],
+    "friendIdInt": 17592186047036
+   },
+   {
+    "friendId": "person_2292",
+    "friendLastName": "Popov",
+    "distanceFromPerson": 3,
+    "friendBirthday": 562032000000,
+    "friendCreationDate": 1263664538998,
+    "friendGender": "male",
+    "friendBrowserUsed": "Safari",
+    "friendLocationIp": "31.7.233.110",
+    "friendEmails": [
+     "Daniil2292@gmail.com",
+     "Daniil2292@gmx.com",
+     "Daniil2292@hotmail.com"
+    ],
+    "friendLanguages": [
+     "ru",
+     "en"
+    ],
+    "friendCityName": "Ufa",
+    "friendUniversities": [
+     [
+      "Ural_State_Mining_University",
+      2008,
+      "Yekaterinburg"
+     ]
+    ],
+    "friendCompanies": [],
+    "friendIdInt": 2292
+   }
+  ]
+ }
+}

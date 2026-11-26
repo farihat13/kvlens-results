@@ -1,0 +1,241 @@
+{
+ "query_sha": "d8702ab8a41d1dac",
+ "params": {
+  "personId": "24189255811707",
+  "month": "12"
+ },
+ "data": {
+  "schema_sha256": "03713a1e1c7b722e73bed6b150e079e69e9579c2a58c52e06f9d4384fdd4b80d",
+  "schema_path": "dgraph/schema/ldbcTypes.schema",
+  "sf": "0.1",
+  "created": "2026-11-21T03:25:44Z",
+  "git_sha": "92777160"
+ },
+ "fetched_at": "2026-11-21T01:05:30",
+ "raw": {
+  "_l1": [],
+  "_l2": [],
+  "recs": [
+   {
+    "birthday": "1987-12-29T00:00:00Z",
+    "commonInterestScore": 31,
+    "commonPostCount": 42,
+    "personCityName": "Xiangtan",
+    "personFirstName": "Jie",
+    "personGender": "male",
+    "personId": 4398046512356,
+    "personLastName": "Zhang",
+    "postCount": 53
+   },
+   {
+    "birthday": "1984-11-12T00:00:00Z",
+    "commonInterestScore": 30,
+    "commonPostCount": 44,
+    "personCityName": "Porto_Alegre",
+    "personFirstName": "Rodrigo",
+    "personGender": "male",
+    "personId": 2199023256668,
+    "personLastName": "Costa",
+    "postCount": 58
+   },
+   {
+    "birthday": "1988-07-08T00:00:00Z",
+    "commonInterestScore": 26,
+    "commonPostCount": 84,
+    "personCityName": "Danjiangkou",
+    "personFirstName": "Li",
+    "personGender": "female",
+    "personId": 1161,
+    "personLastName": "Zhang",
+    "postCount": 142
+   },
+   {
+    "birthday": "1981-08-25T00:00:00Z",
+    "commonInterestScore": 20,
+    "commonPostCount": 31,
+    "personCityName": "Athens",
+    "personFirstName": "Georgios",
+    "personGender": "female",
+    "personId": 2199023256086,
+    "personLastName": "Antoniou",
+    "postCount": 42
+   },
+   {
+    "birthday": "1986-03-17T00:00:00Z",
+    "commonInterestScore": 13,
+    "commonPostCount": 24,
+    "personCityName": "Dongyang",
+    "personFirstName": "Ge",
+    "personGender": "female",
+    "personId": 2199023257128,
+    "personLastName": "Liu",
+    "postCount": 35
+   },
+   {
+    "birthday": "1989-03-15T00:00:00Z",
+    "commonInterestScore": 12,
+    "commonPostCount": 29,
+    "personCityName": "Fengcheng,",
+    "personFirstName": "Hao",
+    "personGender": "male",
+    "personId": 8796093022928,
+    "personLastName": "Zhu",
+    "postCount": 46
+   },
+   {
+    "birthday": "1980-09-18T00:00:00Z",
+    "commonInterestScore": 7,
+    "commonPostCount": 18,
+    "personCityName": "Quanzhou",
+    "personFirstName": "Ge",
+    "personGender": "female",
+    "personId": 6597069768154,
+    "personLastName": "Liu",
+    "postCount": 29
+   },
+   {
+    "birthday": "1981-04-07T00:00:00Z",
+    "commonInterestScore": 6,
+    "commonPostCount": 10,
+    "personCityName": "Chizhou",
+    "personFirstName": "Jun",
+    "personGender": "female",
+    "personId": 8796093022435,
+    "personLastName": "Chen",
+    "postCount": 14
+   },
+   {
+    "birthday": "1986-08-23T00:00:00Z",
+    "commonInterestScore": 6,
+    "commonPostCount": 7,
+    "personCityName": "Hengyang",
+    "personFirstName": "Lei",
+    "personGender": "male",
+    "personId": 15393162788893,
+    "personLastName": "Zhang",
+    "postCount": 8
+   },
+   {
+    "birthday": "1981-03-09T00:00:00Z",
+    "commonInterestScore": 5,
+    "commonPostCount": 8,
+    "personCityName": "Ta_Khmau",
+    "personFirstName": "Dith",
+    "personGender": "male",
+    "personId": 2199023256300,
+    "personLastName": "Sisamouth",
+    "postCount": 11
+   },
+   {
+    "birthday": "1980-11-04T00:00:00Z",
+    "commonInterestScore": 4,
+    "commonPostCount": 12,
+    "personCityName": "Chongqing",
+    "personFirstName": "Ai",
+    "personGender": "male",
+    "personId": 2199023256351,
+    "personLastName": "Liu",
+    "postCount": 20
+   },
+   {
+    "birthday": "1985-11-01T00:00:00Z",
+    "commonInterestScore": 3,
+    "commonPostCount": 6,
+    "personCityName": "Lorena",
+    "personFirstName": "Marcelo",
+    "personGender": "male",
+    "personId": 683,
+    "personLastName": "Oliveira",
+    "postCount": 9
+   },
+   {
+    "birthday": "1981-10-08T00:00:00Z",
+    "commonInterestScore": 3,
+    "commonPostCount": 4,
+    "personCityName": "Pohang",
+    "personFirstName": "Ah-Joong",
+    "personGender": "female",
+    "personId": 21990232556947,
+    "personLastName": "Lee",
+    "postCount": 5
+   },
+   {
+    "birthday": "1981-03-28T00:00:00Z",
+    "commonInterestScore": 3,
+    "commonPostCount": 3,
+    "personCityName": "Changchun",
+    "personFirstName": "Zhang",
+    "personGender": "male",
+    "personId": 28587302322974,
+    "personLastName": "Li",
+    "postCount": 3
+   },
+   {
+    "birthday": "1983-12-21T00:00:00Z",
+    "commonInterestScore": 2,
+    "commonPostCount": 6,
+    "personCityName": "Bislig",
+    "personFirstName": "Bobby",
+    "personGender": "female",
+    "personId": 6597069767831,
+    "personLastName": "Sotto",
+    "postCount": 10
+   },
+   {
+    "birthday": "1986-06-11T00:00:00Z",
+    "commonInterestScore": 2,
+    "commonPostCount": 12,
+    "personCityName": "Daye",
+    "personFirstName": "Ai",
+    "personGender": "male",
+    "personId": 13194139534624,
+    "personLastName": "Xu",
+    "postCount": 22
+   },
+   {
+    "birthday": "1983-03-02T00:00:00Z",
+    "commonInterestScore": 2,
+    "commonPostCount": 2,
+    "personCityName": "Fushun",
+    "personFirstName": "Jie",
+    "personGender": "male",
+    "personId": 15393162789983,
+    "personLastName": "Zhu",
+    "postCount": 2
+   },
+   {
+    "birthday": "1987-12-12T00:00:00Z",
+    "commonInterestScore": 2,
+    "commonPostCount": 3,
+    "personCityName": "Gongyi",
+    "personFirstName": "Jun",
+    "personGender": "female",
+    "personId": 26388279068269,
+    "personLastName": "Zhu",
+    "postCount": 4
+   },
+   {
+    "birthday": "1987-10-21T00:00:00Z",
+    "commonInterestScore": 1,
+    "commonPostCount": 3,
+    "personCityName": "Nanchong",
+    "personFirstName": "Jun",
+    "personGender": "female",
+    "personId": 4398046511870,
+    "personLastName": "Wang",
+    "postCount": 5
+   },
+   {
+    "birthday": "1981-03-29T00:00:00Z",
+    "commonInterestScore": 1,
+    "commonPostCount": 12,
+    "personCityName": "Khyber_Pakhtunkhwa",
+    "personFirstName": "Abdul Jamil",
+    "personGender": "female",
+    "personId": 6597069768087,
+    "personLastName": "Malik",
+    "postCount": 23
+   }
+  ]
+ }
+}

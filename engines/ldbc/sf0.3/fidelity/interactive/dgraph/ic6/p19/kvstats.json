@@ -1,0 +1,24 @@
+{
+ "query_sha": "726c2fd8c124bda0",
+ "params": {
+  "personId": "2199023256742",
+  "tagName": "Andrew_Johnson"
+ },
+ "data_created": "2026-11-21T02:56:18Z",
+ "measured_at": "2026-11-20T23:08:42",
+ "raw": {
+  "get_bytes": 9539,
+  "get_count": 147,
+  "get_found_count": 147,
+  "get_latency_ns": 858857,
+  "next_bytes": 0,
+  "next_count": 0,
+  "next_latency_ns": 0,
+  "seek_bytes": 7977205,
+  "seek_count": 384095,
+  "seek_latency_ns": 4061899105,
+  "set_bytes": 0,
+  "set_count": 0,
+  "set_latency_ns": 0
+ }
+}

@@ -1,0 +1,97 @@
+{
+ "query_sha": "c20c841713234a9d",
+ "params": {
+  "personId": 2199023259063,
+  "month": 5
+ },
+ "data": {
+  "schema_sha256": "b8e206f17e60692c830ba0c3c675fbc481a22f26011282ce523890eb09be8a74",
+  "schema_path": "arangodb/schema/ldbc_schema.json",
+  "sf": "0.3",
+  "created": "2026-11-21T03:01:29Z",
+  "git_sha": "60910999"
+ },
+ "fetched_at": "2026-11-20T23:53:02",
+ "raw": [
+  {
+   "personId": 6597069766733,
+   "personFirstName": "Karl",
+   "personLastName": "Fischer",
+   "commonInterestScore": 60,
+   "personGender": "female",
+   "personCityName": "Ludwigsburg"
+  },
+  {
+   "personId": 21990232556962,
+   "personFirstName": "Zheng",
+   "personLastName": "Zhang",
+   "commonInterestScore": 0,
+   "personGender": "female",
+   "personCityName": "Shanghai"
+  },
+  {
+   "personId": 30786325578525,
+   "personFirstName": "Wei",
+   "personLastName": "Zhang",
+   "commonInterestScore": 0,
+   "personGender": "female",
+   "personCityName": "Anda"
+  },
+  {
+   "personId": 30786325580021,
+   "personFirstName": "Fakhreddine",
+   "personLastName": "Aouadhi",
+   "commonInterestScore": 0,
+   "personGender": "female",
+   "personCityName": "Gabes"
+  },
+  {
+   "personId": 30786325580521,
+   "personFirstName": "A. K.",
+   "personLastName": "Kapoor",
+   "commonInterestScore": 0,
+   "personGender": "female",
+   "personCityName": "Ujjain"
+  },
+  {
+   "personId": 30786325580641,
+   "personFirstName": "Rafael",
+   "personLastName": "Oliveira",
+   "commonInterestScore": 0,
+   "personGender": "male",
+   "personCityName": "Bag\u00e9"
+  },
+  {
+   "personId": 30786325580763,
+   "personFirstName": "Aditya",
+   "personLastName": "Sen",
+   "commonInterestScore": 0,
+   "personGender": "female",
+   "personCityName": "Shillong"
+  },
+  {
+   "personId": 32985348834824,
+   "personFirstName": "Lei",
+   "personLastName": "Chen",
+   "commonInterestScore": 0,
+   "personGender": "male",
+   "personCityName": "Fuqing"
+  },
+  {
+   "personId": 4398046514157,
+   "personFirstName": "Kirill",
+   "personLastName": "Ivanov",
+   "commonInterestScore": -1,
+   "personGender": "male",
+   "personCityName": "Ulan-Ude"
+  },
+  {
+   "personId": 24189255811398,
+   "personFirstName": "Jose",
+   "personLastName": "Escobar",
+   "commonInterestScore": -1,
+   "personGender": "female",
+   "personCityName": "Armenia"
+  }
+ ]
+}

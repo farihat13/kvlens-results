@@ -1,0 +1,63 @@
+{
+ "query_sha": "ad17deb8111088bd",
+ "params": {
+  "personId": "person_1129",
+  "tagName": "Herodotus"
+ },
+ "data": {
+  "schema_sha256": "673074740eea54e4ba1fdc94eebf2087531b3007af7da660afffb3d1e8df0d1e",
+  "schema_path": "nebulagraph/schema/schema.gql",
+  "sf": "0.3",
+  "created": "2026-11-21T03:42:54Z",
+  "git_sha": "1d6662c2"
+ },
+ "fetched_at": "2026-11-20T23:59:34",
+ "raw": {
+  "keys": [
+   "tagName",
+   "postCount"
+  ],
+  "rows": [
+   {
+    "tagName": "Augustine_of_Hippo",
+    "postCount": 5
+   },
+   {
+    "tagName": "Adolf_Hitler",
+    "postCount": 3
+   },
+   {
+    "tagName": "Clint_Eastwood",
+    "postCount": 2
+   },
+   {
+    "tagName": "Coolio",
+    "postCount": 2
+   },
+   {
+    "tagName": "Garry_Kasparov",
+    "postCount": 2
+   },
+   {
+    "tagName": "Genghis_Khan",
+    "postCount": 2
+   },
+   {
+    "tagName": "Jean-Paul_Sartre",
+    "postCount": 2
+   },
+   {
+    "tagName": "Jerome",
+    "postCount": 2
+   },
+   {
+    "tagName": "Joe_Strummer",
+    "postCount": 2
+   },
+   {
+    "tagName": "Johann_Wolfgang_von_Goethe",
+    "postCount": 2
+   }
+  ]
+ }
+}

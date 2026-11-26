@@ -1,0 +1,87 @@
+{
+ "query_sha": "32998970dd90364b",
+ "params": {
+  "personId": "person_19791209300324",
+  "tagClassName": "Band"
+ },
+ "data": {
+  "schema_sha256": "673074740eea54e4ba1fdc94eebf2087531b3007af7da660afffb3d1e8df0d1e",
+  "schema_path": "nebulagraph/schema/schema.gql",
+  "sf": "0.3",
+  "created": "2026-11-21T03:42:54Z",
+  "git_sha": "1d6662c2"
+ },
+ "fetched_at": "2026-11-21T00:01:29",
+ "raw": {
+  "keys": [
+   "friendId",
+   "friendFirstName",
+   "friendLastName",
+   "tagNames",
+   "replyCount",
+   "friendIdInt"
+  ],
+  "rows": [
+   {
+    "friendId": "person_2194",
+    "friendFirstName": "Alexander",
+    "friendLastName": "Dobrunov",
+    "tagNames": [
+     "The_Everly_Brothers"
+    ],
+    "replyCount": 4,
+    "friendIdInt": 2194
+   },
+   {
+    "friendId": "person_4398046512826",
+    "friendFirstName": "Bingbing",
+    "friendLastName": "Liu",
+    "tagNames": [
+     "The_Everly_Brothers"
+    ],
+    "replyCount": 2,
+    "friendIdInt": 4398046512826
+   },
+   {
+    "friendId": "person_8796093023851",
+    "friendFirstName": "Evangelos",
+    "friendLastName": "Dionysiou",
+    "tagNames": [
+     "The_Everly_Brothers"
+    ],
+    "replyCount": 2,
+    "friendIdInt": 8796093023851
+   },
+   {
+    "friendId": "person_19791209300631",
+    "friendFirstName": "Naresh",
+    "friendLastName": "Singh",
+    "tagNames": [
+     "The_Everly_Brothers"
+    ],
+    "replyCount": 2,
+    "friendIdInt": 19791209300631
+   },
+   {
+    "friendId": "person_4398046513186",
+    "friendFirstName": "Andrea",
+    "friendLastName": "Blanco",
+    "tagNames": [
+     "The_Everly_Brothers"
+    ],
+    "replyCount": 1,
+    "friendIdInt": 4398046513186
+   },
+   {
+    "friendId": "person_8796093025074",
+    "friendFirstName": "Eve-Mary Thai",
+    "friendLastName": "Hoang",
+    "tagNames": [
+     "The_Everly_Brothers"
+    ],
+    "replyCount": 1,
+    "friendIdInt": 8796093025074
+   }
+  ]
+ }
+}

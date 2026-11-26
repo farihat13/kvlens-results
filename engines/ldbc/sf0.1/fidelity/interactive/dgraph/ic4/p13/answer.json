@@ -1,0 +1,277 @@
+{
+ "query_sha": "e98a92aa07772002",
+ "params": {
+  "personId": "30786325579063",
+  "startDate": "2012-02-01T00:00:00Z",
+  "endDate": "2012-03-19T00:00:00Z"
+ },
+ "data": {
+  "schema_sha256": "03713a1e1c7b722e73bed6b150e079e69e9579c2a58c52e06f9d4384fdd4b80d",
+  "schema_path": "dgraph/schema/ldbcTypes.schema",
+  "sf": "0.1",
+  "created": "2026-11-21T03:25:44Z",
+  "git_sha": "92777160"
+ },
+ "fetched_at": "2026-11-21T01:07:43",
+ "raw": {
+  "_l1": [],
+  "tags": [
+   {
+    "tagName": "Paradorn_Srichaphan",
+    "postCount": 15
+   },
+   {
+    "tagName": "Henry_David_Thoreau",
+    "postCount": 2
+   },
+   {
+    "tagName": "Louis_XIV_of_France",
+    "postCount": 1
+   },
+   {
+    "tagName": "Spanish_Empire",
+    "postCount": 1
+   },
+   {
+    "tagName": "Tales_of_Mystery_and_Imagination",
+    "postCount": 1
+   },
+   {
+    "tagName": "Justinian_I",
+    "postCount": 1
+   },
+   {
+    "tagName": "With_a_Little_Help_from_My_Friends",
+    "postCount": 1
+   },
+   {
+    "tagName": "Jean-Luc_Godard",
+    "postCount": 1
+   },
+   {
+    "tagName": "Henry_Clay",
+    "postCount": 1
+   },
+   {
+    "tagName": "Charles_V,_Holy_Roman_Emperor",
+    "postCount": 1
+   },
+   {
+    "tagName": "Victor_Hugo",
+    "postCount": 1
+   },
+   {
+    "tagName": "Bosnia_and_Herzegovina",
+    "postCount": 1
+   },
+   {
+    "tagName": "Beyond_the_Blue_Horizon",
+    "postCount": 1
+   },
+   {
+    "tagName": "Frederick_the_Great",
+    "postCount": 1
+   },
+   {
+    "tagName": "Count_Basie",
+    "postCount": 1
+   },
+   {
+    "tagName": "Littlest_Things",
+    "postCount": 1
+   },
+   {
+    "tagName": "Anthology_1",
+    "postCount": 1
+   },
+   {
+    "tagName": "Empire_of_Trebizond",
+    "postCount": 1
+   },
+   {
+    "tagName": "Ray_Bradbury",
+    "postCount": 1
+   },
+   {
+    "tagName": "Misty_Blue",
+    "postCount": 1
+   },
+   {
+    "tagName": "Superman",
+    "postCount": 1
+   },
+   {
+    "tagName": "Fat_Joe",
+    "postCount": 1
+   },
+   {
+    "tagName": "Hugo_Ch\u00e1vez",
+    "postCount": 1
+   },
+   {
+    "tagName": "Thomas_Jefferson",
+    "postCount": 1
+   },
+   {
+    "tagName": "Higher_Love",
+    "postCount": 1
+   },
+   {
+    "tagName": "Kid_A",
+    "postCount": 1
+   },
+   {
+    "tagName": "After_the_Love_Has_Gone",
+    "postCount": 1
+   },
+   {
+    "tagName": "Bizarre_Ride_II_the_Pharcyde",
+    "postCount": 1
+   },
+   {
+    "tagName": "Live_at_Piedmont_Park",
+    "postCount": 1
+   },
+   {
+    "tagName": "Jennifer_Lopez",
+    "postCount": 1
+   },
+   {
+    "tagName": "Lucille_Ball",
+    "postCount": 1
+   },
+   {
+    "tagName": "Argentina",
+    "postCount": 1
+   },
+   {
+    "tagName": "Principality_of_Achaea",
+    "postCount": 1
+   },
+   {
+    "tagName": "George_Armstrong_Custer",
+    "postCount": 1
+   },
+   {
+    "tagName": "Province_of_Canada",
+    "postCount": 1
+   },
+   {
+    "tagName": "Pope_Benedict_XVI",
+    "postCount": 1
+   },
+   {
+    "tagName": "Bangladesh",
+    "postCount": 1
+   },
+   {
+    "tagName": "Belize",
+    "postCount": 1
+   },
+   {
+    "tagName": "Transcaucasian_Socialist_Federative_Soviet_Republic",
+    "postCount": 1
+   },
+   {
+    "tagName": "Timeless:_The_Classics",
+    "postCount": 1
+   },
+   {
+    "tagName": "In_Pieces",
+    "postCount": 1
+   },
+   {
+    "tagName": "John_F._Kennedy",
+    "postCount": 1
+   },
+   {
+    "tagName": "Stephen_Harper",
+    "postCount": 1
+   },
+   {
+    "tagName": "Joseph_Goebbels",
+    "postCount": 1
+   },
+   {
+    "tagName": "Second_Mexican_Empire",
+    "postCount": 1
+   },
+   {
+    "tagName": "Indonesia",
+    "postCount": 1
+   },
+   {
+    "tagName": "Sean_Penn",
+    "postCount": 1
+   },
+   {
+    "tagName": "Ottoman_Empire",
+    "postCount": 1
+   },
+   {
+    "tagName": "Miss_You_Much",
+    "postCount": 1
+   },
+   {
+    "tagName": "Kingdom_of_Gwynedd",
+    "postCount": 1
+   },
+   {
+    "tagName": "The_Edge_of_Glory",
+    "postCount": 1
+   },
+   {
+    "tagName": "Whitney_Houston",
+    "postCount": 1
+   },
+   {
+    "tagName": "Joseph_II,_Holy_Roman_Emperor",
+    "postCount": 1
+   },
+   {
+    "tagName": "Louis_Armstrong",
+    "postCount": 1
+   },
+   {
+    "tagName": "Keith_Richards",
+    "postCount": 1
+   },
+   {
+    "tagName": "John_Williams",
+    "postCount": 1
+   },
+   {
+    "tagName": "Tiger_Woods",
+    "postCount": 1
+   },
+   {
+    "tagName": "Belarus",
+    "postCount": 1
+   },
+   {
+    "tagName": "Oscar_Peterson",
+    "postCount": 1
+   },
+   {
+    "tagName": "Ferdinand_Marcos",
+    "postCount": 1
+   },
+   {
+    "tagName": "Duchy_of_Milan",
+    "postCount": 1
+   },
+   {
+    "tagName": "Johnny_Carson",
+    "postCount": 1
+   },
+   {
+    "tagName": "Sex_&_Drugs_&_Rock_&_Roll",
+    "postCount": 1
+   },
+   {
+    "tagName": "Dark_Side_of_the_Spoon",
+    "postCount": 1
+   }
+  ]
+ }
+}

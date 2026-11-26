@@ -1,0 +1,736 @@
+{
+  "cell": "props_chunked_c1k_adj_chunked_c64k",
+  "sf": "",
+  "measured_as": "predicted",
+  "source": "predicted",
+  "complete": true,
+  "store": "meta-ad0a26c194c8",
+  "inputs": {
+    "stats": {
+      "path": "stats-tier1.json",
+      "sha256": "f670f62d3e0b608414428929043faa19e970af0fb2080f05e1fbd0f8f5086441"
+    },
+    "rules_off": [],
+    "requests": {
+      "count": 953,
+      "queries": [
+        "job10a",
+        "job10b",
+        "job10c",
+        "job11a",
+        "job11b",
+        "job11c",
+        "job11d",
+        "job12a",
+        "job12b",
+        "job12c",
+        "job13a",
+        "job13b",
+        "job13c",
+        "job13d",
+        "job14a",
+        "job14b",
+        "job14c",
+        "job15a",
+        "job15b",
+        "job15c",
+        "job15d",
+        "job16a",
+        "job16b",
+        "job16c",
+        "job16d",
+        "job17a",
+        "job17b",
+        "job17c",
+        "job17d",
+        "job17e",
+        "job17f",
+        "job18a",
+        "job18b",
+        "job18c",
+        "job19a",
+        "job19b",
+        "job19c",
+        "job19d",
+        "job1a",
+        "job1b",
+        "job1c",
+        "job1d",
+        "job20a",
+        "job20b",
+        "job20c",
+        "job21a",
+        "job21b",
+        "job21c",
+        "job22a",
+        "job22b",
+        "job22c",
+        "job22d",
+        "job23a",
+        "job23b",
+        "job23c",
+        "job24a",
+        "job24b",
+        "job25a",
+        "job25b",
+        "job25c",
+        "job26a",
+        "job26b",
+        "job26c",
+        "job27a",
+        "job27b",
+        "job27c",
+        "job28a",
+        "job28b",
+        "job28c",
+        "job29a",
+        "job29b",
+        "job29c",
+        "job2a",
+        "job2b",
+        "job2c",
+        "job2d",
+        "job30a",
+        "job30b",
+        "job30c",
+        "job31a",
+        "job31b",
+        "job31c",
+        "job32a",
+        "job32b",
+        "job33a",
+        "job33b",
+        "job33c",
+        "job3a",
+        "job3b",
+        "job3c",
+        "job4a",
+        "job4b",
+        "job4c",
+        "job5a",
+        "job5b",
+        "job5c",
+        "job6a",
+        "job6b",
+        "job6c",
+        "job6d",
+        "job6e",
+        "job6f",
+        "job7a",
+        "job7b",
+        "job7c",
+        "job8a",
+        "job8b",
+        "job8c",
+        "job8d",
+        "job9a",
+        "job9b",
+        "job9c",
+        "job9d"
+      ],
+      "sha256": "f88c82047b3e06d6dca3f00dc58a6fc36f84250a5e3b8d4a3b035a9c51c3301c"
+    }
+  },
+  "tally": {
+    "path": "meta-ad0a26c194c8.json",
+    "sha256": "ea00c8155c1c64ff48b404cd799134ec2e437b5c9e69276e297b327e109aaac9"
+  },
+  "spec": {
+    "adjacency": {
+      "group": "owner",
+      "owners": {
+        "pack": 65536
+      },
+      "split": "never"
+    },
+    "direction": "declared",
+    "index": {
+      "group": "item",
+      "owners": "one",
+      "scope": "type",
+      "split": "never",
+      "term": "exact"
+    },
+    "version": 1,
+    "vertex_props": {
+      "group": "owner",
+      "owners": {
+        "pack": 1024
+      },
+      "split": "never"
+    }
+  },
+  "schema": {
+    "path": "schema.json",
+    "hash": "88d17669d0737ee84b28c9cdd9464b9a371a9af964c16027fba8d0b55bf854b1"
+  },
+  "runs": 953,
+  "steps": 13129,
+  "refused": [],
+  "wall_s": 3.3,
+  "binary": {
+    "allocator": {
+      "aggressive_decommit": 0,
+      "env": {},
+      "lib_sha256": "c3d7996e516f60360b9d6d591fea53e0b177df38a4bfa36296d713220741f42a",
+      "malloc_is_tcmalloc": true,
+      "name": "tcmalloc",
+      "release_rate": 0.0,
+      "version": "2.15-3build1"
+    },
+    "binary_dirty": false,
+    "binary_git_sha": "0d3168c9fc65270b1b1a6bd1c73202ce8ef790d0",
+    "block_cache_priority": {
+      "high_pri_pool_ratio": 0.5,
+      "index_filter_high_priority": true
+    },
+    "compiler": "GNU 13.3.0",
+    "flags": " -Wall -Wextra -Wno-unused-parameter -Wno-dangling-reference -O2 -g",
+    "host": {
+      "cpu": "AMD EPYC 9354P 32-Core Processor",
+      "kernel": "Linux 6.8.0-149-generic"
+    },
+    "ingest_index_filter_blocks": "partitioned",
+    "librocksdb_sha256": "5de397b9a75279a914a7fe663bddfc32f5db6b85aa17de3268ebaf654614dc68",
+    "rocksdb": "7.5.3",
+    "rocksdb_source": "7.5.3@540d5aae516265170564ec27b3e67a54a11b7045"
+  },
+  "workload": "job",
+  "tree": {
+    "git_sha": "33963a880da0b04bc80e78d962d0e6039d3b92fa",
+    "git_dirty": false
+  },
+  "plan_pipeline": 2,
+  "bodies": "all",
+  "inputs_key": "eb9f890716ba500a7d95b626dab86c43",
+  "bodies_left_out": {
+    "job1a": {
+      "enter_mi_idx_by_scan": "not legal on the layout"
+    },
+    "job1b": {
+      "enter_mi_idx_by_scan": "not legal on the layout",
+      "enter_t_by_scan": "not legal on the layout"
+    },
+    "job1c": {
+      "enter_mi_idx_by_scan": "not legal on the layout",
+      "enter_t_by_scan": "not legal on the layout"
+    },
+    "job1d": {
+      "enter_mi_idx_by_scan": "not legal on the layout",
+      "enter_t_by_scan": "not legal on the layout"
+    },
+    "job2a": {
+      "enter_cn_by_scan": "not legal on the layout",
+      "enter_k_by_scan": "not legal on the layout"
+    },
+    "job2b": {
+      "enter_cn_by_scan": "not legal on the layout",
+      "enter_k_by_scan": "not legal on the layout"
+    },
+    "job2c": {
+      "enter_cn_by_scan": "not legal on the layout",
+      "enter_k_by_scan": "not legal on the layout"
+    },
+    "job2d": {
+      "enter_cn_by_scan": "not legal on the layout",
+      "enter_k_by_scan": "not legal on the layout"
+    },
+    "job3a": {
+      "enter_k_by_scan": "not legal on the layout",
+      "enter_mi_by_scan": "not legal on the layout",
+      "enter_t_by_scan": "not legal on the layout"
+    },
+    "job3b": {
+      "enter_k_by_scan": "not legal on the layout",
+      "enter_mi_by_scan": "not legal on the layout",
+      "enter_t_by_scan": "not legal on the layout"
+    },
+    "job3c": {
+      "enter_k_by_scan": "not legal on the layout",
+      "enter_mi_by_scan": "not legal on the layout",
+      "enter_t_by_scan": "not legal on the layout"
+    },
+    "job4a": {
+      "enter_k_by_scan": "not legal on the layout",
+      "enter_mi_idx_by_scan": "not legal on the layout",
+      "enter_t_by_scan": "not legal on the layout"
+    },
+    "job4b": {
+      "enter_k_by_scan": "not legal on the layout",
+      "enter_mi_idx_by_scan": "not legal on the layout",
+      "enter_t_by_scan": "not legal on the layout"
+    },
+    "job4c": {
+      "enter_k_by_scan": "not legal on the layout",
+      "enter_mi_idx_by_scan": "not legal on the layout",
+      "enter_t_by_scan": "not legal on the layout"
+    },
+    "job5a": {
+      "enter_mi_by_scan": "not legal on the layout",
+      "enter_t_by_scan": "not legal on the layout"
+    },
+    "job5b": {
+      "enter_mi_by_scan": "not legal on the layout",
+      "enter_t_by_scan": "not legal on the layout"
+    },
+    "job5c": {
+      "enter_mi_by_scan": "not legal on the layout",
+      "enter_t_by_scan": "not legal on the layout"
+    },
+    "job6a": {
+      "enter_k_by_scan": "not legal on the layout",
+      "enter_n_by_scan": "not legal on the layout",
+      "enter_t_by_scan": "not legal on the layout"
+    },
+    "job6b": {
+      "enter_k_by_scan": "not legal on the layout",
+      "enter_n_by_scan": "not legal on the layout",
+      "enter_t_by_scan": "not legal on the layout"
+    },
+    "job6c": {
+      "enter_k_by_scan": "not legal on the layout",
+      "enter_n_by_scan": "not legal on the layout",
+      "enter_t_by_scan": "not legal on the layout"
+    },
+    "job6d": {
+      "enter_k_by_scan": "not legal on the layout",
+      "enter_n_by_scan": "not legal on the layout",
+      "enter_t_by_scan": "not legal on the layout"
+    },
+    "job6e": {
+      "enter_k_by_scan": "not legal on the layout",
+      "enter_n_by_scan": "not legal on the layout",
+      "enter_t_by_scan": "not legal on the layout"
+    },
+    "job6f": {
+      "enter_k_by_scan": "not legal on the layout",
+      "enter_t_by_scan": "not legal on the layout"
+    },
+    "job7a": {
+      "enter_ml_by_scan": "not legal on the layout",
+      "enter_pi_by_scan": "not legal on the layout",
+      "enter_t_by_scan": "not legal on the layout"
+    },
+    "job7b": {
+      "enter_ml_by_scan": "not legal on the layout",
+      "enter_pi_by_scan": "not legal on the layout",
+      "enter_t_by_scan": "not legal on the layout"
+    },
+    "job7c": {
+      "enter_ml_by_scan": "not legal on the layout",
+      "enter_n_by_scan": "not legal on the layout",
+      "enter_pi_by_scan": "not legal on the layout"
+    },
+    "job8a": {
+      "enter_cn_by_scan": "not legal on the layout",
+      "enter_n1_by_scan": "not legal on the layout"
+    },
+    "job8b": {
+      "enter_cn_by_scan": "not legal on the layout",
+      "enter_n_by_scan": "not legal on the layout",
+      "enter_t_by_scan": "not legal on the layout"
+    },
+    "job8c": {
+      "enter_cn_by_scan": "not legal on the layout"
+    },
+    "job8d": {
+      "enter_cn_by_scan": "not legal on the layout"
+    },
+    "job9a": {
+      "enter_cn_by_scan": "not legal on the layout",
+      "enter_n_by_scan": "not legal on the layout",
+      "enter_t_by_scan": "not legal on the layout"
+    },
+    "job9b": {
+      "enter_cn_by_scan": "not legal on the layout",
+      "enter_n_by_scan": "not legal on the layout",
+      "enter_t_by_scan": "not legal on the layout"
+    },
+    "job9c": {
+      "enter_cn_by_scan": "not legal on the layout",
+      "enter_n_by_scan": "not legal on the layout"
+    },
+    "job9d": {
+      "enter_cn_by_scan": "not legal on the layout",
+      "enter_n_by_scan": "not legal on the layout"
+    },
+    "job10a": {
+      "enter_cn_by_scan": "not legal on the layout",
+      "enter_t_by_scan": "not legal on the layout"
+    },
+    "job10b": {
+      "enter_cn_by_scan": "not legal on the layout",
+      "enter_t_by_scan": "not legal on the layout"
+    },
+    "job10c": {
+      "enter_cn_by_scan": "not legal on the layout",
+      "enter_t_by_scan": "not legal on the layout"
+    },
+    "job11a": {
+      "enter_cn_by_scan": "not legal on the layout",
+      "enter_k_by_scan": "not legal on the layout",
+      "enter_ml_by_scan": "not legal on the layout"
+    },
+    "job11b": {
+      "enter_k_by_scan": "not legal on the layout",
+      "enter_ml_by_scan": "not legal on the layout",
+      "enter_t_by_scan": "not legal on the layout"
+    },
+    "job11c": {
+      "enter_cn_by_scan": "not legal on the layout",
+      "enter_k_by_scan": "not legal on the layout",
+      "enter_ml_by_scan": "not legal on the layout"
+    },
+    "job11d": {
+      "enter_cn_by_scan": "not legal on the layout",
+      "enter_k_by_scan": "not legal on the layout",
+      "enter_ml_by_scan": "not legal on the layout"
+    },
+    "job12a": {
+      "enter_cn_by_scan": "not legal on the layout",
+      "enter_mi_by_scan": "not legal on the layout",
+      "enter_mi_idx_by_scan": "not legal on the layout"
+    },
+    "job12b": {
+      "enter_cn_by_scan": "not legal on the layout",
+      "enter_mi_idx_by_scan": "not legal on the layout",
+      "enter_t_by_scan": "not legal on the layout"
+    },
+    "job12c": {
+      "enter_cn_by_scan": "not legal on the layout",
+      "enter_mi_by_scan": "not legal on the layout",
+      "enter_mi_idx_by_scan": "not legal on the layout"
+    },
+    "job13a": {
+      "enter_cn_by_scan": "not legal on the layout",
+      "enter_miidx_by_scan": "not legal on the layout",
+      "enter_t_by_scan": "not legal on the layout"
+    },
+    "job13b": {
+      "enter_cn_by_scan": "not legal on the layout",
+      "enter_miidx_by_scan": "not legal on the layout",
+      "enter_t_by_scan": "not legal on the layout"
+    },
+    "job13c": {
+      "enter_cn_by_scan": "not legal on the layout",
+      "enter_miidx_by_scan": "not legal on the layout",
+      "enter_t_by_scan": "not legal on the layout"
+    },
+    "job13d": {
+      "enter_cn_by_scan": "not legal on the layout",
+      "enter_miidx_by_scan": "not legal on the layout",
+      "enter_t_by_scan": "not legal on the layout"
+    },
+    "job14a": {
+      "enter_k_by_scan": "not legal on the layout",
+      "enter_mi_idx_by_scan": "not legal on the layout",
+      "enter_t_by_scan": "not legal on the layout"
+    },
+    "job14b": {
+      "enter_k_by_scan": "not legal on the layout",
+      "enter_mi_idx_by_scan": "not legal on the layout",
+      "enter_t_by_scan": "not legal on the layout"
+    },
+    "job14c": {
+      "enter_k_by_scan": "not legal on the layout",
+      "enter_mi_by_scan": "not legal on the layout",
+      "enter_mi_idx_by_scan": "not legal on the layout"
+    },
+    "job15a": {
+      "enter_cn_by_scan": "not legal on the layout",
+      "enter_mi_by_scan": "not legal on the layout",
+      "enter_t_by_scan": "not legal on the layout"
+    },
+    "job15b": {
+      "enter_cn_by_scan": "not legal on the layout",
+      "enter_mi_by_scan": "not legal on the layout",
+      "enter_t_by_scan": "not legal on the layout"
+    },
+    "job15c": {
+      "enter_cn_by_scan": "not legal on the layout",
+      "enter_mi_by_scan": "not legal on the layout",
+      "enter_t_by_scan": "not legal on the layout"
+    },
+    "job15d": {
+      "enter_cn_by_scan": "not legal on the layout",
+      "enter_mi_by_scan": "not legal on the layout",
+      "enter_t_by_scan": "not legal on the layout"
+    },
+    "job16a": {
+      "enter_cn_by_scan": "not legal on the layout",
+      "enter_k_by_scan": "not legal on the layout",
+      "enter_t_by_scan": "not legal on the layout"
+    },
+    "job16b": {
+      "enter_cn_by_scan": "not legal on the layout",
+      "enter_k_by_scan": "not legal on the layout"
+    },
+    "job16c": {
+      "enter_cn_by_scan": "not legal on the layout",
+      "enter_k_by_scan": "not legal on the layout",
+      "enter_t_by_scan": "not legal on the layout"
+    },
+    "job16d": {
+      "enter_cn_by_scan": "not legal on the layout",
+      "enter_k_by_scan": "not legal on the layout",
+      "enter_t_by_scan": "not legal on the layout"
+    },
+    "job17a": {
+      "enter_cn_by_scan": "not legal on the layout",
+      "enter_k_by_scan": "not legal on the layout",
+      "enter_n_by_scan": "not legal on the layout"
+    },
+    "job17b": {
+      "enter_k_by_scan": "not legal on the layout",
+      "enter_n_by_scan": "not legal on the layout"
+    },
+    "job17c": {
+      "enter_k_by_scan": "not legal on the layout",
+      "enter_n_by_scan": "not legal on the layout"
+    },
+    "job17d": {
+      "enter_k_by_scan": "not legal on the layout",
+      "enter_n_by_scan": "not legal on the layout"
+    },
+    "job17e": {
+      "enter_cn_by_scan": "not legal on the layout",
+      "enter_k_by_scan": "not legal on the layout"
+    },
+    "job17f": {
+      "enter_k_by_scan": "not legal on the layout",
+      "enter_n_by_scan": "not legal on the layout"
+    },
+    "job18a": {
+      "enter_mi_by_scan": "not legal on the layout",
+      "enter_mi_idx_by_scan": "not legal on the layout",
+      "enter_n_by_scan": "not legal on the layout"
+    },
+    "job18b": {
+      "enter_mi_by_scan": "not legal on the layout",
+      "enter_mi_idx_by_scan": "not legal on the layout",
+      "enter_t_by_scan": "not legal on the layout"
+    },
+    "job18c": {
+      "enter_mi_by_scan": "not legal on the layout",
+      "enter_mi_idx_by_scan": "not legal on the layout",
+      "enter_n_by_scan": "not legal on the layout"
+    },
+    "job19a": {
+      "enter_cn_by_scan": "not legal on the layout",
+      "enter_mi_by_scan": "not legal on the layout",
+      "enter_n_by_scan": "not legal on the layout"
+    },
+    "job19b": {
+      "enter_mi_by_scan": "not legal on the layout",
+      "enter_n_by_scan": "not legal on the layout",
+      "enter_t_by_scan": "not legal on the layout"
+    },
+    "job19c": {
+      "enter_cn_by_scan": "not legal on the layout",
+      "enter_mi_by_scan": "not legal on the layout",
+      "enter_n_by_scan": "not legal on the layout"
+    },
+    "job19d": {
+      "enter_cn_by_scan": "not legal on the layout",
+      "enter_n_by_scan": "not legal on the layout",
+      "enter_t_by_scan": "not legal on the layout"
+    },
+    "job20a": {
+      "enter_cc_by_scan": "not legal on the layout",
+      "enter_k_by_scan": "not legal on the layout"
+    },
+    "job20b": {
+      "enter_k_by_scan": "not legal on the layout",
+      "enter_n_by_scan": "not legal on the layout"
+    },
+    "job20c": {
+      "enter_cc_by_scan": "not legal on the layout",
+      "enter_k_by_scan": "not legal on the layout"
+    },
+    "job21a": {
+      "enter_cn_by_scan": "not legal on the layout",
+      "enter_k_by_scan": "not legal on the layout",
+      "enter_ml_by_scan": "not legal on the layout"
+    },
+    "job21b": {
+      "enter_cn_by_scan": "not legal on the layout",
+      "enter_k_by_scan": "not legal on the layout",
+      "enter_ml_by_scan": "not legal on the layout"
+    },
+    "job21c": {
+      "enter_cn_by_scan": "not legal on the layout",
+      "enter_k_by_scan": "not legal on the layout",
+      "enter_ml_by_scan": "not legal on the layout"
+    },
+    "job22a": {
+      "enter_cn_by_scan": "not legal on the layout",
+      "enter_k_by_scan": "not legal on the layout",
+      "enter_mi_idx_by_scan": "not legal on the layout"
+    },
+    "job22b": {
+      "enter_cn_by_scan": "not legal on the layout",
+      "enter_k_by_scan": "not legal on the layout",
+      "enter_mi_idx_by_scan": "not legal on the layout"
+    },
+    "job22c": {
+      "enter_cn_by_scan": "not legal on the layout",
+      "enter_k_by_scan": "not legal on the layout",
+      "enter_mi_idx_by_scan": "not legal on the layout"
+    },
+    "job22d": {
+      "enter_cn_by_scan": "not legal on the layout",
+      "enter_k_by_scan": "not legal on the layout",
+      "enter_mi_idx_by_scan": "not legal on the layout"
+    },
+    "job23a": {
+      "enter_cc_by_scan": "not legal on the layout",
+      "enter_cn_by_scan": "not legal on the layout",
+      "enter_mi_by_scan": "not legal on the layout"
+    },
+    "job23b": {
+      "enter_cc_by_scan": "not legal on the layout",
+      "enter_k_by_scan": "not legal on the layout",
+      "enter_mi_by_scan": "not legal on the layout"
+    },
+    "job23c": {
+      "enter_cc_by_scan": "not legal on the layout",
+      "enter_cn_by_scan": "not legal on the layout",
+      "enter_mi_by_scan": "not legal on the layout"
+    },
+    "job24a": {
+      "enter_cn_by_scan": "not legal on the layout",
+      "enter_k_by_scan": "not legal on the layout",
+      "enter_n_by_scan": "not legal on the layout"
+    },
+    "job24b": {
+      "enter_cn_by_scan": "not legal on the layout",
+      "enter_k_by_scan": "not legal on the layout",
+      "enter_t_by_scan": "not legal on the layout"
+    },
+    "job25a": {
+      "enter_k_by_scan": "not legal on the layout",
+      "enter_mi_by_scan": "not legal on the layout",
+      "enter_mi_idx_by_scan": "not legal on the layout"
+    },
+    "job25b": {
+      "enter_k_by_scan": "not legal on the layout",
+      "enter_mi_by_scan": "not legal on the layout",
+      "enter_t_by_scan": "not legal on the layout"
+    },
+    "job25c": {
+      "enter_k_by_scan": "not legal on the layout",
+      "enter_mi_by_scan": "not legal on the layout",
+      "enter_mi_idx_by_scan": "not legal on the layout"
+    },
+    "job26a": {
+      "enter_cc_by_scan": "not legal on the layout",
+      "enter_k_by_scan": "not legal on the layout",
+      "enter_mi_idx_by_scan": "not legal on the layout"
+    },
+    "job26b": {
+      "enter_cc_by_scan": "not legal on the layout",
+      "enter_k_by_scan": "not legal on the layout",
+      "enter_mi_idx_by_scan": "not legal on the layout"
+    },
+    "job26c": {
+      "enter_cc_by_scan": "not legal on the layout",
+      "enter_k_by_scan": "not legal on the layout"
+    },
+    "job27a": {
+      "enter_cn_by_scan": "not legal on the layout",
+      "enter_k_by_scan": "not legal on the layout",
+      "enter_ml_by_scan": "not legal on the layout"
+    },
+    "job27b": {
+      "enter_k_by_scan": "not legal on the layout",
+      "enter_ml_by_scan": "not legal on the layout",
+      "enter_t_by_scan": "not legal on the layout"
+    },
+    "job27c": {
+      "enter_cn_by_scan": "not legal on the layout",
+      "enter_k_by_scan": "not legal on the layout",
+      "enter_ml_by_scan": "not legal on the layout"
+    },
+    "job28a": {
+      "enter_cc_by_scan": "not legal on the layout",
+      "enter_cn_by_scan": "not legal on the layout",
+      "enter_k_by_scan": "not legal on the layout"
+    },
+    "job28b": {
+      "enter_cc_by_scan": "not legal on the layout",
+      "enter_k_by_scan": "not legal on the layout",
+      "enter_mi_by_scan": "not legal on the layout"
+    },
+    "job28c": {
+      "enter_cc_by_scan": "not legal on the layout",
+      "enter_cn_by_scan": "not legal on the layout",
+      "enter_k_by_scan": "not legal on the layout"
+    },
+    "job29a": {
+      "enter_k_by_scan": "not legal on the layout",
+      "enter_t_by_scan": "not legal on the layout"
+    },
+    "job29b": {
+      "enter_k_by_scan": "not legal on the layout",
+      "enter_t_by_scan": "not legal on the layout"
+    },
+    "job29c": {
+      "enter_cc_by_scan": "not legal on the layout",
+      "enter_k_by_scan": "not legal on the layout",
+      "enter_n_by_scan": "not legal on the layout"
+    },
+    "job30a": {
+      "enter_cc_by_scan": "not legal on the layout",
+      "enter_k_by_scan": "not legal on the layout",
+      "enter_mi_by_scan": "not legal on the layout"
+    },
+    "job30b": {
+      "enter_cc_by_scan": "not legal on the layout",
+      "enter_k_by_scan": "not legal on the layout",
+      "enter_t_by_scan": "not legal on the layout"
+    },
+    "job30c": {
+      "enter_cc_by_scan": "not legal on the layout",
+      "enter_k_by_scan": "not legal on the layout",
+      "enter_mi_by_scan": "not legal on the layout"
+    },
+    "job31a": {
+      "enter_cn_by_scan": "not legal on the layout",
+      "enter_k_by_scan": "not legal on the layout",
+      "enter_mi_by_scan": "not legal on the layout"
+    },
+    "job31b": {
+      "enter_cn_by_scan": "not legal on the layout",
+      "enter_k_by_scan": "not legal on the layout",
+      "enter_t_by_scan": "not legal on the layout"
+    },
+    "job31c": {
+      "enter_cn_by_scan": "not legal on the layout",
+      "enter_k_by_scan": "not legal on the layout",
+      "enter_mi_by_scan": "not legal on the layout"
+    },
+    "job32a": {
+      "enter_k_by_scan": "not legal on the layout",
+      "enter_ml_by_scan": "not legal on the layout"
+    },
+    "job32b": {
+      "enter_k_by_scan": "not legal on the layout",
+      "enter_ml_by_scan": "not legal on the layout"
+    },
+    "job33a": {
+      "enter_mi_idx2_by_scan": "not legal on the layout",
+      "enter_ml_by_scan": "not legal on the layout",
+      "enter_t2_by_scan": "not legal on the layout"
+    },
+    "job33b": {
+      "enter_cn1_by_scan": "not legal on the layout",
+      "enter_ml_by_scan": "not legal on the layout",
+      "enter_t2_by_scan": "not legal on the layout"
+    },
+    "job33c": {
+      "enter_cn1_by_scan": "not legal on the layout",
+      "enter_mi_idx2_by_scan": "not legal on the layout",
+      "enter_ml_by_scan": "not legal on the layout"
+    }
+  }
+}

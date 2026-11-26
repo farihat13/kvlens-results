@@ -1,0 +1,133 @@
+{
+ "query_sha": "c060b3ffba4ba4fe",
+ "params": {
+  "messageId": 824634360199
+ },
+ "data": {
+  "schema_sha256": "b8e206f17e60692c830ba0c3c675fbc481a22f26011282ce523890eb09be8a74",
+  "schema_path": "arangodb/schema/ldbc_schema.json",
+  "sf": "0.3",
+  "created": "2026-11-21T03:01:29Z",
+  "git_sha": "60910999"
+ },
+ "fetched_at": "2026-11-21T00:04:11",
+ "raw": [
+  {
+   "commentId": 824634360202,
+   "commentContent": "great",
+   "commentCreationDate": 1328004655176,
+   "replyAuthorId": 21990232556585,
+   "replyAuthorFirstName": "Faisal",
+   "replyAuthorLastName": "Malik",
+   "replyAuthorKnowsOriginalMessageAuthor": true
+  },
+  {
+   "commentId": 824634360207,
+   "commentContent": "yes",
+   "commentCreationDate": 1327954911245,
+   "replyAuthorId": 21990232557038,
+   "replyAuthorFirstName": "Jun",
+   "replyAuthorLastName": "He",
+   "replyAuthorKnowsOriginalMessageAuthor": true
+  },
+  {
+   "commentId": 824634360212,
+   "commentContent": "About Alexander Downer, y politician who was Foreign About Quincy Jones, ward. He was",
+   "commentCreationDate": 1327951759004,
+   "replyAuthorId": 21990232557038,
+   "replyAuthorFirstName": "Jun",
+   "replyAuthorLastName": "He",
+   "replyAuthorKnowsOriginalMessageAuthor": true
+  },
+  {
+   "commentId": 824634360208,
+   "commentContent": "right",
+   "commentCreationDate": 1327930512349,
+   "replyAuthorId": 17592186047020,
+   "replyAuthorFirstName": "Ben",
+   "replyAuthorLastName": "Xu",
+   "replyAuthorKnowsOriginalMessageAuthor": true
+  },
+  {
+   "commentId": 824634360204,
+   "commentContent": "I see",
+   "commentCreationDate": 1327929998590,
+   "replyAuthorId": 13194139534624,
+   "replyAuthorFirstName": "Ai",
+   "replyAuthorLastName": "Xu",
+   "replyAuthorKnowsOriginalMessageAuthor": true
+  },
+  {
+   "commentId": 824634360211,
+   "commentContent": "good",
+   "commentCreationDate": 1327924515723,
+   "replyAuthorId": 19791209302403,
+   "replyAuthorFirstName": "Bibit",
+   "replyAuthorLastName": "Balawan",
+   "replyAuthorKnowsOriginalMessageAuthor": true
+  },
+  {
+   "commentId": 824634360200,
+   "commentContent": "great",
+   "commentCreationDate": 1327922890463,
+   "replyAuthorId": 2608,
+   "replyAuthorFirstName": "Wei",
+   "replyAuthorLastName": "Zhu",
+   "replyAuthorKnowsOriginalMessageAuthor": true
+  },
+  {
+   "commentId": 824634360210,
+   "commentContent": "no",
+   "commentCreationDate": 1327922404206,
+   "replyAuthorId": 21990232558726,
+   "replyAuthorFirstName": "Hao",
+   "replyAuthorLastName": "Zhang",
+   "replyAuthorKnowsOriginalMessageAuthor": true
+  },
+  {
+   "commentId": 824634360206,
+   "commentContent": "thanks",
+   "commentCreationDate": 1327921398988,
+   "replyAuthorId": 8796093022574,
+   "replyAuthorFirstName": "Abdul-Malik",
+   "replyAuthorLastName": "Binalshibh",
+   "replyAuthorKnowsOriginalMessageAuthor": true
+  },
+  {
+   "commentId": 824634360205,
+   "commentContent": "cool",
+   "commentCreationDate": 1327921161667,
+   "replyAuthorId": 21990232558726,
+   "replyAuthorFirstName": "Hao",
+   "replyAuthorLastName": "Zhang",
+   "replyAuthorKnowsOriginalMessageAuthor": true
+  },
+  {
+   "commentId": 824634360201,
+   "commentContent": "cool",
+   "commentCreationDate": 1327921055006,
+   "replyAuthorId": 15393162788906,
+   "replyAuthorFirstName": "Ali",
+   "replyAuthorLastName": "Achiou",
+   "replyAuthorKnowsOriginalMessageAuthor": true
+  },
+  {
+   "commentId": 824634360203,
+   "commentContent": "LOL",
+   "commentCreationDate": 1327920923985,
+   "replyAuthorId": 6597069770100,
+   "replyAuthorFirstName": "Ganesh",
+   "replyAuthorLastName": "Shrestha",
+   "replyAuthorKnowsOriginalMessageAuthor": true
+  },
+  {
+   "commentId": 824634360209,
+   "commentContent": "thanks",
+   "commentCreationDate": 1327920900484,
+   "replyAuthorId": 4398046513186,
+   "replyAuthorFirstName": "Andrea",
+   "replyAuthorLastName": "Blanco",
+   "replyAuthorKnowsOriginalMessageAuthor": true
+  }
+ ]
+}

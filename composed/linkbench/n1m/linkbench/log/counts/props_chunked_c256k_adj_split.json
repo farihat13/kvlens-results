@@ -1,0 +1,160 @@
+{
+ "P": 8,
+ "binary": {
+  "allocator": {
+   "aggressive_decommit": 0,
+   "env": {},
+   "lib_sha256": "c3d7996e516f60360b9d6d591fea53e0b177df38a4bfa36296d713220741f42a",
+   "malloc_is_tcmalloc": true,
+   "name": "tcmalloc",
+   "release_rate": 0.0,
+   "version": "2.15-3build1"
+  },
+  "binary_dirty": false,
+  "binary_git_sha": "e22430d124f05ed0e6dea30d3b55b2ffb65978d6",
+  "block_cache_priority": {
+   "high_pri_pool_ratio": 0.5,
+   "index_filter_high_priority": true
+  },
+  "build_key": "1446a3391164c90cd76e",
+  "compiler": "GNU 13.3.0",
+  "counting": {
+   "formats": {
+    "arangodb": {
+     "read": 3,
+     "write": 1
+    },
+    "arangodb_engine": {
+     "read": 3,
+     "write": 1
+    },
+    "dgraph": {
+     "read": 2,
+     "write": 1
+    },
+    "dgraph_engine": {
+     "read": 2,
+     "write": 1
+    },
+    "meta": {
+     "read": 3,
+     "write": 1
+    },
+    "nebula": {
+     "read": 3,
+     "write": 1
+    },
+    "nebula_engine": {
+     "read": 3,
+     "write": 1
+    },
+    "pertype_csr": {
+     "read": 2,
+     "write": 1
+    }
+   },
+   "seam": {
+    "read": 4,
+    "write": 1
+   }
+  },
+  "engine_key_layouts": {
+   "arangodb_engine": "realistic-v7",
+   "dgraph_engine": "realistic-engine-v1",
+   "nebula_engine": "realistic-v4"
+  },
+  "flags": " -Wall -Wextra -Wno-unused-parameter -Wno-dangling-reference -O2 -g",
+  "host": {
+   "cpu": "AMD EPYC 9354P 32-Core Processor",
+   "kernel": "Linux 6.8.0-149-generic"
+  },
+  "ingest_index_filter_blocks": "partitioned",
+  "key_layouts": {
+   "arangodb": "realistic-v7",
+   "dgraph": "realistic-part-start",
+   "meta": "meta-v4-chunk-bytes",
+   "nebula": "realistic-v4",
+   "pertype_csr": "realistic-v7"
+  },
+  "key_roles_version": 6,
+  "librocksdb_sha256": "5de397b9a75279a914a7fe663bddfc32f5db6b85aa17de3268ebaf654614dc68",
+  "rocksdb": "7.5.3",
+  "rocksdb_source": "7.5.3@540d5aae516265170564ec27b3e67a54a11b7045",
+  "tally_version": 2
+ },
+ "cell": "props_chunked_c256k_adj_split",
+ "cell_inputs": null,
+ "complete": true,
+ "composed_from": {
+  "adjacency parts": "captures/linkbench/n1m/linkbench/log/parts/props_split_adj_split.csv",
+  "props and index parts": "captures/linkbench/n1m/linkbench/log/parts/props_chunked_c256k_adj_chunked_c256k.csv"
+ },
+ "composed_from_sha": {
+  "captures/linkbench/n1m/linkbench/log/counts/props_chunked_c256k_adj_chunked_c256k.csv": "b426bb75b76205b3570448212216aafb8a7742dae92c7bea41b12c508f4d21fe",
+  "captures/linkbench/n1m/linkbench/log/counts/props_split_adj_split.csv": "909b9834d273b849299ea316f7710e1c6a5ceda27891073cd2c4801b7c6c5c3f",
+  "captures/linkbench/n1m/linkbench/log/parts/props_chunked_c256k_adj_chunked_c256k.csv": "435111f12ab21dc3af47dcdbb389623620c83d335d31e8ca9ee19a68e03f275f",
+  "captures/linkbench/n1m/linkbench/log/parts/props_split_adj_split.csv": "63b0902817a6b1ac7d830a02fe8ed93f464bd54bae4aacb82c741a93febf7a87"
+ },
+ "counting": {
+  "format": 3,
+  "seam": 4,
+  "write_format": 1,
+  "write_seam": 1
+ },
+ "exec": "serve",
+ "free_rows": true,
+ "inputs": "b4c7cce200b0ab75",
+ "measurement_version": 7,
+ "nparam": 100000,
+ "param_set": "log",
+ "plan_pipeline": 2,
+ "resumed": 0,
+ "sf": "n1m",
+ "slice": {
+  "params": null,
+  "queries": null
+ },
+ "spec": {
+  "adjacency": {
+   "group": "item",
+   "owners": "one",
+   "split": "never"
+  },
+  "direction": "declared",
+  "index": {
+   "group": "item",
+   "owners": "one",
+   "scope": "type",
+   "split": "never",
+   "term": "exact"
+  },
+  "version": 1,
+  "vertex_props": {
+   "group": "owner",
+   "owners": {
+    "pack": 262144
+   },
+   "split": "never"
+  }
+ },
+ "spec_path": "specs/props_chunked_c256k_adj_split.json",
+ "store": "",
+ "store_content": {
+  "ingest_counts": {
+   "adjacency_parts": 0,
+   "adjacency_split_units": 0,
+   "edges": 5249370,
+   "vertices": 1000000
+  },
+  "keys": 1001603,
+  "records": "2330c4acba5812cdb24b3dce9a5cbdc0143fec42aee6cb5137dacb58189db7ea",
+  "schema": "20cfc028c9a3a7d107d4c3e6561ad04775f694f94aec668055f0596de03fea7c"
+ },
+ "store_manifest": null,
+ "tree": {
+  "git_dirty": false,
+  "git_sha": "e22430d124f05ed0e6dea30d3b55b2ffb65978d6"
+ },
+ "wall_s": 1.943,
+ "workload": "linkbench"
+}

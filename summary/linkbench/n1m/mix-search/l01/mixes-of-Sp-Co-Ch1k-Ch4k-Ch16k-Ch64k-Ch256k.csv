@@ -1,0 +1,3 @@
+workload,option_set,question,model,limit,weighting,sizes,proven,nodes,fits,wops,bytes,score,assignment,link1 lists,link2 lists,Node props
+l01,per-type-any-size,fewest,bill_exact,,sum,chunked_c1k;chunked_c4k;chunked_c16k;chunked_c256k,True,4,True,144095.5200000292,156484462.00001982,,link1 lists=split; link2 lists=split; Node props=condensed,split,split,condensed
+l01,per-type-any-size,fewest,wops_bytes4k,,sum,chunked_c1k;chunked_c4k;chunked_c16k;chunked_c256k,True,5,True,137290.53000001967,120132256.00000732,,link1 lists=condensed; link2 lists=condensed; Node props=condensed,condensed,condensed,condensed

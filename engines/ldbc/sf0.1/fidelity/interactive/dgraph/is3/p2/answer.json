@@ -1,0 +1,88 @@
+{
+ "query_sha": "00f75f489d160871",
+ "params": {
+  "personId": "24189255811707"
+ },
+ "data": {
+  "schema_sha256": "03713a1e1c7b722e73bed6b150e079e69e9579c2a58c52e06f9d4384fdd4b80d",
+  "schema_path": "dgraph/schema/ldbcTypes.schema",
+  "sf": "0.1",
+  "created": "2026-11-21T03:25:44Z",
+  "git_sha": "92777160"
+ },
+ "fetched_at": "2026-11-21T01:06:01",
+ "raw": {
+  "person": [
+   {
+    "~knows": [
+     {
+      "friendId": 21990232557079,
+      "friendFirstName": "Jie",
+      "friendLastName": "Yang",
+      "~knows|creationDate": "2011-11-25T15:16:42.470+00:00"
+     },
+     {
+      "friendId": 10995116278570,
+      "friendFirstName": "Wei",
+      "friendLastName": "Liu",
+      "~knows|creationDate": "2011-11-16T09:32:48.741+00:00"
+     },
+     {
+      "friendId": 21990232555889,
+      "friendFirstName": "Yang",
+      "friendLastName": "Lei",
+      "~knows|creationDate": "2011-11-24T01:00:58.973+00:00"
+     },
+     {
+      "friendId": 13194139534548,
+      "friendFirstName": "Bing",
+      "friendLastName": "Zheng",
+      "~knows|creationDate": "2011-11-27T06:49:01.400+00:00"
+     },
+     {
+      "friendId": 24189255811663,
+      "friendFirstName": "Chris",
+      "friendLastName": "Hall",
+      "~knows|creationDate": "2011-12-12T21:16:18.034+00:00"
+     },
+     {
+      "friendId": 10995116278915,
+      "friendFirstName": "Benedict",
+      "friendLastName": "Zhang",
+      "~knows|creationDate": "2011-11-18T07:13:27.178+00:00"
+     },
+     {
+      "friendId": 19791209301522,
+      "friendFirstName": "Wei",
+      "friendLastName": "Wang",
+      "~knows|creationDate": "2011-11-19T04:28:23.855+00:00"
+     },
+     {
+      "friendId": 17592186044425,
+      "friendFirstName": "Alim",
+      "friendLastName": "Guliyev",
+      "~knows|creationDate": "2011-11-12T15:29:02.695+00:00"
+     },
+     {
+      "friendId": 19791209300851,
+      "friendFirstName": "Yang",
+      "friendLastName": "Zhu",
+      "~knows|creationDate": "2011-12-07T15:17:21.815+00:00"
+     },
+     {
+      "friendId": 17592186045813,
+      "friendFirstName": "Lin",
+      "friendLastName": "Zhang",
+      "~knows|creationDate": "2011-11-19T07:18:58.599+00:00"
+     },
+     {
+      "friendId": 19791209300852,
+      "friendFirstName": "Ge",
+      "friendLastName": "Wang",
+      "~knows|creationDate": "2011-12-03T21:15:22.661+00:00"
+     }
+    ]
+   }
+  ]
+ }
+}

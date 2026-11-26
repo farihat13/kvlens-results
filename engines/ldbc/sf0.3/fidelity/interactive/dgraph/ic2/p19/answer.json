@@ -1,0 +1,362 @@
+{
+ "query_sha": "e534711ff51080e0",
+ "params": {
+  "personId": "24189255811500",
+  "maxDate": "2012-09-13T00:00:00Z"
+ },
+ "data": {
+  "schema_sha256": "03713a1e1c7b722e73bed6b150e079e69e9579c2a58c52e06f9d4384fdd4b80d",
+  "schema_path": "dgraph/schema/ldbcTypes.schema",
+  "sf": "0.3",
+  "created": "2026-11-21T02:56:18Z",
+  "git_sha": "60910999"
+ },
+ "fetched_at": "2026-11-21T00:00:10",
+ "raw": {
+  "_n1": [],
+  "posts": [
+   {
+    "friendFirstName": "Rafael",
+    "friendId": 2783,
+    "friendLastName": "Alonso",
+    "messageContent": "About Augustine of Hippo, City of God, distinct from the material Earthly City. His thoughts profoundly About Juan Carlos I of Spain, essly as King of Spai",
+    "messageCreationDate": "2012-09-12T12:51:44.92Z",
+    "messageId": 1099512140152,
+    "messageImageFile": ""
+   },
+   {
+    "friendFirstName": "Rafael",
+    "friendId": 2783,
+    "friendLastName": "Alonso",
+    "messageContent": "About Augustine of Hippo, ch and the AnglicanAbout Philip IV of Spain, f his death in 1665Ab",
+    "messageCreationDate": "2012-09-12T00:15:13.305Z",
+    "messageId": 1099512141081,
+    "messageImageFile": ""
+   },
+   {
+    "friendFirstName": "Anh",
+    "friendId": 28587302322537,
+    "friendLastName": "Nguyen",
+    "messageContent": "About Mstislav Rostropovich, rtnerships with composers including Dmitri Shostakovich, Sergei Prokofi",
+    "messageCreationDate": "2012-09-11T17:53:20.741Z",
+    "messageId": 1099512378585,
+    "messageImageFile": ""
+   },
+   {
+    "friendFirstName": "Anh",
+    "friendId": 28587302322537,
+    "friendLastName": "Nguyen",
+    "messageContent": "About Mstislav Rostropovich, March 27, 1927 \u2013 April 27, 2007), was a Soviet and Russian cellist and conductor. He was married to the soprano Galina Vis",
+    "messageCreationDate": "2012-09-09T14:28:06.54Z",
+    "messageId": 1099512377965,
+    "messageImageFile": ""
+   },
+   {
+    "friendFirstName": "Rafael",
+    "friendId": 2783,
+    "friendLastName": "Alonso",
+    "messageContent": "About Augustine of Hippo, arly years he was heavily About Cicero, isms such as humanitas, quAbout Nicco",
+    "messageCreationDate": "2012-09-09T01:05:02.215Z",
+    "messageId": 1099512141791,
+    "messageImageFile": ""
+   },
+   {
+    "friendFirstName": "Nim",
+    "friendId": 30786325581208,
+    "friendLastName": "Chau",
+    "messageContent": "About Leon Trotsky, ported from the Soviet Union and assassinated on Stalin's orders. ",
+    "messageCreationDate": "2012-09-08T17:58:24.312Z",
+    "messageId": 1099512508029,
+    "messageImageFile": ""
+   },
+   {
+    "friendFirstName": "Anh",
+    "friendId": 28587302322537,
+    "friendLastName": "Nguyen",
+    "messageContent": "About Mstislav Rostropovich, f over 100 pieces, forming long-standing friendships and artistic ",
+    "messageCreationDate": "2012-09-07T13:26:03.441Z",
+    "messageId": 1030792901867,
+    "messageImageFile": ""
+   },
+   {
+    "friendFirstName": "Nim",
+    "friendId": 30786325581208,
+    "friendLastName": "Chau",
+    "messageContent": "About Ivan Ljubi\u010di\u0107, nd, he used a slice or a drop-shot to great effect to draw a player or put him out of position.",
+    "messageCreationDate": "2012-09-07T04:13:22.806Z",
+    "messageId": 1030792715573,
+    "messageImageFile": ""
+   },
+   {
+    "friendFirstName": "Nim",
+    "friendId": 30786325581208,
+    "friendLastName": "Chau",
+    "messageContent": "About Vince McMahon, (WCW) and Extreme Championship Wrestling (ECW), McMahon's WWE became the sole remaining",
+    "messageCreationDate": "2012-09-07T02:34:26.091Z",
+    "messageId": 1030792254470,
+    "messageImageFile": ""
+   },
+   {
+    "friendFirstName": "Sergio",
+    "friendId": 6597069766998,
+    "friendLastName": "Suarez",
+    "messageContent": "About Jorge Luis Borges,  him: He, more than anyone, renovated the language of fiction and thus opene",
+    "messageCreationDate": "2012-09-07T01:09:16.179Z",
+    "messageId": 1030792960959,
+    "messageImageFile": ""
+   },
+   {
+    "friendFirstName": "Bingbing",
+    "friendId": 15393162790796,
+    "friendLastName": "Xu",
+    "messageContent": "About Martina Navratilova, doubles, Navratilova and Pam Shriver won 109 consecutive matches and won all four major titles ",
+    "messageCreationDate": "2012-09-06T17:22:10.765Z",
+    "messageId": 1030792482368,
+    "messageImageFile": ""
+   },
+   {
+    "friendFirstName": "Bingbing",
+    "friendId": 15393162790796,
+    "friendLastName": "Xu",
+    "messageContent": "About Martina Navratilova, bles and mixed doubles player who's ever lived. Navratilova won 18 Grand Slam sin",
+    "messageCreationDate": "2012-09-06T09:15:45.068Z",
+    "messageId": 1030792482348,
+    "messageImageFile": ""
+   },
+   {
+    "friendFirstName": "Jose",
+    "friendId": 8796093025406,
+    "friendLastName": "Pereira",
+    "messageContent": "About Nancy Pelosi, ker of the House for the 110th and 111th Congresses. On November 17, 2010, Pelosi was elected as the",
+    "messageCreationDate": "2012-09-06T03:21:35.979Z",
+    "messageId": 1030792923885,
+    "messageImageFile": ""
+   },
+   {
+    "friendFirstName": "Anh",
+    "friendId": 28587302322537,
+    "friendLastName": "Nguyen",
+    "messageContent": "About Mstislav Rostropovich,  before or since. He gave the premieres of over 100 pieces, forming long-standin",
+    "messageCreationDate": "2012-09-06T02:06:35.175Z",
+    "messageId": 1030792901263,
+    "messageImageFile": ""
+   },
+   {
+    "friendFirstName": "Bingbing",
+    "friendId": 15393162790796,
+    "friendLastName": "Xu",
+    "messageContent": "About Leonard Cohen,  which was not recorded live, but filmed specifically for thAbout Shakira, ns Lane, Leatherhead, S",
+    "messageCreationDate": "2012-09-05T20:48:10.336Z",
+    "messageId": 1030792168369,
+    "messageImageFile": ""
+   },
+   {
+    "friendFirstName": "Rafael",
+    "friendId": 2783,
+    "friendLastName": "Alonso",
+    "messageContent": "About Twist and Shout, r, and on a film soundtrack by Cliff Richard. It was also covered by The Tremeloes. Most recently Ch",
+    "messageCreationDate": "2012-09-05T17:51:31.244Z",
+    "messageId": 1030792202263,
+    "messageImageFile": ""
+   },
+   {
+    "friendFirstName": "Jose",
+    "friendId": 8796093025406,
+    "friendLastName": "Pereira",
+    "messageContent": "About Paul Capdeville, amton (2009), Guayaquil (2010), Guadalajara (2011), Binghamton (2011) and Santiago (2012)",
+    "messageCreationDate": "2012-09-03T11:35:49.055Z",
+    "messageId": 1030792726334,
+    "messageImageFile": ""
+   },
+   {
+    "friendFirstName": "Rafael",
+    "friendId": 2783,
+    "friendLastName": "Alonso",
+    "messageContent": "About Augustine of Hippo, odox Church he is also considered a saint, his feast day being celebrated on 15 June.. He c",
+    "messageCreationDate": "2012-09-03T01:46:59.197Z",
+    "messageId": 1030792661262,
+    "messageImageFile": ""
+   },
+   {
+    "friendFirstName": "Rafael",
+    "friendId": 2783,
+    "friendLastName": "Alonso",
+    "messageContent": "About Augustine of Hippo,  and divine grace. In the Eastern Orthodox ChurcAbout John Quincy Ada",
+    "messageCreationDate": "2012-09-02T15:38:12.811Z",
+    "messageId": 1030792662888,
+    "messageImageFile": ""
+   },
+   {
+    "friendFirstName": "Bingbing",
+    "friendId": 15393162790796,
+    "friendLastName": "Xu",
+    "messageContent": "About Leonard Cohen, ard Cohen and U2, which was not recorded live, but filmed specifically for the film, in New York",
+    "messageCreationDate": "2012-09-01T18:22:11.392Z",
+    "messageId": 1030792168559,
+    "messageImageFile": ""
+   }
+  ],
+  "comments": [
+   {
+    "friendFirstName": "Arif",
+    "friendId": 17592186048155,
+    "friendLastName": "Gallagher",
+    "messageContent": "great",
+    "messageCreationDate": "2012-09-12T23:46:11.58Z",
+    "messageId": 1099512331588
+   },
+   {
+    "friendFirstName": "Bingbing",
+    "friendId": 4398046512826,
+    "friendLastName": "Liu",
+    "messageContent": "I see",
+    "messageCreationDate": "2012-09-12T21:15:12.788Z",
+    "messageId": 1099511797166
+   },
+   {
+    "friendFirstName": "Nim",
+    "friendId": 30786325581208,
+    "friendLastName": "Chau",
+    "messageContent": "About Lyndon B. Johnson, resident in his own right, winning by a largAbout Duchy of Sch",
+    "messageCreationDate": "2012-09-12T18:25:22.863Z",
+    "messageId": 1099512503961
+   },
+   {
+    "friendFirstName": "Bingbing",
+    "friendId": 15393162790796,
+    "friendLastName": "Xu",
+    "messageContent": "duh",
+    "messageCreationDate": "2012-09-12T18:17:02.597Z",
+    "messageId": 1099512064170
+   },
+   {
+    "friendFirstName": "Bingbing",
+    "friendId": 4398046512826,
+    "friendLastName": "Liu",
+    "messageContent": "ok",
+    "messageCreationDate": "2012-09-12T12:59:30.766Z",
+    "messageId": 1099512492617
+   },
+   {
+    "friendFirstName": "Eugen",
+    "friendId": 24189255814639,
+    "friendLastName": "Basov",
+    "messageContent": "About Joni Mitchell, and piano compositions grew more harmonicaAbout Standing Hampt",
+    "messageCreationDate": "2012-09-12T08:51:14Z",
+    "messageId": 1099512604888
+   },
+   {
+    "friendFirstName": "Rafael",
+    "friendId": 2783,
+    "friendLastName": "Alonso",
+    "messageContent": "I see",
+    "messageCreationDate": "2012-09-12T02:12:01.732Z",
+    "messageId": 1099511679351
+   },
+   {
+    "friendFirstName": "Rafael",
+    "friendId": 2783,
+    "friendLastName": "Alonso",
+    "messageContent": "About Fred Astaire, way stage dancer, choreographer, singer and actor. His stage and subs",
+    "messageCreationDate": "2012-09-11T23:42:52.325Z",
+    "messageId": 1099512664682
+   },
+   {
+    "friendFirstName": "Sergio",
+    "friendId": 6597069766998,
+    "friendLastName": "Suarez",
+    "messageContent": "good",
+    "messageCreationDate": "2012-09-11T22:34:39.955Z",
+    "messageId": 1099511891859
+   },
+   {
+    "friendFirstName": "Chris",
+    "friendId": 24189255811663,
+    "friendLastName": "Hall",
+    "messageContent": "thx",
+    "messageCreationDate": "2012-09-11T22:23:23.748Z",
+    "messageId": 1099512636979
+   },
+   {
+    "friendFirstName": "Eugen",
+    "friendId": 24189255814639,
+    "friendLastName": "Basov",
+    "messageContent": "About Thelonious Monk, nk, Straight, No Chaser and Well, You NeeAbout OK Computer",
+    "messageCreationDate": "2012-09-11T21:18:48.401Z",
+    "messageId": 1099512604076
+   },
+   {
+    "friendFirstName": "Arif",
+    "friendId": 17592186048155,
+    "friendLastName": "Gallagher",
+    "messageContent": "fine",
+    "messageCreationDate": "2012-09-11T20:40:21.957Z",
+    "messageId": 1099511932951
+   },
+   {
+    "friendFirstName": "Chris",
+    "friendId": 24189255811663,
+    "friendLastName": "Hall",
+    "messageContent": "duh",
+    "messageCreationDate": "2012-09-11T19:53:38.621Z",
+    "messageId": 1099512636987
+   },
+   {
+    "friendFirstName": "Bingbing",
+    "friendId": 15393162790796,
+    "friendLastName": "Xu",
+    "messageContent": "good",
+    "messageCreationDate": "2012-09-11T18:43:51.373Z",
+    "messageId": 1099512064171
+   },
+   {
+    "friendFirstName": "Nim",
+    "friendId": 30786325581208,
+    "friendLastName": "Chau",
+    "messageContent": "About Lady Gaga, international number-one singles Just DancAbout Destination Calabr",
+    "messageCreationDate": "2012-09-11T18:13:06.208Z",
+    "messageId": 1099512486588
+   },
+   {
+    "friendFirstName": "Eugen",
+    "friendId": 24189255814639,
+    "friendLastName": "Basov",
+    "messageContent": "cool",
+    "messageCreationDate": "2012-09-11T17:44:05.14Z",
+    "messageId": 1099512624044
+   },
+   {
+    "friendFirstName": "Nim",
+    "friendId": 30786325581208,
+    "friendLastName": "Chau",
+    "messageContent": "About Missy Elliott, cer for other artists, both alone and with her fellow produ",
+    "messageCreationDate": "2012-09-11T12:04:31.437Z",
+    "messageId": 1099511731499
+   },
+   {
+    "friendFirstName": "Bingbing",
+    "friendId": 15393162790796,
+    "friendLastName": "Xu",
+    "messageContent": "I see",
+    "messageCreationDate": "2012-09-11T05:16:29.198Z",
+    "messageId": 1099512236320
+   },
+   {
+    "friendFirstName": "Bingbing",
+    "friendId": 4398046512826,
+    "friendLastName": "Liu",
+    "messageContent": "good",
+    "messageCreationDate": "2012-09-11T00:30:49.45Z",
+    "messageId": 1099511640431
+   },
+   {
+    "friendFirstName": "Bingbing",
+    "friendId": 15393162790796,
+    "friendLastName": "Xu",
+    "messageContent": "About Amitabh Bachchan, ober 1942) is an Indian film actor. He first gAbout Ovid, idered h",
+    "messageCreationDate": "2012-09-10T22:09:39.325Z",
+    "messageId": 1099511749997
+   }
+  ]
+ }
+}

@@ -1,0 +1,121 @@
+{
+ "query_sha": "d4f7d149421ba277",
+ "params": {
+  "personId": "21990232558274",
+  "minDate": "2012-09-01T00:00:00Z"
+ },
+ "data": {
+  "schema_sha256": "03713a1e1c7b722e73bed6b150e079e69e9579c2a58c52e06f9d4384fdd4b80d",
+  "schema_path": "dgraph/schema/ldbcTypes.schema",
+  "sf": "0.3",
+  "created": "2026-11-21T02:56:18Z",
+  "git_sha": "60910999"
+ },
+ "fetched_at": "2026-11-21T00:06:06",
+ "raw": {
+  "_l1": [],
+  "_l2": [],
+  "forums": [
+   {
+    "forumName": "Wall of Salim Ahmed Binalshibh",
+    "postCount": 440,
+    "forumId": 206158463877
+   },
+   {
+    "forumName": "Wall of K. Singh",
+    "postCount": 143,
+    "forumId": 35527
+   },
+   {
+    "forumName": "Wall of Arjun Khan",
+    "postCount": 87,
+    "forumId": 962072711946
+   },
+   {
+    "forumName": "Wall of Dionysis Karvelas",
+    "postCount": 80,
+    "forumId": 32399
+   },
+   {
+    "forumName": "Wall of Rahul Sharma",
+    "postCount": 57,
+    "forumId": 68719496908
+   },
+   {
+    "forumName": "Wall of Narong Boy",
+    "postCount": 56,
+    "forumId": 618475303646
+   },
+   {
+    "forumName": "Wall of A. K. Amjad",
+    "postCount": 43,
+    "forumId": 15690
+   },
+   {
+    "forumName": "Wall of Shahla Zaland 0 Qaderi",
+    "postCount": 29,
+    "forumId": 343597415287
+   },
+   {
+    "forumName": "Album 25 of Philibert Roindefo",
+    "postCount": 20,
+    "forumId": 206158438064
+   },
+   {
+    "forumName": "Album 18 of V. Joshi",
+    "postCount": 20,
+    "forumId": 206158462837
+   },
+   {
+    "forumName": "Album 15 of Jack Evans",
+    "postCount": 20,
+    "forumId": 274877938458
+   },
+   {
+    "forumName": "Album 0 of Anh Ha",
+    "postCount": 20,
+    "forumId": 412316892262
+   },
+   {
+    "forumName": "Album 13 of Hsin Lin",
+    "postCount": 20,
+    "forumId": 412316895727
+   },
+   {
+    "forumName": "Album 21 of Rafael Santos",
+    "postCount": 20,
+    "forumId": 481036340047
+   },
+   {
+    "forumName": "Album 8 of Ernest B Karat",
+    "postCount": 20,
+    "forumId": 481036349342
+   },
+   {
+    "forumName": "Album 15 of Jozef Bacs\u00f3",
+    "postCount": 20,
+    "forumId": 549755819672
+   },
+   {
+    "forumName": "Album 2 of Bich Phuong Hai",
+    "postCount": 20,
+    "forumId": 549755825473
+   },
+   {
+    "forumName": "Album 10 of Alexandre Condariuc",
+    "postCount": 20,
+    "forumId": 549755847657
+   },
+   {
+    "forumName": "Album 27 of El-Farouk Adjaye",
+    "postCount": 20,
+    "forumId": 618475294090
+   },
+   {
+    "forumName": "Album 13 of Hiroshi Yamada",
+    "postCount": 20,
+    "forumId": 618475306649
+   }
+  ]
+ }
+}

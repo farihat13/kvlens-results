@@ -1,0 +1,72 @@
+{
+ "query_sha": "00f75f489d160871",
+ "params": {
+  "personId": "30786325579745"
+ },
+ "data": {
+  "schema_sha256": "03713a1e1c7b722e73bed6b150e079e69e9579c2a58c52e06f9d4384fdd4b80d",
+  "schema_path": "dgraph/schema/ldbcTypes.schema",
+  "sf": "0.3",
+  "created": "2026-11-21T02:56:18Z",
+  "git_sha": "60910999"
+ },
+ "fetched_at": "2026-11-21T00:08:15",
+ "raw": {
+  "person": [
+   {
+    "knows": [
+     {
+      "friendId": 30786325579845,
+      "friendFirstName": "Arjun",
+      "friendLastName": "Khan",
+      "knows|creationDate": "2012-06-15T17:43:14.665+00:00"
+     }
+    ],
+    "~knows": [
+     {
+      "friendId": 26388279067534,
+      "friendFirstName": "Emperor of Brazil",
+      "friendLastName": "Dom Pedro II",
+      "~knows|creationDate": "2012-06-20T18:16:32.439+00:00"
+     },
+     {
+      "friendId": 15393162790347,
+      "friendFirstName": "Esti",
+      "friendLastName": "Verghese",
+      "~knows|creationDate": "2012-06-27T14:02:36.433+00:00"
+     },
+     {
+      "friendId": 30786325579579,
+      "friendFirstName": "John",
+      "friendLastName": "Murray",
+      "~knows|creationDate": "2012-06-26T19:06:49.814+00:00"
+     },
+     {
+      "friendId": 17592186047267,
+      "friendFirstName": "Ali",
+      "friendLastName": "Hosseini",
+      "~knows|creationDate": "2012-06-11T03:49:19.032+00:00"
+     },
+     {
+      "friendId": 10995116278973,
+      "friendFirstName": "Paolo",
+      "friendLastName": "Colombo",
+      "~knows|creationDate": "2012-07-02T20:52:43.164+00:00"
+     },
+     {
+      "friendId": 24189255813579,
+      "friendFirstName": "Alfred",
+      "friendLastName": "Jong",
+      "~knows|creationDate": "2012-06-23T05:14:41.526+00:00"
+     },
+     {
+      "friendId": 13194139535371,
+      "friendFirstName": "Esti",
+      "friendLastName": "Bahaina",
+      "~knows|creationDate": "2012-07-01T21:17:55.231+00:00"
+     }
+    ]
+   }
+  ]
+ }
+}

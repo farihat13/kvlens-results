@@ -1,0 +1,534 @@
+{
+ "rows": [
+  {
+   "assignment": {
+    "Forum props": "Ch4k",
+    "Message props": "Ch4k",
+    "Person props": "Ch4k",
+    "Place props": "Ch4k",
+    "Tag props": "Ch4k",
+    "containerOf lists": "Ch4k",
+    "hasCreator lists": "Ch4k",
+    "hasInterest lists": "Ch256k",
+    "hasMember lists": "Ch4k",
+    "hasModerator lists": "Ch256k",
+    "hasTag lists": "Ch16k",
+    "hasType lists": "Co",
+    "isLocatedIn lists": "Ch4k",
+    "isPartOf lists": "Ch64k",
+    "knows lists": "Ch4k",
+    "likes lists": "Ch4k",
+    "replyOf lists": "Ch4k"
+   },
+   "benchmark": "ldbc",
+   "bytes_reference": "props_split_adj_condensed",
+   "capture": "<elsewhere>/bi",
+   "chunk_view": "measured",
+   "command": "kvcost search-mix --option-set per-type-any-size --model bill_exact --chunk-view measured --table-cache <elsewhere>/billcache-bi --out <elsewhere>/bi-clean --dataset ldbc --sf 3 --from <elsewhere>/bi --size 1k=<elsewhere>/captures/grid_chunked_1k --size 4k=<elsewhere>/captures/grid_chunked_4k --size 16k=<elsewhere>/captures/grid_chunked_16k --size 256k=<elsewhere>/captures/grid_chunked_256k --workload inputs/workloads/equal-share/b01.json --weighting sum",
+   "criterion": null,
+   "dominated": 40,
+   "fits": true,
+   "identity": {
+    "capture": "<elsewhere>/bi",
+    "code_commit": "3a057e24c715ecacf4c31191891cbc7f6947aa74",
+    "code_dirty": false,
+    "cost_cache_keys": [
+     "059f9b01d97df9d9da3497904bd1e8b4",
+     "0cebf36593e0b20fd0c0ab9d7ea26f37",
+     "194cd7b07be7d603fdbe957d4429a548",
+     "21e3661001abb3172160f57df57a7720",
+     "3458ab16abe7961882a9441ea2064054",
+     "4bdd598742369701611132f732635b73",
+     "575654194eaa254d21b01d2e483e95a5",
+     "62f7dbd1f416eed5b05178a1500b7aea",
+     "67ad33f5223e4560dcd606da58b68db1",
+     "7d1e081a83f4e6588df748e1b394f698",
+     "8280118c1d17c5fb431dd2fd615d9ef9",
+     "861fc9b2f961e9239fd103348a0d4a99",
+     "8933e43cffc60f5d17de14d30cc05913",
+     "93d0051bafcfed5cbab2cf270835ed9f",
+     "de6294dde145add8e8718647dc552ca2",
+     "e695e1f67ed74bb9676864dbfc4c9913",
+     "fbedd0385a8d1300581bdbc86179d3f8"
+    ],
+    "counting": {
+     "bi": [
+      "{\"format\": 3, \"seam\": 4, \"write_format\": 1, \"write_seam\": 1}"
+     ],
+     "chunked_c16k/bi": [
+      "{\"format\": 3, \"seam\": 4, \"write_format\": 1, \"write_seam\": 1}"
+     ],
+     "chunked_c1k/bi": [
+      "{\"format\": 3, \"seam\": 4, \"write_format\": 1, \"write_seam\": 1}"
+     ],
+     "chunked_c256k/bi": [
+      "{\"format\": 3, \"seam\": 4, \"write_format\": 1, \"write_seam\": 1}"
+     ],
+     "chunked_c4k/bi": [
+      "{\"format\": 3, \"seam\": 4, \"write_format\": 1, \"write_seam\": 1}"
+     ]
+    },
+    "measurement_version": {
+     "bi": [
+      7
+     ],
+     "chunked_c16k/bi": [
+      7
+     ],
+     "chunked_c1k/bi": [
+      7
+     ],
+     "chunked_c256k/bi": [
+      7
+     ],
+     "chunked_c4k/bi": [
+      7
+     ]
+    },
+    "pick_record": "inputs/picks/pick_record.json",
+    "pick_record_commit": "c38f2dd980bbad39b599adfa822c0e46c483e30d",
+    "plan_files_commit": "2c4992dde9556a44af32e640ca1af86792f9b5d1",
+    "source_kinds": {
+     "bi": {
+      "props_chunked_adj_chunked": "measured",
+      "props_chunked_adj_condensed": "composed",
+      "props_chunked_adj_split": "composed",
+      "props_condensed_adj_chunked": "composed",
+      "props_condensed_adj_condensed": "measured",
+      "props_condensed_adj_split": "composed",
+      "props_split_adj_chunked": "composed",
+      "props_split_adj_condensed": "composed",
+      "props_split_adj_split": "measured"
+     }
+    }
+   },
+   "lanes": {
+    "D": 0.0,
+    "G": 0.0,
+    "N": 6.897952391934195,
+    "P": 0.0,
+    "S": 1.4674563041228559,
+    "bill_read_exact": 2.517151631444934,
+    "bill_read_lower": 2.350257592499861,
+    "bill_read_upper": 3.4613327159196556,
+    "bill_write_exact": 0.0,
+    "bill_write_lower": 0.0,
+    "bill_write_upper": 0.0,
+    "get_key": 0.0,
+    "get_miss_key": 0.0,
+    "get_value": 0.0,
+    "miss_key_bytes": 0.019257120242514414,
+    "next_miss_key": 0.014180979526404614,
+    "read_bytes": 8166.937039839932,
+    "read_ops": 1.6831814584544835,
+    "scan_key": 150.4702004693987,
+    "scan_value": 8016.447582250293,
+    "seek_miss_key": 0.005076140716109798,
+    "write_bytes": 0.0,
+    "write_key": 0.0,
+    "write_ops": 0.0,
+    "write_rmw_bytes": 0.0,
+    "write_rmw_miss_key_bytes": 0.0,
+    "write_rmw_ops": 0.0,
+    "write_value": 0.0
+   },
+   "limit": null,
+   "max_nodes": null,
+   "model": "bill_exact",
+   "nodes": 1029,
+   "option_set": "per-type-any-size",
+   "per_part": {
+    "('adj', 'containerOf')": {
+     "bytes": 110.97303594008693,
+     "ops": 0.04305155909788385
+    },
+    "('adj', 'hasCreator')": {
+     "bytes": 579.5186121110289,
+     "ops": 0.2627326942155803
+    },
+    "('adj', 'hasInterest')": {
+     "bytes": 41.21303152405369,
+     "ops": 0.0006037728489319437
+    },
+    "('adj', 'hasMember')": {
+     "bytes": 154.54871428245121,
+     "ops": 0.04189037876711207
+    },
+    "('adj', 'hasModerator')": {
+     "bytes": 0.7802866989823241,
+     "ops": 0.0001578223513414845
+    },
+    "('adj', 'hasTag')": {
+     "bytes": 195.40922580640475,
+     "ops": 0.034680657209881456
+    },
+    "('adj', 'hasType')": {
+     "bytes": 0.0019258230422236127,
+     "ops": 4.751830238753149e-06
+    },
+    "('adj', 'isLocatedIn')": {
+     "bytes": 3.04954121698171,
+     "ops": 0.0011374262226972658
+    },
+    "('adj', 'isPartOf')": {
+     "bytes": 0.3483750249471785,
+     "ops": 0.00019518026555485535
+    },
+    "('adj', 'knows')": {
+     "bytes": 1984.8607436930772,
+     "ops": 0.6067766520300624
+    },
+    "('adj', 'likes')": {
+     "bytes": 227.5434386021977,
+     "ops": 0.12832798052268304
+    },
+    "('adj', 'replyOf')": {
+     "bytes": 591.7919858119553,
+     "ops": 0.25637908933433895
+    },
+    "('props', 'Forum')": {
+     "bytes": 16.48848182477943,
+     "ops": 7.711527362945358e-05
+    },
+    "('props', 'Message')": {
+     "bytes": 4110.837389990177,
+     "ops": 0.23943015534511536
+    },
+    "('props', 'Person')": {
+     "bytes": 7.359880194142189,
+     "ops": 0.002024845265633451
+    },
+    "('props', 'Place')": {
+     "bytes": 0.0069835173376521275,
+     "ops": 2.288162225475958e-06
+    },
+    "('props', 'Tag')": {
+     "bytes": 17.000991070013708,
+     "ops": 0.0054202442748852026
+    },
+    "None": {
+     "bytes": 125.20439670827335,
+     "ops": 0.060288845436687694
+    }
+   },
+   "plan_rule": "record=inputs/picks/pick_record.json; anchor=True; pin=True; in_sample=None; historical=False",
+   "proven": true,
+   "question": "fewest",
+   "reference_bytes": 6266.1447068296475,
+   "run_id": "20261107T165856Z-60dd88",
+   "scale": "3",
+   "score": null,
+   "sizes": [
+    [
+     "chunked_c1k",
+     "<elsewhere>/captures/grid_chunked_1k",
+     "props_chunked_c1k_adj_chunked_c1k"
+    ],
+    [
+     "chunked_c4k",
+     "<elsewhere>/captures/grid_chunked_4k",
+     "props_chunked_c4k_adj_chunked_c4k"
+    ],
+    [
+     "chunked_c16k",
+     "<elsewhere>/captures/grid_chunked_16k",
+     "props_chunked_c16k_adj_chunked_c16k"
+    ],
+    [
+     "chunked_c256k",
+     "<elsewhere>/captures/grid_chunked_256k",
+     "props_chunked_c256k_adj_chunked_c256k"
+    ]
+   ],
+   "solver": "cost-cache",
+   "start": {
+    "best_uniform": "condensed/chunked",
+    "two_step": {
+     "moves": 0,
+     "start_total": [
+      4.108664955799858,
+      14016.711867270873
+     ],
+     "total": [
+      2.517151631444934,
+      8166.937039839932
+     ]
+    },
+    "used": "the two-step mix"
+   },
+   "times": {
+    "cost_cache_s": 488.663,
+    "cost_s": 0.021,
+    "solve_s": 3.035,
+    "start_s": 0.002
+   },
+   "totals": {
+    "bill_exact": 2.517151631444934,
+    "bytes": 8166.937039839932,
+    "wops": 1.6831814584544835
+   },
+   "walk_seconds": null,
+   "weighting": "sum",
+   "weights": "1:1.1:0.01",
+   "workload": "b01"
+  },
+  {
+   "assignment": {
+    "Forum props": "Ch16k",
+    "Message props": "Ch4k",
+    "Person props": "Ch16k",
+    "Place props": "Ch4k",
+    "Tag props": "Ch64k",
+    "containerOf lists": "Ch16k",
+    "hasCreator lists": "Ch4k",
+    "hasInterest lists": "Ch256k",
+    "hasMember lists": "Ch4k",
+    "hasModerator lists": "Ch256k",
+    "hasTag lists": "Ch16k",
+    "hasType lists": "Co",
+    "isLocatedIn lists": "Ch16k",
+    "isPartOf lists": "Ch1k",
+    "knows lists": "Ch64k",
+    "likes lists": "Ch16k",
+    "replyOf lists": "Ch4k"
+   },
+   "benchmark": "ldbc",
+   "bound": {
+    "gap": 0.0,
+    "root": 3.176583880446232,
+    "value": 3.443677916016687,
+    "what": "the lowest any mix could be: proven, the answer; else the lowest of the answer and the bounds of the parts of the search not done (each query at its cheapest plan valid there, each free part at its cheapest setting); root: the same with nothing decided"
+   },
+   "bytes_reference": "props_split_adj_condensed",
+   "capture": "captures/ldbc/sf3",
+   "chunk_view": "half",
+   "command": "kvcost search-mix --dataset ldbc=3 --workload inputs/workloads/ldbc/equal-share/b01.json --from . --settings Sp,Co,Ch1k,Ch4k,Ch16k,Ch64k,Ch256k --combine-queries sum --cost-model wops_bytes4k --jobs 4",
+   "criterion": null,
+   "dominated": null,
+   "fits": true,
+   "frequencies": "4935b49d9bc2adfba040ad91385b6eb43f07531e21c9961d6cfaa59b0d47d9c7",
+   "identity": {
+    "capture": "captures/ldbc/sf3",
+    "code_commit": "e22430d124f05ed0e6dea30d3b55b2ffb65978d6",
+    "code_dirty": false,
+    "cost_cache_keys": [],
+    "counting": {
+     "bi": [
+      "{\"format\": 3, \"seam\": 4, \"write_format\": 1, \"write_seam\": 1}"
+     ],
+     "chunked_c16k/bi": [
+      "{\"format\": 3, \"seam\": 4, \"write_format\": 1, \"write_seam\": 1}"
+     ],
+     "chunked_c1k/bi": [
+      "{\"format\": 3, \"seam\": 4, \"write_format\": 1, \"write_seam\": 1}"
+     ],
+     "chunked_c256k/bi": [
+      "{\"format\": 3, \"seam\": 4, \"write_format\": 1, \"write_seam\": 1}"
+     ],
+     "chunked_c4k/bi": [
+      "{\"format\": 3, \"seam\": 4, \"write_format\": 1, \"write_seam\": 1}"
+     ]
+    },
+    "inputs": "0d9165615e67815662afd171228c987f",
+    "measurement_version": {
+     "bi": [
+      7
+     ],
+     "chunked_c16k/bi": [
+      7
+     ],
+     "chunked_c1k/bi": [
+      7
+     ],
+     "chunked_c256k/bi": [
+      7
+     ],
+     "chunked_c4k/bi": [
+      7
+     ]
+    },
+    "pick_record": "inputs/picks/picks.csv",
+    "pick_record_commit": "23c55d68bad41c859a4bef3bbe0aec807c24de5d",
+    "plan_files_commit": "b2ac7409304528c7b481e1f1370929bc6c8bba21",
+    "source_kinds": {
+     "bi": {
+      "props_chunked_adj_chunked": "measured",
+      "props_chunked_adj_condensed": "composed",
+      "props_chunked_adj_split": "composed",
+      "props_condensed_adj_chunked": "composed",
+      "props_condensed_adj_condensed": "measured",
+      "props_condensed_adj_split": "composed",
+      "props_split_adj_chunked": "composed",
+      "props_split_adj_condensed": "composed",
+      "props_split_adj_split": "measured"
+     }
+    }
+   },
+   "lanes": {
+    "D": 0.0,
+    "G": 0.0,
+    "N": 6.893800121037588,
+    "P": 0.0,
+    "S": 0.9315722808544695,
+    "get_key": 0.0,
+    "get_miss_key": 0.0,
+    "get_value": 0.0,
+    "miss_key_bytes": 0.019257120242514414,
+    "next_miss_key": 0.014180979526404614,
+    "read_bytes": 9625.642622428755,
+    "read_ops": 1.0936675101502924,
+    "scan_key": 144.5395768299783,
+    "scan_value": 9481.083788478532,
+    "seek_miss_key": 0.005076140716109798,
+    "write_bytes": 0.0,
+    "write_key": 0.0,
+    "write_ops": 0.0,
+    "write_rmw_bytes": 0.0,
+    "write_rmw_miss_key_bytes": 0.0,
+    "write_rmw_ops": 0.0,
+    "write_value": 0.0
+   },
+   "limit": null,
+   "max_nodes": null,
+   "model": "wops_bytes4k",
+   "nodes": 299183,
+   "option_set": "per-type-any-size",
+   "per_part": {
+    "('adj', 'containerOf')": {
+     "bytes": 201.29787441121786,
+     "ops": 0.019223838953938862
+    },
+    "('adj', 'hasCreator')": {
+     "bytes": 579.5186121110289,
+     "ops": 0.2627326942155803
+    },
+    "('adj', 'hasInterest')": {
+     "bytes": 41.21303152405369,
+     "ops": 0.0006037728489319437
+    },
+    "('adj', 'hasMember')": {
+     "bytes": 154.54871428245121,
+     "ops": 0.04189037876711207
+    },
+    "('adj', 'hasModerator')": {
+     "bytes": 0.7802866989823241,
+     "ops": 0.0001578223513414845
+    },
+    "('adj', 'hasTag')": {
+     "bytes": 195.40922580640475,
+     "ops": 0.034680657209881456
+    },
+    "('adj', 'hasType')": {
+     "bytes": 0.0019258230422236127,
+     "ops": 4.751830238753149e-06
+    },
+    "('adj', 'isLocatedIn')": {
+     "bytes": 4.815077008180966,
+     "ops": 0.0004271810172022785
+    },
+    "('adj', 'isPartOf')": {
+     "bytes": 0.06920839340483673,
+     "ops": 0.00022681661524329036
+    },
+    "('adj', 'knows')": {
+     "bytes": 3117.0151578839277,
+     "ops": 0.12126500042760355
+    },
+    "('adj', 'likes')": {
+     "bytes": 450.0635138572554,
+     "ops": 0.05505919357739261
+    },
+    "('adj', 'replyOf')": {
+     "bytes": 591.7919858119553,
+     "ops": 0.25637908933433895
+    },
+    "('props', 'Forum')": {
+     "bytes": 16.552788706956594,
+     "ops": 3.4599971258719175e-05
+    },
+    "('props', 'Message')": {
+     "bytes": 4110.837389990177,
+     "ops": 0.23943015534511536
+    },
+    "('props', 'Person')": {
+     "bytes": 10.426406258063741,
+     "ops": 0.0007312724069873095
+    },
+    "('props', 'Place')": {
+     "bytes": 0.0069835173376521275,
+     "ops": 2.288162225475958e-06
+    },
+    "('props', 'Tag')": {
+     "bytes": 26.090043636039773,
+     "ops": 0.0005291516792121215
+    },
+    "None": {
+     "bytes": 125.20439670827335,
+     "ops": 0.060288845436687694
+    }
+   },
+   "plan_rule": "record=inputs/picks/picks.csv; anchor=True; pin=True; in_sample=None; historical=False",
+   "proven": true,
+   "queries_by_query_pick": 0,
+   "question": "fewest",
+   "reference_bytes": 6266.1447068296475,
+   "run_id": "20261120T234026Z-953532",
+   "scale": "3",
+   "score": null,
+   "search": "proven",
+   "sizes": [
+    [
+     "chunked_c1k",
+     "captures/ldbc/sf3",
+     "props_chunked_c1k_adj_chunked_c1k"
+    ],
+    [
+     "chunked_c4k",
+     "captures/ldbc/sf3",
+     "props_chunked_c4k_adj_chunked_c4k"
+    ],
+    [
+     "chunked_c16k",
+     "captures/ldbc/sf3",
+     "props_chunked_c16k_adj_chunked_c16k"
+    ],
+    [
+     "chunked_c256k",
+     "captures/ldbc/sf3",
+     "props_chunked_c256k_adj_chunked_c256k"
+    ]
+   ],
+   "solver": "no-cost-cache",
+   "start": {
+    "best_uniform": "condensed/chunked",
+    "two_step": {
+     "after_each_part_alone": 3.443677916016687,
+     "fixed_plan_s": 0.104,
+     "moves_tried": 102,
+     "repick_s": 0.059,
+     "start_total": 4.738722556823886,
+     "total": 3.443677916016687
+    },
+    "used": "the two-step mix"
+   },
+   "times": {
+    "bodies_s": 0.032,
+    "cost_s": 0.023,
+    "solve_s": 21.686,
+    "start_s": 0.163,
+    "two_step_a_s": 0.104,
+    "two_step_b_s": 0.059
+   },
+   "totals": {
+    "bytes": 9625.642622428755,
+    "wops": 1.0936675101502924,
+    "wops_bytes4k": 3.4436779160166875
+   },
+   "walk_seconds": null,
+   "weighting": "sum",
+   "weights": "1:1.1:0.01",
+   "workload": "b01-equal-share",
+   "workload_file": "inputs/workloads/ldbc/equal-share/b01.json"
+  }
+ ]
+}

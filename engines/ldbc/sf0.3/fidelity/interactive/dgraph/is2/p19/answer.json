@@ -1,0 +1,294 @@
+{
+ "query_sha": "afd1398a68b07f16",
+ "params": {
+  "personId": "2199023256742"
+ },
+ "data": {
+  "schema_sha256": "03713a1e1c7b722e73bed6b150e079e69e9579c2a58c52e06f9d4384fdd4b80d",
+  "schema_path": "dgraph/schema/ldbcTypes.schema",
+  "sf": "0.3",
+  "created": "2026-11-21T02:56:18Z",
+  "git_sha": "60910999"
+ },
+ "fetched_at": "2026-11-21T00:01:17",
+ "raw": {
+  "person": [
+   {
+    "messages": [
+     {
+      "messageId": 1099512416380,
+      "messageCreationDate": "2012-09-11T10:12:01.354Z",
+      "content": "About Yoko Ono, music and filmmaking as well as her marriage tAbout Hong Kong, f Hong Kong",
+      "messageType": [
+       "comment"
+      ],
+      "selfAsOriginal": [
+       {
+        "authorId": 2199023256742,
+        "authorFirstName": "Bing",
+        "authorLastName": "Zhang"
+       }
+      ],
+      "parentComment": {
+       "dgraph.type": [
+        "comment"
+       ],
+       "grandParentPost": {
+        "postId": 1099512416364,
+        "originalPoster": [
+         {
+          "authorId": 17592186048023,
+          "authorFirstName": "Abhishek",
+          "authorLastName": "Reddy"
+         }
+        ]
+       }
+      }
+     },
+     {
+      "messageId": 1030792938011,
+      "messageCreationDate": "2012-09-06T20:27:25.029Z",
+      "content": "I see",
+      "messageType": [
+       "comment"
+      ],
+      "originalPost": {
+       "postId": 1030792938010,
+       "postCreationDate": "2012-09-05T23:14:09.699Z",
+       "postContent": "About Dionne Warwick, k ranks second only to Aretha Franklin as the most-charted female vocalist with 56",
+       "originalPoster": [
+        {
+         "authorId": 8796093023825,
+         "authorFirstName": "Nikki",
+         "authorLastName": "Reyes"
+        }
+       ]
+      },
+      "selfAsOriginal": [
+       {
+        "authorId": 2199023256742,
+        "authorFirstName": "Bing",
+        "authorLastName": "Zhang"
+       }
+      ]
+     },
+     {
+      "messageId": 1030792938019,
+      "messageCreationDate": "2012-09-06T10:51:17.317Z",
+      "content": "LOL",
+      "messageType": [
+       "comment"
+      ],
+      "selfAsOriginal": [
+       {
+        "authorId": 2199023256742,
+        "authorFirstName": "Bing",
+        "authorLastName": "Zhang"
+       }
+      ],
+      "parentComment": {
+       "dgraph.type": [
+        "comment"
+       ],
+       "grandParentPost": {
+        "postId": 1030792938010,
+        "originalPoster": [
+         {
+          "authorId": 8796093023825,
+          "authorFirstName": "Nikki",
+          "authorLastName": "Reyes"
+         }
+        ]
+       }
+      }
+     },
+     {
+      "messageId": 1030792937695,
+      "messageCreationDate": "2012-09-01T05:50:54.273Z",
+      "content": "I see",
+      "messageType": [
+       "comment"
+      ],
+      "originalPost": {
+       "postId": 1030792937693,
+       "postCreationDate": "2012-08-31T22:53:10.193Z",
+       "postContent": "About Dionne Warwick, nklin as the most-charted female vocalist with 56 singles making the Billboard Hot 100 between ",
+       "originalPoster": [
+        {
+         "authorId": 19791209301749,
+         "authorFirstName": "Karim",
+         "authorLastName": "Boughedir"
+        }
+       ]
+      },
+      "selfAsOriginal": [
+       {
+        "authorId": 2199023256742,
+        "authorFirstName": "Bing",
+        "authorLastName": "Zhang"
+       }
+      ]
+     },
+     {
+      "messageId": 1030792937674,
+      "messageCreationDate": "2012-08-31T13:27:11.571Z",
+      "content": "I see",
+      "messageType": [
+       "comment"
+      ],
+      "originalPost": {
+       "postId": 1030792937673,
+       "postCreationDate": "2012-08-31T11:53:22.504Z",
+       "postContent": "About Dionne Warwick, nly to Aretha Franklin as the most-charted female vocalist with 56 singles making the Billboar",
+       "originalPoster": [
+        {
+         "authorId": 19791209301749,
+         "authorFirstName": "Karim",
+         "authorLastName": "Boughedir"
+        }
+       ]
+      },
+      "selfAsOriginal": [
+       {
+        "authorId": 2199023256742,
+        "authorFirstName": "Bing",
+        "authorLastName": "Zhang"
+       }
+      ]
+     },
+     {
+      "messageId": 1030792937680,
+      "messageCreationDate": "2012-08-31T11:53:36.387Z",
+      "content": "About Dionne Warwick, e Billboard Hot 100 Pop Singles Charts. WarwAbout Crazy Chick, h ",
+      "messageType": [
+       "comment"
+      ],
+      "originalPost": {
+       "postId": 1030792937673,
+       "postCreationDate": "2012-08-31T11:53:22.504Z",
+       "postContent": "About Dionne Warwick, nly to Aretha Franklin as the most-charted female vocalist with 56 singles making the Billboar",
+       "originalPoster": [
+        {
+         "authorId": 19791209301749,
+         "authorFirstName": "Karim",
+         "authorLastName": "Boughedir"
+        }
+       ]
+      },
+      "selfAsOriginal": [
+       {
+        "authorId": 2199023256742,
+        "authorFirstName": "Bing",
+        "authorLastName": "Zhang"
+       }
+      ]
+     },
+     {
+      "messageId": 1030793119897,
+      "messageCreationDate": "2012-08-26T08:34:54.433Z",
+      "content": "About Kosovo, bruary 1996, which resulted in About The Boys Are Back in Town,  is a live a",
+      "messageType": [
+       "comment"
+      ],
+      "selfAsOriginal": [
+       {
+        "authorId": 2199023256742,
+        "authorFirstName": "Bing",
+        "authorLastName": "Zhang"
+       }
+      ],
+      "parentComment": {
+       "dgraph.type": [
+        "comment"
+       ],
+       "grandParentPost": {
+        "postId": 1030793119893,
+        "originalPoster": [
+         {
+          "authorId": 8796093024661,
+          "authorFirstName": "Rahul",
+          "authorLastName": "Sharma"
+         }
+        ]
+       }
+      }
+     },
+     {
+      "messageId": 1030792938988,
+      "messageCreationDate": "2012-08-22T17:10:50.586Z",
+      "content": "LOL",
+      "messageType": [
+       "comment"
+      ],
+      "originalPost": {
+       "postId": 1030792938987,
+       "postCreationDate": "2012-08-21T19:27:56.63Z",
+       "postContent": "About Dionne Warwick, n American singer, actress and TV show host, who became a United Nations Global Ambassador for the Food and Agriculture Organization, and a United States Ambassador of Health. Having been in a partn",
+       "originalPoster": [
+        {
+         "authorId": 26388279068324,
+         "authorFirstName": "Eduardo",
+         "authorLastName": "Salvador"
+        }
+       ]
+      },
+      "selfAsOriginal": [
+       {
+        "authorId": 2199023256742,
+        "authorFirstName": "Bing",
+        "authorLastName": "Zhang"
+       }
+      ]
+     },
+     {
+      "messageId": 1030792939588,
+      "messageCreationDate": "2012-08-09T16:53:33.816Z",
+      "content": "thx",
+      "messageType": [
+       "comment"
+      ],
+      "originalPost": {
+       "postId": 1030792939584,
+       "postCreationDate": "2012-08-09T14:51:48.259Z",
+       "postContent": "About Dionne Warwick, ong the 40 biggest hit makers of the entire rock era (1955\u20131999), ba",
+       "originalPoster": [
+        {
+         "authorId": 26388279070207,
+         "authorFirstName": "Ram Baran",
+         "authorLastName": "Gauchan"
+        }
+       ]
+      },
+      "selfAsOriginal": [
+       {
+        "authorId": 2199023256742,
+        "authorFirstName": "Bing",
+        "authorLastName": "Zhang"
+       }
+      ]
+     },
+     {
+      "messageId": 1030792522059,
+      "messageCreationDate": "2012-08-06T16:54:22.473Z",
+      "content": "About James Stewart, ed in many About Miley Cyrus, he album's About Montserrat, ",
+      "messageType": [
+       "comment"
+      ],
+      "selfAsOriginal": [
+       {
+        "authorId": 2199023256742,
+        "authorFirstName": "Bing",
+        "authorLastName": "Zhang"
+       }
+      ],
+      "parentComment": {
+       "dgraph.type": [
+        "comment"
+       ]
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

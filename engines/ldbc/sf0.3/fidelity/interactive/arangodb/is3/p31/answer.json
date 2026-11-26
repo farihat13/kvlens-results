@@ -1,0 +1,70 @@
+{
+ "query_sha": "aab56a2aedd27dfa",
+ "params": {
+  "personId": 30786325579380
+ },
+ "data": {
+  "schema_sha256": "b8e206f17e60692c830ba0c3c675fbc481a22f26011282ce523890eb09be8a74",
+  "schema_path": "arangodb/schema/ldbc_schema.json",
+  "sf": "0.3",
+  "created": "2026-11-21T03:01:29Z",
+  "git_sha": "60910999"
+ },
+ "fetched_at": "2026-11-21T00:06:49",
+ "raw": [
+  {
+   "friendId": 17592186045382,
+   "friendFirstName": "Karl",
+   "friendLastName": "Kurkov\u00e1",
+   "friendshipCreationDate": 1342409334418
+  },
+  {
+   "friendId": 1274,
+   "friendFirstName": "Roberto",
+   "friendLastName": "Fernandez",
+   "friendshipCreationDate": 1342268049672
+  },
+  {
+   "friendId": 19791209302163,
+   "friendFirstName": "Samuel",
+   "friendLastName": "Chago",
+   "friendshipCreationDate": 1342185660552
+  },
+  {
+   "friendId": 2199023256668,
+   "friendFirstName": "Rodrigo",
+   "friendLastName": "Costa",
+   "friendshipCreationDate": 1342036149826
+  },
+  {
+   "friendId": 17592186046293,
+   "friendFirstName": "Jorge",
+   "friendLastName": "Gonzalez",
+   "friendshipCreationDate": 1342009208983
+  },
+  {
+   "friendId": 19791209302403,
+   "friendFirstName": "Bibit",
+   "friendLastName": "Balawan",
+   "friendshipCreationDate": 1341738651168
+  },
+  {
+   "friendId": 21990232558713,
+   "friendFirstName": "William",
+   "friendLastName": "Wilson",
+   "friendshipCreationDate": 1341042444241
+  },
+  {
+   "friendId": 17592186047327,
+   "friendFirstName": "Paulo",
+   "friendLastName": "Souza",
+   "friendshipCreationDate": 1340404444468
+  },
+  {
+   "friendId": 19791209301554,
+   "friendFirstName": "Carlos",
+   "friendLastName": "Santos",
+   "friendshipCreationDate": 1340090358372
+  }
+ ]
+}

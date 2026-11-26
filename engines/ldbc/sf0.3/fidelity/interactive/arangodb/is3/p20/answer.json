@@ -1,0 +1,64 @@
+{
+ "query_sha": "aab56a2aedd27dfa",
+ "params": {
+  "personId": 13194139535032
+ },
+ "data": {
+  "schema_sha256": "b8e206f17e60692c830ba0c3c675fbc481a22f26011282ce523890eb09be8a74",
+  "schema_path": "arangodb/schema/ldbc_schema.json",
+  "sf": "0.3",
+  "created": "2026-11-21T03:01:29Z",
+  "git_sha": "60910999"
+ },
+ "fetched_at": "2026-11-21T00:02:42",
+ "raw": [
+  {
+   "friendId": 26388279068150,
+   "friendFirstName": "Vladimir",
+   "friendLastName": "Kofler",
+   "friendshipCreationDate": 1330166412765
+  },
+  {
+   "friendId": 24189255811566,
+   "friendFirstName": "The",
+   "friendLastName": "Kunda",
+   "friendshipCreationDate": 1325046435869
+  },
+  {
+   "friendId": 24189255812607,
+   "friendFirstName": "Takeshi",
+   "friendLastName": "Yamamoto",
+   "friendshipCreationDate": 1324336858609
+  },
+  {
+   "friendId": 17592186048261,
+   "friendFirstName": "Anna",
+   "friendLastName": "Kogan",
+   "friendshipCreationDate": 1309382935095
+  },
+  {
+   "friendId": 17592186045238,
+   "friendFirstName": "Mihai",
+   "friendLastName": "David",
+   "friendshipCreationDate": 1306689657033
+  },
+  {
+   "friendId": 13194139535025,
+   "friendFirstName": "Yang",
+   "friendLastName": "Zhang",
+   "friendshipCreationDate": 1300594193258
+  },
+  {
+   "friendId": 1564,
+   "friendFirstName": "Emperor of Brazil",
+   "friendLastName": "Silva",
+   "friendshipCreationDate": 1299458826986
+  },
+  {
+   "friendId": 4398046514487,
+   "friendFirstName": "Babar",
+   "friendLastName": "Malik",
+   "friendshipCreationDate": 1298597145971
+  }
+ ]
+}

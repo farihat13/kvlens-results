@@ -1,0 +1,128 @@
+{
+ "query_sha": "5da4e9e743e0d79c",
+ "params": {
+  "personId": "person_1129"
+ },
+ "data": {
+  "schema_sha256": "673074740eea54e4ba1fdc94eebf2087531b3007af7da660afffb3d1e8df0d1e",
+  "schema_path": "nebulagraph/schema/schema.gql",
+  "sf": "0.3",
+  "created": "2026-11-21T03:42:54Z",
+  "git_sha": "1d6662c2"
+ },
+ "fetched_at": "2026-11-20T23:59:58",
+ "raw": {
+  "keys": [
+   "messageId",
+   "messageContent",
+   "messageCreationDate",
+   "originalPostId",
+   "originalPostAuthorId",
+   "originalPostAuthorFirstName",
+   "originalPostAuthorLastName",
+   "messageIdInt"
+  ],
+  "rows": [
+   {
+    "messageId": "msg_1030793030071",
+    "messageContent": "About Adolf Hitler, apted to need and circumstance, although there were some steady themes, including anti-S",
+    "messageCreationDate": 1342484614096,
+    "originalPostId": "msg_1030793030071",
+    "originalPostAuthorId": "person_1129",
+    "originalPostAuthorFirstName": "Carmen",
+    "originalPostAuthorLastName": "Lepland",
+    "messageIdInt": 1030793030071
+   },
+   {
+    "messageId": "msg_824634599877",
+    "messageContent": "About Adolf Hitler, ism. Hitler personally claimed he was fighting against Jewish Marxism. His views were more or less fo",
+    "messageCreationDate": 1330998442762,
+    "originalPostId": "msg_824634599877",
+    "originalPostAuthorId": "person_1129",
+    "originalPostAuthorFirstName": "Carmen",
+    "originalPostAuthorLastName": "Lepland",
+    "messageIdInt": 824634599877
+   },
+   {
+    "messageId": "msg_618476169690",
+    "messageContent": "About Adolf Hitler, ews were more or less formed during three periods: His years as a poverty-stricken youn",
+    "messageCreationDate": 1313636564650,
+    "originalPostId": "msg_618476169690",
+    "originalPostAuthorId": "person_1129",
+    "originalPostAuthorFirstName": "Carmen",
+    "originalPostAuthorLastName": "Lepland",
+    "messageIdInt": 618476169690
+   },
+   {
+    "messageId": "msg_206158430594",
+    "messageContent": "About Haile Selassie I, emporaries and historianAbout Herbert Kitchener, 1st Earl Kitchener, -Chief (1902\u201309) of the Ab",
+    "messageCreationDate": 1283220843337,
+    "originalPostId": "msg_206158430594",
+    "originalPostAuthorId": "person_1129",
+    "originalPostAuthorFirstName": "Carmen",
+    "originalPostAuthorLastName": "Lepland",
+    "messageIdInt": 206158430594
+   },
+   {
+    "messageId": "msg_206158430634",
+    "messageContent": "About Haile Selassie I,  Rastafari movement perceivAbout Clint Eastwood,  and Changeling (2008). He About",
+    "messageCreationDate": 1283142903337,
+    "originalPostId": "msg_206158430634",
+    "originalPostAuthorId": "person_1129",
+    "originalPostAuthorFirstName": "Carmen",
+    "originalPostAuthorLastName": "Lepland",
+    "messageIdInt": 206158430634
+   },
+   {
+    "messageId": "msg_1099512505763",
+    "messageContent": "About Phil Spector, rs Vol. 1 (Super 2307 008). Vol. 6 Various Artists - Ra",
+    "messageCreationDate": 1347198745857,
+    "originalPostId": "msg_1099512505761",
+    "originalPostAuthorId": "person_26388279067159",
+    "originalPostAuthorFirstName": "John",
+    "originalPostAuthorLastName": "Brown",
+    "messageIdInt": 1099512505763
+   },
+   {
+    "messageId": "msg_1030792435634",
+    "messageContent": "yes",
+    "messageCreationDate": 1347116285141,
+    "originalPostId": "msg_1030792435627",
+    "originalPostAuthorId": "person_6597069769310",
+    "originalPostAuthorFirstName": "Bichang",
+    "originalPostAuthorLastName": "Liu",
+    "messageIdInt": 1030792435634
+   },
+   {
+    "messageId": "msg_1030793029635",
+    "messageContent": "right",
+    "messageCreationDate": 1346064612853,
+    "originalPostId": "msg_1030793029621",
+    "originalPostAuthorId": "person_21990232556992",
+    "originalPostAuthorFirstName": "Shweta",
+    "originalPostAuthorLastName": "Kumar",
+    "messageIdInt": 1030793029635
+   },
+   {
+    "messageId": "msg_1030793029746",
+    "messageContent": "maybe",
+    "messageCreationDate": 1345928851535,
+    "originalPostId": "msg_1030793029731",
+    "originalPostAuthorId": "person_24189255812580",
+    "originalPostAuthorFirstName": "Jorge",
+    "originalPostAuthorLastName": "Escobar",
+    "messageIdInt": 1030793029746
+   },
+   {
+    "messageId": "msg_1030793027412",
+    "messageContent": "great",
+    "messageCreationDate": 1345894980077,
+    "originalPostId": "msg_1030793027402",
+    "originalPostAuthorId": "person_19791209302403",
+    "originalPostAuthorFirstName": "Bibit",
+    "originalPostAuthorLastName": "Balawan",
+    "messageIdInt": 1030793027412
+   }
+  ]
+ }
+}

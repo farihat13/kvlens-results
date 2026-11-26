@@ -1,0 +1,241 @@
+{
+ "query_sha": "d8702ab8a41d1dac",
+ "params": {
+  "personId": "6597069767668",
+  "month": "10"
+ },
+ "data": {
+  "schema_sha256": "03713a1e1c7b722e73bed6b150e079e69e9579c2a58c52e06f9d4384fdd4b80d",
+  "schema_path": "dgraph/schema/ldbcTypes.schema",
+  "sf": "0.1",
+  "created": "2026-11-21T03:25:44Z",
+  "git_sha": "92777160"
+ },
+ "fetched_at": "2026-11-21T01:07:29",
+ "raw": {
+  "_l1": [],
+  "_l2": [],
+  "recs": [
+   {
+    "birthday": "1981-03-28T00:00:00Z",
+    "commonInterestScore": 3,
+    "commonPostCount": 3,
+    "personCityName": "Grenoble",
+    "personFirstName": "Michel",
+    "personGender": "male",
+    "personId": 32985348834483,
+    "personLastName": "Breton",
+    "postCount": 3
+   },
+   {
+    "birthday": "1988-10-20T00:00:00Z",
+    "commonInterestScore": 1,
+    "commonPostCount": 2,
+    "personCityName": "eMalahleni",
+    "personFirstName": "Jan",
+    "personGender": "male",
+    "personId": 26388279067574,
+    "personLastName": "Carr",
+    "postCount": 3
+   },
+   {
+    "birthday": "1986-08-29T00:00:00Z",
+    "commonInterestScore": 1,
+    "commonPostCount": 1,
+    "personCityName": "Anyang",
+    "personFirstName": "Peng",
+    "personGender": "female",
+    "personId": 28587302323597,
+    "personLastName": "Yang",
+    "postCount": 1
+   },
+   {
+    "birthday": "1981-05-30T00:00:00Z",
+    "commonInterestScore": 0,
+    "commonPostCount": 0,
+    "personCityName": "Batna",
+    "personFirstName": "Kamel",
+    "personGender": "female",
+    "personId": 10995116278033,
+    "personLastName": "Belaid",
+    "postCount": 0
+   },
+   {
+    "birthday": "1981-09-10T00:00:00Z",
+    "commonInterestScore": 0,
+    "commonPostCount": 1,
+    "personCityName": "Guelma",
+    "personFirstName": "Mohamed",
+    "personGender": "male",
+    "personId": 10995116278869,
+    "personLastName": "Ferrer",
+    "postCount": 2
+   },
+   {
+    "birthday": "1983-12-21T00:00:00Z",
+    "commonInterestScore": 0,
+    "commonPostCount": 0,
+    "personCityName": "Tlalpan",
+    "personFirstName": "Carlos",
+    "personGender": "male",
+    "personId": 19791209300153,
+    "personLastName": "Abascal",
+    "postCount": 0
+   },
+   {
+    "birthday": "1988-04-21T00:00:00Z",
+    "commonInterestScore": 0,
+    "commonPostCount": 0,
+    "personCityName": "Sapporo",
+    "personFirstName": "Koji",
+    "personGender": "female",
+    "personId": 24189255812662,
+    "personLastName": "Nakamura",
+    "postCount": 0
+   },
+   {
+    "birthday": "1986-01-16T00:00:00Z",
+    "commonInterestScore": 0,
+    "commonPostCount": 2,
+    "personCityName": "Ankara",
+    "personFirstName": "An\u0131l",
+    "personGender": "female",
+    "personId": 26388279066830,
+    "personLastName": "Arikan",
+    "postCount": 4
+   },
+   {
+    "birthday": "1986-05-19T00:00:00Z",
+    "commonInterestScore": 0,
+    "commonPostCount": 0,
+    "personCityName": "Los_Angeles",
+    "personFirstName": "James",
+    "personGender": "male",
+    "personId": 26388279068235,
+    "personLastName": "Wilson",
+    "postCount": 0
+   },
+   {
+    "birthday": "1983-01-17T00:00:00Z",
+    "commonInterestScore": 0,
+    "commonPostCount": 0,
+    "personCityName": "Rahim_Yar_Khan",
+    "personFirstName": "Abdul Jamil",
+    "personGender": "female",
+    "personId": 28587302322256,
+    "personLastName": "Qureshi",
+    "postCount": 0
+   },
+   {
+    "birthday": "1988-03-28T00:00:00Z",
+    "commonInterestScore": 0,
+    "commonPostCount": 0,
+    "personCityName": "Visonta",
+    "personFirstName": "Gyorgy",
+    "personGender": "male",
+    "personId": 28587302322790,
+    "personLastName": "Elek",
+    "postCount": 0
+   },
+   {
+    "birthday": "1986-01-13T00:00:00Z",
+    "commonInterestScore": 0,
+    "commonPostCount": 0,
+    "personCityName": "Ulan-Ude",
+    "personFirstName": "Leonid",
+    "personGender": "male",
+    "personId": 28587302323855,
+    "personLastName": "Popov",
+    "postCount": 0
+   },
+   {
+    "birthday": "1988-11-10T00:00:00Z",
+    "commonInterestScore": 0,
+    "commonPostCount": 0,
+    "personCityName": "Santos",
+    "personFirstName": "Fernanda",
+    "personGender": "male",
+    "personId": 30786325577834,
+    "personLastName": "Alves",
+    "postCount": 0
+   },
+   {
+    "birthday": "1984-09-04T00:00:00Z",
+    "commonInterestScore": 0,
+    "commonPostCount": 0,
+    "personCityName": "Ma_Liu_Shui",
+    "personFirstName": "Albert",
+    "personGender": "female",
+    "personId": 30786325578245,
+    "personLastName": "Chan",
+    "postCount": 0
+   },
+   {
+    "birthday": "1985-06-03T00:00:00Z",
+    "commonInterestScore": 0,
+    "commonPostCount": 0,
+    "personCityName": "Bag\u00e9",
+    "personFirstName": "Carlos",
+    "personGender": "female",
+    "personId": 30786325578887,
+    "personLastName": "Alves",
+    "postCount": 0
+   },
+   {
+    "birthday": "1983-01-16T00:00:00Z",
+    "commonInterestScore": 0,
+    "commonPostCount": 0,
+    "personCityName": "Giza",
+    "personFirstName": "Ahmad",
+    "personGender": "female",
+    "personId": 30786325578935,
+    "personLastName": "Mahmoud",
+    "postCount": 0
+   },
+   {
+    "birthday": "1981-06-30T00:00:00Z",
+    "commonInterestScore": 0,
+    "commonPostCount": 0,
+    "personCityName": "Oran",
+    "personFirstName": "Ali",
+    "personGender": "female",
+    "personId": 32985348833313,
+    "personLastName": "Ferrer",
+    "postCount": 0
+   },
+   {
+    "birthday": "1985-03-12T00:00:00Z",
+    "commonInterestScore": 0,
+    "commonPostCount": 0,
+    "personCityName": "Tainan",
+    "personFirstName": "Yang",
+    "personGender": "male",
+    "personId": 32985348833404,
+    "personLastName": "Wu",
+    "postCount": 0
+   },
+   {
+    "birthday": "1988-04-29T00:00:00Z",
+    "commonInterestScore": 0,
+    "commonPostCount": 0,
+    "personCityName": "Malm\u00f6",
+    "personFirstName": "Per",
+    "personGender": "male",
+    "personId": 32985348833546,
+    "personLastName": "Persson",
+    "postCount": 0
+   },
+   {
+    "birthday": "1988-05-13T00:00:00Z",
+    "commonInterestScore": 0,
+    "commonPostCount": 0,
+    "personCityName": "Incheon",
+    "personFirstName": "Min-Jung",
+    "personGender": "female",
+    "personId": 32985348833679,
+    "personLastName": "Park",
+    "postCount": 0
+   }
+  ]
+ }
+}

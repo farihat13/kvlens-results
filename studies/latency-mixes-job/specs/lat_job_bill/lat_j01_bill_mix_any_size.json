@@ -1,0 +1,263 @@
+{
+  "adjacency": {
+    "group": "item",
+    "owners": "one",
+    "split": "never"
+  },
+  "adjacency_by_etype": {
+    "aka_name_of": {
+      "group": "owner",
+      "owners": {
+        "pack": 4096
+      },
+      "split": "never"
+    },
+    "aka_title_of": {
+      "group": "owner",
+      "owners": {
+        "pack": 4096
+      },
+      "split": "never"
+    },
+    "cast_actor": {
+      "group": "owner",
+      "owners": {
+        "pack": 4096
+      },
+      "split": "never"
+    },
+    "cast_actress": {
+      "group": "owner",
+      "owners": {
+        "pack": 4096
+      },
+      "split": "never"
+    },
+    "cast_cinematographer": {
+      "group": "owner",
+      "owners": {
+        "pack": 4096
+      },
+      "split": "never"
+    },
+    "cast_composer": {
+      "group": "owner",
+      "owners": {
+        "pack": 4096
+      },
+      "split": "never"
+    },
+    "cast_costume_designer": {
+      "group": "owner",
+      "owners": {
+        "pack": 4096
+      },
+      "split": "never"
+    },
+    "cast_director": {
+      "group": "owner",
+      "owners": {
+        "pack": 4096
+      },
+      "split": "never"
+    },
+    "cast_editor": {
+      "group": "owner",
+      "owners": {
+        "pack": 4096
+      },
+      "split": "never"
+    },
+    "cast_miscellaneous_crew": {
+      "group": "owner",
+      "owners": {
+        "pack": 1024
+      },
+      "split": "never"
+    },
+    "cast_producer": {
+      "group": "owner",
+      "owners": {
+        "pack": 4096
+      },
+      "split": "never"
+    },
+    "cast_production_designer": {
+      "group": "owner",
+      "owners": {
+        "pack": 4096
+      },
+      "split": "never"
+    },
+    "cast_writer": {
+      "group": "owner",
+      "owners": {
+        "pack": 4096
+      },
+      "split": "never"
+    },
+    "company_distributor": {
+      "group": "owner",
+      "owners": {
+        "pack": 4096
+      },
+      "split": "never"
+    },
+    "company_production": {
+      "group": "owner",
+      "owners": {
+        "pack": 4096
+      },
+      "split": "never"
+    },
+    "complete_cast_of": {
+      "group": "owner",
+      "owners": {
+        "pack": 16384
+      },
+      "split": "never"
+    },
+    "has_keyword": {
+      "group": "owner",
+      "owners": {
+        "pack": 4096
+      },
+      "split": "never"
+    },
+    "info_of": {
+      "group": "owner",
+      "owners": {
+        "pack": 4096
+      },
+      "split": "never"
+    },
+    "link_from": {
+      "group": "owner",
+      "owners": {
+        "pack": 16384
+      },
+      "split": "never"
+    },
+    "link_to": {
+      "group": "owner",
+      "owners": {
+        "pack": 16384
+      },
+      "split": "never"
+    },
+    "person_info_of": {
+      "group": "owner",
+      "owners": {
+        "pack": 4096
+      },
+      "split": "never"
+    },
+    "rating_of": {
+      "group": "owner",
+      "owners": {
+        "pack": 16384
+      },
+      "split": "never"
+    }
+  },
+  "direction": "declared",
+  "index": {
+    "group": "item",
+    "owners": "one",
+    "scope": "type",
+    "split": "never",
+    "term": "exact"
+  },
+  "version": 1,
+  "vertex_props": {
+    "group": "item",
+    "owners": "one",
+    "split": "never"
+  },
+  "vertex_props_by_label": {
+    "AkaName": {
+      "group": "owner",
+      "owners": {
+        "pack": 4096
+      },
+      "split": "never"
+    },
+    "AkaTitle": {
+      "group": "owner",
+      "owners": {
+        "pack": 4096
+      },
+      "split": "never"
+    },
+    "Character": {
+      "group": "owner",
+      "owners": {
+        "pack": 4096
+      },
+      "split": "never"
+    },
+    "Company": {
+      "group": "owner",
+      "owners": {
+        "pack": 4096
+      },
+      "split": "never"
+    },
+    "CompleteCast": {
+      "group": "owner",
+      "owners": {
+        "pack": 4096
+      },
+      "split": "never"
+    },
+    "Keyword": {
+      "group": "owner",
+      "owners": {
+        "pack": 4096
+      },
+      "split": "never"
+    },
+    "MovieInfo": {
+      "group": "owner",
+      "owners": {
+        "pack": 4096
+      },
+      "split": "never"
+    },
+    "MovieLink": {
+      "group": "owner",
+      "owners": {
+        "pack": 4096
+      },
+      "split": "never"
+    },
+    "MovieRating": {
+      "group": "owner",
+      "owners": {
+        "pack": 4096
+      },
+      "split": "never"
+    },
+    "Name": {
+      "group": "owner",
+      "owners": {
+        "pack": 4096
+      },
+      "split": "never"
+    },
+    "PersonInfo": {
+      "group": "owner",
+      "owners": {
+        "pack": 1024
+      },
+      "split": "never"
+    },
+    "Title": {
+      "group": "owner",
+      "owners": {
+        "pack": 4096
+      },
+      "split": "never"
+    }
+  }
+}

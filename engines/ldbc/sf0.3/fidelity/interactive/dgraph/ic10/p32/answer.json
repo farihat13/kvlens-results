@@ -1,0 +1,241 @@
+{
+ "query_sha": "d8702ab8a41d1dac",
+ "params": {
+  "personId": "30786325579745",
+  "month": "12"
+ },
+ "data": {
+  "schema_sha256": "03713a1e1c7b722e73bed6b150e079e69e9579c2a58c52e06f9d4384fdd4b80d",
+  "schema_path": "dgraph/schema/ldbcTypes.schema",
+  "sf": "0.3",
+  "created": "2026-11-21T02:56:18Z",
+  "git_sha": "60910999"
+ },
+ "fetched_at": "2026-11-21T00:06:54",
+ "raw": {
+  "_l1": [],
+  "_l2": [],
+  "recs": [
+   {
+    "birthday": "1989-12-23T00:00:00Z",
+    "commonInterestScore": 10,
+    "commonPostCount": 28,
+    "personCityName": "Minneapolis",
+    "personFirstName": "Mike",
+    "personGender": "female",
+    "personId": 15393162792505,
+    "personLastName": "Jones",
+    "postCount": 46
+   },
+   {
+    "birthday": "1988-10-27T00:00:00Z",
+    "commonInterestScore": 7,
+    "commonPostCount": 10,
+    "personCityName": "Penang",
+    "personFirstName": "Amber",
+    "personGender": "female",
+    "personId": 2199023258739,
+    "personLastName": "Hassan",
+    "postCount": 13
+   },
+   {
+    "birthday": "1986-01-09T00:00:00Z",
+    "commonInterestScore": 6,
+    "commonPostCount": 10,
+    "personCityName": "Thika",
+    "personFirstName": "Ali",
+    "personGender": "female",
+    "personId": 1222,
+    "personLastName": "Brar",
+    "postCount": 14
+   },
+   {
+    "birthday": "1988-11-23T00:00:00Z",
+    "commonInterestScore": 3,
+    "commonPostCount": 4,
+    "personCityName": "Zhangzhou",
+    "personFirstName": "Jie",
+    "personGender": "male",
+    "personId": 19791209303342,
+    "personLastName": "Yang",
+    "postCount": 5
+   },
+   {
+    "birthday": "1982-01-22T00:00:00Z",
+    "commonInterestScore": 2,
+    "commonPostCount": 3,
+    "personCityName": "Sion",
+    "personFirstName": "Sanjay",
+    "personGender": "male",
+    "personId": 4398046513246,
+    "personLastName": "Rao",
+    "postCount": 4
+   },
+   {
+    "birthday": "1982-11-03T00:00:00Z",
+    "commonInterestScore": 0,
+    "commonPostCount": 0,
+    "personCityName": "Ottignies-Louvain-la-Neuve",
+    "personFirstName": "Rene",
+    "personGender": "female",
+    "personId": 4398046511290,
+    "personLastName": "Buysse",
+    "postCount": 0
+   },
+   {
+    "birthday": "1982-10-23T00:00:00Z",
+    "commonInterestScore": 0,
+    "commonPostCount": 0,
+    "personCityName": "Durban",
+    "personFirstName": "George",
+    "personGender": "female",
+    "personId": 8796093025304,
+    "personLastName": "Carr",
+    "postCount": 0
+   },
+   {
+    "birthday": "1986-11-30T00:00:00Z",
+    "commonInterestScore": 0,
+    "commonPostCount": 0,
+    "personCityName": "Sana'a",
+    "personFirstName": "Abdul-Malik",
+    "personGender": "male",
+    "personId": 13194139534569,
+    "personLastName": "Hamdan",
+    "postCount": 0
+   },
+   {
+    "birthday": "1982-08-17T00:00:00Z",
+    "commonInterestScore": 0,
+    "commonPostCount": 0,
+    "personCityName": "Moravia",
+    "personFirstName": "Pavel",
+    "personGender": "female",
+    "personId": 15393162789189,
+    "personLastName": "Redl",
+    "postCount": 0
+   },
+   {
+    "birthday": "1980-02-16T00:00:00Z",
+    "commonInterestScore": 0,
+    "commonPostCount": 0,
+    "personCityName": "Islamabad",
+    "personFirstName": "Aafia",
+    "personGender": "female",
+    "personId": 17592186047890,
+    "personLastName": "Baloch",
+    "postCount": 0
+   },
+   {
+    "birthday": "1983-12-22T00:00:00Z",
+    "commonInterestScore": 0,
+    "commonPostCount": 0,
+    "personCityName": "Chi\u015fin\u0103u",
+    "personFirstName": "Ion",
+    "personGender": "female",
+    "personId": 21990232555771,
+    "personLastName": "Bologan",
+    "postCount": 0
+   },
+   {
+    "birthday": "1984-11-12T00:00:00Z",
+    "commonInterestScore": 0,
+    "commonPostCount": 0,
+    "personCityName": "Moradabad",
+    "personFirstName": "Arjun",
+    "personGender": "female",
+    "personId": 21990232556605,
+    "personLastName": "Sen",
+    "postCount": 0
+   },
+   {
+    "birthday": "1987-10-09T00:00:00Z",
+    "commonInterestScore": 0,
+    "commonPostCount": 0,
+    "personCityName": "Kodambakkam",
+    "personFirstName": "Meera",
+    "personGender": "female",
+    "personId": 21990232559086,
+    "personLastName": "Singh",
+    "postCount": 0
+   },
+   {
+    "birthday": "1989-12-30T00:00:00Z",
+    "commonInterestScore": 0,
+    "commonPostCount": 0,
+    "personCityName": "Salg\u00f3tarj\u00e1n",
+    "personFirstName": "Janos",
+    "personGender": "female",
+    "personId": 24189255812587,
+    "personLastName": "Farkas",
+    "postCount": 0
+   },
+   {
+    "birthday": "1981-01-30T00:00:00Z",
+    "commonInterestScore": 0,
+    "commonPostCount": 0,
+    "personCityName": "Danjiangkou",
+    "personFirstName": "Zhong",
+    "personGender": "female",
+    "personId": 24189255813215,
+    "personLastName": "Xu",
+    "postCount": 0
+   },
+   {
+    "birthday": "1986-08-06T00:00:00Z",
+    "commonInterestScore": 0,
+    "commonPostCount": 0,
+    "personCityName": "Bazhou",
+    "personFirstName": "Yang",
+    "personGender": "male",
+    "personId": 24189255814078,
+    "personLastName": "Xu",
+    "postCount": 0
+   },
+   {
+    "birthday": "1989-12-10T00:00:00Z",
+    "commonInterestScore": 0,
+    "commonPostCount": 0,
+    "personCityName": "Ljubljana",
+    "personFirstName": "Marko",
+    "personGender": "male",
+    "personId": 24189255814535,
+    "personLastName": "Balantic",
+    "postCount": 0
+   },
+   {
+    "birthday": "1981-07-22T00:00:00Z",
+    "commonInterestScore": 0,
+    "commonPostCount": 0,
+    "personCityName": "Bhilai",
+    "personFirstName": "Mehdi",
+    "personGender": "female",
+    "personId": 26388279067618,
+    "personLastName": "Singh",
+    "postCount": 0
+   },
+   {
+    "birthday": "1987-02-26T00:00:00Z",
+    "commonInterestScore": 0,
+    "commonPostCount": 0,
+    "personCityName": "Shah_Alam",
+    "personFirstName": "Amir",
+    "personGender": "male",
+    "personId": 26388279067627,
+    "personLastName": "Chen",
+    "postCount": 0
+   },
+   {
+    "birthday": "1987-08-19T00:00:00Z",
+    "commonInterestScore": 0,
+    "commonPostCount": 0,
+    "personCityName": "Cuttack",
+    "personFirstName": "Rahul",
+    "personGender": "female",
+    "personId": 26388279070350,
+    "personLastName": "Reddy",
+    "postCount": 0
+   }
+  ]
+ }
+}

@@ -1,0 +1,58 @@
+{
+ "query_sha": "a0d4689e13d21a73",
+ "params": {
+  "personId": 2194,
+  "startDate": 1291161600000,
+  "durationDays": 41
+ },
+ "data": {
+  "schema_sha256": "b8e206f17e60692c830ba0c3c675fbc481a22f26011282ce523890eb09be8a74",
+  "schema_path": "arangodb/schema/ldbc_schema.json",
+  "sf": "0.3",
+  "created": "2026-11-21T03:01:29Z",
+  "git_sha": "60910999"
+ },
+ "fetched_at": "2026-11-20T23:55:17",
+ "raw": [
+  {
+   "tagName": "Marc_Gicquel",
+   "postCount": 61
+  },
+  {
+   "tagName": "Chulalongkorn",
+   "postCount": 39
+  },
+  {
+   "tagName": "Alejandro_Falla",
+   "postCount": 14
+  },
+  {
+   "tagName": "M._G._Ramachandran",
+   "postCount": 5
+  },
+  {
+   "tagName": "Haile_Gebrselassie",
+   "postCount": 3
+  },
+  {
+   "tagName": "Samuel_Pepys",
+   "postCount": 3
+  },
+  {
+   "tagName": "Achtung_Baby",
+   "postCount": 2
+  },
+  {
+   "tagName": "Aldous_Huxley",
+   "postCount": 2
+  },
+  {
+   "tagName": "Beat_Again",
+   "postCount": 2
+  },
+  {
+   "tagName": "Bette_Midler",
+   "postCount": 2
+  }
+ ]
+}

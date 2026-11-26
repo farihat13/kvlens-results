@@ -1,0 +1,1073 @@
+[
+ {
+  "name": "Sp-Sp",
+  "assignment": "containerOf lists=split; hasCreator lists=split; hasInterest lists=split; hasMember lists=split; hasModerator lists=split; hasTag lists=split; hasType lists=split; isLocatedIn lists=split; isPartOf lists=split; isSubclassOf lists=split; knows lists=split; likes lists=split; replyOf lists=split; studyAt lists=split; workAt lists=split; Forum props=split; Message props=split; Organisation props=split; Person props=split; Place props=split; Tag props=split",
+  "assign": {
+   "props|Person": "split",
+   "props|Message": "split",
+   "props|Forum": "split",
+   "props|Organisation": "split",
+   "props|Place": "split",
+   "props|Tag": "split",
+   "adj|knows": "split",
+   "adj|hasCreator": "split",
+   "adj|likes": "split",
+   "adj|replyOf": "split",
+   "adj|containerOf": "split",
+   "adj|hasMember": "split",
+   "adj|hasModerator": "split",
+   "adj|hasTag": "split",
+   "adj|hasInterest": "split",
+   "adj|hasType": "split",
+   "adj|isLocatedIn": "split",
+   "adj|isPartOf": "split",
+   "adj|isSubclassOf": "split",
+   "adj|studyAt": "split",
+   "adj|workAt": "split"
+  },
+  "ops": 556743581.8500003,
+  "bytes": 376950474273.80005,
+  "units": {
+   "('adj', 'isLocatedIn')": {
+    "ops": 14691534.042000001,
+    "bytes": 961345187.8000001
+   },
+   "('adj', 'knows')": {
+    "ops": 2341231.344,
+    "bytes": 3548864023.6
+   },
+   "('adj', 'studyAt')": {
+    "ops": 71593.36800000002,
+    "bytes": 2606805.6
+   },
+   "('adj', 'workAt')": {
+    "ops": 31758307.912,
+    "bytes": 2255545443.6
+   },
+   "('props', 'Organisation')": {
+    "ops": 184290.80000000002,
+    "bytes": 5473659.600000001
+   },
+   "('props', 'Person')": {
+    "ops": 9962216.7,
+    "bytes": 17133342608.199999
+   },
+   "('props', 'Place')": {
+    "ops": 135092.0,
+    "bytes": 2650927.4
+   },
+   "None": {
+    "ops": 4392105.352,
+    "bytes": 9117454635.600002
+   },
+   "('adj', 'hasCreator')": {
+    "ops": 134827117.62800005,
+    "bytes": 225377390155.0
+   },
+   "('props', 'Message')": {
+    "ops": 23713649.400000002,
+    "bytes": 469732909.0
+   },
+   "('adj', 'isPartOf')": {
+    "ops": 1654553.1240000003,
+    "bytes": 56642359.199999996
+   },
+   "('adj', 'hasTag')": {
+    "ops": 44701945.164000005,
+    "bytes": 16810030938.599998
+   },
+   "('props', 'Tag')": {
+    "ops": 1397492.5999999999,
+    "bytes": 38188807.4
+   },
+   "('adj', 'containerOf')": {
+    "ops": 110381947.15400001,
+    "bytes": 23077726644.200005
+   },
+   "('adj', 'hasMember')": {
+    "ops": 34334931.69800001,
+    "bytes": 73506879847.00002
+   },
+   "('props', 'Forum')": {
+    "ops": 80175.0,
+    "bytes": 3153419.2
+   },
+   "('adj', 'likes')": {
+    "ops": 68489.786,
+    "bytes": 1973059.2000000002
+   },
+   "('adj', 'replyOf')": {
+    "ops": 141984621.586,
+    "bytes": 4577132745.800001
+   },
+   "('adj', 'hasInterest')": {
+    "ops": 4687.250000000001,
+    "bytes": 2281539.0000000005
+   },
+   "('adj', 'hasType')": {
+    "ops": 2600.3120000000004,
+    "bytes": 233209.8
+   },
+   "('adj', 'isSubclassOf')": {
+    "ops": 2500.3,
+    "bytes": 43187.0
+   },
+   "('adj', 'hasModerator')": {
+    "ops": 52499.33,
+    "bytes": 1782162.0
+   }
+  }
+ },
+ {
+  "name": "Sp-Co",
+  "assignment": "containerOf lists=condensed; hasCreator lists=condensed; hasInterest lists=condensed; hasMember lists=condensed; hasModerator lists=condensed; hasTag lists=condensed; hasType lists=condensed; isLocatedIn lists=condensed; isPartOf lists=condensed; isSubclassOf lists=condensed; knows lists=condensed; likes lists=condensed; replyOf lists=condensed; studyAt lists=condensed; workAt lists=condensed; Forum props=split; Message props=split; Organisation props=split; Person props=split; Place props=split; Tag props=split",
+  "assign": {
+   "props|Person": "split",
+   "props|Message": "split",
+   "props|Forum": "split",
+   "props|Organisation": "split",
+   "props|Place": "split",
+   "props|Tag": "split",
+   "adj|knows": "condensed",
+   "adj|hasCreator": "condensed",
+   "adj|likes": "condensed",
+   "adj|replyOf": "condensed",
+   "adj|containerOf": "condensed",
+   "adj|hasMember": "condensed",
+   "adj|hasModerator": "condensed",
+   "adj|hasTag": "condensed",
+   "adj|hasInterest": "condensed",
+   "adj|hasType": "condensed",
+   "adj|isLocatedIn": "condensed",
+   "adj|isPartOf": "condensed",
+   "adj|isSubclassOf": "condensed",
+   "adj|studyAt": "condensed",
+   "adj|workAt": "condensed"
+  },
+  "ops": 395740645.0519999,
+  "bytes": 90257599082.80002,
+  "units": {
+   "('adj', 'isLocatedIn')": {
+    "ops": 14393554.660000002,
+    "bytes": 1853883708.6
+   },
+   "('adj', 'knows')": {
+    "ops": 1081027.1199999999,
+    "bytes": 1296905252.2
+   },
+   "('adj', 'studyAt')": {
+    "ops": 71130.78000000001,
+    "bytes": 1351660.2000000002
+   },
+   "('adj', 'workAt')": {
+    "ops": 31144913.3,
+    "bytes": 938839789.2000002
+   },
+   "('props', 'Organisation')": {
+    "ops": 184290.80000000002,
+    "bytes": 5473659.600000001
+   },
+   "('props', 'Person')": {
+    "ops": 9962216.7,
+    "bytes": 17133342608.199999
+   },
+   "('props', 'Place')": {
+    "ops": 135092.0,
+    "bytes": 2650927.4
+   },
+   "None": {
+    "ops": 4392105.352,
+    "bytes": 9117454635.600002
+   },
+   "('adj', 'hasCreator')": {
+    "ops": 22374476.300000004,
+    "bytes": 22335360926.8
+   },
+   "('props', 'Message')": {
+    "ops": 23713649.400000002,
+    "bytes": 469732909.0
+   },
+   "('adj', 'isPartOf')": {
+    "ops": 1639647.2400000002,
+    "bytes": 20418807.6
+   },
+   "('adj', 'hasTag')": {
+    "ops": 36659509.1,
+    "bytes": 3169006201.6000004
+   },
+   "('props', 'Tag')": {
+    "ops": 1397492.5999999999,
+    "bytes": 38188807.4
+   },
+   "('adj', 'containerOf')": {
+    "ops": 99150172.44,
+    "bytes": 2871440269.4
+   },
+   "('adj', 'hasMember')": {
+    "ops": 8241061.94,
+    "bytes": 27952105426.600002
+   },
+   "('props', 'Forum')": {
+    "ops": 80175.0,
+    "bytes": 3153419.2
+   },
+   "('adj', 'likes')": {
+    "ops": 132972.96000000002,
+    "bytes": 862586802.6
+   },
+   "('adj', 'replyOf')": {
+    "ops": 140925422.66000003,
+    "bytes": 2184739507.4
+   },
+   "('adj', 'hasInterest')": {
+    "ops": 3607.6000000000004,
+    "bytes": 198788.00000000003
+   },
+   "('adj', 'hasType')": {
+    "ops": 2500.3,
+    "bytes": 47278.4
+   },
+   "('adj', 'isSubclassOf')": {
+    "ops": 2500.3,
+    "bytes": 25003.0
+   },
+   "('adj', 'hasModerator')": {
+    "ops": 53126.5,
+    "bytes": 692694.8000000002
+   }
+  }
+ },
+ {
+  "name": "Sp-Ch64k",
+  "assignment": "containerOf lists=chunked; hasCreator lists=chunked; hasInterest lists=chunked; hasMember lists=chunked; hasModerator lists=chunked; hasTag lists=chunked; hasType lists=chunked; isLocatedIn lists=chunked; isPartOf lists=chunked; isSubclassOf lists=chunked; knows lists=chunked; likes lists=chunked; replyOf lists=chunked; studyAt lists=chunked; workAt lists=chunked; Forum props=split; Message props=split; Organisation props=split; Person props=split; Place props=split; Tag props=split",
+  "assign": {
+   "props|Person": "split",
+   "props|Message": "split",
+   "props|Forum": "split",
+   "props|Organisation": "split",
+   "props|Place": "split",
+   "props|Tag": "split",
+   "adj|knows": "chunked",
+   "adj|hasCreator": "chunked",
+   "adj|likes": "chunked",
+   "adj|replyOf": "chunked",
+   "adj|containerOf": "chunked",
+   "adj|hasMember": "chunked",
+   "adj|hasModerator": "chunked",
+   "adj|hasTag": "chunked",
+   "adj|hasInterest": "chunked",
+   "adj|hasType": "chunked",
+   "adj|isLocatedIn": "chunked",
+   "adj|isPartOf": "chunked",
+   "adj|isSubclassOf": "chunked",
+   "adj|studyAt": "chunked",
+   "adj|workAt": "chunked"
+  },
+  "ops": 58712079.552,
+  "bytes": 673514477092.8,
+  "units": {
+   "('adj', 'isLocatedIn')": {
+    "ops": 196296.64,
+    "bytes": 16839713615.600002
+   },
+   "('adj', 'knows')": {
+    "ops": 902669.1599999999,
+    "bytes": 44806953895.000015
+   },
+   "('adj', 'studyAt')": {
+    "ops": 26286.420000000002,
+    "bytes": 974008760.4000001
+   },
+   "('adj', 'workAt')": {
+    "ops": 130008.94000000002,
+    "bytes": 5090876541.2
+   },
+   "('props', 'Organisation')": {
+    "ops": 184290.80000000002,
+    "bytes": 5473659.600000001
+   },
+   "('props', 'Person')": {
+    "ops": 9962216.7,
+    "bytes": 17133342608.199999
+   },
+   "('props', 'Place')": {
+    "ops": 135092.0,
+    "bytes": 2650927.4
+   },
+   "None": {
+    "ops": 4392105.352,
+    "bytes": 9117454635.600002
+   },
+   "('adj', 'hasCreator')": {
+    "ops": 4379627.5600000005,
+    "bytes": 113745409366.8
+   },
+   "('props', 'Message')": {
+    "ops": 23713649.400000002,
+    "bytes": 469732909.0
+   },
+   "('adj', 'isPartOf')": {
+    "ops": 1392.6000000000001,
+    "bytes": 8250522.0
+   },
+   "('adj', 'hasTag')": {
+    "ops": 3483083.18,
+    "bytes": 81974997241.8
+   },
+   "('props', 'Tag')": {
+    "ops": 1397492.5999999999,
+    "bytes": 38188807.4
+   },
+   "('adj', 'containerOf')": {
+    "ops": 491518.05999999994,
+    "bytes": 10310712730.6
+   },
+   "('adj', 'hasMember')": {
+    "ops": 1837161.1400000001,
+    "bytes": 94171300689.8
+   },
+   "('props', 'Forum')": {
+    "ops": 80175.0,
+    "bytes": 3153419.2
+   },
+   "('adj', 'likes')": {
+    "ops": 127778.1,
+    "bytes": 7451874408.8
+   },
+   "('adj', 'replyOf')": {
+    "ops": 7209501.200000001,
+    "bytes": 269572332758.80002
+   },
+   "('adj', 'hasInterest')": {
+    "ops": 3607.6000000000004,
+    "bytes": 64808234.0
+   },
+   "('adj', 'hasType')": {
+    "ops": 2500.3,
+    "bytes": 36845330.0
+   },
+   "('adj', 'isSubclassOf')": {
+    "ops": 2500.3,
+    "bytes": 329585.0
+   },
+   "('adj', 'hasModerator')": {
+    "ops": 53126.5,
+    "bytes": 1696066446.6
+   }
+  }
+ },
+ {
+  "name": "Co-Sp",
+  "assignment": "containerOf lists=split; hasCreator lists=split; hasInterest lists=split; hasMember lists=split; hasModerator lists=split; hasTag lists=split; hasType lists=split; isLocatedIn lists=split; isPartOf lists=split; isSubclassOf lists=split; knows lists=split; likes lists=split; replyOf lists=split; studyAt lists=split; workAt lists=split; Forum props=condensed; Message props=condensed; Organisation props=condensed; Person props=condensed; Place props=condensed; Tag props=condensed",
+  "assign": {
+   "props|Person": "condensed",
+   "props|Message": "condensed",
+   "props|Forum": "condensed",
+   "props|Organisation": "condensed",
+   "props|Place": "condensed",
+   "props|Tag": "condensed",
+   "adj|knows": "split",
+   "adj|hasCreator": "split",
+   "adj|likes": "split",
+   "adj|replyOf": "split",
+   "adj|containerOf": "split",
+   "adj|hasMember": "split",
+   "adj|hasModerator": "split",
+   "adj|hasTag": "split",
+   "adj|hasInterest": "split",
+   "adj|hasType": "split",
+   "adj|isLocatedIn": "split",
+   "adj|isPartOf": "split",
+   "adj|isSubclassOf": "split",
+   "adj|studyAt": "split",
+   "adj|workAt": "split"
+  },
+  "ops": 547835239.6500001,
+  "bytes": 375060092601.99994,
+  "units": {
+   "('adj', 'isLocatedIn')": {
+    "ops": 14691534.042000001,
+    "bytes": 961345187.8000001
+   },
+   "('adj', 'knows')": {
+    "ops": 2341231.344,
+    "bytes": 3548864023.6
+   },
+   "('adj', 'studyAt')": {
+    "ops": 71593.36800000002,
+    "bytes": 2606805.6
+   },
+   "('adj', 'workAt')": {
+    "ops": 31758307.912,
+    "bytes": 2255545443.6
+   },
+   "('props', 'Organisation')": {
+    "ops": 184290.80000000002,
+    "bytes": 17697168.0
+   },
+   "('props', 'Person')": {
+    "ops": 2103931.0999999996,
+    "bytes": 12811698750.599997
+   },
+   "('props', 'Place')": {
+    "ops": 135092.0,
+    "bytes": 9836041.6
+   },
+   "None": {
+    "ops": 4392105.352,
+    "bytes": 9117454635.600002
+   },
+   "('adj', 'hasCreator')": {
+    "ops": 134827117.62800005,
+    "bytes": 225377390155.0
+   },
+   "('props', 'Message')": {
+    "ops": 22664088.799999997,
+    "bytes": 2807513625.8
+   },
+   "('adj', 'isPartOf')": {
+    "ops": 1654553.1240000003,
+    "bytes": 56642359.199999996
+   },
+   "('adj', 'hasTag')": {
+    "ops": 44701945.164000005,
+    "bytes": 16810030938.599998
+   },
+   "('props', 'Tag')": {
+    "ops": 1397492.5999999999,
+    "bytes": 111314929.8
+   },
+   "('adj', 'containerOf')": {
+    "ops": 110381947.15400001,
+    "bytes": 23077726644.200005
+   },
+   "('adj', 'hasMember')": {
+    "ops": 34334931.69800001,
+    "bytes": 73506879847.00002
+   },
+   "('props', 'Forum')": {
+    "ops": 79679.0,
+    "bytes": 4100143.1999999997
+   },
+   "('adj', 'likes')": {
+    "ops": 68489.786,
+    "bytes": 1973059.2000000002
+   },
+   "('adj', 'replyOf')": {
+    "ops": 141984621.586,
+    "bytes": 4577132745.800001
+   },
+   "('adj', 'hasInterest')": {
+    "ops": 4687.250000000001,
+    "bytes": 2281539.0000000005
+   },
+   "('adj', 'hasType')": {
+    "ops": 2600.3120000000004,
+    "bytes": 233209.8
+   },
+   "('adj', 'isSubclassOf')": {
+    "ops": 2500.3,
+    "bytes": 43187.0
+   },
+   "('adj', 'hasModerator')": {
+    "ops": 52499.33,
+    "bytes": 1782162.0
+   }
+  }
+ },
+ {
+  "name": "Co-Co",
+  "assignment": "containerOf lists=condensed; hasCreator lists=condensed; hasInterest lists=condensed; hasMember lists=condensed; hasModerator lists=condensed; hasTag lists=condensed; hasType lists=condensed; isLocatedIn lists=condensed; isPartOf lists=condensed; isSubclassOf lists=condensed; knows lists=condensed; likes lists=condensed; replyOf lists=condensed; studyAt lists=condensed; workAt lists=condensed; Forum props=condensed; Message props=condensed; Organisation props=condensed; Person props=condensed; Place props=condensed; Tag props=condensed",
+  "assign": {
+   "props|Person": "condensed",
+   "props|Message": "condensed",
+   "props|Forum": "condensed",
+   "props|Organisation": "condensed",
+   "props|Place": "condensed",
+   "props|Tag": "condensed",
+   "adj|knows": "condensed",
+   "adj|hasCreator": "condensed",
+   "adj|likes": "condensed",
+   "adj|replyOf": "condensed",
+   "adj|containerOf": "condensed",
+   "adj|hasMember": "condensed",
+   "adj|hasModerator": "condensed",
+   "adj|hasTag": "condensed",
+   "adj|hasInterest": "condensed",
+   "adj|hasType": "condensed",
+   "adj|isLocatedIn": "condensed",
+   "adj|isPartOf": "condensed",
+   "adj|isSubclassOf": "condensed",
+   "adj|studyAt": "condensed",
+   "adj|workAt": "condensed"
+  },
+  "ops": 386832302.85200006,
+  "bytes": 88367217411.00002,
+  "units": {
+   "('adj', 'isLocatedIn')": {
+    "ops": 14393554.660000002,
+    "bytes": 1853883708.6
+   },
+   "('adj', 'knows')": {
+    "ops": 1081027.1199999999,
+    "bytes": 1296905252.2
+   },
+   "('adj', 'studyAt')": {
+    "ops": 71130.78000000001,
+    "bytes": 1351660.2000000002
+   },
+   "('adj', 'workAt')": {
+    "ops": 31144913.3,
+    "bytes": 938839789.2000002
+   },
+   "('props', 'Organisation')": {
+    "ops": 184290.80000000002,
+    "bytes": 17697168.0
+   },
+   "('props', 'Person')": {
+    "ops": 2103931.0999999996,
+    "bytes": 12811698750.599997
+   },
+   "('props', 'Place')": {
+    "ops": 135092.0,
+    "bytes": 9836041.6
+   },
+   "None": {
+    "ops": 4392105.352,
+    "bytes": 9117454635.600002
+   },
+   "('adj', 'hasCreator')": {
+    "ops": 22374476.300000004,
+    "bytes": 22335360926.8
+   },
+   "('props', 'Message')": {
+    "ops": 22664088.799999997,
+    "bytes": 2807513625.8
+   },
+   "('adj', 'isPartOf')": {
+    "ops": 1639647.2400000002,
+    "bytes": 20418807.6
+   },
+   "('adj', 'hasTag')": {
+    "ops": 36659509.1,
+    "bytes": 3169006201.6000004
+   },
+   "('props', 'Tag')": {
+    "ops": 1397492.5999999999,
+    "bytes": 111314929.8
+   },
+   "('adj', 'containerOf')": {
+    "ops": 99150172.44,
+    "bytes": 2871440269.4
+   },
+   "('adj', 'hasMember')": {
+    "ops": 8241061.94,
+    "bytes": 27952105426.600002
+   },
+   "('props', 'Forum')": {
+    "ops": 79679.0,
+    "bytes": 4100143.1999999997
+   },
+   "('adj', 'likes')": {
+    "ops": 132972.96000000002,
+    "bytes": 862586802.6
+   },
+   "('adj', 'replyOf')": {
+    "ops": 140925422.66000003,
+    "bytes": 2184739507.4
+   },
+   "('adj', 'hasInterest')": {
+    "ops": 3607.6000000000004,
+    "bytes": 198788.00000000003
+   },
+   "('adj', 'hasType')": {
+    "ops": 2500.3,
+    "bytes": 47278.4
+   },
+   "('adj', 'isSubclassOf')": {
+    "ops": 2500.3,
+    "bytes": 25003.0
+   },
+   "('adj', 'hasModerator')": {
+    "ops": 53126.5,
+    "bytes": 692694.8000000002
+   }
+  }
+ },
+ {
+  "name": "Co-Ch64k",
+  "assignment": "containerOf lists=chunked; hasCreator lists=chunked; hasInterest lists=chunked; hasMember lists=chunked; hasModerator lists=chunked; hasTag lists=chunked; hasType lists=chunked; isLocatedIn lists=chunked; isPartOf lists=chunked; isSubclassOf lists=chunked; knows lists=chunked; likes lists=chunked; replyOf lists=chunked; studyAt lists=chunked; workAt lists=chunked; Forum props=condensed; Message props=condensed; Organisation props=condensed; Person props=condensed; Place props=condensed; Tag props=condensed",
+  "assign": {
+   "props|Person": "condensed",
+   "props|Message": "condensed",
+   "props|Forum": "condensed",
+   "props|Organisation": "condensed",
+   "props|Place": "condensed",
+   "props|Tag": "condensed",
+   "adj|knows": "chunked",
+   "adj|hasCreator": "chunked",
+   "adj|likes": "chunked",
+   "adj|replyOf": "chunked",
+   "adj|containerOf": "chunked",
+   "adj|hasMember": "chunked",
+   "adj|hasModerator": "chunked",
+   "adj|hasTag": "chunked",
+   "adj|hasInterest": "chunked",
+   "adj|hasType": "chunked",
+   "adj|isLocatedIn": "chunked",
+   "adj|isPartOf": "chunked",
+   "adj|isSubclassOf": "chunked",
+   "adj|studyAt": "chunked",
+   "adj|workAt": "chunked"
+  },
+  "ops": 49803737.35199999,
+  "bytes": 671624095421.0001,
+  "units": {
+   "('adj', 'isLocatedIn')": {
+    "ops": 196296.64,
+    "bytes": 16839713615.600002
+   },
+   "('adj', 'knows')": {
+    "ops": 902669.1599999999,
+    "bytes": 44806953895.000015
+   },
+   "('adj', 'studyAt')": {
+    "ops": 26286.420000000002,
+    "bytes": 974008760.4000001
+   },
+   "('adj', 'workAt')": {
+    "ops": 130008.94000000002,
+    "bytes": 5090876541.2
+   },
+   "('props', 'Organisation')": {
+    "ops": 184290.80000000002,
+    "bytes": 17697168.0
+   },
+   "('props', 'Person')": {
+    "ops": 2103931.0999999996,
+    "bytes": 12811698750.599997
+   },
+   "('props', 'Place')": {
+    "ops": 135092.0,
+    "bytes": 9836041.6
+   },
+   "None": {
+    "ops": 4392105.352,
+    "bytes": 9117454635.600002
+   },
+   "('adj', 'hasCreator')": {
+    "ops": 4379627.5600000005,
+    "bytes": 113745409366.8
+   },
+   "('props', 'Message')": {
+    "ops": 22664088.799999997,
+    "bytes": 2807513625.8
+   },
+   "('adj', 'isPartOf')": {
+    "ops": 1392.6000000000001,
+    "bytes": 8250522.0
+   },
+   "('adj', 'hasTag')": {
+    "ops": 3483083.18,
+    "bytes": 81974997241.8
+   },
+   "('props', 'Tag')": {
+    "ops": 1397492.5999999999,
+    "bytes": 111314929.8
+   },
+   "('adj', 'containerOf')": {
+    "ops": 491518.05999999994,
+    "bytes": 10310712730.6
+   },
+   "('adj', 'hasMember')": {
+    "ops": 1837161.1400000001,
+    "bytes": 94171300689.8
+   },
+   "('props', 'Forum')": {
+    "ops": 79679.0,
+    "bytes": 4100143.1999999997
+   },
+   "('adj', 'likes')": {
+    "ops": 127778.1,
+    "bytes": 7451874408.8
+   },
+   "('adj', 'replyOf')": {
+    "ops": 7209501.200000001,
+    "bytes": 269572332758.80002
+   },
+   "('adj', 'hasInterest')": {
+    "ops": 3607.6000000000004,
+    "bytes": 64808234.0
+   },
+   "('adj', 'hasType')": {
+    "ops": 2500.3,
+    "bytes": 36845330.0
+   },
+   "('adj', 'isSubclassOf')": {
+    "ops": 2500.3,
+    "bytes": 329585.0
+   },
+   "('adj', 'hasModerator')": {
+    "ops": 53126.5,
+    "bytes": 1696066446.6
+   }
+  }
+ },
+ {
+  "name": "Ch64k-Sp",
+  "assignment": "containerOf lists=split; hasCreator lists=split; hasInterest lists=split; hasMember lists=split; hasModerator lists=split; hasTag lists=split; hasType lists=split; isLocatedIn lists=split; isPartOf lists=split; isSubclassOf lists=split; knows lists=split; likes lists=split; replyOf lists=split; studyAt lists=split; workAt lists=split; Forum props=chunked; Message props=chunked; Organisation props=chunked; Person props=chunked; Place props=chunked; Tag props=chunked",
+  "assign": {
+   "props|Person": "chunked",
+   "props|Message": "chunked",
+   "props|Forum": "chunked",
+   "props|Organisation": "chunked",
+   "props|Place": "chunked",
+   "props|Tag": "chunked",
+   "adj|knows": "split",
+   "adj|hasCreator": "split",
+   "adj|likes": "split",
+   "adj|replyOf": "split",
+   "adj|containerOf": "split",
+   "adj|hasMember": "split",
+   "adj|hasModerator": "split",
+   "adj|hasTag": "split",
+   "adj|hasInterest": "split",
+   "adj|hasType": "split",
+   "adj|isLocatedIn": "split",
+   "adj|isPartOf": "split",
+   "adj|isSubclassOf": "split",
+   "adj|studyAt": "split",
+   "adj|workAt": "split"
+  },
+  "ops": 526022760.62000024,
+  "bytes": 619923889041.3999,
+  "units": {
+   "('adj', 'isLocatedIn')": {
+    "ops": 14691534.042000001,
+    "bytes": 961345187.8000001
+   },
+   "('adj', 'knows')": {
+    "ops": 2341231.344,
+    "bytes": 3548864023.6
+   },
+   "('adj', 'studyAt')": {
+    "ops": 71593.36800000002,
+    "bytes": 2606805.6
+   },
+   "('adj', 'workAt')": {
+    "ops": 31758307.912,
+    "bytes": 2255545443.6
+   },
+   "('props', 'Organisation')": {
+    "ops": 33546.04000000001,
+    "bytes": 1736180561.2000003
+   },
+   "('props', 'Person')": {
+    "ops": 1230611.4700000002,
+    "bytes": 81388811286.2
+   },
+   "('props', 'Place')": {
+    "ops": 27340.5,
+    "bytes": 1163614734.0
+   },
+   "None": {
+    "ops": 4392105.352,
+    "bytes": 9117454635.600002
+   },
+   "('adj', 'hasCreator')": {
+    "ops": 134827117.62800005,
+    "bytes": 225377390155.0
+   },
+   "('props', 'Message')": {
+    "ops": 3324093.74,
+    "bytes": 170214380140.80002
+   },
+   "('adj', 'isPartOf')": {
+    "ops": 1654553.1240000003,
+    "bytes": 56642359.199999996
+   },
+   "('adj', 'hasTag')": {
+    "ops": 44701945.164000005,
+    "bytes": 16810030938.599998
+   },
+   "('props', 'Tag')": {
+    "ops": 52327.00000000001,
+    "bytes": 2579098528.2000003
+   },
+   "('adj', 'containerOf')": {
+    "ops": 110381947.15400001,
+    "bytes": 23077726644.200005
+   },
+   "('adj', 'hasMember')": {
+    "ops": 34334931.69800001,
+    "bytes": 73506879847.00002
+   },
+   "('props', 'Forum')": {
+    "ops": 84176.52000000002,
+    "bytes": 3543871848.0
+   },
+   "('adj', 'likes')": {
+    "ops": 68489.786,
+    "bytes": 1973059.2000000002
+   },
+   "('adj', 'replyOf')": {
+    "ops": 141984621.586,
+    "bytes": 4577132745.800001
+   },
+   "('adj', 'hasInterest')": {
+    "ops": 4687.250000000001,
+    "bytes": 2281539.0000000005
+   },
+   "('adj', 'hasType')": {
+    "ops": 2600.3120000000004,
+    "bytes": 233209.8
+   },
+   "('adj', 'isSubclassOf')": {
+    "ops": 2500.3,
+    "bytes": 43187.0
+   },
+   "('adj', 'hasModerator')": {
+    "ops": 52499.33,
+    "bytes": 1782162.0
+   }
+  }
+ },
+ {
+  "name": "Ch64k-Co",
+  "assignment": "containerOf lists=condensed; hasCreator lists=condensed; hasInterest lists=condensed; hasMember lists=condensed; hasModerator lists=condensed; hasTag lists=condensed; hasType lists=condensed; isLocatedIn lists=condensed; isPartOf lists=condensed; isSubclassOf lists=condensed; knows lists=condensed; likes lists=condensed; replyOf lists=condensed; studyAt lists=condensed; workAt lists=condensed; Forum props=chunked; Message props=chunked; Organisation props=chunked; Person props=chunked; Place props=chunked; Tag props=chunked",
+  "assign": {
+   "props|Person": "chunked",
+   "props|Message": "chunked",
+   "props|Forum": "chunked",
+   "props|Organisation": "chunked",
+   "props|Place": "chunked",
+   "props|Tag": "chunked",
+   "adj|knows": "condensed",
+   "adj|hasCreator": "condensed",
+   "adj|likes": "condensed",
+   "adj|replyOf": "condensed",
+   "adj|containerOf": "condensed",
+   "adj|hasMember": "condensed",
+   "adj|hasModerator": "condensed",
+   "adj|hasTag": "condensed",
+   "adj|hasInterest": "condensed",
+   "adj|hasType": "condensed",
+   "adj|isLocatedIn": "condensed",
+   "adj|isPartOf": "condensed",
+   "adj|isSubclassOf": "condensed",
+   "adj|studyAt": "condensed",
+   "adj|workAt": "condensed"
+  },
+  "ops": 365019823.82200015,
+  "bytes": 333231013850.3999,
+  "units": {
+   "('adj', 'isLocatedIn')": {
+    "ops": 14393554.660000002,
+    "bytes": 1853883708.6
+   },
+   "('adj', 'knows')": {
+    "ops": 1081027.1199999999,
+    "bytes": 1296905252.2
+   },
+   "('adj', 'studyAt')": {
+    "ops": 71130.78000000001,
+    "bytes": 1351660.2000000002
+   },
+   "('adj', 'workAt')": {
+    "ops": 31144913.3,
+    "bytes": 938839789.2000002
+   },
+   "('props', 'Organisation')": {
+    "ops": 33546.04000000001,
+    "bytes": 1736180561.2000003
+   },
+   "('props', 'Person')": {
+    "ops": 1230611.4700000002,
+    "bytes": 81388811286.2
+   },
+   "('props', 'Place')": {
+    "ops": 27340.5,
+    "bytes": 1163614734.0
+   },
+   "None": {
+    "ops": 4392105.352,
+    "bytes": 9117454635.600002
+   },
+   "('adj', 'hasCreator')": {
+    "ops": 22374476.300000004,
+    "bytes": 22335360926.8
+   },
+   "('props', 'Message')": {
+    "ops": 3324093.74,
+    "bytes": 170214380140.80002
+   },
+   "('adj', 'isPartOf')": {
+    "ops": 1639647.2400000002,
+    "bytes": 20418807.6
+   },
+   "('adj', 'hasTag')": {
+    "ops": 36659509.1,
+    "bytes": 3169006201.6000004
+   },
+   "('props', 'Tag')": {
+    "ops": 52327.00000000001,
+    "bytes": 2579098528.2000003
+   },
+   "('adj', 'containerOf')": {
+    "ops": 99150172.44,
+    "bytes": 2871440269.4
+   },
+   "('adj', 'hasMember')": {
+    "ops": 8241061.94,
+    "bytes": 27952105426.600002
+   },
+   "('props', 'Forum')": {
+    "ops": 84176.52000000002,
+    "bytes": 3543871848.0
+   },
+   "('adj', 'likes')": {
+    "ops": 132972.96000000002,
+    "bytes": 862586802.6
+   },
+   "('adj', 'replyOf')": {
+    "ops": 140925422.66000003,
+    "bytes": 2184739507.4
+   },
+   "('adj', 'hasInterest')": {
+    "ops": 3607.6000000000004,
+    "bytes": 198788.00000000003
+   },
+   "('adj', 'hasType')": {
+    "ops": 2500.3,
+    "bytes": 47278.4
+   },
+   "('adj', 'isSubclassOf')": {
+    "ops": 2500.3,
+    "bytes": 25003.0
+   },
+   "('adj', 'hasModerator')": {
+    "ops": 53126.5,
+    "bytes": 692694.8000000002
+   }
+  }
+ },
+ {
+  "name": "Ch64k-Ch64k",
+  "assignment": "containerOf lists=chunked; hasCreator lists=chunked; hasInterest lists=chunked; hasMember lists=chunked; hasModerator lists=chunked; hasTag lists=chunked; hasType lists=chunked; isLocatedIn lists=chunked; isPartOf lists=chunked; isSubclassOf lists=chunked; knows lists=chunked; likes lists=chunked; replyOf lists=chunked; studyAt lists=chunked; workAt lists=chunked; Forum props=chunked; Message props=chunked; Organisation props=chunked; Person props=chunked; Place props=chunked; Tag props=chunked",
+  "assign": {
+   "props|Person": "chunked",
+   "props|Message": "chunked",
+   "props|Forum": "chunked",
+   "props|Organisation": "chunked",
+   "props|Place": "chunked",
+   "props|Tag": "chunked",
+   "adj|knows": "chunked",
+   "adj|hasCreator": "chunked",
+   "adj|likes": "chunked",
+   "adj|replyOf": "chunked",
+   "adj|containerOf": "chunked",
+   "adj|hasMember": "chunked",
+   "adj|hasModerator": "chunked",
+   "adj|hasTag": "chunked",
+   "adj|hasInterest": "chunked",
+   "adj|hasType": "chunked",
+   "adj|isLocatedIn": "chunked",
+   "adj|isPartOf": "chunked",
+   "adj|isSubclassOf": "chunked",
+   "adj|studyAt": "chunked",
+   "adj|workAt": "chunked"
+  },
+  "ops": 27991258.322000008,
+  "bytes": 916487891860.4,
+  "units": {
+   "('adj', 'isLocatedIn')": {
+    "ops": 196296.64,
+    "bytes": 16839713615.600002
+   },
+   "('adj', 'knows')": {
+    "ops": 902669.1599999999,
+    "bytes": 44806953895.000015
+   },
+   "('adj', 'studyAt')": {
+    "ops": 26286.420000000002,
+    "bytes": 974008760.4000001
+   },
+   "('adj', 'workAt')": {
+    "ops": 130008.94000000002,
+    "bytes": 5090876541.2
+   },
+   "('props', 'Organisation')": {
+    "ops": 33546.04000000001,
+    "bytes": 1736180561.2000003
+   },
+   "('props', 'Person')": {
+    "ops": 1230611.4700000002,
+    "bytes": 81388811286.2
+   },
+   "('props', 'Place')": {
+    "ops": 27340.5,
+    "bytes": 1163614734.0
+   },
+   "None": {
+    "ops": 4392105.352,
+    "bytes": 9117454635.600002
+   },
+   "('adj', 'hasCreator')": {
+    "ops": 4379627.5600000005,
+    "bytes": 113745409366.8
+   },
+   "('props', 'Message')": {
+    "ops": 3324093.74,
+    "bytes": 170214380140.80002
+   },
+   "('adj', 'isPartOf')": {
+    "ops": 1392.6000000000001,
+    "bytes": 8250522.0
+   },
+   "('adj', 'hasTag')": {
+    "ops": 3483083.18,
+    "bytes": 81974997241.8
+   },
+   "('props', 'Tag')": {
+    "ops": 52327.00000000001,
+    "bytes": 2579098528.2000003
+   },
+   "('adj', 'containerOf')": {
+    "ops": 491518.05999999994,
+    "bytes": 10310712730.6
+   },
+   "('adj', 'hasMember')": {
+    "ops": 1837161.1400000001,
+    "bytes": 94171300689.8
+   },
+   "('props', 'Forum')": {
+    "ops": 84176.52000000002,
+    "bytes": 3543871848.0
+   },
+   "('adj', 'likes')": {
+    "ops": 127778.1,
+    "bytes": 7451874408.8
+   },
+   "('adj', 'replyOf')": {
+    "ops": 7209501.200000001,
+    "bytes": 269572332758.80002
+   },
+   "('adj', 'hasInterest')": {
+    "ops": 3607.6000000000004,
+    "bytes": 64808234.0
+   },
+   "('adj', 'hasType')": {
+    "ops": 2500.3,
+    "bytes": 36845330.0
+   },
+   "('adj', 'isSubclassOf')": {
+    "ops": 2500.3,
+    "bytes": 329585.0
+   },
+   "('adj', 'hasModerator')": {
+    "ops": 53126.5,
+    "bytes": 1696066446.6
+   }
+  }
+ }
+]

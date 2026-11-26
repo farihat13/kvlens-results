@@ -1,0 +1,1020 @@
+== [nebula] start (engine backup, sf0.3) via engines/nebulagraph/start-server.sh ==
+== [hook LC_PRE_RESTORE_CHECK] source 'engines/provenance.sh' && check_provenance nebula
+   provenance OK (schema sha256 673074740eea…)
+Cache size: 30 MB
+[INFO] Stopping nebula-metad...
+[INFO] Done
+[INFO] Stopping nebula-graphd...
+[INFO] Done
+[INFO] Stopping nebula-storaged...
+[INFO] Done
+
+Configuring Nebula...
+Stash binaries installed to runs/bin/ (kvstats)
+[INFO] Stopping nebula-metad...
+[INFO] Done
+[INFO] Starting nebula-metad...
+[INFO] Done
+[INFO] Stopping nebula-graphd...
+[INFO] Done
+[INFO] Starting nebula-graphd...
+[INFO] Done
+[INFO] Stopping nebula-storaged...
+[INFO] Done
+[INFO] Starting nebula-storaged...
+[INFO] Done
+[INFO] nebula-metad(5d43e44): Running as 2593625, Listening on 9559
+[INFO] nebula-graphd(5d43e44): Running as 2593732, Listening on 9669
+[INFO] nebula-storaged(5d43e44): Running as 2593821, Listening on 9779
+pinned: nebula-metad (pid 2593625) on CPU 4
+pinned: nebula-graphd (pid 2593732) on CPU 4
+pinned: nebula-storaged (pid 2593821) on CPU 4
+== [hook LC_POST_START_CHECK] 'engines/../.venv/bin/python3' -m kvengines.verify_schema --db nebula
+   verified: 9 indexes match data/schema/nebula/
+== engine up: nebula (sf0.3) at the .env-declared operating point (dgraph: ineq=index, localcache=disable). ==
+== [nebula] start (engine backup, sf0.3) via engines/nebulagraph/start-server.sh ==
+== [hook LC_PRE_RESTORE_CHECK] source 'engines/provenance.sh' && check_provenance nebula
+   provenance OK (schema sha256 673074740eea…)
+Cache size: 30 MB
+[INFO] Stopping nebula-metad...
+[INFO] Done
+[INFO] Stopping nebula-graphd...
+[INFO] Done
+[INFO] Stopping nebula-storaged...
+[INFO] Done
+
+Configuring Nebula...
+Stash binaries installed to runs/bin/ (kvstats)
+[INFO] Stopping nebula-metad...
+[INFO] Done
+[INFO] Starting nebula-metad...
+[INFO] Done
+[INFO] Stopping nebula-graphd...
+[INFO] Done
+[INFO] Starting nebula-graphd...
+[INFO] Done
+[INFO] Stopping nebula-storaged...
+[INFO] Done
+[INFO] Starting nebula-storaged...
+[INFO] Done
+[INFO] nebula-metad(5d43e44): Running as 2594932, Listening on 9559
+[INFO] nebula-graphd(5d43e44): Running as 2595039, Listening on 9669
+[INFO] nebula-storaged(5d43e44): Running as 2595128, Listening on 9779
+pinned: nebula-metad (pid 2594932) on CPU 4
+pinned: nebula-graphd (pid 2595039) on CPU 4
+pinned: nebula-storaged (pid 2595128) on CPU 4
+== [hook LC_POST_START_CHECK] 'engines/../.venv/bin/python3' -m kvengines.verify_schema --db nebula
+   verified: 9 indexes match data/schema/nebula/
+== engine up: nebula (sf0.3) at the .env-declared operating point (dgraph: ineq=index, localcache=disable). ==
+== [nebula] start (engine backup, sf0.3) via engines/nebulagraph/start-server.sh ==
+== [hook LC_PRE_RESTORE_CHECK] source 'engines/provenance.sh' && check_provenance nebula
+   provenance OK (schema sha256 673074740eea…)
+Cache size: 30 MB
+[INFO] Stopping nebula-metad...
+[INFO] Done
+[INFO] Stopping nebula-graphd...
+[INFO] Done
+[INFO] Stopping nebula-storaged...
+[INFO] Done
+
+Configuring Nebula...
+Stash binaries installed to runs/bin/ (kvstats)
+[INFO] Stopping nebula-metad...
+[INFO] Done
+[INFO] Starting nebula-metad...
+[INFO] Done
+[INFO] Stopping nebula-graphd...
+[INFO] Done
+[INFO] Starting nebula-graphd...
+[INFO] Done
+[INFO] Stopping nebula-storaged...
+[INFO] Done
+[INFO] Starting nebula-storaged...
+[INFO] Done
+[INFO] nebula-metad(5d43e44): Running as 2596219, Listening on 9559
+[INFO] nebula-graphd(5d43e44): Running as 2596326, Listening on 9669
+[INFO] nebula-storaged(5d43e44): Running as 2596415, Listening on 9779
+pinned: nebula-metad (pid 2596219) on CPU 4
+pinned: nebula-graphd (pid 2596326) on CPU 4
+pinned: nebula-storaged (pid 2596415) on CPU 4
+== [hook LC_POST_START_CHECK] 'engines/../.venv/bin/python3' -m kvengines.verify_schema --db nebula
+   verified: 9 indexes match data/schema/nebula/
+== engine up: nebula (sf0.3) at the .env-declared operating point (dgraph: ineq=index, localcache=disable). ==
+== [nebula] start (engine backup, sf0.3) via engines/nebulagraph/start-server.sh ==
+== [hook LC_PRE_RESTORE_CHECK] source 'engines/provenance.sh' && check_provenance nebula
+   provenance OK (schema sha256 673074740eea…)
+Cache size: 30 MB
+[INFO] Stopping nebula-metad...
+[INFO] Done
+[INFO] Stopping nebula-graphd...
+[INFO] Done
+[INFO] Stopping nebula-storaged...
+[INFO] Done
+
+Configuring Nebula...
+Stash binaries installed to runs/bin/ (kvstats)
+[INFO] Stopping nebula-metad...
+[INFO] Done
+[INFO] Starting nebula-metad...
+[INFO] Done
+[INFO] Stopping nebula-graphd...
+[INFO] Done
+[INFO] Starting nebula-graphd...
+[INFO] Done
+[INFO] Stopping nebula-storaged...
+[INFO] Done
+[INFO] Starting nebula-storaged...
+[INFO] Done
+[INFO] nebula-metad(5d43e44): Running as 2597569, Listening on 9559
+[INFO] nebula-graphd(5d43e44): Running as 2597676, Listening on 9669
+[INFO] nebula-storaged(5d43e44): Running as 2597765, Listening on 9779
+pinned: nebula-metad (pid 2597569) on CPU 4
+pinned: nebula-graphd (pid 2597676) on CPU 4
+pinned: nebula-storaged (pid 2597765) on CPU 4
+== [hook LC_POST_START_CHECK] 'engines/../.venv/bin/python3' -m kvengines.verify_schema --db nebula
+   verified: 9 indexes match data/schema/nebula/
+== engine up: nebula (sf0.3) at the .env-declared operating point (dgraph: ineq=index, localcache=disable). ==
+== [nebula] start (engine backup, sf0.3) via engines/nebulagraph/start-server.sh ==
+== [hook LC_PRE_RESTORE_CHECK] source 'engines/provenance.sh' && check_provenance nebula
+   provenance OK (schema sha256 673074740eea…)
+Cache size: 30 MB
+[INFO] Stopping nebula-metad...
+[INFO] Done
+[INFO] Stopping nebula-graphd...
+[INFO] Done
+[INFO] Stopping nebula-storaged...
+[INFO] Done
+
+Configuring Nebula...
+Stash binaries installed to runs/bin/ (kvstats)
+[INFO] Stopping nebula-metad...
+[INFO] Done
+[INFO] Starting nebula-metad...
+[INFO] Done
+[INFO] Stopping nebula-graphd...
+[INFO] Done
+[INFO] Starting nebula-graphd...
+[INFO] Done
+[INFO] Stopping nebula-storaged...
+[INFO] Done
+[INFO] Starting nebula-storaged...
+[INFO] Done
+[INFO] nebula-metad(5d43e44): Running as 2599016, Listening on 9559
+[INFO] nebula-graphd(5d43e44): Running as 2599123, Listening on 9669
+[INFO] nebula-storaged(5d43e44): Running as 2599222, Listening on 9779
+pinned: nebula-metad (pid 2599016) on CPU 4
+pinned: nebula-graphd (pid 2599123) on CPU 4
+pinned: nebula-storaged (pid 2599222) on CPU 4
+== [hook LC_POST_START_CHECK] 'engines/../.venv/bin/python3' -m kvengines.verify_schema --db nebula
+   verified: 9 indexes match data/schema/nebula/
+== engine up: nebula (sf0.3) at the .env-declared operating point (dgraph: ineq=index, localcache=disable). ==
+== [nebula] start (engine backup, sf0.3) via engines/nebulagraph/start-server.sh ==
+== [hook LC_PRE_RESTORE_CHECK] source 'engines/provenance.sh' && check_provenance nebula
+   provenance OK (schema sha256 673074740eea…)
+Cache size: 30 MB
+[INFO] Stopping nebula-metad...
+[INFO] Done
+[INFO] Stopping nebula-graphd...
+[INFO] Done
+[INFO] Stopping nebula-storaged...
+[INFO] Done
+
+Configuring Nebula...
+Stash binaries installed to runs/bin/ (kvstats)
+[INFO] Stopping nebula-metad...
+[INFO] Done
+[INFO] Starting nebula-metad...
+[INFO] Done
+[INFO] Stopping nebula-graphd...
+[INFO] Done
+[INFO] Starting nebula-graphd...
+[INFO] Done
+[INFO] Stopping nebula-storaged...
+[INFO] Done
+[INFO] Starting nebula-storaged...
+[INFO] Done
+[INFO] nebula-metad(5d43e44): Running as 2600388, Listening on 9559
+[INFO] nebula-graphd(5d43e44): Running as 2600495, Listening on 9669
+[INFO] nebula-storaged(5d43e44): Running as 2600584, Listening on 9779
+pinned: nebula-metad (pid 2600388) on CPU 4
+pinned: nebula-graphd (pid 2600495) on CPU 4
+pinned: nebula-storaged (pid 2600584) on CPU 4
+== [hook LC_POST_START_CHECK] 'engines/../.venv/bin/python3' -m kvengines.verify_schema --db nebula
+   verified: 9 indexes match data/schema/nebula/
+== engine up: nebula (sf0.3) at the .env-declared operating point (dgraph: ineq=index, localcache=disable). ==
+== [nebula] start (engine backup, sf0.3) via engines/nebulagraph/start-server.sh ==
+== [hook LC_PRE_RESTORE_CHECK] source 'engines/provenance.sh' && check_provenance nebula
+   provenance OK (schema sha256 673074740eea…)
+Cache size: 30 MB
+[INFO] Stopping nebula-metad...
+[INFO] Done
+[INFO] Stopping nebula-graphd...
+[INFO] Done
+[INFO] Stopping nebula-storaged...
+[INFO] Done
+
+Configuring Nebula...
+Stash binaries installed to runs/bin/ (kvstats)
+[INFO] Stopping nebula-metad...
+[INFO] Done
+[INFO] Starting nebula-metad...
+[INFO] Done
+[INFO] Stopping nebula-graphd...
+[INFO] Done
+[INFO] Starting nebula-graphd...
+[INFO] Done
+[INFO] Stopping nebula-storaged...
+[INFO] Done
+[INFO] Starting nebula-storaged...
+[INFO] Done
+[INFO] nebula-metad(5d43e44): Running as 2601661, Listening on 9559
+[INFO] nebula-graphd(5d43e44): Running as 2601768, Listening on 9669
+[INFO] nebula-storaged(5d43e44): Running as 2601857, Listening on 9779
+pinned: nebula-metad (pid 2601661) on CPU 4
+pinned: nebula-graphd (pid 2601768) on CPU 4
+pinned: nebula-storaged (pid 2601857) on CPU 4
+== [hook LC_POST_START_CHECK] 'engines/../.venv/bin/python3' -m kvengines.verify_schema --db nebula
+   verified: 9 indexes match data/schema/nebula/
+== engine up: nebula (sf0.3) at the .env-declared operating point (dgraph: ineq=index, localcache=disable). ==
+== [nebula] start (engine backup, sf0.3) via engines/nebulagraph/start-server.sh ==
+== [hook LC_PRE_RESTORE_CHECK] source 'engines/provenance.sh' && check_provenance nebula
+   provenance OK (schema sha256 673074740eea…)
+Cache size: 30 MB
+[INFO] Stopping nebula-metad...
+[INFO] Done
+[INFO] Stopping nebula-graphd...
+[INFO] Done
+[INFO] Stopping nebula-storaged...
+[INFO] Done
+
+Configuring Nebula...
+Stash binaries installed to runs/bin/ (kvstats)
+[INFO] Stopping nebula-metad...
+[INFO] Done
+[INFO] Starting nebula-metad...
+[INFO] Done
+[INFO] Stopping nebula-graphd...
+[INFO] Done
+[INFO] Starting nebula-graphd...
+[INFO] Done
+[INFO] Stopping nebula-storaged...
+[INFO] Done
+[INFO] Starting nebula-storaged...
+[INFO] Done
+[INFO] nebula-metad(5d43e44): Running as 2602965, Listening on 9559
+[INFO] nebula-graphd(5d43e44): Running as 2603072, Listening on 9669
+[INFO] nebula-storaged(5d43e44): Running as 2603161, Listening on 9779
+pinned: nebula-metad (pid 2602965) on CPU 4
+pinned: nebula-graphd (pid 2603072) on CPU 4
+pinned: nebula-storaged (pid 2603161) on CPU 4
+== [hook LC_POST_START_CHECK] 'engines/../.venv/bin/python3' -m kvengines.verify_schema --db nebula
+   verified: 9 indexes match data/schema/nebula/
+== engine up: nebula (sf0.3) at the .env-declared operating point (dgraph: ineq=index, localcache=disable). ==
+== [nebula] start (engine backup, sf0.3) via engines/nebulagraph/start-server.sh ==
+== [hook LC_PRE_RESTORE_CHECK] source 'engines/provenance.sh' && check_provenance nebula
+   provenance OK (schema sha256 673074740eea…)
+Cache size: 30 MB
+[INFO] Stopping nebula-metad...
+[INFO] Done
+[INFO] Stopping nebula-graphd...
+[INFO] Done
+[INFO] Stopping nebula-storaged...
+[INFO] Done
+
+Configuring Nebula...
+Stash binaries installed to runs/bin/ (kvstats)
+[INFO] Stopping nebula-metad...
+[INFO] Done
+[INFO] Starting nebula-metad...
+[INFO] Done
+[INFO] Stopping nebula-graphd...
+[INFO] Done
+[INFO] Starting nebula-graphd...
+[INFO] Done
+[INFO] Stopping nebula-storaged...
+[INFO] Done
+[INFO] Starting nebula-storaged...
+[INFO] Done
+[INFO] nebula-metad(5d43e44): Running as 2604240, Listening on 9559
+[INFO] nebula-graphd(5d43e44): Running as 2604347, Listening on 9669
+[INFO] nebula-storaged(5d43e44): Running as 2604436, Listening on 9779
+pinned: nebula-metad (pid 2604240) on CPU 4
+pinned: nebula-graphd (pid 2604347) on CPU 4
+pinned: nebula-storaged (pid 2604436) on CPU 4
+== [hook LC_POST_START_CHECK] 'engines/../.venv/bin/python3' -m kvengines.verify_schema --db nebula
+   verified: 9 indexes match data/schema/nebula/
+== engine up: nebula (sf0.3) at the .env-declared operating point (dgraph: ineq=index, localcache=disable). ==
+== [nebula] start (engine backup, sf0.3) via engines/nebulagraph/start-server.sh ==
+== [hook LC_PRE_RESTORE_CHECK] source 'engines/provenance.sh' && check_provenance nebula
+   provenance OK (schema sha256 673074740eea…)
+Cache size: 30 MB
+[INFO] Stopping nebula-metad...
+[INFO] Done
+[INFO] Stopping nebula-graphd...
+[INFO] Done
+[INFO] Stopping nebula-storaged...
+[INFO] Done
+
+Configuring Nebula...
+Stash binaries installed to runs/bin/ (kvstats)
+[INFO] Stopping nebula-metad...
+[INFO] Done
+[INFO] Starting nebula-metad...
+[INFO] Done
+[INFO] Stopping nebula-graphd...
+[INFO] Done
+[INFO] Starting nebula-graphd...
+[INFO] Done
+[INFO] Stopping nebula-storaged...
+[INFO] Done
+[INFO] Starting nebula-storaged...
+[INFO] Done
+[INFO] nebula-metad(5d43e44): Running as 2605545, Listening on 9559
+[INFO] nebula-graphd(5d43e44): Running as 2605652, Listening on 9669
+[INFO] nebula-storaged(5d43e44): Running as 2605741, Listening on 9779
+pinned: nebula-metad (pid 2605545) on CPU 4
+pinned: nebula-graphd (pid 2605652) on CPU 4
+pinned: nebula-storaged (pid 2605741) on CPU 4
+== [hook LC_POST_START_CHECK] 'engines/../.venv/bin/python3' -m kvengines.verify_schema --db nebula
+   verified: 9 indexes match data/schema/nebula/
+== engine up: nebula (sf0.3) at the .env-declared operating point (dgraph: ineq=index, localcache=disable). ==
+== [nebula] start (engine backup, sf0.3) via engines/nebulagraph/start-server.sh ==
+== [hook LC_PRE_RESTORE_CHECK] source 'engines/provenance.sh' && check_provenance nebula
+   provenance OK (schema sha256 673074740eea…)
+Cache size: 30 MB
+[INFO] Stopping nebula-metad...
+[INFO] Done
+[INFO] Stopping nebula-graphd...
+[INFO] Done
+[INFO] Stopping nebula-storaged...
+[INFO] Done
+
+Configuring Nebula...
+Stash binaries installed to runs/bin/ (kvstats)
+[INFO] Stopping nebula-metad...
+[INFO] Done
+[INFO] Starting nebula-metad...
+[INFO] Done
+[INFO] Stopping nebula-graphd...
+[INFO] Done
+[INFO] Starting nebula-graphd...
+[INFO] Done
+[INFO] Stopping nebula-storaged...
+[INFO] Done
+[INFO] Starting nebula-storaged...
+[INFO] Done
+[INFO] nebula-metad(5d43e44): Running as 2606819, Listening on 9559
+[INFO] nebula-graphd(5d43e44): Running as 2606926, Listening on 9669
+[INFO] nebula-storaged(5d43e44): Running as 2607015, Listening on 9779
+pinned: nebula-metad (pid 2606819) on CPU 4
+pinned: nebula-graphd (pid 2606926) on CPU 4
+pinned: nebula-storaged (pid 2607015) on CPU 4
+== [hook LC_POST_START_CHECK] 'engines/../.venv/bin/python3' -m kvengines.verify_schema --db nebula
+   verified: 9 indexes match data/schema/nebula/
+== engine up: nebula (sf0.3) at the .env-declared operating point (dgraph: ineq=index, localcache=disable). ==
+== [nebula] start (engine backup, sf0.3) via engines/nebulagraph/start-server.sh ==
+== [hook LC_PRE_RESTORE_CHECK] source 'engines/provenance.sh' && check_provenance nebula
+   provenance OK (schema sha256 673074740eea…)
+Cache size: 30 MB
+[INFO] Stopping nebula-metad...
+[INFO] Done
+[INFO] Stopping nebula-graphd...
+[INFO] Done
+[INFO] Stopping nebula-storaged...
+[INFO] Done
+
+Configuring Nebula...
+Stash binaries installed to runs/bin/ (kvstats)
+[INFO] Stopping nebula-metad...
+[INFO] Done
+[INFO] Starting nebula-metad...
+[INFO] Done
+[INFO] Stopping nebula-graphd...
+[INFO] Done
+[INFO] Starting nebula-graphd...
+[INFO] Done
+[INFO] Stopping nebula-storaged...
+[INFO] Done
+[INFO] Starting nebula-storaged...
+[INFO] Done
+[INFO] nebula-metad(5d43e44): Running as 2608130, Listening on 9559
+[INFO] nebula-graphd(5d43e44): Running as 2608237, Listening on 9669
+[INFO] nebula-storaged(5d43e44): Running as 2608326, Listening on 9779
+pinned: nebula-metad (pid 2608130) on CPU 4
+pinned: nebula-graphd (pid 2608237) on CPU 4
+pinned: nebula-storaged (pid 2608326) on CPU 4
+== [hook LC_POST_START_CHECK] 'engines/../.venv/bin/python3' -m kvengines.verify_schema --db nebula
+   verified: 9 indexes match data/schema/nebula/
+== engine up: nebula (sf0.3) at the .env-declared operating point (dgraph: ineq=index, localcache=disable). ==
+== [nebula] start (engine backup, sf0.3) via engines/nebulagraph/start-server.sh ==
+== [hook LC_PRE_RESTORE_CHECK] source 'engines/provenance.sh' && check_provenance nebula
+   provenance OK (schema sha256 673074740eea…)
+Cache size: 30 MB
+[INFO] Stopping nebula-metad...
+[INFO] Done
+[INFO] Stopping nebula-graphd...
+[INFO] Done
+[INFO] Stopping nebula-storaged...
+[INFO] Done
+
+Configuring Nebula...
+Stash binaries installed to runs/bin/ (kvstats)
+[INFO] Stopping nebula-metad...
+[INFO] Done
+[INFO] Starting nebula-metad...
+[INFO] Done
+[INFO] Stopping nebula-graphd...
+[INFO] Done
+[INFO] Starting nebula-graphd...
+[INFO] Done
+[INFO] Stopping nebula-storaged...
+[INFO] Done
+[INFO] Starting nebula-storaged...
+[INFO] Done
+[INFO] nebula-metad(5d43e44): Running as 2609409, Listening on 9559
+[INFO] nebula-graphd(5d43e44): Running as 2609516, Listening on 9669
+[INFO] nebula-storaged(5d43e44): Running as 2609605, Listening on 9779
+pinned: nebula-metad (pid 2609409) on CPU 4
+pinned: nebula-graphd (pid 2609516) on CPU 4
+pinned: nebula-storaged (pid 2609605) on CPU 4
+== [hook LC_POST_START_CHECK] 'engines/../.venv/bin/python3' -m kvengines.verify_schema --db nebula
+   verified: 9 indexes match data/schema/nebula/
+== engine up: nebula (sf0.3) at the .env-declared operating point (dgraph: ineq=index, localcache=disable). ==
+== [nebula] start (engine backup, sf0.3) via engines/nebulagraph/start-server.sh ==
+== [hook LC_PRE_RESTORE_CHECK] source 'engines/provenance.sh' && check_provenance nebula
+   provenance OK (schema sha256 673074740eea…)
+Cache size: 30 MB
+[INFO] Stopping nebula-metad...
+[INFO] Done
+[INFO] Stopping nebula-graphd...
+[INFO] Done
+[INFO] Stopping nebula-storaged...
+[INFO] Done
+
+Configuring Nebula...
+Stash binaries installed to runs/bin/ (kvstats)
+[INFO] Stopping nebula-metad...
+[INFO] Done
+[INFO] Starting nebula-metad...
+[INFO] Done
+[INFO] Stopping nebula-graphd...
+[INFO] Done
+[INFO] Starting nebula-graphd...
+[INFO] Done
+[INFO] Stopping nebula-storaged...
+[INFO] Done
+[INFO] Starting nebula-storaged...
+[INFO] Done
+[INFO] nebula-metad(5d43e44): Running as 2610719, Listening on 9559
+[INFO] nebula-graphd(5d43e44): Running as 2610826, Listening on 9669
+[INFO] nebula-storaged(5d43e44): Running as 2610915, Listening on 9779
+pinned: nebula-metad (pid 2610719) on CPU 4
+pinned: nebula-graphd (pid 2610826) on CPU 4
+pinned: nebula-storaged (pid 2610915) on CPU 4
+== [hook LC_POST_START_CHECK] 'engines/../.venv/bin/python3' -m kvengines.verify_schema --db nebula
+   verified: 9 indexes match data/schema/nebula/
+== engine up: nebula (sf0.3) at the .env-declared operating point (dgraph: ineq=index, localcache=disable). ==
+== [nebula] start (engine backup, sf0.3) via engines/nebulagraph/start-server.sh ==
+== [hook LC_PRE_RESTORE_CHECK] source 'engines/provenance.sh' && check_provenance nebula
+   provenance OK (schema sha256 673074740eea…)
+Cache size: 30 MB
+[INFO] Stopping nebula-metad...
+[INFO] Done
+[INFO] Stopping nebula-graphd...
+[INFO] Done
+[INFO] Stopping nebula-storaged...
+[INFO] Done
+
+Configuring Nebula...
+Stash binaries installed to runs/bin/ (kvstats)
+[INFO] Stopping nebula-metad...
+[INFO] Done
+[INFO] Starting nebula-metad...
+[INFO] Done
+[INFO] Stopping nebula-graphd...
+[INFO] Done
+[INFO] Starting nebula-graphd...
+[INFO] Done
+[INFO] Stopping nebula-storaged...
+[INFO] Done
+[INFO] Starting nebula-storaged...
+[INFO] Done
+[INFO] nebula-metad(5d43e44): Running as 2611990, Listening on 9559
+[INFO] nebula-graphd(5d43e44): Running as 2612097, Listening on 9669
+[INFO] nebula-storaged(5d43e44): Running as 2612186, Listening on 9779
+pinned: nebula-metad (pid 2611990) on CPU 4
+pinned: nebula-graphd (pid 2612097) on CPU 4
+pinned: nebula-storaged (pid 2612186) on CPU 4
+== [hook LC_POST_START_CHECK] 'engines/../.venv/bin/python3' -m kvengines.verify_schema --db nebula
+   verified: 9 indexes match data/schema/nebula/
+== engine up: nebula (sf0.3) at the .env-declared operating point (dgraph: ineq=index, localcache=disable). ==
+== [nebula] start (engine backup, sf0.3) via engines/nebulagraph/start-server.sh ==
+== [hook LC_PRE_RESTORE_CHECK] source 'engines/provenance.sh' && check_provenance nebula
+   provenance OK (schema sha256 673074740eea…)
+Cache size: 30 MB
+[INFO] Stopping nebula-metad...
+[INFO] Done
+[INFO] Stopping nebula-graphd...
+[INFO] Done
+[INFO] Stopping nebula-storaged...
+[INFO] Done
+
+Configuring Nebula...
+Stash binaries installed to runs/bin/ (kvstats)
+[INFO] Stopping nebula-metad...
+[INFO] Done
+[INFO] Starting nebula-metad...
+[INFO] Done
+[INFO] Stopping nebula-graphd...
+[INFO] Done
+[INFO] Starting nebula-graphd...
+[INFO] Done
+[INFO] Stopping nebula-storaged...
+[INFO] Done
+[INFO] Starting nebula-storaged...
+[INFO] Done
+[INFO] nebula-metad(5d43e44): Running as 2613298, Listening on 9559
+[INFO] nebula-graphd(5d43e44): Running as 2613405, Listening on 9669
+[INFO] nebula-storaged(5d43e44): Running as 2613494, Listening on 9779
+pinned: nebula-metad (pid 2613298) on CPU 4
+pinned: nebula-graphd (pid 2613405) on CPU 4
+pinned: nebula-storaged (pid 2613494) on CPU 4
+== [hook LC_POST_START_CHECK] 'engines/../.venv/bin/python3' -m kvengines.verify_schema --db nebula
+   verified: 9 indexes match data/schema/nebula/
+== engine up: nebula (sf0.3) at the .env-declared operating point (dgraph: ineq=index, localcache=disable). ==
+== [nebula] start (engine backup, sf0.3) via engines/nebulagraph/start-server.sh ==
+== [hook LC_PRE_RESTORE_CHECK] source 'engines/provenance.sh' && check_provenance nebula
+   provenance OK (schema sha256 673074740eea…)
+Cache size: 30 MB
+[INFO] Stopping nebula-metad...
+[INFO] Done
+[INFO] Stopping nebula-graphd...
+[INFO] Done
+[INFO] Stopping nebula-storaged...
+[INFO] Done
+
+Configuring Nebula...
+Stash binaries installed to runs/bin/ (kvstats)
+[INFO] Stopping nebula-metad...
+[INFO] Done
+[INFO] Starting nebula-metad...
+[INFO] Done
+[INFO] Stopping nebula-graphd...
+[INFO] Done
+[INFO] Starting nebula-graphd...
+[INFO] Done
+[INFO] Stopping nebula-storaged...
+[INFO] Done
+[INFO] Starting nebula-storaged...
+[INFO] Done
+[INFO] nebula-metad(5d43e44): Running as 2614583, Listening on 9559
+[INFO] nebula-graphd(5d43e44): Running as 2614690, Listening on 9669
+[INFO] nebula-storaged(5d43e44): Running as 2614779, Listening on 9779
+pinned: nebula-metad (pid 2614583) on CPU 4
+pinned: nebula-graphd (pid 2614690) on CPU 4
+pinned: nebula-storaged (pid 2614779) on CPU 4
+== [hook LC_POST_START_CHECK] 'engines/../.venv/bin/python3' -m kvengines.verify_schema --db nebula
+   verified: 9 indexes match data/schema/nebula/
+== engine up: nebula (sf0.3) at the .env-declared operating point (dgraph: ineq=index, localcache=disable). ==
+== [nebula] start (engine backup, sf0.3) via engines/nebulagraph/start-server.sh ==
+== [hook LC_PRE_RESTORE_CHECK] source 'engines/provenance.sh' && check_provenance nebula
+   provenance OK (schema sha256 673074740eea…)
+Cache size: 30 MB
+[INFO] Stopping nebula-metad...
+[INFO] Done
+[INFO] Stopping nebula-graphd...
+[INFO] Done
+[INFO] Stopping nebula-storaged...
+[INFO] Done
+
+Configuring Nebula...
+Stash binaries installed to runs/bin/ (kvstats)
+[INFO] Stopping nebula-metad...
+[INFO] Done
+[INFO] Starting nebula-metad...
+[INFO] Done
+[INFO] Stopping nebula-graphd...
+[INFO] Done
+[INFO] Starting nebula-graphd...
+[INFO] Done
+[INFO] Stopping nebula-storaged...
+[INFO] Done
+[INFO] Starting nebula-storaged...
+[INFO] Done
+[INFO] nebula-metad(5d43e44): Running as 2615892, Listening on 9559
+[INFO] nebula-graphd(5d43e44): Running as 2615999, Listening on 9669
+[INFO] nebula-storaged(5d43e44): Running as 2616088, Listening on 9779
+pinned: nebula-metad (pid 2615892) on CPU 4
+pinned: nebula-graphd (pid 2615999) on CPU 4
+pinned: nebula-storaged (pid 2616088) on CPU 4
+== [hook LC_POST_START_CHECK] 'engines/../.venv/bin/python3' -m kvengines.verify_schema --db nebula
+   verified: 9 indexes match data/schema/nebula/
+== engine up: nebula (sf0.3) at the .env-declared operating point (dgraph: ineq=index, localcache=disable). ==
+== [nebula] start (engine backup, sf0.3) via engines/nebulagraph/start-server.sh ==
+== [hook LC_PRE_RESTORE_CHECK] source 'engines/provenance.sh' && check_provenance nebula
+   provenance OK (schema sha256 673074740eea…)
+Cache size: 30 MB
+[INFO] Stopping nebula-metad...
+[INFO] Done
+[INFO] Stopping nebula-graphd...
+[INFO] Done
+[INFO] Stopping nebula-storaged...
+[INFO] Done
+
+Configuring Nebula...
+Stash binaries installed to runs/bin/ (kvstats)
+[INFO] Stopping nebula-metad...
+[INFO] Done
+[INFO] Starting nebula-metad...
+[INFO] Done
+[INFO] Stopping nebula-graphd...
+[INFO] Done
+[INFO] Starting nebula-graphd...
+[INFO] Done
+[INFO] Stopping nebula-storaged...
+[INFO] Done
+[INFO] Starting nebula-storaged...
+[INFO] Done
+[INFO] nebula-metad(5d43e44): Running as 2617166, Listening on 9559
+[INFO] nebula-graphd(5d43e44): Running as 2617273, Listening on 9669
+[INFO] nebula-storaged(5d43e44): Running as 2617362, Listening on 9779
+pinned: nebula-metad (pid 2617166) on CPU 4
+pinned: nebula-graphd (pid 2617273) on CPU 4
+pinned: nebula-storaged (pid 2617362) on CPU 4
+== [hook LC_POST_START_CHECK] 'engines/../.venv/bin/python3' -m kvengines.verify_schema --db nebula
+   verified: 9 indexes match data/schema/nebula/
+== engine up: nebula (sf0.3) at the .env-declared operating point (dgraph: ineq=index, localcache=disable). ==
+== [nebula] start (engine backup, sf0.3) via engines/nebulagraph/start-server.sh ==
+== [hook LC_PRE_RESTORE_CHECK] source 'engines/provenance.sh' && check_provenance nebula
+   provenance OK (schema sha256 673074740eea…)
+Cache size: 30 MB
+[INFO] Stopping nebula-metad...
+[INFO] Done
+[INFO] Stopping nebula-graphd...
+[INFO] Done
+[INFO] Stopping nebula-storaged...
+[INFO] Done
+
+Configuring Nebula...
+Stash binaries installed to runs/bin/ (kvstats)
+[INFO] Stopping nebula-metad...
+[INFO] Done
+[INFO] Starting nebula-metad...
+[INFO] Done
+[INFO] Stopping nebula-graphd...
+[INFO] Done
+[INFO] Starting nebula-graphd...
+[INFO] Done
+[INFO] Stopping nebula-storaged...
+[INFO] Done
+[INFO] Starting nebula-storaged...
+[INFO] Done
+[INFO] nebula-metad(5d43e44): Running as 2618625, Listening on 9559
+[INFO] nebula-graphd(5d43e44): Running as 2618732, Listening on 9669
+[INFO] nebula-storaged(5d43e44): Running as 2618821, Listening on 9779
+pinned: nebula-metad (pid 2618625) on CPU 4
+pinned: nebula-graphd (pid 2618732) on CPU 4
+pinned: nebula-storaged (pid 2618821) on CPU 4
+== [hook LC_POST_START_CHECK] 'engines/../.venv/bin/python3' -m kvengines.verify_schema --db nebula
+   verified: 9 indexes match data/schema/nebula/
+== engine up: nebula (sf0.3) at the .env-declared operating point (dgraph: ineq=index, localcache=disable). ==
+== [nebula] start (engine backup, sf0.3) via engines/nebulagraph/start-server.sh ==
+== [hook LC_PRE_RESTORE_CHECK] source 'engines/provenance.sh' && check_provenance nebula
+   provenance OK (schema sha256 673074740eea…)
+Cache size: 30 MB
+[INFO] Stopping nebula-metad...
+[INFO] Done
+[INFO] Stopping nebula-graphd...
+[INFO] Done
+[INFO] Stopping nebula-storaged...
+[INFO] Done
+
+Configuring Nebula...
+Stash binaries installed to runs/bin/ (kvstats)
+[INFO] Stopping nebula-metad...
+[INFO] Done
+[INFO] Starting nebula-metad...
+[INFO] Done
+[INFO] Stopping nebula-graphd...
+[INFO] Done
+[INFO] Starting nebula-graphd...
+[INFO] Done
+[INFO] Stopping nebula-storaged...
+[INFO] Done
+[INFO] Starting nebula-storaged...
+[INFO] Done
+[INFO] nebula-metad(5d43e44): Running as 2619907, Listening on 9559
+[INFO] nebula-graphd(5d43e44): Running as 2620014, Listening on 9669
+[INFO] nebula-storaged(5d43e44): Running as 2620103, Listening on 9779
+pinned: nebula-metad (pid 2619907) on CPU 4
+pinned: nebula-graphd (pid 2620014) on CPU 4
+pinned: nebula-storaged (pid 2620103) on CPU 4
+== [hook LC_POST_START_CHECK] 'engines/../.venv/bin/python3' -m kvengines.verify_schema --db nebula
+   verified: 9 indexes match data/schema/nebula/
+== engine up: nebula (sf0.3) at the .env-declared operating point (dgraph: ineq=index, localcache=disable). ==
+== [nebula] start (engine backup, sf0.3) via engines/nebulagraph/start-server.sh ==
+== [hook LC_PRE_RESTORE_CHECK] source 'engines/provenance.sh' && check_provenance nebula
+   provenance OK (schema sha256 673074740eea…)
+Cache size: 30 MB
+[INFO] Stopping nebula-metad...
+[INFO] Done
+[INFO] Stopping nebula-graphd...
+[INFO] Done
+[INFO] Stopping nebula-storaged...
+[INFO] Done
+
+Configuring Nebula...
+Stash binaries installed to runs/bin/ (kvstats)
+[INFO] Stopping nebula-metad...
+[INFO] Done
+[INFO] Starting nebula-metad...
+[INFO] Done
+[INFO] Stopping nebula-graphd...
+[INFO] Done
+[INFO] Starting nebula-graphd...
+[INFO] Done
+[INFO] Stopping nebula-storaged...
+[INFO] Done
+[INFO] Starting nebula-storaged...
+[INFO] Done
+[INFO] nebula-metad(5d43e44): Running as 2621224, Listening on 9559
+[INFO] nebula-graphd(5d43e44): Running as 2621331, Listening on 9669
+[INFO] nebula-storaged(5d43e44): Running as 2621420, Listening on 9779
+pinned: nebula-metad (pid 2621224) on CPU 4
+pinned: nebula-graphd (pid 2621331) on CPU 4
+pinned: nebula-storaged (pid 2621420) on CPU 4
+== [hook LC_POST_START_CHECK] 'engines/../.venv/bin/python3' -m kvengines.verify_schema --db nebula
+   verified: 9 indexes match data/schema/nebula/
+== engine up: nebula (sf0.3) at the .env-declared operating point (dgraph: ineq=index, localcache=disable). ==
+== [nebula] start (engine backup, sf0.3) via engines/nebulagraph/start-server.sh ==
+== [hook LC_PRE_RESTORE_CHECK] source 'engines/provenance.sh' && check_provenance nebula
+   provenance OK (schema sha256 673074740eea…)
+Cache size: 30 MB
+[INFO] Stopping nebula-metad...
+[INFO] Done
+[INFO] Stopping nebula-graphd...
+[INFO] Done
+[INFO] Stopping nebula-storaged...
+[INFO] Done
+
+Configuring Nebula...
+Stash binaries installed to runs/bin/ (kvstats)
+[INFO] Stopping nebula-metad...
+[INFO] Done
+[INFO] Starting nebula-metad...
+[INFO] Done
+[INFO] Stopping nebula-graphd...
+[INFO] Done
+[INFO] Starting nebula-graphd...
+[INFO] Done
+[INFO] Stopping nebula-storaged...
+[INFO] Done
+[INFO] Starting nebula-storaged...
+[INFO] Done
+[INFO] nebula-metad(5d43e44): Running as 2622506, Listening on 9559
+[INFO] nebula-graphd(5d43e44): Running as 2622612, Listening on 9669
+[INFO] nebula-storaged(5d43e44): Running as 2622702, Listening on 9779
+pinned: nebula-metad (pid 2622506) on CPU 4
+pinned: nebula-graphd (pid 2622612) on CPU 4
+pinned: nebula-storaged (pid 2622702) on CPU 4
+== [hook LC_POST_START_CHECK] 'engines/../.venv/bin/python3' -m kvengines.verify_schema --db nebula
+   verified: 9 indexes match data/schema/nebula/
+== engine up: nebula (sf0.3) at the .env-declared operating point (dgraph: ineq=index, localcache=disable). ==
+== [nebula] start (engine backup, sf0.3) via engines/nebulagraph/start-server.sh ==
+== [hook LC_PRE_RESTORE_CHECK] source 'engines/provenance.sh' && check_provenance nebula
+   provenance OK (schema sha256 673074740eea…)
+Cache size: 30 MB
+[INFO] Stopping nebula-metad...
+[INFO] Done
+[INFO] Stopping nebula-graphd...
+[INFO] Done
+[INFO] Stopping nebula-storaged...
+[INFO] Done
+
+Configuring Nebula...
+Stash binaries installed to runs/bin/ (kvstats)
+[INFO] Stopping nebula-metad...
+[INFO] Done
+[INFO] Starting nebula-metad...
+[INFO] Done
+[INFO] Stopping nebula-graphd...
+[INFO] Done
+[INFO] Starting nebula-graphd...
+[INFO] Done
+[INFO] Stopping nebula-storaged...
+[INFO] Done
+[INFO] Starting nebula-storaged...
+[INFO] Done
+[INFO] nebula-metad(5d43e44): Running as 2623824, Listening on 9559
+[INFO] nebula-graphd(5d43e44): Running as 2623931, Listening on 9669
+[INFO] nebula-storaged(5d43e44): Running as 2624020, Listening on 9779
+pinned: nebula-metad (pid 2623824) on CPU 4
+pinned: nebula-graphd (pid 2623931) on CPU 4
+pinned: nebula-storaged (pid 2624020) on CPU 4
+== [hook LC_POST_START_CHECK] 'engines/../.venv/bin/python3' -m kvengines.verify_schema --db nebula
+   verified: 9 indexes match data/schema/nebula/
+== engine up: nebula (sf0.3) at the .env-declared operating point (dgraph: ineq=index, localcache=disable). ==
+== [nebula] start (engine backup, sf0.3) via engines/nebulagraph/start-server.sh ==
+== [hook LC_PRE_RESTORE_CHECK] source 'engines/provenance.sh' && check_provenance nebula
+   provenance OK (schema sha256 673074740eea…)
+Cache size: 30 MB
+[INFO] Stopping nebula-metad...
+[INFO] Done
+[INFO] Stopping nebula-graphd...
+[INFO] Done
+[INFO] Stopping nebula-storaged...
+[INFO] Done
+
+Configuring Nebula...
+Stash binaries installed to runs/bin/ (kvstats)
+[INFO] Stopping nebula-metad...
+[INFO] Done
+[INFO] Starting nebula-metad...
+[INFO] Done
+[INFO] Stopping nebula-graphd...
+[INFO] Done
+[INFO] Starting nebula-graphd...
+[INFO] Done
+[INFO] Stopping nebula-storaged...
+[INFO] Done
+[INFO] Starting nebula-storaged...
+[INFO] Done
+[INFO] nebula-metad(5d43e44): Running as 2625140, Listening on 9559
+[INFO] nebula-graphd(5d43e44): Running as 2625247, Listening on 9669
+[INFO] nebula-storaged(5d43e44): Running as 2625336, Listening on 9779
+pinned: nebula-metad (pid 2625140) on CPU 4
+pinned: nebula-graphd (pid 2625247) on CPU 4
+pinned: nebula-storaged (pid 2625336) on CPU 4
+== [hook LC_POST_START_CHECK] 'engines/../.venv/bin/python3' -m kvengines.verify_schema --db nebula
+   verified: 9 indexes match data/schema/nebula/
+== engine up: nebula (sf0.3) at the .env-declared operating point (dgraph: ineq=index, localcache=disable). ==
+== [nebula] start (engine backup, sf0.3) via engines/nebulagraph/start-server.sh ==
+== [hook LC_PRE_RESTORE_CHECK] source 'engines/provenance.sh' && check_provenance nebula
+   provenance OK (schema sha256 673074740eea…)
+Cache size: 30 MB
+[INFO] Stopping nebula-metad...
+[INFO] Done
+[INFO] Stopping nebula-graphd...
+[INFO] Done
+[INFO] Stopping nebula-storaged...
+[INFO] Done
+
+Configuring Nebula...
+Stash binaries installed to runs/bin/ (kvstats)
+[INFO] Stopping nebula-metad...
+[INFO] Done
+[INFO] Starting nebula-metad...
+[INFO] Done
+[INFO] Stopping nebula-graphd...
+[INFO] Done
+[INFO] Starting nebula-graphd...
+[INFO] Done
+[INFO] Stopping nebula-storaged...
+[INFO] Done
+[INFO] Starting nebula-storaged...
+[INFO] Done
+[INFO] nebula-metad(5d43e44): Running as 2626422, Listening on 9559
+[INFO] nebula-graphd(5d43e44): Running as 2626529, Listening on 9669
+[INFO] nebula-storaged(5d43e44): Running as 2626625, Listening on 9779
+pinned: nebula-metad (pid 2626422) on CPU 4
+pinned: nebula-graphd (pid 2626529) on CPU 4
+pinned: nebula-storaged (pid 2626625) on CPU 4
+== [hook LC_POST_START_CHECK] 'engines/../.venv/bin/python3' -m kvengines.verify_schema --db nebula
+   verified: 9 indexes match data/schema/nebula/
+== engine up: nebula (sf0.3) at the .env-declared operating point (dgraph: ineq=index, localcache=disable). ==
+== [nebula] start (engine backup, sf0.3) via engines/nebulagraph/start-server.sh ==
+== [hook LC_PRE_RESTORE_CHECK] source 'engines/provenance.sh' && check_provenance nebula
+   provenance OK (schema sha256 673074740eea…)
+Cache size: 30 MB
+[INFO] Stopping nebula-metad...
+[INFO] Done
+[INFO] Stopping nebula-graphd...
+[INFO] Done
+[INFO] Stopping nebula-storaged...
+[INFO] Done
+
+Configuring Nebula...
+Stash binaries installed to runs/bin/ (kvstats)
+[INFO] Stopping nebula-metad...
+[INFO] Done
+[INFO] Starting nebula-metad...
+[INFO] Done
+[INFO] Stopping nebula-graphd...
+[INFO] Done
+[INFO] Starting nebula-graphd...
+[INFO] Done
+[INFO] Stopping nebula-storaged...
+[INFO] Done
+[INFO] Starting nebula-storaged...
+[INFO] Done
+[INFO] nebula-metad(5d43e44): Running as 2627740, Listening on 9559
+[INFO] nebula-graphd(5d43e44): Running as 2627847, Listening on 9669
+[INFO] nebula-storaged(5d43e44): Running as 2627936, Listening on 9779
+pinned: nebula-metad (pid 2627740) on CPU 4
+pinned: nebula-graphd (pid 2627847) on CPU 4
+pinned: nebula-storaged (pid 2627936) on CPU 4
+== [hook LC_POST_START_CHECK] 'engines/../.venv/bin/python3' -m kvengines.verify_schema --db nebula
+   verified: 9 indexes match data/schema/nebula/
+== engine up: nebula (sf0.3) at the .env-declared operating point (dgraph: ineq=index, localcache=disable). ==
+== [nebula] start (engine backup, sf0.3) via engines/nebulagraph/start-server.sh ==
+== [hook LC_PRE_RESTORE_CHECK] source 'engines/provenance.sh' && check_provenance nebula
+   provenance OK (schema sha256 673074740eea…)
+Cache size: 30 MB
+[INFO] Stopping nebula-metad...
+[INFO] Done
+[INFO] Stopping nebula-graphd...
+[INFO] Done
+[INFO] Stopping nebula-storaged...
+[INFO] Done
+
+Configuring Nebula...
+Stash binaries installed to runs/bin/ (kvstats)
+[INFO] Stopping nebula-metad...
+[INFO] Done
+[INFO] Starting nebula-metad...
+[INFO] Done
+[INFO] Stopping nebula-graphd...
+[INFO] Done
+[INFO] Starting nebula-graphd...
+[INFO] Done
+[INFO] Stopping nebula-storaged...
+[INFO] Done
+[INFO] Starting nebula-storaged...
+[INFO] Done
+[INFO] nebula-metad(5d43e44): Running as 2629056, Listening on 9559
+[INFO] nebula-graphd(5d43e44): Running as 2629163, Listening on 9669
+[INFO] nebula-storaged(5d43e44): Running as 2629252, Listening on 9779
+pinned: nebula-metad (pid 2629056) on CPU 4
+pinned: nebula-graphd (pid 2629163) on CPU 4
+pinned: nebula-storaged (pid 2629252) on CPU 4
+== [hook LC_POST_START_CHECK] 'engines/../.venv/bin/python3' -m kvengines.verify_schema --db nebula
+   verified: 9 indexes match data/schema/nebula/
+== engine up: nebula (sf0.3) at the .env-declared operating point (dgraph: ineq=index, localcache=disable). ==
+== [nebula] start (engine backup, sf0.3) via engines/nebulagraph/start-server.sh ==
+== [hook LC_PRE_RESTORE_CHECK] source 'engines/provenance.sh' && check_provenance nebula
+   provenance OK (schema sha256 673074740eea…)
+Cache size: 30 MB
+[INFO] Stopping nebula-metad...
+[INFO] Done
+[INFO] Stopping nebula-graphd...
+[INFO] Done
+[INFO] Stopping nebula-storaged...
+[INFO] Done
+
+Configuring Nebula...
+Stash binaries installed to runs/bin/ (kvstats)
+[INFO] Stopping nebula-metad...
+[INFO] Done
+[INFO] Starting nebula-metad...
+[INFO] Done
+[INFO] Stopping nebula-graphd...
+[INFO] Done
+[INFO] Starting nebula-graphd...
+[INFO] Done
+[INFO] Stopping nebula-storaged...
+[INFO] Done
+[INFO] Starting nebula-storaged...
+[INFO] Done
+[INFO] nebula-metad(5d43e44): Running as 2630348, Listening on 9559
+[INFO] nebula-graphd(5d43e44): Running as 2630455, Listening on 9669
+[INFO] nebula-storaged(5d43e44): Running as 2630544, Listening on 9779
+pinned: nebula-metad (pid 2630348) on CPU 4
+pinned: nebula-graphd (pid 2630455) on CPU 4
+pinned: nebula-storaged (pid 2630544) on CPU 4
+== [hook LC_POST_START_CHECK] 'engines/../.venv/bin/python3' -m kvengines.verify_schema --db nebula
+   verified: 9 indexes match data/schema/nebula/
+== engine up: nebula (sf0.3) at the .env-declared operating point (dgraph: ineq=index, localcache=disable). ==
+== [nebula] start (engine backup, sf0.3) via engines/nebulagraph/start-server.sh ==
+== [hook LC_PRE_RESTORE_CHECK] source 'engines/provenance.sh' && check_provenance nebula
+   provenance OK (schema sha256 673074740eea…)
+Cache size: 30 MB
+[INFO] Stopping nebula-metad...
+[INFO] Done
+[INFO] Stopping nebula-graphd...
+[INFO] Done
+[INFO] Stopping nebula-storaged...
+[INFO] Done
+
+Configuring Nebula...
+Stash binaries installed to runs/bin/ (kvstats)
+[INFO] Stopping nebula-metad...
+[INFO] Done
+[INFO] Starting nebula-metad...
+[INFO] Done
+[INFO] Stopping nebula-graphd...
+[INFO] Done
+[INFO] Starting nebula-graphd...
+[INFO] Done
+[INFO] Stopping nebula-storaged...
+[INFO] Done
+[INFO] Starting nebula-storaged...
+[INFO] Done
+[INFO] nebula-metad(5d43e44): Running as 2631657, Listening on 9559
+[INFO] nebula-graphd(5d43e44): Running as 2631764, Listening on 9669
+[INFO] nebula-storaged(5d43e44): Running as 2631853, Listening on 9779
+pinned: nebula-metad (pid 2631657) on CPU 4
+pinned: nebula-graphd (pid 2631764) on CPU 4
+pinned: nebula-storaged (pid 2631853) on CPU 4
+== [hook LC_POST_START_CHECK] 'engines/../.venv/bin/python3' -m kvengines.verify_schema --db nebula
+   verified: 9 indexes match data/schema/nebula/
+== engine up: nebula (sf0.3) at the .env-declared operating point (dgraph: ineq=index, localcache=disable). ==

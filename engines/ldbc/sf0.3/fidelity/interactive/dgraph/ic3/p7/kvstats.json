@@ -1,0 +1,27 @@
+{
+ "query_sha": "907f15bd35b7d66e",
+ "params": {
+  "personId": "19791209300775",
+  "startDate": "2011-04-01T00:00:00Z",
+  "countryXName": "Bosnia_and_Herzegovina",
+  "countryYName": "Rwanda",
+  "endDate": "2011-04-29T00:00:00Z"
+ },
+ "data_created": "2026-11-21T02:56:18Z",
+ "measured_at": "2026-11-20T23:04:05",
+ "raw": {
+  "get_bytes": 43571888,
+  "get_count": 629992,
+  "get_found_count": 629992,
+  "get_latency_ns": 31712377466,
+  "next_bytes": 0,
+  "next_count": 0,
+  "next_latency_ns": 0,
+  "seek_bytes": 18322582,
+  "seek_count": 316452,
+  "seek_latency_ns": 12711406380,
+  "set_bytes": 0,
+  "set_count": 0,
+  "set_latency_ns": 0
+ }
+}

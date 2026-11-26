@@ -1,0 +1,123 @@
+{
+ "query_sha": "6935170dcded2085",
+ "params": {
+  "messageId": "687195075991"
+ },
+ "data": {
+  "schema_sha256": "03713a1e1c7b722e73bed6b150e079e69e9579c2a58c52e06f9d4384fdd4b80d",
+  "schema_path": "dgraph/schema/ldbcTypes.schema",
+  "sf": "0.1",
+  "created": "2026-11-21T03:25:44Z",
+  "git_sha": "92777160"
+ },
+ "fetched_at": "2026-11-21T01:08:54",
+ "raw": {
+  "origAuthor": [
+   {
+    "origAuthorId": 15393162789111
+   }
+  ],
+  "replies": [
+   {
+    "commentContent": "I see",
+    "commentCreationDate": "2011-10-08T03:45:48.475Z",
+    "commentId": 687195075997,
+    "knowsCount": 1,
+    "knowsCount2": 0,
+    "replyAuthorFirstName": "David",
+    "replyAuthorId": 2199023255898,
+    "replyAuthorLastName": "Murray"
+   },
+   {
+    "commentContent": "roflol",
+    "commentCreationDate": "2011-10-07T23:37:34.529Z",
+    "commentId": 687195075999,
+    "knowsCount": 0,
+    "knowsCount2": 1,
+    "replyAuthorFirstName": "Chaim Azriel",
+    "replyAuthorId": 19791209300507,
+    "replyAuthorLastName": "Epstein"
+   },
+   {
+    "commentContent": "About Dimitri Tiomkin, ilm score About Lyndon B. Johnson, r reelectiAbout Ice Cube, r. He",
+    "commentCreationDate": "2011-10-07T22:10:42.527Z",
+    "commentId": 687195076000,
+    "knowsCount": 0,
+    "knowsCount2": 1,
+    "replyAuthorFirstName": "Michal",
+    "replyAuthorId": 19791209301592,
+    "replyAuthorLastName": "Kaminski"
+   },
+   {
+    "commentContent": "cool",
+    "commentCreationDate": "2011-10-07T20:50:11.621Z",
+    "commentId": 687195075993,
+    "knowsCount": 1,
+    "knowsCount2": 0,
+    "replyAuthorFirstName": "Rudolf",
+    "replyAuthorId": 2199023256437,
+    "replyAuthorLastName": "Engel"
+   },
+   {
+    "commentContent": "no",
+    "commentCreationDate": "2011-10-07T19:41:29.154Z",
+    "commentId": 687195075996,
+    "knowsCount": 1,
+    "knowsCount2": 0,
+    "replyAuthorFirstName": "Kamal",
+    "replyAuthorId": 2199023257206,
+    "replyAuthorLastName": "Aziz"
+   },
+   {
+    "commentContent": "roflol",
+    "commentCreationDate": "2011-10-07T17:41:03.239Z",
+    "commentId": 687195075995,
+    "knowsCount": 1,
+    "knowsCount2": 0,
+    "replyAuthorFirstName": "Jorge",
+    "replyAuthorId": 4398046512201,
+    "replyAuthorLastName": "Arango"
+   },
+   {
+    "commentContent": "no way!",
+    "commentCreationDate": "2011-10-07T15:13:50.601Z",
+    "commentId": 687195075998,
+    "knowsCount": 0,
+    "knowsCount2": 1,
+    "replyAuthorFirstName": "Chaim Azriel",
+    "replyAuthorId": 19791209300507,
+    "replyAuthorLastName": "Epstein"
+   },
+   {
+    "commentContent": "About Dimitri Tiomkin, received 2About Ralph Nader, e of the sAbout Adam San",
+    "commentCreationDate": "2011-10-07T13:28:23.681Z",
+    "commentId": 687195076001,
+    "knowsCount": 1,
+    "knowsCount2": 0,
+    "replyAuthorFirstName": "Walter",
+    "replyAuthorId": 8796093023017,
+    "replyAuthorLastName": "Becker"
+   },
+   {
+    "commentContent": "maybe",
+    "commentCreationDate": "2011-10-07T12:45:16.413Z",
+    "commentId": 687195075992,
+    "knowsCount": 1,
+    "knowsCount2": 0,
+    "replyAuthorFirstName": "Kamal",
+    "replyAuthorId": 2199023257206,
+    "replyAuthorLastName": "Aziz"
+   },
+   {
+    "commentContent": "maybe",
+    "commentCreationDate": "2011-10-07T11:58:00.883Z",
+    "commentId": 687195075994,
+    "knowsCount": 0,
+    "knowsCount2": 1,
+    "replyAuthorFirstName": "Aa Ngurah",
+    "replyAuthorId": 21990232556410,
+    "replyAuthorLastName": "Gallagher"
+   }
+  ]
+ }
+}

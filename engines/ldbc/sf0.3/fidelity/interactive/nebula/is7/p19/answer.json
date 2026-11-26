@@ -1,0 +1,88 @@
+{
+ "query_sha": "4dcea213e133d224",
+ "params": {
+  "messageId": "msg_687195603588"
+ },
+ "data": {
+  "schema_sha256": "673074740eea54e4ba1fdc94eebf2087531b3007af7da660afffb3d1e8df0d1e",
+  "schema_path": "nebulagraph/schema/schema.gql",
+  "sf": "0.3",
+  "created": "2026-11-21T03:42:54Z",
+  "git_sha": "1d6662c2"
+ },
+ "fetched_at": "2026-11-21T00:01:18",
+ "raw": {
+  "keys": [
+   "commentId",
+   "commentContent",
+   "commentCreationDate",
+   "replyAuthorId",
+   "replyAuthorFirstName",
+   "replyAuthorLastName",
+   "knows",
+   "replyAuthorIdInt"
+  ],
+  "rows": [
+   {
+    "commentId": "msg_687195603590",
+    "commentContent": "ok",
+    "commentCreationDate": 1318794915454,
+    "replyAuthorId": "person_10995116278915",
+    "replyAuthorFirstName": "Benedict",
+    "replyAuthorLastName": "Zhang",
+    "knows": true,
+    "replyAuthorIdInt": 10995116278915
+   },
+   {
+    "commentId": "msg_687195603591",
+    "commentContent": "About Virgil,  usually called About Muammar Gaddafi,  the AU summit. About Tiger Woods, tt",
+    "commentCreationDate": 1318787040510,
+    "replyAuthorId": "person_15393162791569",
+    "replyAuthorFirstName": "Li",
+    "replyAuthorLastName": "Xu",
+    "knows": true,
+    "replyAuthorIdInt": 15393162791569
+   },
+   {
+    "commentId": "msg_687195603592",
+    "commentContent": "thx",
+    "commentCreationDate": 1318782483500,
+    "replyAuthorId": "person_13194139534853",
+    "replyAuthorFirstName": "Babar",
+    "replyAuthorLastName": "Malik",
+    "knows": true,
+    "replyAuthorIdInt": 13194139534853
+   },
+   {
+    "commentId": "msg_687195603589",
+    "commentContent": "duh",
+    "commentCreationDate": 1318775279831,
+    "replyAuthorId": "person_6597069769371",
+    "replyAuthorFirstName": "Abida",
+    "replyAuthorLastName": "Ahmed",
+    "knows": true,
+    "replyAuthorIdInt": 6597069769371
+   },
+   {
+    "commentId": "msg_687195603593",
+    "commentContent": "About Pope Paul VI, ion to spread the mAbout Mary, Queen of Scots,  the charge in ApriAbou",
+    "commentCreationDate": 1318770011419,
+    "replyAuthorId": "person_8796093023506",
+    "replyAuthorFirstName": "Javed",
+    "replyAuthorLastName": "Khan",
+    "knows": true,
+    "replyAuthorIdInt": 8796093023506
+   },
+   {
+    "commentId": "msg_687195603595",
+    "commentContent": "duh",
+    "commentCreationDate": 1318769529070,
+    "replyAuthorId": "person_8796093022749",
+    "replyAuthorFirstName": "Aa Ngurah",
+    "replyAuthorLastName": "Budjana",
+    "knows": true,
+    "replyAuthorIdInt": 8796093022749
+   }
+  ]
+ }
+}

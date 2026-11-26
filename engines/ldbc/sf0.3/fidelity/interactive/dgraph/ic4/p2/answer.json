@@ -1,0 +1,109 @@
+{
+ "query_sha": "e98a92aa07772002",
+ "params": {
+  "personId": "2199023259200",
+  "startDate": "2011-08-01T00:00:00Z",
+  "endDate": "2011-09-18T00:00:00Z"
+ },
+ "data": {
+  "schema_sha256": "03713a1e1c7b722e73bed6b150e079e69e9579c2a58c52e06f9d4384fdd4b80d",
+  "schema_path": "dgraph/schema/ldbcTypes.schema",
+  "sf": "0.3",
+  "created": "2026-11-21T02:56:18Z",
+  "git_sha": "60910999"
+ },
+ "fetched_at": "2026-11-20T23:51:46",
+ "raw": {
+  "_l1": [],
+  "tags": [
+   {
+    "tagName": "Kateryna_Bondarenko",
+    "postCount": 8
+   },
+   {
+    "tagName": "Never_Miss_a_Beat",
+    "postCount": 4
+   },
+   {
+    "tagName": "Albert_Pujols",
+    "postCount": 1
+   },
+   {
+    "tagName": "Stephen_I_of_Hungary",
+    "postCount": 1
+   },
+   {
+    "tagName": "Houses_of_the_Holy",
+    "postCount": 1
+   },
+   {
+    "tagName": "Key_to_the_Highway",
+    "postCount": 1
+   },
+   {
+    "tagName": "Love_Like_Winter",
+    "postCount": 1
+   },
+   {
+    "tagName": "Sacred_Love",
+    "postCount": 1
+   },
+   {
+    "tagName": "From_Here_to_Eternity:_Live",
+    "postCount": 1
+   },
+   {
+    "tagName": "Check_Yes_or_No",
+    "postCount": 1
+   },
+   {
+    "tagName": "Vinicius_de_Moraes",
+    "postCount": 1
+   },
+   {
+    "tagName": "Catherine_of_Alexandria",
+    "postCount": 1
+   },
+   {
+    "tagName": "Act_Naturally",
+    "postCount": 1
+   },
+   {
+    "tagName": "Mother_Father_Brother_Sister",
+    "postCount": 1
+   },
+   {
+    "tagName": "Help_Me_Make_It_Through_the_Night",
+    "postCount": 1
+   },
+   {
+    "tagName": "Five_Years",
+    "postCount": 1
+   },
+   {
+    "tagName": "Concert:_The_Cure_Live",
+    "postCount": 1
+   },
+   {
+    "tagName": "Day_Tripper",
+    "postCount": 1
+   },
+   {
+    "tagName": "S.C.I.E.N.C.E.",
+    "postCount": 1
+   },
+   {
+    "tagName": "Afrodisiac",
+    "postCount": 1
+   },
+   {
+    "tagName": "Ich_will",
+    "postCount": 1
+   },
+   {
+    "tagName": "Reign_in_Blood",
+    "postCount": 1
+   }
+  ]
+ }
+}

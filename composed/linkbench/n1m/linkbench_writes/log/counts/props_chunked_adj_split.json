@@ -1,0 +1,90 @@
+{
+ "P": 1,
+ "backend": "cpp",
+ "binary": {
+  "binary_dirty": false,
+  "binary_git_sha": "e22430d124f05ed0e6dea30d3b55b2ffb65978d6",
+  "counting": {
+   "formats": {
+    "arangodb": {
+     "read": 3,
+     "write": 1
+    },
+    "arangodb_engine": {
+     "read": 3,
+     "write": 1
+    },
+    "dgraph": {
+     "read": 2,
+     "write": 1
+    },
+    "dgraph_engine": {
+     "read": 2,
+     "write": 1
+    },
+    "meta": {
+     "read": 3,
+     "write": 1
+    },
+    "nebula": {
+     "read": 3,
+     "write": 1
+    },
+    "nebula_engine": {
+     "read": 3,
+     "write": 1
+    },
+    "pertype_csr": {
+     "read": 2,
+     "write": 1
+    }
+   },
+   "seam": {
+    "read": 4,
+    "write": 1
+   }
+  },
+  "path": "build/cpp/kvevaluator"
+ },
+ "cell": "props_chunked_adj_split",
+ "cell_inputs": null,
+ "composed_from": {
+  "adjacency parts": "captures/linkbench/n1m/linkbench_writes/log/parts/props_split_adj_split.csv",
+  "props and index parts": "captures/linkbench/n1m/linkbench_writes/log/parts/props_chunked_adj_chunked.csv"
+ },
+ "composed_from_sha": {
+  "captures/linkbench/n1m/linkbench_writes/log/counts/props_chunked_adj_chunked.csv": "eb8f5238a90caa7cdd98ed784e354d29d8f6a4674090ab476d8100bde0cd35b9",
+  "captures/linkbench/n1m/linkbench_writes/log/counts/props_split_adj_split.csv": "2ced90fc2dc911e513eaf9180c6becf01eb6e0a7ec15e9d73715bc149c0e13d7",
+  "captures/linkbench/n1m/linkbench_writes/log/parts/props_chunked_adj_chunked.csv": "18376af516a22e709fdfca7feecb5005ba25f6de20424f1c90616b6a4e0b24ed",
+  "captures/linkbench/n1m/linkbench_writes/log/parts/props_split_adj_split.csv": "6877840c9fc3d7f868905ee0b2627fef590411f1f437e876109f63d75b0b26a8"
+ },
+ "counting": {
+  "format": 3,
+  "seam": 4,
+  "write_format": 1,
+  "write_seam": 1
+ },
+ "dbs": [
+  "meta"
+ ],
+ "free_rows": true,
+ "generated": "2026-11-20T17:58:06",
+ "git_commit": "e22430d1",
+ "git_dirty": false,
+ "inputs": "68dbce620e83e7a2",
+ "measurement_version": 11,
+ "nparam": 100000,
+ "param_sha": null,
+ "queries": 9,
+ "rows": 31006,
+ "sf": "n1m",
+ "slice": {
+  "params": null,
+  "queries": null
+ },
+ "store": "",
+ "store_manifest": null,
+ "variant": "canonical",
+ "wall_s": 0.899,
+ "workload": "linkbench_writes"
+}

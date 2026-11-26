@@ -1,0 +1,36 @@
+{
+ "query_sha": "e01ceefb030376e2",
+ "params": {
+  "personId": "person_17592186045028",
+  "startDate": 1343779200000,
+  "endDate": 1346198400000
+ },
+ "data": {
+  "schema_sha256": "673074740eea54e4ba1fdc94eebf2087531b3007af7da660afffb3d1e8df0d1e",
+  "schema_path": "nebulagraph/schema/schema.gql",
+  "sf": "0.1",
+  "created": "2026-11-21T03:27:06Z",
+  "git_sha": "92777160"
+ },
+ "fetched_at": "2026-11-21T01:06:58",
+ "raw": {
+  "keys": [
+   "tagName",
+   "postCount"
+  ],
+  "rows": [
+   {
+    "tagName": "Billy_Joel",
+    "postCount": 2
+   },
+   {
+    "tagName": "David_Lloyd_George",
+    "postCount": 1
+   },
+   {
+    "tagName": "Ray_Charles",
+    "postCount": 1
+   }
+  ]
+ }
+}

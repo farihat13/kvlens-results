@@ -1,0 +1,28 @@
+{
+ "query_sha": "6f63960c0f9c5e7e",
+ "params": {
+  "personId": "24189255813168"
+ },
+ "data": {
+  "schema_sha256": "03713a1e1c7b722e73bed6b150e079e69e9579c2a58c52e06f9d4384fdd4b80d",
+  "schema_path": "dgraph/schema/ldbcTypes.schema",
+  "sf": "0.3",
+  "created": "2026-11-21T02:56:18Z",
+  "git_sha": "60910999"
+ },
+ "fetched_at": "2026-11-20T23:51:09",
+ "raw": {
+  "person": [
+   {
+    "birthday": "1984-06-29T00:00:00Z",
+    "browserUsed": "Firefox",
+    "cityId": 552,
+    "creationDate": "2012-01-05T23:06:29.771Z",
+    "firstName": "Farrukh",
+    "gender": "male",
+    "lastName": "Murodov",
+    "locationIP": "46.20.193.238"
+   }
+  ]
+ }
+}

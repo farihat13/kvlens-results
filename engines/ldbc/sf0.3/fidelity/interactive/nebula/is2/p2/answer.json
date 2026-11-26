@@ -1,0 +1,128 @@
+{
+ "query_sha": "5da4e9e743e0d79c",
+ "params": {
+  "personId": "person_2199023259220"
+ },
+ "data": {
+  "schema_sha256": "673074740eea54e4ba1fdc94eebf2087531b3007af7da660afffb3d1e8df0d1e",
+  "schema_path": "nebulagraph/schema/schema.gql",
+  "sf": "0.3",
+  "created": "2026-11-21T03:42:54Z",
+  "git_sha": "1d6662c2"
+ },
+ "fetched_at": "2026-11-20T23:52:58",
+ "raw": {
+  "keys": [
+   "messageId",
+   "messageContent",
+   "messageCreationDate",
+   "originalPostId",
+   "originalPostAuthorId",
+   "originalPostAuthorFirstName",
+   "originalPostAuthorLastName",
+   "messageIdInt"
+  ],
+  "rows": [
+   {
+    "messageId": "msg_1030792242824",
+    "messageContent": "About Napoleon,  final defeat at Waterloo on 18 June 1815 andAbout William Shakespeare, ",
+    "messageCreationDate": 1345668459762,
+    "originalPostId": "msg_1030792242824",
+    "originalPostAuthorId": "person_2199023259220",
+    "originalPostAuthorFirstName": "Kunal",
+    "originalPostAuthorLastName": "Sharma",
+    "messageIdInt": 1030792242824
+   },
+   {
+    "messageId": "msg_893353349289",
+    "messageContent": "About William Blake, t hostile to the Church of England \u2013 indeed, to all forms of organised rel",
+    "messageCreationDate": 1336005605160,
+    "originalPostId": "msg_893353349289",
+    "originalPostAuthorId": "person_2199023259220",
+    "originalPostAuthorFirstName": "Kunal",
+    "originalPostAuthorLastName": "Sharma",
+    "messageIdInt": 893353349289
+   },
+   {
+    "messageId": "msg_893353289385",
+    "messageContent": "About Napoleon,  application of modern mass conscription. French power rose quickly as Napoleon's armies conquered much of Europe but collapsed rapidly after ",
+    "messageCreationDate": 1334095208964,
+    "originalPostId": "msg_893353289385",
+    "originalPostAuthorId": "person_2199023259220",
+    "originalPostAuthorFirstName": "Kunal",
+    "originalPostAuthorLastName": "Sharma",
+    "messageIdInt": 893353289385
+   },
+   {
+    "messageId": "msg_755914397043",
+    "messageContent": "About Yoko Ono, eace activist, known foAbout Sanath Jayasuriya, of the Sri Lankan crickAbout Last Christmas, een ",
+    "messageCreationDate": 1325663826095,
+    "originalPostId": "msg_755914397043",
+    "originalPostAuthorId": "person_2199023259220",
+    "originalPostAuthorFirstName": "Kunal",
+    "originalPostAuthorLastName": "Sharma",
+    "messageIdInt": 755914397043
+   },
+   {
+    "messageId": "msg_755914395803",
+    "messageContent": "About William Blake, gion \u2013 Blake was influenced by the ideals and ambitions of the French and American revolut",
+    "messageCreationDate": 1321912190264,
+    "originalPostId": "msg_755914395803",
+    "originalPostAuthorId": "person_2199023259220",
+    "originalPostAuthorFirstName": "Kunal",
+    "originalPostAuthorLastName": "Sharma",
+    "messageIdInt": 755914395803
+   },
+   {
+    "messageId": "msg_1099511778684",
+    "messageContent": "About Ariel Sharon,  and Shatila, for his havinAbout Assyria, den-ili, Tukulti",
+    "messageCreationDate": 1347455761184,
+    "originalPostId": "msg_1099511778672",
+    "originalPostAuthorId": "person_24189255811694",
+    "originalPostAuthorFirstName": "Victor",
+    "originalPostAuthorLastName": "Hassan",
+    "messageIdInt": 1099511778684
+   },
+   {
+    "messageId": "msg_1030792220972",
+    "messageContent": "About Alanis Morissette, nd as a teenager recorded two dance-pop albumsRudyard Kipling's W",
+    "messageCreationDate": 1346584158666,
+    "originalPostId": "msg_1030792220970",
+    "originalPostAuthorId": "person_24189255814531",
+    "originalPostAuthorFirstName": "Aharon",
+    "originalPostAuthorLastName": "Bouzid",
+    "messageIdInt": 1030792220972
+   },
+   {
+    "messageId": "msg_1030793086296",
+    "messageContent": "About Libya, nd Tunisia to the west. With an area of almost 1.8 million square kilo",
+    "messageCreationDate": 1346411401342,
+    "originalPostId": "msg_1030793086287",
+    "originalPostAuthorId": "person_30786325577905",
+    "originalPostAuthorFirstName": "Carlos",
+    "originalPostAuthorLastName": "Alvarez",
+    "messageIdInt": 1030793086296
+   },
+   {
+    "messageId": "msg_1030793086294",
+    "messageContent": "About Unknown Pleasures, tt produced the record at Strawberry Studios, Stockport, England. The album sold poorly upon re",
+    "messageCreationDate": 1346367370028,
+    "originalPostId": "msg_1030793086287",
+    "originalPostAuthorId": "person_30786325577905",
+    "originalPostAuthorFirstName": "Carlos",
+    "originalPostAuthorLastName": "Alvarez",
+    "messageIdInt": 1030793086294
+   },
+   {
+    "messageId": "msg_1030793086310",
+    "messageContent": "LOL",
+    "messageCreationDate": 1346301705953,
+    "originalPostId": "msg_1030793086305",
+    "originalPostAuthorId": "person_17592186044592",
+    "originalPostAuthorFirstName": "Luigi",
+    "originalPostAuthorLastName": "Bonomi",
+    "messageIdInt": 1030793086310
+   }
+  ]
+ }
+}

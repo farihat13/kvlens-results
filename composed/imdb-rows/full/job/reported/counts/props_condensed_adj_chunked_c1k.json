@@ -1,0 +1,159 @@
+{
+ "P": 8,
+ "binary": {
+  "allocator": {
+   "aggressive_decommit": 0,
+   "env": {},
+   "lib_sha256": "c3d7996e516f60360b9d6d591fea53e0b177df38a4bfa36296d713220741f42a",
+   "malloc_is_tcmalloc": true,
+   "name": "tcmalloc",
+   "release_rate": 0.0,
+   "version": "2.15-3build1"
+  },
+  "binary_dirty": false,
+  "binary_git_sha": "e22430d124f05ed0e6dea30d3b55b2ffb65978d6",
+  "block_cache_priority": {
+   "high_pri_pool_ratio": 0.5,
+   "index_filter_high_priority": true
+  },
+  "build_key": "1446a3391164c90cd76e",
+  "compiler": "GNU 13.3.0",
+  "counting": {
+   "formats": {
+    "arangodb": {
+     "read": 3,
+     "write": 1
+    },
+    "arangodb_engine": {
+     "read": 3,
+     "write": 1
+    },
+    "dgraph": {
+     "read": 2,
+     "write": 1
+    },
+    "dgraph_engine": {
+     "read": 2,
+     "write": 1
+    },
+    "meta": {
+     "read": 3,
+     "write": 1
+    },
+    "nebula": {
+     "read": 3,
+     "write": 1
+    },
+    "nebula_engine": {
+     "read": 3,
+     "write": 1
+    },
+    "pertype_csr": {
+     "read": 2,
+     "write": 1
+    }
+   },
+   "seam": {
+    "read": 4,
+    "write": 1
+   }
+  },
+  "engine_key_layouts": {
+   "arangodb_engine": "realistic-v7",
+   "dgraph_engine": "realistic-engine-v1",
+   "nebula_engine": "realistic-v4"
+  },
+  "flags": " -Wall -Wextra -Wno-unused-parameter -Wno-dangling-reference -O2 -g",
+  "host": {
+   "cpu": "AMD EPYC 9354P 32-Core Processor",
+   "kernel": "Linux 6.8.0-149-generic"
+  },
+  "ingest_index_filter_blocks": "partitioned",
+  "key_layouts": {
+   "arangodb": "realistic-v7",
+   "dgraph": "realistic-part-start",
+   "meta": "meta-v4-chunk-bytes",
+   "nebula": "realistic-v4",
+   "pertype_csr": "realistic-v7"
+  },
+  "key_roles_version": 6,
+  "librocksdb_sha256": "5de397b9a75279a914a7fe663bddfc32f5db6b85aa17de3268ebaf654614dc68",
+  "rocksdb": "7.5.3",
+  "rocksdb_source": "7.5.3@540d5aae516265170564ec27b3e67a54a11b7045",
+  "tally_version": 2
+ },
+ "cell": "props_condensed_adj_chunked_c1k",
+ "cell_inputs": null,
+ "complete": true,
+ "composed_from": {
+  "adjacency parts": "captures/imdb-rows/full/job/reported/parts/props_chunked_c1k_adj_chunked_c1k.csv",
+  "props and index parts": "captures/imdb-rows/full/job/reported/parts/props_condensed_adj_condensed.csv"
+ },
+ "composed_from_sha": {
+  "captures/imdb-rows/full/job/reported/counts/props_chunked_c1k_adj_chunked_c1k.csv": "7dbf0fa6414f9312ddfaedc5982c7f617eb138951deabdcc0497004ed2c211a2",
+  "captures/imdb-rows/full/job/reported/counts/props_condensed_adj_condensed.csv": "c38c7eaec74b7ae783cec798fe28e261b2d5f6c420c8875703b0c12f3a4f7503",
+  "captures/imdb-rows/full/job/reported/parts/props_chunked_c1k_adj_chunked_c1k.csv": "e582de826b437cc0dd4403c4a0cbff76ba37a4fda365dfa04a7e9fe9d0e21a93",
+  "captures/imdb-rows/full/job/reported/parts/props_condensed_adj_condensed.csv": "b97e2050800ef403c69cbeb42499bb18fa0ef5d476b2ffba21ed4a13c22a761c"
+ },
+ "counting": {
+  "format": 3,
+  "seam": 4,
+  "write_format": 1,
+  "write_seam": 1
+ },
+ "exec": "serve",
+ "free_rows": true,
+ "inputs": "b5cc16827300184d",
+ "measurement_version": 7,
+ "nparam": 1,
+ "plan_pipeline": 2,
+ "resumed": 0,
+ "sf": "full",
+ "slice": {
+  "params": null,
+  "queries": null
+ },
+ "spec": {
+  "adjacency": {
+   "group": "owner",
+   "owners": {
+    "pack": 1024
+   },
+   "split": "never"
+  },
+  "direction": "declared",
+  "index": {
+   "group": "item",
+   "owners": "one",
+   "scope": "type",
+   "split": "never",
+   "term": "exact"
+  },
+  "version": 1,
+  "vertex_props": {
+   "group": "owner",
+   "owners": "one",
+   "split": "never"
+  }
+ },
+ "spec_path": "specs/props_condensed_adj_chunked_c1k.json",
+ "store": "",
+ "store_content": {
+  "ingest_counts": {
+   "adjacency_parts": 10,
+   "adjacency_split_units": 3,
+   "edges": 64779587,
+   "vertices": 30812768
+  },
+  "keys": 129930631,
+  "records": "3941dffbdf5696d22466d450f31be72eafb44c6569184572d4a920b60ae40555",
+  "schema": "f590718fd9b88d8625c8f642afa5a35d39fd62985428a6d31937325bdb4bc2c0"
+ },
+ "store_manifest": null,
+ "tree": {
+  "git_dirty": false,
+  "git_sha": "e22430d124f05ed0e6dea30d3b55b2ffb65978d6"
+ },
+ "wall_s": 0.409,
+ "workload": "job"
+}

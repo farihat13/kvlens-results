@@ -1,0 +1,31 @@
+{
+ "query_sha": "cc60061064f78218",
+ "params": {
+  "personId": "2199023259063",
+  "firstName": "Alif"
+ },
+ "data_created": "",
+ "measured_at": "2026-11-23T13:10:32",
+ "raw": {
+  "get_bytes": 245577,
+  "get_count": 4394,
+  "get_found_count": 4394,
+  "get_latency_ns": 25790866,
+  "next_bytes": 0,
+  "next_count": 0,
+  "next_latency_ns": 0,
+  "seek_bytes": 5714428,
+  "seek_count": 2446,
+  "seek_latency_ns": 15227872,
+  "set_bytes": 0,
+  "set_count": 0,
+  "set_latency_ns": 0
+ },
+ "config": {
+  "cache_mode": "off",
+  "ineqfilterpath": "per_vertex",
+  "eqfilterpath": "per_vertex",
+  "typefilterpath": "index",
+  "detsort": "enable"
+ }
+}

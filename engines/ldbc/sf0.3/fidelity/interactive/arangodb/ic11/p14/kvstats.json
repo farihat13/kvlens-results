@@ -1,0 +1,33 @@
+{
+ "query_sha": "a28ac6b26a8dcd82",
+ "params": {
+  "personId": 1129,
+  "countryName": "El_Salvador",
+  "workFromYear": 2006
+ },
+ "data_created": "2026-11-21T03:01:29Z",
+ "measured_at": "2026-11-20T23:07:08",
+ "raw": {
+  "get_count": 14191,
+  "get_found_count": 14191,
+  "get_time_ns": 18957909,
+  "get_bytes": 1435642,
+  "seek_count": 2035,
+  "seek_time_ns": 104890373,
+  "seek_bytes": 88054,
+  "next_count": 4447,
+  "next_time_ns": 573462,
+  "next_bytes": 145894,
+  "prev_count": 0,
+  "prev_time_ns": 0,
+  "prev_bytes": 0,
+  "put_count": 0,
+  "put_time_ns": 0,
+  "put_bytes": 0,
+  "delete_count": 0,
+  "delete_time_ns": 0,
+  "delete_bytes": 0,
+  "commit_count": 0,
+  "commit_time_ns": 0
+ }
+}
