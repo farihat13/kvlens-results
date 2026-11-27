@@ -1,0 +1,880 @@
+{
+ "sf": "full",
+ "workload": "job",
+ "arms": [
+  "meta-props_split_adj_split"
+ ],
+ "queries": [
+  "job1a",
+  "job1b",
+  "job1c",
+  "job1d",
+  "job2a",
+  "job2b",
+  "job2c",
+  "job2d",
+  "job3a",
+  "job3b",
+  "job3c",
+  "job4a",
+  "job4b",
+  "job4c",
+  "job5a",
+  "job5b",
+  "job5c",
+  "job6a",
+  "job6b",
+  "job6c",
+  "job6d",
+  "job6e",
+  "job6f",
+  "job7a",
+  "job7b",
+  "job7c",
+  "job8a",
+  "job8b",
+  "job8c",
+  "job8d",
+  "job9a",
+  "job9b",
+  "job9c",
+  "job9d",
+  "job10a",
+  "job10b",
+  "job10c",
+  "job11a",
+  "job11b",
+  "job11c",
+  "job11d",
+  "job12a",
+  "job12b",
+  "job12c",
+  "job13a",
+  "job13b",
+  "job13c",
+  "job13d",
+  "job14a",
+  "job14b",
+  "job14c",
+  "job15a",
+  "job15b",
+  "job15c",
+  "job15d",
+  "job16a",
+  "job16b",
+  "job16c",
+  "job16d",
+  "job17a",
+  "job17b",
+  "job17c",
+  "job17d",
+  "job17e",
+  "job17f",
+  "job18a",
+  "job18b",
+  "job18c",
+  "job19a",
+  "job19b",
+  "job19c",
+  "job19d",
+  "job20a",
+  "job20b",
+  "job20c",
+  "job21a",
+  "job21b",
+  "job21c",
+  "job22a",
+  "job22b",
+  "job22c",
+  "job22d",
+  "job23a",
+  "job23b",
+  "job23c",
+  "job24a",
+  "job24b",
+  "job25a",
+  "job25b",
+  "job25c",
+  "job26a",
+  "job26b",
+  "job26c",
+  "job27a",
+  "job27b",
+  "job27c",
+  "job28a",
+  "job28b",
+  "job28c",
+  "job29a",
+  "job29b",
+  "job29c",
+  "job30a",
+  "job30b",
+  "job30c",
+  "job31a",
+  "job31b",
+  "job31c",
+  "job32a",
+  "job32b",
+  "job33a",
+  "job33b",
+  "job33c"
+ ],
+ "nparam": 1,
+ "regimes": {
+  "steady": {
+   "block_cache_bytes": 387973120,
+   "measured": 5,
+   "eps": 0.005,
+   "max_warm": 8,
+   "seed": 1,
+   "pass_order_rule": "measured-index",
+   "perf_level": 2,
+   "direct_io": true,
+   "cache_index_and_filter_blocks": true,
+   "cache": "bounded (data, index and filter blocks)",
+   "order": "seeded random per pass",
+   "requests": "batch",
+   "steady_at_pass": {
+    "meta-props_split_adj_split": 2
+   },
+   "cache_usage": {
+    "meta-props_split_adj_split": {
+     "cell": "job10a/p1",
+     "capacity_bytes": 387973120,
+     "usage_bytes": 387848303,
+     "pinned_bytes": 5112322,
+     "inserted_bytes": 215170680094,
+     "nothing_evicted": false
+    }
+   },
+   "store_options": {
+    "adaptive_readahead": false,
+    "async_io": false,
+    "block_cache_bytes": 387973120,
+    "block_size": 4096,
+    "cache_index_and_filter_blocks": true,
+    "compression": "snappy",
+    "direct_io": true,
+    "disable_auto_compactions": true,
+    "fill_cache": true,
+    "index_filter_blocks": "partitioned",
+    "initial_auto_readahead_size": 8192,
+    "max_auto_readahead_size": 262144,
+    "max_write_buffer_number": 2,
+    "readahead_size": 0,
+    "rocksdb": {
+     "block_cache_bytes": 387973120,
+     "bloom_bits_per_key": 10.0,
+     "cache_index_and_filter_blocks": true,
+     "compression": "snappy",
+     "data_block_bytes": 4096,
+     "high_pri_pool_ratio": 0.5,
+     "index_filter_blocks": "partitioned",
+     "index_filter_high_priority": true,
+     "keep_log_file_num": 2,
+     "max_open_files": -1,
+     "max_write_buffer_number": 2,
+     "partition_bytes": 4096,
+     "pin_l0_filter_and_index_blocks": false,
+     "pin_top_level_index_and_filter": true,
+     "write_buffer_bytes": 67108864
+    },
+    "wal": true,
+    "wal_sync": false,
+    "write_batch": 1,
+    "write_buffer_bytes": 67108864
+   }
+  }
+ },
+ "block_cache_bytes": 8589934592,
+ "direct_io": false,
+ "binary": "build/cpp/kvevaluator",
+ "index_filter_blocks": {
+  "meta-props_split_adj_split": "partitioned"
+ },
+ "index_filter_in_cache_by_regime": {
+  "steady": true
+ },
+ "params": {
+  "source": null,
+  "subsample": 0,
+  "seed": "1",
+  "hubs": 0,
+  "nodes": "",
+  "requests": []
+ },
+ "raw": "files",
+ "driver": {
+  "git_sha": "9fb4bcb34ff754aa7f405e7eee15239ca6c75c03",
+  "dirty_files": []
+ },
+ "remote": {
+  "page_bytes": 1048576
+ },
+ "breakdown_pass": false,
+ "kv_timing": "off",
+ "kv_timing_by_regime": {
+  "steady": false
+ },
+ "kv_timing_block": null,
+ "decode_timing": false,
+ "numa": {
+  "nodes": 1,
+  "numa_balancing": 0,
+  "node_free_mb_at_launch": {
+   "0": 114488
+  },
+  "outer": null,
+  "policy": "bind",
+  "node": 0,
+  "reason": "--numa-node"
+ },
+ "batch_faults": [],
+ "server_policies": {
+  "meta-props_split_adj_split/steady": {
+   "prefer:0": 77
+  }
+ },
+ "requests_by_regime": {
+  "steady": "batch"
+ },
+ "capture_kind": "wall",
+ "free_rows": false,
+ "provenance": {
+  "allocator": {
+   "aggressive_decommit": 0,
+   "env": {},
+   "lib_sha256": "c3d7996e516f60360b9d6d591fea53e0b177df38a4bfa36296d713220741f42a",
+   "malloc_is_tcmalloc": true,
+   "name": "tcmalloc",
+   "release_rate": 0.0,
+   "version": "2.15-3build1"
+  },
+  "binary_dirty": false,
+  "binary_git_sha": "9fb4bcb34ff754aa7f405e7eee15239ca6c75c03",
+  "block_cache_priority": {
+   "high_pri_pool_ratio": 0.5,
+   "index_filter_high_priority": true
+  },
+  "body": "enter_cn_by_index",
+  "body_sha": "8621037e5dd2",
+  "capabilities": [
+   "label_rows_one_run",
+   "label_scoped_props",
+   "per_type_index",
+   "property_index",
+   "sorted_range_index",
+   "type_index",
+   "whole_label_scan_by_default"
+  ],
+  "compiler": "GNU 13.3.0",
+  "config_hash": "6e5a01b8bf7eaf25",
+  "counting": {
+   "seam": 4,
+   "format": 3,
+   "write_seam": 1,
+   "write_format": 1
+  },
+  "flags": " -Wall -Wextra -Wno-unused-parameter -Wno-dangling-reference -O2 -g",
+  "host": {
+   "cpu": "INTEL(R) XEON(R) GOLD 5512U",
+   "kernel": "Linux 6.8.0-149-generic"
+  },
+  "ingest_index_filter_blocks": "partitioned",
+  "librocksdb_sha256": "7c0c2efc4a7c2b8f20cb262445da1b99e5b0aea6aeb24a225523feb5b9845c8e",
+  "rocksdb": "7.5.3",
+  "rocksdb_source": "7.5.3@540d5aae516265170564ec27b3e67a54a11b7045",
+  "scale": "full",
+  "store_manifest": {
+   "format": "meta",
+   "key_codec": "meta-v4-chunk-bytes",
+   "value_codec": {
+    "version": 1,
+    "direction": "declared",
+    "vertex_props": {
+     "group": "item",
+     "owners": "one",
+     "split": "never"
+    },
+    "adjacency": {
+     "group": "item",
+     "owners": "one",
+     "split": "never",
+     "edge_props": "adjacency",
+     "far_label": true
+    },
+    "index": {
+     "group": "item",
+     "owners": "one",
+     "split": "never",
+     "term": "exact",
+     "scope": "type"
+    }
+   },
+   "value_codec_hash": "6e5a01b8bf7eaf25",
+   "compression": "snappy",
+   "index_filter_blocks": "partitioned",
+   "block_size": 4096,
+   "bloom_bits_per_key": 10.0,
+   "partition_bytes": 4096,
+   "schema": {
+    "name": "canonical",
+    "hash": "88d17669d0737ee84b28c9cdd9464b9a371a9af964c16027fba8d0b55bf854b1",
+    "content_sha": "f590718fd9b88d8625c8f642afa5a35d39fd62985428a6d31937325bdb4bc2c0",
+    "path": "inputs/schemas/imdb/schema.json"
+   },
+   "records": {
+    "sha256": "3941dffbdf5696d22466d450f31be72eafb44c6569184572d4a920b60ae40555",
+    "lines": 95592355,
+    "vertices": 30812768,
+    "edges": 64779587,
+    "counts": {
+     "AkaName": 901343,
+     "AkaTitle": 361472,
+     "Character": 3140339,
+     "CompCastType": 4,
+     "Company": 234997,
+     "CompleteCast": 135086,
+     "InfoType": 113,
+     "Keyword": 134170,
+     "KindType": 7,
+     "LinkType": 18,
+     "MovieInfo": 14835720,
+     "MovieLink": 29997,
+     "MovieRating": 1380035,
+     "Name": 4167491,
+     "PersonInfo": 2963664,
+     "Title": 2528312,
+     "aka_name_of": 901343,
+     "aka_title_of": 361379,
+     "cast_actor": 12330538,
+     "cast_actress": 7326773,
+     "cast_cinematographer": 898282,
+     "cast_composer": 773140,
+     "cast_costume_designer": 276403,
+     "cast_director": 1701086,
+     "cast_editor": 1093367,
+     "cast_miscellaneous_crew": 4263707,
+     "cast_producer": 3955795,
+     "cast_production_designer": 316100,
+     "cast_writer": 2594356,
+     "company_distributor": 1215529,
+     "company_production": 1333580,
+     "complete_cast_of": 135086,
+     "episode_of": 1543264,
+     "has_keyword": 4520446,
+     "info_of": 14835720,
+     "link_from": 29997,
+     "link_to": 29997,
+     "person_info_of": 2963664,
+     "rating_of": 1380035
+    }
+   },
+   "ingest_counts": {
+    "vertices": 30812768,
+    "edges": 64779587,
+    "adjacency_split_units": 0,
+    "adjacency_parts": 0
+   },
+   "sst_bytes": 4007137997,
+   "sst_files": 55,
+   "ingest_files": 72,
+   "settled": true,
+   "keys": 280816833,
+   "logical_bytes": 8242264146,
+   "scale": "full",
+   "ingest_wall_s": 551.084927488,
+   "provenance": {
+    "allocator": {
+     "aggressive_decommit": 0,
+     "env": {},
+     "lib_sha256": "c3d7996e516f60360b9d6d591fea53e0b177df38a4bfa36296d713220741f42a",
+     "malloc_is_tcmalloc": true,
+     "name": "tcmalloc",
+     "release_rate": 0.0,
+     "version": "2.15-3build1"
+    },
+    "binary_dirty": false,
+    "binary_git_sha": "9fb4bcb34ff754aa7f405e7eee15239ca6c75c03",
+    "block_cache_priority": {
+     "high_pri_pool_ratio": 0.5,
+     "index_filter_high_priority": true
+    },
+    "compiler": "GNU 13.3.0",
+    "flags": " -Wall -Wextra -Wno-unused-parameter -Wno-dangling-reference -O2 -g",
+    "host": {
+     "cpu": "INTEL(R) XEON(R) GOLD 5512U",
+     "kernel": "Linux 6.8.0-149-generic"
+    },
+    "ingest_index_filter_blocks": "partitioned",
+    "librocksdb_sha256": "7c0c2efc4a7c2b8f20cb262445da1b99e5b0aea6aeb24a225523feb5b9845c8e",
+    "rocksdb": "7.5.3",
+    "rocksdb_source": "7.5.3@540d5aae516265170564ec27b3e67a54a11b7045"
+   }
+  }
+ },
+ "wall_s": 3972.4,
+ "plan_wall_s": 561.441,
+ "plan_bodies": {},
+ "compare_bodies": false,
+ "candidates": {
+  "job10a": [
+   "enter_cn_by_index"
+  ],
+  "job10b": [
+   "enter_cn_by_index"
+  ],
+  "job10c": [
+   "enter_cn_by_index"
+  ],
+  "job11a": [
+   "enter_ml_by_index"
+  ],
+  "job11b": [
+   "enter_ml_by_index"
+  ],
+  "job11c": [
+   "enter_cn_by_label_run"
+  ],
+  "job11d": [
+   "enter_ml_by_label_run"
+  ],
+  "job12a": [
+   "enter_mi_idx_by_label_run"
+  ],
+  "job12b": [
+   "enter_mi_idx_by_index"
+  ],
+  "job12c": [
+   "enter_mi_by_index"
+  ],
+  "job13a": [
+   "enter_cn_by_index"
+  ],
+  "job13b": [
+   "enter_t_by_label_run"
+  ],
+  "job13c": [
+   "enter_t_by_label_run"
+  ],
+  "job13d": [
+   "enter_cn_by_label_run"
+  ],
+  "job14a": [
+   "enter_k_by_index"
+  ],
+  "job14b": [
+   "enter_k_by_index"
+  ],
+  "job14c": [
+   "enter_k_by_index"
+  ],
+  "job15a": [
+   "enter_mi_by_label_run"
+  ],
+  "job15b": [
+   "enter_cn_by_index"
+  ],
+  "job15c": [
+   "enter_mi_by_label_run"
+  ],
+  "job15d": [
+   "enter_mi_by_label_run"
+  ],
+  "job16a": [
+   "enter_k_by_index"
+  ],
+  "job16b": [
+   "enter_k_by_index"
+  ],
+  "job16c": [
+   "enter_k_by_index"
+  ],
+  "job16d": [
+   "enter_k_by_index"
+  ],
+  "job17a": [
+   "enter_k_by_index"
+  ],
+  "job17b": [
+   "enter_k_by_index"
+  ],
+  "job17c": [
+   "enter_n_by_label_run"
+  ],
+  "job17d": [
+   "enter_n_by_label_run"
+  ],
+  "job17e": [
+   "enter_k_by_index"
+  ],
+  "job17f": [
+   "enter_k_by_index"
+  ],
+  "job18a": [
+   "enter_n_by_label_run"
+  ],
+  "job18b": [
+   "enter_mi_by_index"
+  ],
+  "job18c": [
+   "enter_mi_by_index"
+  ],
+  "job19a": [
+   "enter_n_by_label_run"
+  ],
+  "job19b": [
+   "enter_t_by_label_run"
+  ],
+  "job19c": [
+   "enter_n_by_label_run"
+  ],
+  "job19d": [
+   "enter_n_by_index"
+  ],
+  "job1a": [
+   "enter_mi_idx_by_index"
+  ],
+  "job1b": [
+   "enter_mi_idx_by_index"
+  ],
+  "job1c": [
+   "enter_mi_idx_by_index"
+  ],
+  "job1d": [
+   "enter_mi_idx_by_index"
+  ],
+  "job20a": [
+   "enter_k_by_index"
+  ],
+  "job20b": [
+   "enter_k_by_index"
+  ],
+  "job20c": [
+   "enter_k_by_index"
+  ],
+  "job21a": [
+   "enter_ml_by_index"
+  ],
+  "job21b": [
+   "enter_ml_by_index"
+  ],
+  "job21c": [
+   "enter_ml_by_index"
+  ],
+  "job22a": [
+   "enter_k_by_index"
+  ],
+  "job22b": [
+   "enter_k_by_index"
+  ],
+  "job22c": [
+   "enter_k_by_index"
+  ],
+  "job22d": [
+   "enter_k_by_index"
+  ],
+  "job23a": [
+   "enter_mi_by_label_run"
+  ],
+  "job23b": [
+   "enter_k_by_index"
+  ],
+  "job23c": [
+   "enter_mi_by_label_run"
+  ],
+  "job24a": [
+   "enter_k_by_index"
+  ],
+  "job24b": [
+   "enter_cn_by_index"
+  ],
+  "job25a": [
+   "enter_mi_by_index"
+  ],
+  "job25b": [
+   "enter_k_by_index"
+  ],
+  "job25c": [
+   "enter_mi_by_index"
+  ],
+  "job26a": [
+   "enter_k_by_index"
+  ],
+  "job26b": [
+   "enter_k_by_index"
+  ],
+  "job26c": [
+   "enter_k_by_index"
+  ],
+  "job27a": [
+   "enter_ml_by_index"
+  ],
+  "job27b": [
+   "enter_ml_by_index"
+  ],
+  "job27c": [
+   "enter_ml_by_index"
+  ],
+  "job28a": [
+   "enter_k_by_index"
+  ],
+  "job28b": [
+   "enter_k_by_index"
+  ],
+  "job28c": [
+   "enter_k_by_index"
+  ],
+  "job29a": [
+   "enter_t_by_index"
+  ],
+  "job29b": [
+   "enter_t_by_index"
+  ],
+  "job29c": [
+   "enter_k_by_index"
+  ],
+  "job2a": [
+   "enter_k_by_index"
+  ],
+  "job2b": [
+   "enter_k_by_index"
+  ],
+  "job2c": [
+   "enter_cn_by_index"
+  ],
+  "job2d": [
+   "enter_k_by_index"
+  ],
+  "job30a": [
+   "enter_mi_by_index"
+  ],
+  "job30b": [
+   "enter_cc_by_label_run"
+  ],
+  "job30c": [
+   "enter_mi_by_index"
+  ],
+  "job31a": [
+   "enter_cn_by_label_run"
+  ],
+  "job31b": [
+   "enter_cn_by_label_run"
+  ],
+  "job31c": [
+   "enter_cn_by_label_run"
+  ],
+  "job32a": [
+   "enter_k_by_index"
+  ],
+  "job32b": [
+   "enter_k_by_index"
+  ],
+  "job33a": [
+   "enter_ml_by_index"
+  ],
+  "job33b": [
+   "enter_ml_by_index"
+  ],
+  "job33c": [
+   "enter_ml_by_index"
+  ],
+  "job3a": [
+   "enter_k_by_label_run"
+  ],
+  "job3b": [
+   "enter_mi_by_index"
+  ],
+  "job3c": [
+   "enter_k_by_label_run"
+  ],
+  "job4a": [
+   "enter_k_by_label_run"
+  ],
+  "job4b": [
+   "enter_k_by_label_run"
+  ],
+  "job4c": [
+   "enter_k_by_label_run"
+  ],
+  "job5a": [
+   "enter_mi_by_index"
+  ],
+  "job5b": [
+   "enter_t_by_label_run"
+  ],
+  "job5c": [
+   "enter_t_by_label_run"
+  ],
+  "job6a": [
+   "enter_k_by_index"
+  ],
+  "job6b": [
+   "enter_k_by_index"
+  ],
+  "job6c": [
+   "enter_k_by_index"
+  ],
+  "job6d": [
+   "enter_n_by_label_run"
+  ],
+  "job6e": [
+   "enter_k_by_index"
+  ],
+  "job6f": [
+   "enter_k_by_index"
+  ],
+  "job7a": [
+   "enter_pi_by_index"
+  ],
+  "job7b": [
+   "enter_pi_by_index"
+  ],
+  "job7c": [
+   "enter_ml_by_index"
+  ],
+  "job8a": [
+   "enter_cn_by_index"
+  ],
+  "job8b": [
+   "enter_cn_by_index"
+  ],
+  "job8c": [
+   "enter_cn_by_index"
+  ],
+  "job8d": [
+   "enter_cn_by_index"
+  ],
+  "job9a": [
+   "enter_n_by_label_run"
+  ],
+  "job9b": [
+   "enter_n_by_label_run"
+  ],
+  "job9c": [
+   "enter_n_by_label_run"
+  ],
+  "job9d": [
+   "enter_cn_by_index"
+  ]
+ },
+ "candidate_set": "grid",
+ "candidate_ir_sha256": {
+  "meta-props_split_adj_split/job1a/enter_mi_idx_by_index": "ae958543d1ce8f5b6b8211c7c0511cd1eb4ca1b1335939ebcbd2c3f0a2f12d0d",
+  "meta-props_split_adj_split/job1b/enter_mi_idx_by_index": "281397102729384db9ea2881046c6c9046fdd0137f2e3d425705ea9926a7e722",
+  "meta-props_split_adj_split/job1c/enter_mi_idx_by_index": "ee0ac3ac84ab5265dbfc58c3ad94a348e2a02a21f18415c275c5534ce2a24b63",
+  "meta-props_split_adj_split/job1d/enter_mi_idx_by_index": "e19d75cd31a5d91c017321e69fadfe4797d42a0ea2b2afdb543f0e4f7725c8bd",
+  "meta-props_split_adj_split/job2a/enter_k_by_index": "6b59217f48db4ac5d31b4f97400099a1cbc690650ac31edc72f87ae67d1b0b10",
+  "meta-props_split_adj_split/job2b/enter_k_by_index": "078686f248bab6cdd51b3ca1a21c4a7abbd0ee416cab78f2c9375cf9b92661d1",
+  "meta-props_split_adj_split/job2c/enter_cn_by_index": "d1d5c3cee30356480380bbced7b2fc4a2857238425fe082d21d6b1920d1372b6",
+  "meta-props_split_adj_split/job2d/enter_k_by_index": "9f9ae169363d5d0fac9c95dc4dea8b11cf04ecb419fe33c5545ffd663a6e2160",
+  "meta-props_split_adj_split/job3a/enter_k_by_label_run": "44e2c4e4ba40c0efb32ca0f770956a4437d9f0300e2ff296a2bdc2ba9798fb75",
+  "meta-props_split_adj_split/job3b/enter_mi_by_index": "2593bde8036ca48c255d6ca7a253a7ae1d48f8f166bb8192228caf3bf4782064",
+  "meta-props_split_adj_split/job3c/enter_k_by_label_run": "4d6bc566a892343af71688f7c8c71390a8cb4d74f61877987e2d00578d6278a6",
+  "meta-props_split_adj_split/job4a/enter_k_by_label_run": "120308873c22ff3fa00626627ed8fbeefcbc4d9bde36714ba5dc57a6c5bb69f1",
+  "meta-props_split_adj_split/job4b/enter_k_by_label_run": "850af0f6b208cbb7a5af087b655b6b7104079d4cff1d5e7ca50e9ddd36221e51",
+  "meta-props_split_adj_split/job4c/enter_k_by_label_run": "3cd2394a36fc36a91fa2d7793cddb5a101a75db6ffd4e843facbf00a53ffce8c",
+  "meta-props_split_adj_split/job5a/enter_mi_by_index": "e972b5e5697458382ce2dd10bc960b0a24bc73c14adb5e4f87d0e3f58a417b9c",
+  "meta-props_split_adj_split/job5b/enter_t_by_label_run": "437b77878ba7b1087bb2c795a01be159a1b6cb604da90591bac4a8d1a93c2853",
+  "meta-props_split_adj_split/job5c/enter_t_by_label_run": "a3e10622391f6c1ceb71d174173ef4a853b7ea9aae8075add2e726bd67aeb2ee",
+  "meta-props_split_adj_split/job6a/enter_k_by_index": "9cc36fedaf1a1c973650e875439c0b25faa8717ddc8251624ed41afab81f4822",
+  "meta-props_split_adj_split/job6b/enter_k_by_index": "e399d6907827a1c90a85dc40c68a27524e612eeac5fbe6bcaeb1f03ab200b0c8",
+  "meta-props_split_adj_split/job6c/enter_k_by_index": "eceec090d9466f1f1cdc0c2b08640195d30070f38f678e1890b2d243b84616aa",
+  "meta-props_split_adj_split/job6d/enter_n_by_label_run": "956f8587476d4fa334843b3f9f6dcfdd9d0a9959a5a0bcbe51e7e1b8570a1e6d",
+  "meta-props_split_adj_split/job6e/enter_k_by_index": "599a17753bd1dbcf476f6e8658249b5735a3b928ed8afe04ee1c7677927013b1",
+  "meta-props_split_adj_split/job6f/enter_k_by_index": "8ab644dd6c4aac5c5e1746739715f0b8631c40a26e6f8ad04b17d48765b015ce",
+  "meta-props_split_adj_split/job7a/enter_pi_by_index": "e454911aca052c090712c33923cb696d1812a4cec107a6a7d942c9bdb5c03ee3",
+  "meta-props_split_adj_split/job7b/enter_pi_by_index": "78c164a3f770bf0333d0a498e4df26da412db6455f1d96831a53fe1d40927a67",
+  "meta-props_split_adj_split/job7c/enter_ml_by_index": "f921bb18eb747191d2e688d8f641247c9ce807ddb83d720184b64674eefbb547",
+  "meta-props_split_adj_split/job8a/enter_cn_by_index": "39863ba13cb0f6f993c83f2cf3436fb630c54ac3dbd8dd1136f7f33bf416b4f7",
+  "meta-props_split_adj_split/job8b/enter_cn_by_index": "b2ec99879e8affe3dadc1b0d47c44271aa7360e21d79f06a0a6f676b1105400e",
+  "meta-props_split_adj_split/job8c/enter_cn_by_index": "fadd07bf1fbe10b58e460d2c20d77ff8c83a73e43f5437776a1a313f7dc16b6a",
+  "meta-props_split_adj_split/job8d/enter_cn_by_index": "c4151bad8669a42e7101728c1477e4dff613aecbd5b6b53a1d35fb47f080811c",
+  "meta-props_split_adj_split/job9a/enter_n_by_label_run": "90a463dd39a0189b72e3f1ed910b4a63a4d672f756d8ecef3cb7f77a5f7a188b",
+  "meta-props_split_adj_split/job9b/enter_n_by_label_run": "9d6526c7b73b5fa73fa7d922c262b14ab407b47df41dba0b4ac786fb7dc15532",
+  "meta-props_split_adj_split/job9c/enter_n_by_label_run": "56e2e53405ce6ba4677ed25238b57523fc0e4dc208b4d7512716d12038de2fff",
+  "meta-props_split_adj_split/job9d/enter_cn_by_index": "168a7ecc53bad202196f1a6ee479f5615ebe7112b3cdde7f5868147ab6b8ee26",
+  "meta-props_split_adj_split/job10a/enter_cn_by_index": "3d12cb9bdc003ab0f8256dc58b5b4093992b6fad4d13c6664fa42fe0f72d9e7c",
+  "meta-props_split_adj_split/job10b/enter_cn_by_index": "319b3343954452935caf2f294716939a570a5ced09483cb7cd2bfc3628322f17",
+  "meta-props_split_adj_split/job10c/enter_cn_by_index": "a32e63fc975bd9e39b41849194d37a7c3deef7ad31c7b2599039d679b1ff74cf",
+  "meta-props_split_adj_split/job11a/enter_ml_by_index": "8b9680fadfc83b329dbef12028af954d0829e6569c87561848c734f127cebe74",
+  "meta-props_split_adj_split/job11b/enter_ml_by_index": "f330082b050fe70d8003ffbc7468ff2ef4e7e2d2f050c3a0b9bbb71b7b355a0b",
+  "meta-props_split_adj_split/job11c/enter_cn_by_label_run": "5c64b67b03f2c7261777bac9c8df37da67402f31896834f52a9aa7f6ad937361",
+  "meta-props_split_adj_split/job11d/enter_ml_by_label_run": "9f339c654ccfd41c2244fed93e62ad9896507b437b45c4c6bdb20227b8787c0d",
+  "meta-props_split_adj_split/job12a/enter_mi_idx_by_label_run": "3e51bc762e90b2374ef5a684a8a44e740000d80a150770fbdc193b55ab3182a3",
+  "meta-props_split_adj_split/job12b/enter_mi_idx_by_index": "e33b735c32dac196f1aafb69aa1d18a8d3d0c8db80114ca17cc204a258c9c147",
+  "meta-props_split_adj_split/job12c/enter_mi_by_index": "27acad8215d2f560cb7bc29e28b9f12ecbbb6da1107d0e66d68900c71bdc8de0",
+  "meta-props_split_adj_split/job13a/enter_cn_by_index": "13d5e29abaca9a3438b46bf02368fd62367c50652a561d4646871127542500d0",
+  "meta-props_split_adj_split/job13b/enter_t_by_label_run": "2b7277ea6f7ed97e32eb9e9c2c4b451b77d90754cf9cc9a5b925323066cc914c",
+  "meta-props_split_adj_split/job13c/enter_t_by_label_run": "a358fc22db2806975f19c744e7d74b6b2dc43da3d0c823e6507e0acb8037f1ba",
+  "meta-props_split_adj_split/job13d/enter_cn_by_label_run": "608f2777a850ddab9069a9d12b2d19dbd00b3f3fafed99a3a40bcb7a083e8a01",
+  "meta-props_split_adj_split/job14a/enter_k_by_index": "40b769fbc709ef26d20f628666c42509678762fe87470af11760279364514998",
+  "meta-props_split_adj_split/job14b/enter_k_by_index": "279ff938d2758b88555340a00f431d3b89008425a322918d650562cff3436af1",
+  "meta-props_split_adj_split/job14c/enter_k_by_index": "18b214dd02b5eaa03d7556b764af4173db4ee065d8476ac7d7607f2db5ef67b7",
+  "meta-props_split_adj_split/job15a/enter_mi_by_label_run": "d02078ab6de335fd7139741f57866e9207f3ccda3a88dd68bda1867dff0a7ff1",
+  "meta-props_split_adj_split/job15b/enter_cn_by_index": "3789ad5ee8bfb708b4b7edab29a64ce71156a04abcc75ec01fd9acaa6045d754",
+  "meta-props_split_adj_split/job15c/enter_mi_by_label_run": "cf22e66697132aa1a5dafb1313b6452959ef5cb7e46a9592ab8740fe3446922a",
+  "meta-props_split_adj_split/job15d/enter_mi_by_label_run": "e08e4163704e9653d0d09bc7b3af9ee9dc8458511f85cbf480d902f64ef21804",
+  "meta-props_split_adj_split/job16a/enter_k_by_index": "63d5274a30253a19f1becde327efe5805f8721f10c6063f96f78cf1058b0193d",
+  "meta-props_split_adj_split/job16b/enter_k_by_index": "0c063fd641845f2373a489ae8ae10b11b78530e4d8434ef3aa1acbc5b0d69b85",
+  "meta-props_split_adj_split/job16c/enter_k_by_index": "cb0214abf91d8833c3ced287333bca4825374da023df7349164dc818e2a5de49",
+  "meta-props_split_adj_split/job16d/enter_k_by_index": "d46b3865a40e07affa8c3c3b0ad8d79913fa67751a125ccf0b52a9a011c2e39f",
+  "meta-props_split_adj_split/job17a/enter_k_by_index": "496d84977378fccbd0df9bffabc1b8c81a8da43f899bf12bb22876d330dca081",
+  "meta-props_split_adj_split/job17b/enter_k_by_index": "de794bfe46a3fc4318ab764671c2d1ffdba58865031803b1bb63c172d4b948f1",
+  "meta-props_split_adj_split/job17c/enter_n_by_label_run": "ffa3ab4f137f2894f5e9bbcb0550c9e648fcfaab8fffc1b43ff311afbf11f818",
+  "meta-props_split_adj_split/job17d/enter_n_by_label_run": "e379975f431423270e775ecdee6d42d4d66db9148770a4afb74e7c78aa91df84",
+  "meta-props_split_adj_split/job17e/enter_k_by_index": "3f869c2a176d521503c1a5f80de0a778897ae8c2cbaf984600c08eb87e8f0ecd",
+  "meta-props_split_adj_split/job17f/enter_k_by_index": "9034682615e038994d54866d700b722bdd381b92c4fea62185ad69a56f383990",
+  "meta-props_split_adj_split/job18a/enter_n_by_label_run": "d3948b4d7ef059b8191856de54caa39cd627a4d96d89a0d6eb56132c8189c50d",
+  "meta-props_split_adj_split/job18b/enter_mi_by_index": "28d113e035ffa1fd080bd240af710c183d0ce1be0fd8e5fb5309346e5949f178",
+  "meta-props_split_adj_split/job18c/enter_mi_by_index": "c2dffde5a80979c33a1e3e435ed202f45d8aaf7665e8a9ee65121f807b1ec20a",
+  "meta-props_split_adj_split/job19a/enter_n_by_label_run": "7538d94b00a2e73704726b26cee77b598e5664622de2d44047becfe276407adc",
+  "meta-props_split_adj_split/job19b/enter_t_by_label_run": "52c27e76e86c73e77b9ec2d9ba268f2bd92a013f9103bd42edaac146fac962f2",
+  "meta-props_split_adj_split/job19c/enter_n_by_label_run": "dd4a9d53f4ce6ed03fee1d29a6bd50382263a6e602134b5440babb5dd713a76c",
+  "meta-props_split_adj_split/job19d/enter_n_by_index": "b5c03af0d419deea4479b194183085eba78a5283ca43b197a75fa54516cdfd12",
+  "meta-props_split_adj_split/job20a/enter_k_by_index": "b3f6f69e2a71a79502f1fa09cd674e5df673767f54a26523b6a105566a5a9a67",
+  "meta-props_split_adj_split/job20b/enter_k_by_index": "a602aab25475eca0454746c412ae1647b4afa9aed438153a637441644a28a140",
+  "meta-props_split_adj_split/job20c/enter_k_by_index": "9a59a23b13e94557086b7cce23845886a42a56d6dd3fcf95c803661873706033",
+  "meta-props_split_adj_split/job21a/enter_ml_by_index": "aa2c80c0677e5ca83bf3bdb5203a016a5951ab3d1d24c4ee7198d64107910d21",
+  "meta-props_split_adj_split/job21b/enter_ml_by_index": "72b8313e69a8d09f79e2e24d6330cf8371f14bb5a01903b0438a78735766ef31",
+  "meta-props_split_adj_split/job21c/enter_ml_by_index": "bf264e77b0d155637a47255a480f616677afd1b42586876e59f3d79ba85a22ed",
+  "meta-props_split_adj_split/job22a/enter_k_by_index": "e17195719587fe1bb2a367f1099cb6bd20f95bb22283fe423631cbffab6e587d",
+  "meta-props_split_adj_split/job22b/enter_k_by_index": "17872d20944fe5736f730f77de5df14cfbfb23ab3a4a5adea5cfcd0e0cad3d0b",
+  "meta-props_split_adj_split/job22c/enter_k_by_index": "8fcb366e8a14036724cb55bed107f68af28a3a0cee0057b8d74022369becbbea",
+  "meta-props_split_adj_split/job22d/enter_k_by_index": "ce9d261586a02d89bd61bbc89aa5303872271619e302d38d1e23ab019653a2c9",
+  "meta-props_split_adj_split/job23a/enter_mi_by_label_run": "56d17b26453febb781f54a3fb7af603f29b07e2075a0ce428870a4ebe5b493a5",
+  "meta-props_split_adj_split/job23b/enter_k_by_index": "480c523102d75feb96022771f8b6c15410e924c35548431777122370ac357680",
+  "meta-props_split_adj_split/job23c/enter_mi_by_label_run": "f838d92e462e6bad35464cfcae32ba24c2adcfe14dea103774838daf0c0a97a8",
+  "meta-props_split_adj_split/job24a/enter_k_by_index": "f0ab56def8d144ae81c710f829b272b648a101958d4339dbaa544c6db751c97e",
+  "meta-props_split_adj_split/job24b/enter_cn_by_index": "513a436c3ca6fcf8c91b15888a4ec56cc51f35d447da8e787b105d509ce7df66",
+  "meta-props_split_adj_split/job25a/enter_mi_by_index": "1dfdae8fb5a624c7d725a237e5cc291a60cd95f6393ec416c6b3841f7350ece4",
+  "meta-props_split_adj_split/job25b/enter_k_by_index": "9bb4e61ba5746b5a90828bf99faea69e418961236270ff39ba6af2f3a808011e",
+  "meta-props_split_adj_split/job25c/enter_mi_by_index": "9fc24906e546073458af602f336e1c0f8603fd9263fa8c75ebc276462b350550",
+  "meta-props_split_adj_split/job26a/enter_k_by_index": "7bce4703da7bdf90c5a33bccef3e126cd38a631c10e6d9f082a5289bc0752220",
+  "meta-props_split_adj_split/job26b/enter_k_by_index": "436115a4911cfd43e7ffeb17aaf1e77233d3acf0b9f3c17cc94b5ccd9a2de0de",
+  "meta-props_split_adj_split/job26c/enter_k_by_index": "e44a385577804320165ea1b4dc6f8e2870da52338f575d5ca86f79f9ca6231d5",
+  "meta-props_split_adj_split/job27a/enter_ml_by_index": "53d395f465c8f98d0910601a51d40e3fe89be45de2f5cf1e93ba026c9c66067e",
+  "meta-props_split_adj_split/job27b/enter_ml_by_index": "1370333e38f64e3b5fd6c440242a76dbeb97328ce139e7f2dc25d1af93a0ecd2",
+  "meta-props_split_adj_split/job27c/enter_ml_by_index": "01f20211cfd9c96addaa15d72f7660f57831de4a3a6c5bd7cfd3c4ccc8aa8f14",
+  "meta-props_split_adj_split/job28a/enter_k_by_index": "4ed75ce63e41cc59ff521eaa10636d2d75d36e9b8fbae872cfda9eb98eb8e068",
+  "meta-props_split_adj_split/job28b/enter_k_by_index": "2078be21fd39e7cfbf99e95b2cb87828d4a6dc8bbf1f80e2964bc579c222b25e",
+  "meta-props_split_adj_split/job28c/enter_k_by_index": "7544b7216ab4ce8f46c5434a1a97d5a2b0a4a3f28a94ab7d8a4b1abb5244da3d",
+  "meta-props_split_adj_split/job29a/enter_t_by_index": "c68aca2be29fe2bbb3c0309c0acc48feb1c3370b3f208479ee5596d391a18b59",
+  "meta-props_split_adj_split/job29b/enter_t_by_index": "95ef2290f94b499490c7e04a3459d78e3756bb5e19643c1e8562717d1581b57f",
+  "meta-props_split_adj_split/job29c/enter_k_by_index": "d1c88c13e70193eb129522553793c7a5ee309a48d84f2c49b09d6783d1a8b50d",
+  "meta-props_split_adj_split/job30a/enter_mi_by_index": "3829638ec9cceab59f5a873cfc119e00184cd96b2c183b3d5ac7c614d51831c6",
+  "meta-props_split_adj_split/job30b/enter_cc_by_label_run": "78344b27ca5c20e0ec90d76f1982d280139318adc3b483b0e281c048d8937780",
+  "meta-props_split_adj_split/job30c/enter_mi_by_index": "703372dbebcbd866fbc02953f9f622c2ff73bd4f71a70c2208a52cb180c8f2c4",
+  "meta-props_split_adj_split/job31a/enter_cn_by_label_run": "bebb6a160c83f34c7a0b49192ddcc5e43674ef4a9c9f0c9f003a151bb47b480e",
+  "meta-props_split_adj_split/job31b/enter_cn_by_label_run": "5012f10571479c1b57ded163fd0b41a24bbe3a385339962a14a8fd8ec11c4e5c",
+  "meta-props_split_adj_split/job31c/enter_cn_by_label_run": "feb127e7605d3aaf1f146ec9db3a70ddbe236bd3748feb37b4bffb424b996a7e",
+  "meta-props_split_adj_split/job32a/enter_k_by_index": "3ff6d411996d47e8c2578bc702092b74d89e053bafe63e6d78b04ba0411edbcd",
+  "meta-props_split_adj_split/job32b/enter_k_by_index": "f81ee2df24bfed4b5c7d1c7a4338d4fdfb8b8ce09d2af1dc234db9ce1081ac08",
+  "meta-props_split_adj_split/job33a/enter_ml_by_index": "cd7295d816671459372613d47c0230ea7771a6a45fa00568b2c9ba4f5d5ce1d2",
+  "meta-props_split_adj_split/job33b/enter_ml_by_index": "3150b9db3bc8aae22c6fdd91318253a3f98b08977368a43d3ed0891fa0d6d8f0",
+  "meta-props_split_adj_split/job33c/enter_ml_by_index": "0a595be7c12fe39c6d4005609df88550738886afdff7cb2a5248087b6d90b13c"
+ },
+ "params_window": null,
+ "alternate": 0,
+ "candidates_note": "named bodies per query, each forced as a single-body IR (the plan files' candidate set); '(pin)' is the committed bundle as C++ selects it; one body per query"
+}

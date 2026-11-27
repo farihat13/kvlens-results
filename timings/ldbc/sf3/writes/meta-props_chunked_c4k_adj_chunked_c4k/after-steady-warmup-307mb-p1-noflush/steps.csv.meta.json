@@ -1,0 +1,1184 @@
+{
+ "sf": "3",
+ "arms": [
+  "meta-props_chunked_c4k_adj_chunked_c4k"
+ ],
+ "nparam": 5,
+ "queries": null,
+ "index_filter_blocks": {
+  "meta-props_chunked_c4k_adj_chunked_c4k": "partitioned"
+ },
+ "passes": [
+  "headline"
+ ],
+ "sequence": [
+  {
+   "workload": "writes/microbench/plans",
+   "query": "w_ins_e_facet",
+   "param_idx": 1,
+   "family_row": 3,
+   "args": {
+    "src": "26388279093018",
+    "dst": "94"
+   }
+  },
+  {
+   "workload": "writes/microbench/plans",
+   "query": "w_ins_e_facet",
+   "param_idx": 2,
+   "family_row": 4,
+   "args": {
+    "src": "987",
+    "dst": "96"
+   }
+  },
+  {
+   "workload": "writes/microbench/plans",
+   "query": "w_ins_e_plain",
+   "param_idx": 1,
+   "family_row": 1,
+   "args": {
+    "src": "10995116292509",
+    "dst": "94"
+   }
+  },
+  {
+   "workload": "writes/microbench/plans",
+   "query": "w_ins_e_plain",
+   "param_idx": 2,
+   "family_row": 2,
+   "args": {
+    "src": "10995116281862",
+    "dst": "94"
+   }
+  },
+  {
+   "workload": "writes/microbench/plans",
+   "query": "w_ins_v_full",
+   "param_idx": 1,
+   "family_row": 1,
+   "args": {
+    "person": "26388279086351"
+   }
+  },
+  {
+   "workload": "writes/microbench/plans",
+   "query": "w_ins_v_full",
+   "param_idx": 2,
+   "family_row": 2,
+   "args": {
+    "person": "28587302325954"
+   }
+  },
+  {
+   "workload": "writes/microbench/plans",
+   "query": "w_ins_v_full",
+   "param_idx": 3,
+   "family_row": 3,
+   "args": {
+    "person": "6597069789492"
+   }
+  },
+  {
+   "workload": "writes/microbench/plans",
+   "query": "w_ins_v_min",
+   "param_idx": 1,
+   "family_row": 4,
+   "args": {
+    "person": "2199023257255"
+   }
+  },
+  {
+   "workload": "writes/microbench/plans",
+   "query": "w_ins_v_min",
+   "param_idx": 2,
+   "family_row": 5,
+   "args": {
+    "person": "2199023276502"
+   }
+  },
+  {
+   "workload": "writes/microbench/plans",
+   "query": "w_upd_dated",
+   "param_idx": 1,
+   "family_row": 1,
+   "args": {
+    "person": "26388279086351"
+   }
+  },
+  {
+   "workload": "writes/microbench/plans",
+   "query": "w_upd_dated",
+   "param_idx": 2,
+   "family_row": 2,
+   "args": {
+    "person": "28587302325954"
+   }
+  },
+  {
+   "workload": "writes/microbench/plans",
+   "query": "w_upd_dated",
+   "param_idx": 3,
+   "family_row": 3,
+   "args": {
+    "person": "6597069789492"
+   }
+  },
+  {
+   "workload": "writes/microbench/plans",
+   "query": "w_upd_dated",
+   "param_idx": 4,
+   "family_row": 4,
+   "args": {
+    "person": "2199023257255"
+   }
+  },
+  {
+   "workload": "writes/microbench/plans",
+   "query": "w_upd_dated",
+   "param_idx": 5,
+   "family_row": 5,
+   "args": {
+    "person": "2199023276502"
+   }
+  },
+  {
+   "workload": "writes/microbench/plans",
+   "query": "w_upd_edge",
+   "param_idx": 1,
+   "family_row": 1,
+   "args": {
+    "src": "10995116292509",
+    "dst": "10995116303740"
+   }
+  },
+  {
+   "workload": "writes/microbench/plans",
+   "query": "w_upd_edge",
+   "param_idx": 2,
+   "family_row": 2,
+   "args": {
+    "src": "10995116281862",
+    "dst": "10995116282803"
+   }
+  },
+  {
+   "workload": "writes/microbench/plans",
+   "query": "w_upd_edge",
+   "param_idx": 3,
+   "family_row": 3,
+   "args": {
+    "src": "26388279093018",
+    "dst": "26388279093100"
+   }
+  },
+  {
+   "workload": "writes/microbench/plans",
+   "query": "w_upd_edge",
+   "param_idx": 4,
+   "family_row": 4,
+   "args": {
+    "src": "987",
+    "dst": "4005"
+   }
+  },
+  {
+   "workload": "writes/microbench/plans",
+   "query": "w_upd_edge",
+   "param_idx": 5,
+   "family_row": 5,
+   "args": {
+    "src": "2199023276502",
+    "dst": "2199023277000"
+   }
+  },
+  {
+   "workload": "writes/microbench/plans",
+   "query": "w_upd_indexed",
+   "param_idx": 1,
+   "family_row": 1,
+   "args": {
+    "person": "26388279086351"
+   }
+  },
+  {
+   "workload": "writes/microbench/plans",
+   "query": "w_upd_indexed",
+   "param_idx": 2,
+   "family_row": 2,
+   "args": {
+    "person": "28587302325954"
+   }
+  },
+  {
+   "workload": "writes/microbench/plans",
+   "query": "w_upd_indexed",
+   "param_idx": 3,
+   "family_row": 3,
+   "args": {
+    "person": "6597069789492"
+   }
+  },
+  {
+   "workload": "writes/microbench/plans",
+   "query": "w_upd_indexed",
+   "param_idx": 4,
+   "family_row": 4,
+   "args": {
+    "person": "2199023257255"
+   }
+  },
+  {
+   "workload": "writes/microbench/plans",
+   "query": "w_upd_indexed",
+   "param_idx": 5,
+   "family_row": 5,
+   "args": {
+    "person": "2199023276502"
+   }
+  },
+  {
+   "workload": "writes/microbench/plans",
+   "query": "w_upd_multi",
+   "param_idx": 1,
+   "family_row": 1,
+   "args": {
+    "person": "26388279086351"
+   }
+  },
+  {
+   "workload": "writes/microbench/plans",
+   "query": "w_upd_multi",
+   "param_idx": 2,
+   "family_row": 2,
+   "args": {
+    "person": "28587302325954"
+   }
+  },
+  {
+   "workload": "writes/microbench/plans",
+   "query": "w_upd_multi",
+   "param_idx": 3,
+   "family_row": 3,
+   "args": {
+    "person": "6597069789492"
+   }
+  },
+  {
+   "workload": "writes/microbench/plans",
+   "query": "w_upd_multi",
+   "param_idx": 4,
+   "family_row": 4,
+   "args": {
+    "person": "2199023257255"
+   }
+  },
+  {
+   "workload": "writes/microbench/plans",
+   "query": "w_upd_multi",
+   "param_idx": 5,
+   "family_row": 5,
+   "args": {
+    "person": "2199023276502"
+   }
+  },
+  {
+   "workload": "writes/microbench/plans",
+   "query": "w_upd_plain",
+   "param_idx": 1,
+   "family_row": 1,
+   "args": {
+    "person": "26388279086351"
+   }
+  },
+  {
+   "workload": "writes/microbench/plans",
+   "query": "w_upd_plain",
+   "param_idx": 2,
+   "family_row": 2,
+   "args": {
+    "person": "28587302325954"
+   }
+  },
+  {
+   "workload": "writes/microbench/plans",
+   "query": "w_upd_plain",
+   "param_idx": 3,
+   "family_row": 3,
+   "args": {
+    "person": "6597069789492"
+   }
+  },
+  {
+   "workload": "writes/microbench/plans",
+   "query": "w_upd_plain",
+   "param_idx": 4,
+   "family_row": 4,
+   "args": {
+    "person": "2199023257255"
+   }
+  },
+  {
+   "workload": "writes/microbench/plans",
+   "query": "w_upd_plain",
+   "param_idx": 5,
+   "family_row": 5,
+   "args": {
+    "person": "2199023276502"
+   }
+  },
+  {
+   "workload": "writes/ldbc/plans",
+   "query": "iu1",
+   "param_idx": 1,
+   "family_row": 1,
+   "args": {
+    "person": "26388279086351",
+    "city": "855",
+    "friend1": "17592186058069",
+    "friend2": "17592186066938",
+    "friend3": "19791209300020",
+    "friend4": "19791209300326",
+    "interest1": "2036",
+    "interest2": "2985",
+    "interest3": "9177",
+    "university1": "2836",
+    "company1": "536"
+   }
+  },
+  {
+   "workload": "writes/ldbc/plans",
+   "query": "iu1",
+   "param_idx": 2,
+   "family_row": 2,
+   "args": {
+    "person": "28587302325954",
+    "city": "855",
+    "friend1": "17592186058069",
+    "friend2": "17592186066938",
+    "friend3": "19791209300020",
+    "friend4": "19791209300326",
+    "interest1": "2036",
+    "interest2": "2985",
+    "interest3": "9177",
+    "university1": "2836",
+    "company1": "536"
+   }
+  },
+  {
+   "workload": "writes/ldbc/plans",
+   "query": "iu1",
+   "param_idx": 3,
+   "family_row": 3,
+   "args": {
+    "person": "6597069789492",
+    "city": "855",
+    "friend1": "17592186058069",
+    "friend2": "17592186066938",
+    "friend3": "19791209300020",
+    "friend4": "19791209300326",
+    "interest1": "2036",
+    "interest2": "2985",
+    "interest3": "9177",
+    "university1": "2836",
+    "company1": "536"
+   }
+  },
+  {
+   "workload": "writes/ldbc/plans",
+   "query": "iu1",
+   "param_idx": 4,
+   "family_row": 4,
+   "args": {
+    "person": "2199023257255",
+    "city": "855",
+    "friend1": "17592186058069",
+    "friend2": "17592186066938",
+    "friend3": "19791209300020",
+    "friend4": "19791209300326",
+    "interest1": "2036",
+    "interest2": "2985",
+    "interest3": "9177",
+    "university1": "2836",
+    "company1": "536"
+   }
+  },
+  {
+   "workload": "writes/ldbc/plans",
+   "query": "iu1",
+   "param_idx": 5,
+   "family_row": 5,
+   "args": {
+    "person": "2199023276502",
+    "city": "855",
+    "friend1": "17592186058069",
+    "friend2": "17592186066938",
+    "friend3": "19791209300020",
+    "friend4": "19791209300326",
+    "interest1": "2036",
+    "interest2": "2985",
+    "interest3": "9177",
+    "university1": "2836",
+    "company1": "536"
+   }
+  },
+  {
+   "workload": "writes/ldbc/plans",
+   "query": "iu2",
+   "param_idx": 1,
+   "family_row": 1,
+   "args": {
+    "person": "26388279086351",
+    "post": "3573423858837"
+   }
+  },
+  {
+   "workload": "writes/ldbc/plans",
+   "query": "iu2",
+   "param_idx": 2,
+   "family_row": 2,
+   "args": {
+    "person": "28587302325954",
+    "post": "3573423858837"
+   }
+  },
+  {
+   "workload": "writes/ldbc/plans",
+   "query": "iu2",
+   "param_idx": 3,
+   "family_row": 3,
+   "args": {
+    "person": "6597069789492",
+    "post": "3573423858837"
+   }
+  },
+  {
+   "workload": "writes/ldbc/plans",
+   "query": "iu3",
+   "param_idx": 1,
+   "family_row": 4,
+   "args": {
+    "person": "2199023257255",
+    "comment": "824643924491"
+   }
+  },
+  {
+   "workload": "writes/ldbc/plans",
+   "query": "iu3",
+   "param_idx": 2,
+   "family_row": 5,
+   "args": {
+    "person": "2199023276502",
+    "comment": "824643924491"
+   }
+  },
+  {
+   "workload": "writes/ldbc/plans",
+   "query": "iu4",
+   "param_idx": 1,
+   "family_row": 1,
+   "args": {
+    "person": "26388279086351",
+    "tag1": "6964",
+    "tag2": "7545",
+    "tag3": "571"
+   }
+  },
+  {
+   "workload": "writes/ldbc/plans",
+   "query": "iu4",
+   "param_idx": 2,
+   "family_row": 2,
+   "args": {
+    "person": "28587302325954",
+    "tag1": "6964",
+    "tag2": "7545",
+    "tag3": "571"
+   }
+  },
+  {
+   "workload": "writes/ldbc/plans",
+   "query": "iu4",
+   "param_idx": 3,
+   "family_row": 3,
+   "args": {
+    "person": "6597069789492",
+    "tag1": "6964",
+    "tag2": "7545",
+    "tag3": "571"
+   }
+  },
+  {
+   "workload": "writes/ldbc/plans",
+   "query": "iu4",
+   "param_idx": 4,
+   "family_row": 4,
+   "args": {
+    "person": "2199023257255",
+    "tag1": "6964",
+    "tag2": "7545",
+    "tag3": "571"
+   }
+  },
+  {
+   "workload": "writes/ldbc/plans",
+   "query": "iu4",
+   "param_idx": 5,
+   "family_row": 5,
+   "args": {
+    "person": "2199023276502",
+    "tag1": "6964",
+    "tag2": "7545",
+    "tag3": "571"
+   }
+  },
+  {
+   "workload": "writes/ldbc/plans",
+   "query": "iu5",
+   "param_idx": 1,
+   "family_row": 1,
+   "args": {
+    "person": "26388279086351",
+    "forum": "2199024345960"
+   }
+  },
+  {
+   "workload": "writes/ldbc/plans",
+   "query": "iu5",
+   "param_idx": 2,
+   "family_row": 2,
+   "args": {
+    "person": "28587302325954",
+    "forum": "2199024345960"
+   }
+  },
+  {
+   "workload": "writes/ldbc/plans",
+   "query": "iu5",
+   "param_idx": 3,
+   "family_row": 3,
+   "args": {
+    "person": "6597069789492",
+    "forum": "2199024345960"
+   }
+  },
+  {
+   "workload": "writes/ldbc/plans",
+   "query": "iu5",
+   "param_idx": 4,
+   "family_row": 4,
+   "args": {
+    "person": "2199023257255",
+    "forum": "2199024345960"
+   }
+  },
+  {
+   "workload": "writes/ldbc/plans",
+   "query": "iu5",
+   "param_idx": 5,
+   "family_row": 5,
+   "args": {
+    "person": "2199023276502",
+    "forum": "2199024345960"
+   }
+  },
+  {
+   "workload": "writes/ldbc/plans",
+   "query": "iu6",
+   "param_idx": 1,
+   "family_row": 1,
+   "args": {
+    "person": "26388279086351",
+    "forum": "3573414925993",
+    "country": "49",
+    "tag1": "7553",
+    "tag2": "2944",
+    "tag3": "9063"
+   }
+  },
+  {
+   "workload": "writes/ldbc/plans",
+   "query": "iu6",
+   "param_idx": 2,
+   "family_row": 2,
+   "args": {
+    "person": "28587302325954",
+    "forum": "3573414925993",
+    "country": "49",
+    "tag1": "7553",
+    "tag2": "2944",
+    "tag3": "9063"
+   }
+  },
+  {
+   "workload": "writes/ldbc/plans",
+   "query": "iu6",
+   "param_idx": 3,
+   "family_row": 3,
+   "args": {
+    "person": "6597069789492",
+    "forum": "3573414925993",
+    "country": "49",
+    "tag1": "7553",
+    "tag2": "2944",
+    "tag3": "9063"
+   }
+  },
+  {
+   "workload": "writes/ldbc/plans",
+   "query": "iu6",
+   "param_idx": 4,
+   "family_row": 4,
+   "args": {
+    "person": "2199023257255",
+    "forum": "3573414925993",
+    "country": "49",
+    "tag1": "7553",
+    "tag2": "2944",
+    "tag3": "9063"
+   }
+  },
+  {
+   "workload": "writes/ldbc/plans",
+   "query": "iu6",
+   "param_idx": 5,
+   "family_row": 5,
+   "args": {
+    "person": "2199023276502",
+    "forum": "3573414925993",
+    "country": "49",
+    "tag1": "7553",
+    "tag2": "2944",
+    "tag3": "9063"
+   }
+  },
+  {
+   "workload": "writes/ldbc/plans",
+   "query": "iu7",
+   "param_idx": 1,
+   "family_row": 1,
+   "args": {
+    "person": "26388279086351",
+    "replyTo": "3848300425085",
+    "country": "49",
+    "tag1": "9284",
+    "tag2": "2028"
+   }
+  },
+  {
+   "workload": "writes/ldbc/plans",
+   "query": "iu7",
+   "param_idx": 2,
+   "family_row": 2,
+   "args": {
+    "person": "28587302325954",
+    "replyTo": "3848300425085",
+    "country": "49",
+    "tag1": "9284",
+    "tag2": "2028"
+   }
+  },
+  {
+   "workload": "writes/ldbc/plans",
+   "query": "iu7",
+   "param_idx": 3,
+   "family_row": 3,
+   "args": {
+    "person": "6597069789492",
+    "replyTo": "3848300425085",
+    "country": "49",
+    "tag1": "9284",
+    "tag2": "2028"
+   }
+  },
+  {
+   "workload": "writes/ldbc/plans",
+   "query": "iu7",
+   "param_idx": 4,
+   "family_row": 4,
+   "args": {
+    "person": "2199023257255",
+    "replyTo": "3848300425085",
+    "country": "49",
+    "tag1": "9284",
+    "tag2": "2028"
+   }
+  },
+  {
+   "workload": "writes/ldbc/plans",
+   "query": "iu7",
+   "param_idx": 5,
+   "family_row": 5,
+   "args": {
+    "person": "2199023276502",
+    "replyTo": "3848300425085",
+    "country": "49",
+    "tag1": "9284",
+    "tag2": "2028"
+   }
+  },
+  {
+   "workload": "writes/ldbc/plans",
+   "query": "iu8",
+   "param_idx": 1,
+   "family_row": 5,
+   "args": {
+    "src": "2199023276502",
+    "dst": "94"
+   }
+  },
+  {
+   "workload": "writes/microbench/plans",
+   "query": "w_del_e",
+   "param_idx": 1,
+   "family_row": 1,
+   "args": {
+    "src": "10995116292509",
+    "dst": "10995116303740"
+   }
+  },
+  {
+   "workload": "writes/microbench/plans",
+   "query": "w_del_e",
+   "param_idx": 2,
+   "family_row": 2,
+   "args": {
+    "src": "10995116281862",
+    "dst": "10995116282803"
+   }
+  },
+  {
+   "workload": "writes/microbench/plans",
+   "query": "w_del_e",
+   "param_idx": 3,
+   "family_row": 3,
+   "args": {
+    "src": "26388279093018",
+    "dst": "26388279093100"
+   }
+  },
+  {
+   "workload": "writes/microbench/plans",
+   "query": "w_del_e",
+   "param_idx": 4,
+   "family_row": 4,
+   "args": {
+    "src": "987",
+    "dst": "4005"
+   }
+  },
+  {
+   "workload": "writes/microbench/plans",
+   "query": "w_del_e",
+   "param_idx": 5,
+   "family_row": 5,
+   "args": {
+    "src": "2199023276502",
+    "dst": "2199023277000"
+   }
+  },
+  {
+   "workload": "writes/microbench/plans",
+   "query": "w_del_v_record",
+   "param_idx": 1,
+   "family_row": 1,
+   "args": {
+    "person": "26388279086351"
+   }
+  },
+  {
+   "workload": "writes/microbench/plans",
+   "query": "w_del_v_record",
+   "param_idx": 2,
+   "family_row": 2,
+   "args": {
+    "person": "28587302325954"
+   }
+  },
+  {
+   "workload": "writes/microbench/plans",
+   "query": "w_del_v_record",
+   "param_idx": 3,
+   "family_row": 3,
+   "args": {
+    "person": "6597069789492"
+   }
+  },
+  {
+   "workload": "writes/microbench/plans",
+   "query": "w_del_v",
+   "param_idx": 1,
+   "family_row": 4,
+   "args": {
+    "person": "2199023257255"
+   }
+  },
+  {
+   "workload": "writes/microbench/plans",
+   "query": "w_del_v",
+   "param_idx": 2,
+   "family_row": 5,
+   "args": {
+    "person": "2199023276502"
+   }
+  }
+ ],
+ "breakdown": false,
+ "isolate": 0,
+ "kv_timing": false,
+ "block_cache_bytes": 321912832,
+ "binary": "build/cpp/kvevaluator",
+ "read_settings": {
+  "cache": "steady",
+  "block_cache_bytes": 321912832,
+  "direct_io": true,
+  "cache_index_and_filter_blocks": true
+ },
+ "write_settings": {
+  "write_buffer_bytes": 4294967296,
+  "max_write_buffer_number": 2,
+  "wal": true,
+  "wal_sync": false,
+  "write_batch": 1,
+  "auto_compactions": false
+ },
+ "require_no_flush": true,
+ "workload": "writes",
+ "params_source": null,
+ "seed": null,
+ "warmup_write": true,
+ "raw": "files",
+ "requests": "batch",
+ "legs": [
+  "apply"
+ ],
+ "warm_reads": {
+  "meta-props_chunked_c4k_adj_chunked_c4k": {
+   "capture": "timings/ldbc/sf3/interactive/meta-props_chunked_c4k_adj_chunked_c4k/steady-307mb-p2",
+   "cells": 95,
+   "passes": 3,
+   "steady_at": 3,
+   "capture_steady_at": 3,
+   "rule": {
+    "eps": 0.005,
+    "max_warm": 8,
+    "seed": 1,
+    "perf_level": 2
+   },
+   "pass_order_rule": "measured-index",
+   "body_shas": {
+    "meta-props_chunked_c4k_adj_chunked_c4k/ic1/ic1_expand_name_matches(index_eq+fetch_inline)": "ee1fa31642644138cbf493ba93679aea93bdeab9d98005b123759bffd7f30951",
+    "meta-props_chunked_c4k_adj_chunked_c4k/ic2/index_walk": "0db1539c2a033612ef7b5c691ac316e0d2bde41802d87fc0f0689119a26755f6",
+    "meta-props_chunked_c4k_adj_chunked_c4k/ic3/ic3_exact_window_country_lists(index_eq+index_eq+range_index)": "3fd124de543194b1615ab59d607eb9bd6643a865e6fd9c741f7732ba1ab0fe73",
+    "meta-props_chunked_c4k_adj_chunked_c4k/ic4/filter_probe": "1f3f8acb0adf4830ce2dce1fd991fb79e3bcb52549aa2976f7e460c9b455c34a",
+    "meta-props_chunked_c4k_adj_chunked_c4k/ic5/ic5_listjoin(ic5)": "db5352806cfca62e98787ab5c42bb16ee70deba96f330a8edbbc59955d5257d2",
+    "meta-props_chunked_c4k_adj_chunked_c4k/ic6/index_eq+filter_probe": "83f6fb49c5e984accc44dc16a381728e4c86cab7fd9e8ec5a0c0fdfc24925dcc",
+    "meta-props_chunked_c4k_adj_chunked_c4k/ic7/edge_probe": "b03f5c513cd9c26088ac116eb2e6a8a8fd0a36af180482cd558e60555737f660",
+    "meta-props_chunked_c4k_adj_chunked_c4k/ic8/index_walk": "6daead5e4f592fe77b53e8a01bf76640646ed904bc4c750908faeba8db3b8a5a",
+    "meta-props_chunked_c4k_adj_chunked_c4k/ic9/index_walk": "5d3bee354187be83e0eda69d34ee00f1012d2c4d631c4f2e45c3e25464aaca8c",
+    "meta-props_chunked_c4k_adj_chunked_c4k/ic10/ic10_fof_from_person_run<-ic10_interest_lists(filter_probe+fetch_inline)": "3e7325dc7e62bff0bf0e90bdfb6ee595e3db156089e34a5b6f970bdd6be7b1e1",
+    "meta-props_chunked_c4k_adj_chunked_c4k/ic11/index_eq": "90a50c763448cd811431e970c25383d5d259268f435c74848bb29981b7538799",
+    "meta-props_chunked_c4k_adj_chunked_c4k/ic12/filter_probe+index_eq": "ba68d878f6a753b60eed6229fce7f3535fce04bcd18e592a34e246e28e32ece6",
+    "meta-props_chunked_c4k_adj_chunked_c4k/is1/is1": "af82b8eb9510755dffa4d8f5f81f1f898afdfcbd88142509a26c97d74edd5517",
+    "meta-props_chunked_c4k_adj_chunked_c4k/is2/one_phase": "13a50cf7dc05c0624caaa8db7257385486261cda69437eea660ad98af0a968dd",
+    "meta-props_chunked_c4k_adj_chunked_c4k/is3/is3": "083217d39de5deb129654417c826bf9510f4d2e51f9dec3de9b46e809f2e42a8",
+    "meta-props_chunked_c4k_adj_chunked_c4k/is4/is4": "98fe436e3d307570eb6a2766c78b7478d5d1e6212aa75b3de69c1616529fde62",
+    "meta-props_chunked_c4k_adj_chunked_c4k/is5/is5": "40750233e1fabf69ee7fb1f05f882da685aef3fb1bfe44f869e7a7f542319e02",
+    "meta-props_chunked_c4k_adj_chunked_c4k/is6/is6": "15650957cc306dc9f302c8d0998699c9b120f4bd7a8f20aa6496b4741425bfdc",
+    "meta-props_chunked_c4k_adj_chunked_c4k/is7/edge_probe": "7353ee3b4ea61394792c7bc5d7de6fd6012be9d76fe3b766dedd13d69e241b16"
+   },
+   "bodies_not_checked": [],
+   "store_options": {
+    "adaptive_readahead": false,
+    "async_io": false,
+    "block_cache_bytes": 321912832,
+    "block_size": 4096,
+    "cache_index_and_filter_blocks": true,
+    "compression": "snappy",
+    "direct_io": true,
+    "disable_auto_compactions": true,
+    "fill_cache": true,
+    "index_filter_blocks": "partitioned",
+    "initial_auto_readahead_size": 8192,
+    "max_auto_readahead_size": 262144,
+    "max_write_buffer_number": 2,
+    "readahead_size": 0,
+    "rocksdb": {
+     "block_cache_bytes": 321912832,
+     "bloom_bits_per_key": 10.0,
+     "cache_index_and_filter_blocks": true,
+     "compression": "snappy",
+     "data_block_bytes": 4096,
+     "high_pri_pool_ratio": 0.5,
+     "index_filter_blocks": "partitioned",
+     "index_filter_high_priority": true,
+     "keep_log_file_num": 2,
+     "max_open_files": -1,
+     "max_write_buffer_number": 2,
+     "partition_bytes": 4096,
+     "pin_l0_filter_and_index_blocks": false,
+     "pin_top_level_index_and_filter": true,
+     "write_buffer_bytes": 4294967296
+    },
+    "wal": true,
+    "wal_sync": false,
+    "write_batch": 1,
+    "write_buffer_bytes": 4294967296
+   },
+   "wall_s": 41.1
+  }
+ },
+ "same_counts": {
+  "run": "output/summary/ldbc/sf3/i01-mix-latency/writes/steady-settings-307mb-4leg-p1-noflush/meta-props_chunked_c4k_adj_chunked_c4k",
+  "cells_compared": 75,
+  "differ": 0
+ },
+ "sequence_sha256": null,
+ "sequence_notes": null,
+ "driver": {
+  "git_sha": "9fb4bcb34ff754aa7f405e7eee15239ca6c75c03",
+  "dirty_files": []
+ },
+ "numa": {
+  "nodes": 1,
+  "numa_balancing": 0,
+  "node_free_mb_at_launch": {
+   "0": 114728
+  },
+  "outer": null,
+  "policy": "off",
+  "node": null,
+  "reason": "auto: 1 NUMA node(s)"
+ },
+ "server_faults": [
+  {
+   "arm": "meta-props_chunked_c4k_adj_chunked_c4k",
+   "regime": "headline",
+   "elapsed_s": 4.954,
+   "server_policies": {
+    "default": 76
+   },
+   "server_minflt": 7,
+   "faults_per_s": 1.4,
+   "numa_hint_faults": 0,
+   "server_numa_faults_level": 0
+  }
+ ],
+ "provenance": {
+  "meta-props_chunked_c4k_adj_chunked_c4k": {
+   "allocator": {
+    "aggressive_decommit": 0,
+    "env": {},
+    "lib_sha256": "c3d7996e516f60360b9d6d591fea53e0b177df38a4bfa36296d713220741f42a",
+    "malloc_is_tcmalloc": true,
+    "name": "tcmalloc",
+    "release_rate": 0.0,
+    "version": "2.15-3build1"
+   },
+   "binary_dirty": false,
+   "binary_git_sha": "9fb4bcb34ff754aa7f405e7eee15239ca6c75c03",
+   "block_cache_priority": {
+    "high_pri_pool_ratio": 0.5,
+    "index_filter_high_priority": true
+   },
+   "body": "w_ins_e_facet",
+   "body_sha": "782d90c3da0c",
+   "capabilities": [
+    "label_rows_one_run",
+    "label_scan_carries_props",
+    "label_scoped_props",
+    "per_type_index",
+    "property_index",
+    "sorted_range_index",
+    "type_index",
+    "whole_label_scan_by_default",
+    "whole_row_read"
+   ],
+   "compiler": "GNU 13.3.0",
+   "config_hash": "72744174bc89a64c",
+   "counting": {
+    "seam": 4,
+    "format": 3,
+    "write_seam": 1,
+    "write_format": 1
+   },
+   "flags": " -Wall -Wextra -Wno-unused-parameter -Wno-dangling-reference -O2 -g",
+   "host": {
+    "cpu": "INTEL(R) XEON(R) GOLD 5512U",
+    "kernel": "Linux 6.8.0-149-generic"
+   },
+   "ingest_index_filter_blocks": "partitioned",
+   "librocksdb_sha256": "7c0c2efc4a7c2b8f20cb262445da1b99e5b0aea6aeb24a225523feb5b9845c8e",
+   "rocksdb": "7.5.3",
+   "rocksdb_source": "7.5.3@540d5aae516265170564ec27b3e67a54a11b7045",
+   "scale": "3",
+   "store_manifest": {
+    "format": "meta",
+    "key_codec": "meta-v4-chunk-bytes",
+    "value_codec": {
+     "version": 1,
+     "direction": "declared",
+     "vertex_props": {
+      "group": "owner",
+      "owners": {
+       "pack": 4096
+      },
+      "split": "never"
+     },
+     "adjacency": {
+      "group": "owner",
+      "owners": {
+       "pack": 4096
+      },
+      "split": "never",
+      "edge_props": "adjacency",
+      "far_label": true,
+      "chunk_header": "skip16"
+     },
+     "index": {
+      "group": "item",
+      "owners": "one",
+      "split": "never",
+      "term": "exact",
+      "scope": "type"
+     }
+    },
+    "value_codec_hash": "72744174bc89a64c",
+    "compression": "snappy",
+    "index_filter_blocks": "partitioned",
+    "block_size": 4096,
+    "bloom_bits_per_key": 10.0,
+    "partition_bytes": 4096,
+    "schema": {
+     "name": "canonical",
+     "hash": "6f05d59b2fd758cfc776f4841fdda2badf335889c2df8f93d10cc710fae532b8",
+     "content_sha": "38709a627d9ca5c4e642881a35b11e3039e41c7471fa0c5efd2faf6415a5e58c",
+     "path": "inputs/schemas/ldbc/schema.json"
+    },
+    "records": {
+     "sha256": "1bf087c2e188ee94cb56cb01842c74f5e612947715927a3ad80c4577de9d980e",
+     "lines": 61977656,
+     "vertices": 9281922,
+     "edges": 52695734,
+     "counts": {
+      "Comment": 6413095,
+      "Forum": 221792,
+      "Organisation": 7955,
+      "Person": 24328,
+      "Place": 1460,
+      "Post": 2597141,
+      "Tag": 16080,
+      "TagClass": 71,
+      "containerOf": 2597141,
+      "hasCreator": 9010236,
+      "hasInterest": 569918,
+      "hasMember": 4982242,
+      "hasModerator": 221792,
+      "hasTag": 11423557,
+      "hasType": 16080,
+      "isLocatedIn": 9042519,
+      "isPartOf": 1454,
+      "isSubclassOf": 70,
+      "knows": 565247,
+      "likes": 7779863,
+      "replyOf": 6413095,
+      "studyAt": 19497,
+      "workAt": 53023
+     }
+    },
+    "ingest_counts": {
+     "vertices": 9281922,
+     "edges": 52695734,
+     "adjacency_split_units": 0,
+     "adjacency_parts": 0
+    },
+    "sst_bytes": 1134831121,
+    "sst_files": 18,
+    "ingest_files": 23,
+    "settled": true,
+    "keys": 9733051,
+    "logical_bytes": 1633396300,
+    "scale": "3",
+    "ingest_wall_s": 249.972349846,
+    "provenance": {
+     "allocator": {
+      "aggressive_decommit": 0,
+      "env": {},
+      "lib_sha256": "c3d7996e516f60360b9d6d591fea53e0b177df38a4bfa36296d713220741f42a",
+      "malloc_is_tcmalloc": true,
+      "name": "tcmalloc",
+      "release_rate": 0.0,
+      "version": "2.15-3build1"
+     },
+     "binary_dirty": false,
+     "binary_git_sha": "9fb4bcb34ff754aa7f405e7eee15239ca6c75c03",
+     "block_cache_priority": {
+      "high_pri_pool_ratio": 0.5,
+      "index_filter_high_priority": true
+     },
+     "compiler": "GNU 13.3.0",
+     "flags": " -Wall -Wextra -Wno-unused-parameter -Wno-dangling-reference -O2 -g",
+     "host": {
+      "cpu": "INTEL(R) XEON(R) GOLD 5512U",
+      "kernel": "Linux 6.8.0-149-generic"
+     },
+     "ingest_index_filter_blocks": "partitioned",
+     "librocksdb_sha256": "7c0c2efc4a7c2b8f20cb262445da1b99e5b0aea6aeb24a225523feb5b9845c8e",
+     "rocksdb": "7.5.3",
+     "rocksdb_source": "7.5.3@540d5aae516265170564ec27b3e67a54a11b7045"
+    }
+   }
+  }
+ },
+ "wall_s": 46.3,
+ "store_options_by_pass": {
+  "headline": {
+   "adaptive_readahead": false,
+   "async_io": false,
+   "block_cache_bytes": 321912832,
+   "block_size": 4096,
+   "cache_index_and_filter_blocks": true,
+   "compression": "snappy",
+   "direct_io": true,
+   "disable_auto_compactions": true,
+   "fill_cache": true,
+   "index_filter_blocks": "partitioned",
+   "initial_auto_readahead_size": 8192,
+   "max_auto_readahead_size": 262144,
+   "max_write_buffer_number": 2,
+   "readahead_size": 0,
+   "rocksdb": {
+    "block_cache_bytes": 321912832,
+    "bloom_bits_per_key": 10.0,
+    "cache_index_and_filter_blocks": true,
+    "compression": "snappy",
+    "data_block_bytes": 4096,
+    "high_pri_pool_ratio": 0.5,
+    "index_filter_blocks": "partitioned",
+    "index_filter_high_priority": true,
+    "keep_log_file_num": 2,
+    "max_open_files": -1,
+    "max_write_buffer_number": 2,
+    "partition_bytes": 4096,
+    "pin_l0_filter_and_index_blocks": false,
+    "pin_top_level_index_and_filter": true,
+    "write_buffer_bytes": 4294967296
+   },
+   "wal": true,
+   "wal_sync": false,
+   "write_batch": 1,
+   "write_buffer_bytes": 4294967296
+  }
+ },
+ "notes": [
+  "WAL on / sync off (default WriteOptions; matches the read-side store config); one engine write per logical write (never batched: a normalization the same for every format)",
+  "a memtable switch + background flush can land inside the sequence when the suite writes more than write_buffer_bytes; a write that waits on it shows in write_delay_time (breakdown) and the stall_micros ticker; --require-no-flush refuses both",
+  "wall_ns is the apply wall: RMW CPU + engine write; the engine write's share is wall_ns - shadow_wall_ns (the paired warm control), per step; shadow2_wall_ns - shadow_wall_ns is that difference's noise floor",
+  "measured=1 by construction: no within-cell dispersion exists",
+  "headline rows are perf_level 1 (walls + tickers + io counters; all PerfContext TIMERS and read counters 0); the breakdown regime (level 3) fills them",
+  "ticker columns are per cell, on the __plan__ row (0 on step rows)",
+  "cross-check: per-step ops, all byte channels, rows, and the final payload shadow==apply and shadow2==apply on every cell",
+  "isolate rows: counts may differ from the sequence rows (pristine vs accumulated state); filter on regime before regressing on seq_idx",
+  "rocksdb histograms_since_open include the shadow legs' reads"
+ ]
+}

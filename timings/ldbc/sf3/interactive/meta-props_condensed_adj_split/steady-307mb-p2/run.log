@@ -1,0 +1,37 @@
+  numa: bind node 0 (--numa-node)
+  meta-props_condensed_adj_split/steady: 95 cells, cache 307 MB, direct io
+    steady pass 0 (warm): hit rate 0.742, 887.2 MB read, 37157 ms, 11250 faults/s
+    steady pass 1 (warm): hit rate 0.786, 839.3 MB read, 33878 ms, 14 faults/s
+    steady pass 2 (warm): hit rate 0.785, 794.9 MB read, 34528 ms, 0 faults/s
+    steady pass 3 (measured): hit rate 0.777, 876.2 MB read, 35043 ms, 0 faults/s
+    steady pass 4 (measured): hit rate 0.790, 848.9 MB read, 34198 ms, 0 faults/s
+    steady pass 5 (measured): hit rate 0.804, 775.3 MB read, 32978 ms, 0 faults/s
+    steady pass 6 (measured): hit rate 0.789, 806.6 MB read, 34357 ms, 0 faults/s
+    steady pass 7 (measured): hit rate 0.780, 881.0 MB read, 34748 ms, 0 faults/s
+  meta-props_condensed_adj_split/steady: cache usage 306.9 MiB of 307.0 MiB (inserted 5941.7 MiB; nothing evicted: False)
+  meta-props_condensed_adj_split/steady: done (290s), steady at pass 3
+raw -> output/timings/ldbc/sf3/interactive/meta-props_condensed_adj_split/steady-307mb-p2/steps.csv  (290.0s wall, 34.144s inside the plans of the rows kept)
+[stores] meta spec inputs/specs/grid/props_condensed_adj_split.json (from --spec)
+	Command being timed: ".venv/bin/python3 -m kvevaluator.measure.cpplatency --sf 3 --family interactive --format meta --spec inputs/specs/grid/props_condensed_adj_split.json --arms meta-props_condensed_adj_split --nparam 5 --warm  --cold  --steady 307,5 --steady-direct-io --steady-perf-level 2 --queries ic1 ic2 ic3 ic4 ic5 ic6 ic7 ic8 ic9 ic10 ic11 ic12 is1 is2 is3 is4 is5 is6 is7 --require-clean --candidate-set grid --candidates ic1=ic1_expand_name_matches(index_eq+fetch_inline) ic10=ic10_fof_from_person_run<-ic10_interest_lists(filter_index+fetch_inline) ic11=index_eq ic12=filter_probe+index_eq ic2=index_walk ic3=ic3_exact_window_country_lists(index_eq+index_eq+range_index) ic4=filter_fused ic5=ic5_listjoin(ic5) ic6=index_eq+filter_probe ic7=materialize_intersect ic8=index_walk ic9=index_walk is1=is1 is2=one_phase is3=is3 is4=is4 is5=is5 is6=is6 is7=materialize_intersect --out output/timings/ldbc/sf3/interactive/meta-props_condensed_adj_split/steady-307mb-p2"
+	User time (seconds): 170.74
+	System time (seconds): 2.95
+	Percent of CPU this job got: 59%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 4:50.15
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1680896
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 116
+	Minor (reclaiming a frame) page faults: 438285
+	Voluntary context switches: 1222646
+	Involuntary context switches: 213
+	Swaps: 0
+	File system inputs: 14182542
+	File system outputs: 71472
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0

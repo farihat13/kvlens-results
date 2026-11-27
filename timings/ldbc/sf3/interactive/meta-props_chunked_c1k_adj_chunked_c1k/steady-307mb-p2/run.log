@@ -1,0 +1,37 @@
+  numa: bind node 0 (--numa-node)
+  meta-props_chunked_c1k_adj_chunked_c1k/steady: 95 cells, cache 307 MB, direct io
+    steady pass 0 (warm): hit rate 0.870, 185.3 MB read, 15931 ms, 22836 faults/s
+    steady pass 1 (warm): hit rate 1.000, 0.0 MB read, 10951 ms, 2814 faults/s
+    steady pass 2 (warm): hit rate 1.000, 0.0 MB read, 10978 ms, 645 faults/s
+    steady pass 3 (measured): hit rate 1.000, 0.0 MB read, 10983 ms, 0 faults/s
+    steady pass 4 (measured): hit rate 1.000, 0.0 MB read, 10989 ms, 0 faults/s
+    steady pass 5 (measured): hit rate 1.000, 0.0 MB read, 10980 ms, 0 faults/s
+    steady pass 6 (measured): hit rate 1.000, 0.0 MB read, 10973 ms, 0 faults/s
+    steady pass 7 (measured): hit rate 1.000, 0.0 MB read, 10964 ms, 0 faults/s
+  meta-props_chunked_c1k_adj_chunked_c1k/steady: cache usage 239.8 MiB of 307.0 MiB (inserted 234.7 MiB; nothing evicted: True)
+  meta-props_chunked_c1k_adj_chunked_c1k/steady: done (106s), steady at pass 3
+raw -> output/timings/ldbc/sf3/interactive/meta-props_chunked_c1k_adj_chunked_c1k/steady-307mb-p2/steps.csv  (105.9s wall, 11.087s inside the plans of the rows kept)
+[stores] meta spec inputs/specs/grid_chunked_1k/props_chunked_c1k_adj_chunked_c1k.json (from --spec)
+	Command being timed: ".venv/bin/python3 -m kvevaluator.measure.cpplatency --sf 3 --family interactive --format meta --spec inputs/specs/grid_chunked_1k/props_chunked_c1k_adj_chunked_c1k.json --arms meta-props_chunked_c1k_adj_chunked_c1k --nparam 5 --warm  --cold  --steady 307,5 --steady-direct-io --steady-perf-level 2 --queries ic1 ic2 ic3 ic4 ic5 ic6 ic7 ic8 ic9 ic10 ic11 ic12 is1 is2 is3 is4 is5 is6 is7 --require-clean --candidate-set grid --candidates ic1=ic1_expand_name_matches(index_eq+fetch_inline) ic10=ic10_fof_from_person_run<-ic10_interest_lists(filter_probe+fetch_inline) ic11=index_eq ic12=filter_probe+index_eq ic2=index_walk ic3=ic3_exact_window_country_lists(index_eq+index_eq+range_index) ic4=filter_probe ic5=ic5_listjoin(ic5) ic6=index_eq+filter_probe ic7=edge_probe ic8=index_walk ic9=index_walk is1=is1 is2=one_phase is3=is3 is4=is4 is5=is5 is6=is6 is7=edge_probe --out output/timings/ldbc/sf3/interactive/meta-props_chunked_c1k_adj_chunked_c1k/steady-307mb-p2"
+	User time (seconds): 101.08
+	System time (seconds): 0.66
+	Percent of CPU this job got: 95%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 1:46.04
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1616384
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 116
+	Minor (reclaiming a frame) page faults: 420902
+	Voluntary context switches: 45265
+	Involuntary context switches: 325
+	Swaps: 0
+	File system inputs: 437222
+	File system outputs: 68280
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0

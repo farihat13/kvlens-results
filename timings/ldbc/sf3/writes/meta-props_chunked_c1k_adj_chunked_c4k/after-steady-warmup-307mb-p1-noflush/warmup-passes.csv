@@ -1,0 +1,4 @@
+arm,pass,phase,cells,block_cache_hit,block_cache_miss,hit_rate,block_cache_add,block_cache_bytes_write,io_bytes_read,wall_ns_sum,block_cache_bytes,direct_io,data_hit,data_miss,server_minflt,faults_per_s,numa_hint_faults,server_numa_faults_level
+meta-props_chunked_c1k_adj_chunked_c4k,0,warm,95,372162,47979,0.8812,47979,251518506,185119449,15247147095,321912832,1,346748,46747,388743,25496.1,0,0
+meta-props_chunked_c1k_adj_chunked_c4k,1,warm,95,420141,0,1.0,0,0,0,10798844422,321912832,1,393495,0,18610,1723.3,0,0
+meta-props_chunked_c1k_adj_chunked_c4k,2,warm,95,420141,0,1.0,0,0,0,10868252729,321912832,1,393495,0,43980,4046.6,0,0

@@ -1,0 +1,36 @@
+  numa: bind node 0 (--numa-node)
+  meta-props_chunked_c4k_adj_chunked_c4k/steady: 85 cells, cache 307 MB, direct io
+    steady pass 0 (warm): hit rate 0.601, 13587.1 MB read, 311192 ms, 21194 faults/s
+    steady pass 1 (warm): hit rate 0.596, 13704.3 MB read, 307656 ms, 857 faults/s
+    steady pass 2 (measured): hit rate 0.606, 13454.5 MB read, 305854 ms, 83 faults/s
+    steady pass 3 (measured): hit rate 0.595, 13755.4 MB read, 308752 ms, 0 faults/s
+    steady pass 4 (measured): hit rate 0.597, 13680.0 MB read, 313604 ms, 0 faults/s
+    steady pass 5 (measured): hit rate 0.599, 13549.8 MB read, 307801 ms, 0 faults/s
+    steady pass 6 (measured): hit rate 0.607, 13402.4 MB read, 305692 ms, 0 faults/s
+  meta-props_chunked_c4k_adj_chunked_c4k/steady: cache usage 306.8 MiB of 307.0 MiB (inserted 142973.5 MiB; nothing evicted: False)
+  meta-props_chunked_c4k_adj_chunked_c4k/steady: done (2342s), steady at pass 2
+raw -> output/timings/ldbc/sf3/bi/meta-props_chunked_c4k_adj_chunked_c4k/steady-307mb-p2/steps.csv  (2342.2s wall, 314.932s inside the plans of the rows kept)
+[stores] meta spec inputs/specs/grid_sized/props_chunked_c4k_adj_chunked_c4k.json (from --spec)
+	Command being timed: ".venv/bin/python3 -m kvevaluator.measure.cpplatency --sf 3 --family bi --format meta --spec inputs/specs/grid_sized/props_chunked_c4k_adj_chunked_c4k.json --arms meta-props_chunked_c4k_adj_chunked_c4k --nparam 5 --warm  --cold  --steady 307,5 --steady-direct-io --steady-perf-level 2 --queries bi1 bi2 bi3 bi4 bi5 bi6 bi7 bi8 bi9 bi10 bi11 bi12 bi13 bi14 bi16 bi17 bi18 --require-clean --candidate-set grid --candidates bi1=bi1_scan(hand+fused) bi10=hand bi11=hand bi12=bi12_scan_run(hand+fused) bi13=bi13_run(hand) bi14=hand bi16=bi16_index(hand) bi17=hand bi18=hand bi2=bi2_run(hand) bi3=hand+probe bi4=hand+fused bi5=hand~240b88 bi6=hand bi7=hand+probe bi8=hand+probe~14838c bi9=bi9_source(hand)~233d05 --out output/timings/ldbc/sf3/bi/meta-props_chunked_c4k_adj_chunked_c4k/steady-307mb-p2"
+	User time (seconds): 1735.90
+	System time (seconds): 19.53
+	Percent of CPU this job got: 74%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 39:02.38
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 27545728
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 116
+	Minor (reclaiming a frame) page faults: 6939087
+	Voluntary context switches: 4941059
+	Involuntary context switches: 3112
+	Swaps: 0
+	File system inputs: 191441510
+	File system outputs: 177696
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0

@@ -1,0 +1,31 @@
+{
+ "cell": "props_chunked_c4k_adj_chunked_c4k",
+ "sf": "3",
+ "regimes": {
+  "steady-307mb-p2": {
+   "wall_s": 102.7,
+   "peak_rss_gb": 1.7,
+   "rc": 0,
+   "command": "-m kvevaluator.measure.cpplatency --sf 3 --family interactive --format meta --spec inputs/specs/grid_sized/props_chunked_c4k_adj_chunked_c4k.json --arms meta-props_chunked_c4k_adj_chunked_c4k --nparam 5 --warm  --cold  --steady 307,5 --steady-direct-io --steady-perf-level 2 --queries ic1 ic2 ic3 ic4 ic5 ic6 ic7 ic8 ic9 ic10 ic11 ic12 is1 is2 is3 is4 is5 is6 is7 --require-clean --candidate-set grid --candidates ic1=ic1_expand_name_matches(index_eq+fetch_inline) ic10=ic10_fof_from_person_run<-ic10_interest_lists(filter_probe+fetch_inline) ic11=index_eq ic12=filter_probe+index_eq ic2=index_walk ic3=ic3_exact_window_country_lists(index_eq+index_eq+range_index) ic4=filter_probe ic5=ic5_listjoin(ic5) ic6=index_eq+filter_probe ic7=edge_probe ic8=index_walk ic9=index_walk is1=is1 is2=one_phase is3=is3 is4=is4 is5=is5 is6=is6 is7=edge_probe --out output/timings/ldbc/sf3/interactive/meta-props_chunked_c4k_adj_chunked_c4k/steady-307mb-p2"
+  }
+ },
+ "read_set_fits": {
+  "steady-307mb-p2": {
+   "usage_bytes": 266863787,
+   "capacity_bytes": 321912832,
+   "inserted_bytes": 261971792
+  }
+ },
+ "gate": {
+  "compared": 0,
+  "differ": 0
+ },
+ "timed_counts_differ": {},
+ "stale": [
+  {
+   "at": "shell",
+   "detail": "node 0 by default",
+   "kind": "foreign_load"
+  }
+ ]
+}

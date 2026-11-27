@@ -1,0 +1,36 @@
+  numa: bind node 0 (--numa-node)
+  meta-props_split_adj_split/steady: 85 cells, cache 307 MB, direct io
+    steady pass 0 (warm): hit rate 0.586, 18312.9 MB read, 516214 ms, 11814 faults/s
+    steady pass 1 (warm): hit rate 0.584, 18414.6 MB read, 519325 ms, 158 faults/s
+    steady pass 2 (measured): hit rate 0.587, 18282.9 MB read, 513538 ms, 0 faults/s
+    steady pass 3 (measured): hit rate 0.584, 18490.0 MB read, 523697 ms, 0 faults/s
+    steady pass 4 (measured): hit rate 0.585, 18378.1 MB read, 519098 ms, 0 faults/s
+    steady pass 5 (measured): hit rate 0.586, 18397.7 MB read, 518733 ms, 0 faults/s
+    steady pass 6 (measured): hit rate 0.584, 18307.4 MB read, 516398 ms, 107 faults/s
+  meta-props_split_adj_split/steady: cache usage 306.9 MiB of 307.0 MiB (inserted 272935.6 MiB; nothing evicted: False)
+  meta-props_split_adj_split/steady: done (3769s), steady at pass 2
+raw -> output/timings/ldbc/sf3/bi/meta-props_split_adj_split/steady-307mb-p2/steps.csv  (3769.1s wall, 523.97s inside the plans of the rows kept)
+[stores] meta spec inputs/specs/grid/props_split_adj_split.json (from --spec)
+	Command being timed: ".venv/bin/python3 -m kvevaluator.measure.cpplatency --sf 3 --family bi --format meta --spec inputs/specs/grid/props_split_adj_split.json --arms meta-props_split_adj_split --nparam 5 --warm  --cold  --steady 307,5 --steady-direct-io --steady-perf-level 2 --queries bi1 bi2 bi3 bi4 bi5 bi6 bi7 bi8 bi9 bi10 bi11 bi12 bi13 bi14 bi16 bi17 bi18 --require-clean --candidate-set grid --candidates bi1=bi1_scan(hand+fused) bi10=hand bi11=hand bi12=bi12_scan_run(hand+fused) bi13=bi13_run(hand) bi14=hand bi16=bi16_index(hand) bi17=hand bi18=hand bi2=bi2_run(hand) bi3=bi3_source(hand)+probe bi4=hand+fused bi5=hand~240b88 bi6=hand bi7=hand+probe bi8=hand~2c33f2 bi9=bi9_source_run(hand) --out output/timings/ldbc/sf3/bi/meta-props_split_adj_split/steady-307mb-p2"
+	User time (seconds): 2965.18
+	System time (seconds): 24.96
+	Percent of CPU this job got: 79%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 1:02:49
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 24949120
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 116
+	Minor (reclaiming a frame) page faults: 6282396
+	Voluntary context switches: 7357564
+	Involuntary context switches: 5897
+	Swaps: 0
+	File system inputs: 258675977
+	File system outputs: 150400
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0

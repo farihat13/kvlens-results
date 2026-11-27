@@ -1,0 +1,21 @@
+utc,host,action,label,kernel,governor,cpu_mhz_mean,numa_balancing,swappiness,load1,memfree_mb_node0,evaluator_servers,live_engines,tmux_sessions,free_gb,result
+2026-11-26T14:05:12Z,node1,prepare,,6.8.0-149-generic,powersave,918,0,1,1.09,93022,0,,exp;latency-v5-rest,493,prepared (before: {"numa_balancing": 0; "swappiness": 60; "recorded": "2026-11-26T14:05:12Z"; "host": "node1"; "stand_in": ""})
+2026-11-26T14:05:14Z,node1,drop,steady props_split_adj_split,6.8.0-149-generic,powersave,1025,0,1,1.08,115305,0,,exp;latency-v5-rest,493,page cache dropped
+2026-11-26T14:10:07Z,node1,drop,steady props_condensed_adj_condensed,6.8.0-149-generic,powersave,1012,0,1,1.00,115274,0,,exp;latency-v5-rest,493,page cache dropped
+2026-11-26T14:12:23Z,node1,drop,steady props_chunked_adj_chunked,6.8.0-149-generic,powersave,1002,0,1,1.00,115257,0,,exp;latency-v5-rest,493,page cache dropped
+2026-11-26T14:15:10Z,node1,drop,steady props_split_adj_condensed,6.8.0-149-generic,powersave,994,0,1,1.00,115269,0,,exp;latency-v5-rest,493,page cache dropped
+2026-11-26T14:17:29Z,node1,drop,steady props_condensed_adj_split,6.8.0-149-generic,powersave,1015,0,1,1.00,115241,0,,exp;latency-v5-rest,493,page cache dropped
+2026-11-26T14:22:20Z,node1,restore,,6.8.0-149-generic,powersave,983,0,60,1.00,115200,0,,exp;latency-v5-rest,493,restored (numa_balancing 0; swappiness 60)
+2026-11-26T14:22:20Z,node1,prepare,,6.8.0-149-generic,powersave,963,0,1,1.00,115173,0,,exp;latency-v5-rest,493,prepared (before: {"numa_balancing": 0; "swappiness": 60; "recorded": "2026-11-26T14:22:20Z"; "host": "node1"; "stand_in": ""})
+2026-11-26T14:22:21Z,node1,drop,steady props_chunked_c1k_adj_chunked_c1k,6.8.0-149-generic,powersave,1008,0,1,1.00,115257,0,,exp;latency-v5-rest,493,page cache dropped
+2026-11-26T14:24:07Z,node1,restore,,6.8.0-149-generic,powersave,949,0,60,1.00,115146,0,,exp;latency-v5-rest,493,restored (numa_balancing 0; swappiness 60)
+2026-11-26T14:24:08Z,node1,prepare,,6.8.0-149-generic,powersave,953,0,1,1.00,115117,0,,exp;latency-v5-rest,493,prepared (before: {"numa_balancing": 0; "swappiness": 60; "recorded": "2026-11-26T14:24:08Z"; "host": "node1"; "stand_in": ""})
+2026-11-26T14:24:08Z,node1,drop,steady props_chunked_c16k_adj_chunked_c16k,6.8.0-149-generic,powersave,991,0,1,1.00,115187,0,,exp;latency-v5-rest,493,page cache dropped
+2026-11-26T14:25:48Z,node1,restore,,6.8.0-149-generic,powersave,1000,0,60,1.00,115172,0,,exp;latency-v5-rest,493,restored (numa_balancing 0; swappiness 60)
+2026-11-26T14:25:48Z,node1,prepare,,6.8.0-149-generic,powersave,933,0,1,1.00,115143,0,,exp;latency-v5-rest,493,prepared (before: {"numa_balancing": 0; "swappiness": 60; "recorded": "2026-11-26T14:25:48Z"; "host": "node1"; "stand_in": ""})
+2026-11-26T14:25:49Z,node1,drop,steady props_chunked_c4k_adj_chunked_c4k,6.8.0-149-generic,powersave,950,0,1,1.00,115198,0,,exp;latency-v5-rest,493,page cache dropped
+2026-11-26T14:27:32Z,node1,drop,steady props_chunked_c256k_adj_chunked_c256k,6.8.0-149-generic,powersave,933,0,1,1.00,115218,0,,exp;latency-v5-rest,493,page cache dropped
+2026-11-26T14:30:30Z,node1,drop,steady props_chunked_c1k_adj_chunked_c4k,6.8.0-149-generic,powersave,944,0,1,1.00,115225,0,,exp;latency-v5-rest,493,page cache dropped
+2026-11-26T14:32:13Z,node1,drop,steady props_chunked_c1k_adj_chunked_c16k,6.8.0-149-generic,powersave,939,0,1,1.00,115202,0,,exp;latency-v5-rest,493,page cache dropped
+2026-11-26T14:33:52Z,node1,drop,steady props_chunked_c4k_adj_chunked_c16k,6.8.0-149-generic,powersave,940,0,1,1.00,115208,0,,exp;latency-v5-rest,493,page cache dropped
+2026-11-26T14:35:32Z,node1,restore,,6.8.0-149-generic,powersave,965,0,60,1.00,115123,0,,exp;latency-v5-rest,493,restored (numa_balancing 0; swappiness 60)

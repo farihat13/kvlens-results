@@ -1,0 +1,4 @@
+arm,pass,phase,cells,block_cache_hit,block_cache_miss,hit_rate,block_cache_add,block_cache_bytes_write,io_bytes_read,wall_ns_sum,block_cache_bytes,direct_io,data_hit,data_miss,server_minflt,faults_per_s,numa_hint_faults,server_numa_faults_level
+meta-props_condensed_adj_split,0,warm,95,1112386,239700,0.7424,239700,920176820,887245053,37249802870,321912832,1,628594,218108,416185,11172.8,0,0
+meta-props_condensed_adj_split,1,warm,95,1159230,192856,0.78553,192856,763285710,839282106,33887339011,321912832,1,665107,181595,3,0.1,0,0
+meta-props_condensed_adj_split,2,warm,95,1152021,200065,0.78503,200065,768548381,794928515,34546225309,321912832,1,664686,182016,0,0.0,0,0

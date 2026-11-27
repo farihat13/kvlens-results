@@ -1,0 +1,37 @@
+  numa: bind node 0 (--numa-node)
+  meta-props_split_adj_split/steady: 95 cells, cache 307 MB, direct io
+    steady pass 0 (warm): hit rate 0.741, 896.9 MB read, 37536 ms, 11123 faults/s
+    steady pass 1 (warm): hit rate 0.783, 849.2 MB read, 34192 ms, 14 faults/s
+    steady pass 2 (warm): hit rate 0.782, 801.6 MB read, 34958 ms, 0 faults/s
+    steady pass 3 (measured): hit rate 0.774, 885.0 MB read, 35413 ms, 0 faults/s
+    steady pass 4 (measured): hit rate 0.788, 864.7 MB read, 34568 ms, 0 faults/s
+    steady pass 5 (measured): hit rate 0.801, 785.0 MB read, 33175 ms, 0 faults/s
+    steady pass 6 (measured): hit rate 0.787, 809.9 MB read, 34490 ms, 0 faults/s
+    steady pass 7 (measured): hit rate 0.779, 885.9 MB read, 34916 ms, 0 faults/s
+  meta-props_split_adj_split/steady: cache usage 306.9 MiB of 307.0 MiB (inserted 6032.1 MiB; nothing evicted: False)
+  meta-props_split_adj_split/steady: done (292s), steady at pass 3
+raw -> output/timings/ldbc/sf3/interactive/meta-props_split_adj_split/steady-307mb-p2/steps.csv  (292.3s wall, 34.474s inside the plans of the rows kept)
+[stores] meta spec inputs/specs/grid/props_split_adj_split.json (from --spec)
+	Command being timed: ".venv/bin/python3 -m kvevaluator.measure.cpplatency --sf 3 --family interactive --format meta --spec inputs/specs/grid/props_split_adj_split.json --arms meta-props_split_adj_split --nparam 5 --warm  --cold  --steady 307,5 --steady-direct-io --steady-perf-level 2 --queries ic1 ic2 ic3 ic4 ic5 ic6 ic7 ic8 ic9 ic10 ic11 ic12 is1 is2 is3 is4 is5 is6 is7 --require-clean --candidate-set grid --candidates ic1=ic1_expand_name_matches(index_eq+fetch_deferred) ic10=ic10_fof_from_person_run<-ic10_interest_lists(filter_index+fetch_inline) ic11=index_eq ic12=filter_probe+index_eq ic2=index_walk ic3=ic3_exact_window_country_lists(index_eq+index_eq+range_index) ic4=filter_probe ic5=ic5_listjoin(ic5) ic6=index_eq+filter_probe ic7=materialize_intersect ic8=index_walk ic9=index_walk is1=is1 is2=two_phase is3=is3 is4=is4 is5=is5 is6=is6 is7=edge_probe_out --out output/timings/ldbc/sf3/interactive/meta-props_split_adj_split/steady-307mb-p2"
+	User time (seconds): 171.67
+	System time (seconds): 3.11
+	Percent of CPU this job got: 59%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 4:52.47
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1677312
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 116
+	Minor (reclaiming a frame) page faults: 437480
+	Voluntary context switches: 1241679
+	Involuntary context switches: 264
+	Swaps: 0
+	File system inputs: 14337150
+	File system outputs: 71728
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0

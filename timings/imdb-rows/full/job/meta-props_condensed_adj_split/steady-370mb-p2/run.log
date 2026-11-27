@@ -1,0 +1,36 @@
+  numa: bind node 0 (--numa-node)
+  meta-props_condensed_adj_split/steady: 113 cells, cache 370 MB, direct io
+    steady pass 0 (warm): hit rate 0.729, 14492.4 MB read, 472728 ms, 3543 faults/s
+    steady pass 1 (warm): hit rate 0.730, 14265.1 MB read, 463392 ms, 39 faults/s
+    steady pass 2 (measured): hit rate 0.725, 14451.1 MB read, 470035 ms, 43 faults/s
+    steady pass 3 (measured): hit rate 0.726, 14471.5 MB read, 470369 ms, 59 faults/s
+    steady pass 4 (measured): hit rate 0.721, 14422.6 MB read, 468855 ms, 0 faults/s
+    steady pass 5 (measured): hit rate 0.719, 14714.0 MB read, 479718 ms, 0 faults/s
+    steady pass 6 (measured): hit rate 0.723, 14630.7 MB read, 475493 ms, 0 faults/s
+  meta-props_condensed_adj_split/steady: cache usage 369.9 MiB of 370.0 MiB (inserted 160189.8 MiB; nothing evicted: False)
+  meta-props_condensed_adj_split/steady: done (3359s), steady at pass 2
+raw -> output/timings/imdb-rows/full/job/meta-props_condensed_adj_split/steady-370mb-p2/steps.csv  (3359.1s wall, 475.023s inside the plans of the rows kept)
+[stores] meta spec inputs/specs/grid/props_condensed_adj_split.json (from --spec)
+	Command being timed: ".venv/bin/python3 -m kvevaluator.measure.cpplatency --sf full --family job --format meta --spec inputs/specs/grid/props_condensed_adj_split.json --arms meta-props_condensed_adj_split --nparam 1 --warm  --cold  --steady 370,5 --steady-direct-io --steady-perf-level 2 --queries job1a job1b job1c job1d job2a job2b job2c job2d job3a job3b job3c job4a job4b job4c job5a job5b job5c job6a job6b job6c job6d job6e job6f job7a job7b job7c job8a job8b job8c job8d job9a job9b job9c job9d job10a job10b job10c job11a job11b job11c job11d job12a job12b job12c job13a job13b job13c job13d job14a job14b job14c job15a job15b job15c job15d job16a job16b job16c job16d job17a job17b job17c job17d job17e job17f job18a job18b job18c job19a job19b job19c job19d job20a job20b job20c job21a job21b job21c job22a job22b job22c job22d job23a job23b job23c job24a job24b job25a job25b job25c job26a job26b job26c job27a job27b job27c job28a job28b job28c job29a job29b job29c job30a job30b job30c job31a job31b job31c job32a job32b job33a job33b job33c --require-clean --candidate-set grid --candidates job10a=enter_cn_by_index_outputs_early job10b=enter_cn_by_index_outputs_early job10c=enter_cn_by_index_outputs_early job11a=enter_ml_by_index_outputs_early job11b=enter_ml_by_index job11c=enter_cn_by_label_run job11d=enter_ml_by_index_outputs_early job12a=enter_mi_idx_by_label_run job12b=enter_mi_idx_by_index_outputs_early job12c=enter_mi_idx_by_label_run job13a=enter_cn_by_index_outputs_early job13b=enter_t_by_label_run job13c=enter_t_by_label_run job13d=enter_cn_by_index_outputs_early job14a=enter_k_by_index_outputs_early job14b=enter_k_by_index job14c=enter_k_by_index_outputs_early job15a=enter_mi_by_label_run job15b=enter_cn_by_index_outputs_early job15c=enter_mi_by_label_run job15d=enter_mi_by_label_run job16a=enter_k_by_index_outputs_early job16b=enter_k_by_index job16c=enter_k_by_index_outputs_early job16d=enter_k_by_index_outputs_early job17a=enter_k_by_index job17b=enter_n_by_label_run job17c=enter_n_by_label_run job17d=enter_n_by_label_run job17e=enter_k_by_index job17f=enter_k_by_index job18a=enter_n_by_label_run job18b=enter_mi_idx_by_label_run job18c=enter_mi_by_index_outputs_early job19a=enter_n_by_label_run job19b=enter_t_by_label_run job19c=enter_n_by_label_run job19d=enter_n_by_index_outputs_early job1a=enter_mi_idx_by_index job1b=enter_mi_idx_by_index_outputs_early job1c=enter_mi_idx_by_index_outputs_early job1d=enter_mi_idx_by_index_outputs_early job20a=enter_k_by_index_outputs_early job20b=enter_k_by_index_outputs_early job20c=enter_k_by_index_outputs_early job21a=enter_ml_by_index_outputs_early job21b=enter_ml_by_index_outputs_early job21c=enter_ml_by_index_outputs_early job22a=enter_k_by_index_outputs_early job22b=enter_k_by_index_outputs_early job22c=enter_k_by_index_outputs_early job22d=enter_k_by_index_outputs_early job23a=enter_cc_by_index_outputs_early job23b=enter_k_by_index_outputs_early job23c=enter_mi_by_label_run job24a=enter_k_by_index_outputs_early job24b=enter_cn_by_index job25a=enter_mi_by_index_outputs_early job25b=enter_k_by_index_outputs_early job25c=enter_mi_by_index_outputs_early job26a=enter_k_by_index_outputs_early job26b=enter_k_by_index_outputs_early job26c=enter_k_by_index_outputs_early job27a=enter_ml_by_index_outputs_early job27b=enter_ml_by_index_outputs_early job27c=enter_ml_by_index_outputs_early job28a=enter_k_by_index_outputs_early job28b=enter_k_by_index_outputs_early job28c=enter_k_by_index_outputs_early job29a=enter_t_by_index_outputs_early job29b=enter_t_by_index_outputs_early job29c=enter_k_by_index_outputs_early job2a=enter_k_by_index job2b=enter_k_by_index job2c=enter_cn_by_index job2d=enter_k_by_index job30a=enter_k_by_index_outputs_early job30b=enter_cc_by_label_run job30c=enter_mi_by_index_outputs_early job31a=enter_cn_by_label_run job31b=enter_cn_by_label_run job31c=enter_cn_by_label_run job32a=enter_k_by_index job32b=enter_k_by_index job33a=enter_ml_by_index_outputs_early job33b=enter_ml_by_index_outputs_early job33c=enter_ml_by_index_outputs_early job3a=enter_k_by_label_run job3b=enter_mi_by_index_outputs_early job3c=enter_k_by_label_run job4a=enter_k_by_label_run job4b=enter_k_by_label_run job4c=enter_k_by_label_run job5a=enter_mi_by_index job5b=enter_t_by_label_run job5c=enter_t_by_label_run job6a=enter_k_by_index_outputs_early job6b=enter_k_by_index_outputs_early job6c=enter_k_by_index_outputs_early job6d=enter_n_by_label_run job6e=enter_k_by_index_outputs_early job6f=enter_k_by_index_outputs_early job7a=enter_pi_by_index_outputs_early job7b=enter_pi_by_index_outputs_early job7c=enter_ml_by_index_outputs_early job8a=enter_cn_by_index job8b=enter_cn_by_index job8c=enter_cn_by_index job8d=enter_cn_by_index job9a=enter_n_by_label_run job9b=enter_n_by_label_run job9c=enter_n_by_label_run job9d=enter_cn_by_index_outputs_early --out output/timings/imdb-rows/full/job/meta-props_condensed_adj_split/steady-370mb-p2"
+	User time (seconds): 1248.19
+	System time (seconds): 45.20
+	Percent of CPU this job got: 38%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 55:59.39
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 6967744
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 116
+	Minor (reclaiming a frame) page faults: 1843518
+	Voluntary context switches: 22522205
+	Involuntary context switches: 1394
+	Swaps: 0
+	File system inputs: 219973793
+	File system outputs: 279632
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0

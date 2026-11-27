@@ -1,0 +1,25 @@
+{
+ "cell": "props_split_adj_split",
+ "sf": "full",
+ "regimes": {
+  "steady-370mb-p2": {
+   "wall_s": 3972.8,
+   "peak_rss_gb": 6.7,
+   "rc": 0,
+   "command": "-m kvevaluator.measure.cpplatency --sf full --family job --format meta --spec inputs/specs/grid/props_split_adj_split.json --arms meta-props_split_adj_split --nparam 1 --warm  --cold  --steady 370,5 --steady-direct-io --steady-perf-level 2 --queries job1a job1b job1c job1d job2a job2b job2c job2d job3a job3b job3c job4a job4b job4c job5a job5b job5c job6a job6b job6c job6d job6e job6f job7a job7b job7c job8a job8b job8c job8d job9a job9b job9c job9d job10a job10b job10c job11a job11b job11c job11d job12a job12b job12c job13a job13b job13c job13d job14a job14b job14c job15a job15b job15c job15d job16a job16b job16c job16d job17a job17b job17c job17d job17e job17f job18a job18b job18c job19a job19b job19c job19d job20a job20b job20c job21a job21b job21c job22a job22b job22c job22d job23a job23b job23c job24a job24b job25a job25b job25c job26a job26b job26c job27a job27b job27c job28a job28b job28c job29a job29b job29c job30a job30b job30c job31a job31b job31c job32a job32b job33a job33b job33c --require-clean --candidate-set grid --candidates job10a=enter_cn_by_index job10b=enter_cn_by_index job10c=enter_cn_by_index job11a=enter_ml_by_index job11b=enter_ml_by_index job11c=enter_cn_by_label_run job11d=enter_ml_by_label_run job12a=enter_mi_idx_by_label_run job12b=enter_mi_idx_by_index job12c=enter_mi_by_index job13a=enter_cn_by_index job13b=enter_t_by_label_run job13c=enter_t_by_label_run job13d=enter_cn_by_label_run job14a=enter_k_by_index job14b=enter_k_by_index job14c=enter_k_by_index job15a=enter_mi_by_label_run job15b=enter_cn_by_index job15c=enter_mi_by_label_run job15d=enter_mi_by_label_run job16a=enter_k_by_index job16b=enter_k_by_index job16c=enter_k_by_index job16d=enter_k_by_index job17a=enter_k_by_index job17b=enter_k_by_index job17c=enter_n_by_label_run job17d=enter_n_by_label_run job17e=enter_k_by_index job17f=enter_k_by_index job18a=enter_n_by_label_run job18b=enter_mi_by_index job18c=enter_mi_by_index job19a=enter_n_by_label_run job19b=enter_t_by_label_run job19c=enter_n_by_label_run job19d=enter_n_by_index job1a=enter_mi_idx_by_index job1b=enter_mi_idx_by_index job1c=enter_mi_idx_by_index job1d=enter_mi_idx_by_index job20a=enter_k_by_index job20b=enter_k_by_index job20c=enter_k_by_index job21a=enter_ml_by_index job21b=enter_ml_by_index job21c=enter_ml_by_index job22a=enter_k_by_index job22b=enter_k_by_index job22c=enter_k_by_index job22d=enter_k_by_index job23a=enter_mi_by_label_run job23b=enter_k_by_index job23c=enter_mi_by_label_run job24a=enter_k_by_index job24b=enter_cn_by_index job25a=enter_mi_by_index job25b=enter_k_by_index job25c=enter_mi_by_index job26a=enter_k_by_index job26b=enter_k_by_index job26c=enter_k_by_index job27a=enter_ml_by_index job27b=enter_ml_by_index job27c=enter_ml_by_index job28a=enter_k_by_index job28b=enter_k_by_index job28c=enter_k_by_index job29a=enter_t_by_index job29b=enter_t_by_index job29c=enter_k_by_index job2a=enter_k_by_index job2b=enter_k_by_index job2c=enter_cn_by_index job2d=enter_k_by_index job30a=enter_mi_by_index job30b=enter_cc_by_label_run job30c=enter_mi_by_index job31a=enter_cn_by_label_run job31b=enter_cn_by_label_run job31c=enter_cn_by_label_run job32a=enter_k_by_index job32b=enter_k_by_index job33a=enter_ml_by_index job33b=enter_ml_by_index job33c=enter_ml_by_index job3a=enter_k_by_label_run job3b=enter_mi_by_index job3c=enter_k_by_label_run job4a=enter_k_by_label_run job4b=enter_k_by_label_run job4c=enter_k_by_label_run job5a=enter_mi_by_index job5b=enter_t_by_label_run job5c=enter_t_by_label_run job6a=enter_k_by_index job6b=enter_k_by_index job6c=enter_k_by_index job6d=enter_n_by_label_run job6e=enter_k_by_index job6f=enter_k_by_index job7a=enter_pi_by_index job7b=enter_pi_by_index job7c=enter_ml_by_index job8a=enter_cn_by_index job8b=enter_cn_by_index job8c=enter_cn_by_index job8d=enter_cn_by_index job9a=enter_n_by_label_run job9b=enter_n_by_label_run job9c=enter_n_by_label_run job9d=enter_cn_by_index --out output/timings/imdb-rows/full/job/meta-props_split_adj_split/steady-370mb-p2"
+  }
+ },
+ "read_set_fits": {},
+ "gate": {
+  "compared": 0,
+  "differ": 0
+ },
+ "timed_counts_differ": {},
+ "stale": [
+  {
+   "at": "shell",
+   "detail": "node 0 by default",
+   "kind": "foreign_load"
+  }
+ ]
+}

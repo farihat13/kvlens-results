@@ -1,0 +1,39 @@
+  numa: bind node 0 (--numa-node)
+  meta-props_condensed_adj_condensed/steady: 95 cells, cache 307 MB, direct io
+    steady pass 0 (warm): hit rate 0.867, 223.5 MB read, 17249 ms, 21187 faults/s
+    steady pass 1 (warm): hit rate 0.973, 54.9 MB read, 11462 ms, 2743 faults/s
+    steady pass 2 (warm): hit rate 0.980, 32.5 MB read, 11140 ms, 2678 faults/s
+    steady pass 3 (warm): hit rate 0.972, 55.5 MB read, 11650 ms, 0 faults/s
+    steady pass 4 (warm): hit rate 0.973, 46.1 MB read, 11384 ms, 258 faults/s
+    steady pass 5 (measured): hit rate 0.966, 69.0 MB read, 11963 ms, 0 faults/s
+    steady pass 6 (measured): hit rate 0.972, 48.1 MB read, 11564 ms, 0 faults/s
+    steady pass 7 (measured): hit rate 0.975, 45.7 MB read, 11506 ms, 0 faults/s
+    steady pass 8 (measured): hit rate 0.982, 29.5 MB read, 11162 ms, 1468 faults/s
+    steady pass 9 (measured): hit rate 0.975, 48.5 MB read, 11569 ms, 0 faults/s
+  meta-props_condensed_adj_condensed/steady: cache usage 306.7 MiB of 307.0 MiB (inserted 875.0 MiB; nothing evicted: False)
+  meta-props_condensed_adj_condensed/steady: done (136s), steady at pass 5
+raw -> output/timings/ldbc/sf3/interactive/meta-props_condensed_adj_condensed/steady-307mb-p2/steps.csv  (135.9s wall, 11.593s inside the plans of the rows kept)
+[stores] meta spec inputs/specs/grid/props_condensed_adj_condensed.json (from --spec)
+	Command being timed: ".venv/bin/python3 -m kvevaluator.measure.cpplatency --sf 3 --family interactive --format meta --spec inputs/specs/grid/props_condensed_adj_condensed.json --arms meta-props_condensed_adj_condensed --nparam 5 --warm  --cold  --steady 307,5 --steady-direct-io --steady-perf-level 2 --queries ic1 ic2 ic3 ic4 ic5 ic6 ic7 ic8 ic9 ic10 ic11 ic12 is1 is2 is3 is4 is5 is6 is7 --require-clean --candidate-set grid --candidates ic1=ic1_expand_name_matches(index_eq+fetch_inline) ic10=ic10_fof_from_person_run<-ic10_interest_lists(filter_index+fetch_inline) ic11=index_eq ic12=filter_probe+index_eq ic2=index_walk ic3=ic3_exact_window_country_lists(index_eq+index_eq+range_index) ic4=filter_fused ic5=ic5_listjoin(ic5) ic6=index_eq+filter_probe ic7=materialize_intersect ic8=index_walk ic9=index_walk is1=is1 is2=one_phase is3=is3 is4=is4 is5=is5 is6=is6 is7=materialize_intersect --out output/timings/ldbc/sf3/interactive/meta-props_condensed_adj_condensed/steady-307mb-p2"
+	User time (seconds): 118.19
+	System time (seconds): 0.99
+	Percent of CPU this job got: 87%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 2:16.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1791104
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 116
+	Minor (reclaiming a frame) page faults: 465681
+	Voluntary context switches: 181594
+	Involuntary context switches: 273
+	Swaps: 0
+	File system inputs: 1480058
+	File system outputs: 78840
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0

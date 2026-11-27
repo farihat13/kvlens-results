@@ -1,0 +1,9 @@
+arm,pass,phase,cells,block_cache_hit,block_cache_miss,hit_rate,block_cache_add,block_cache_bytes_write,io_bytes_read,wall_ns_sum,block_cache_bytes,direct_io,data_hit,data_miss,server_minflt,faults_per_s,numa_hint_faults,server_numa_faults_level
+meta-props_chunked_c4k_adj_chunked_c4k,0,warm,95,371963,48749,0.87927,48749,261971792,190238275,15197415015,321912832,1,347031,47652,377979,24871.3,0,0
+meta-props_chunked_c4k_adj_chunked_c4k,1,warm,95,420712,0,1.0,0,0,0,10657213485,321912832,1,394683,0,43053,4039.8,0,0
+meta-props_chunked_c4k_adj_chunked_c4k,2,warm,95,420712,0,1.0,0,0,0,10660812904,321912832,1,394683,0,21500,2016.7,0,0
+meta-props_chunked_c4k_adj_chunked_c4k,3,measured,95,420712,0,1.0,0,0,0,10640139374,321912832,1,394683,0,3,0.3,0,0
+meta-props_chunked_c4k_adj_chunked_c4k,4,measured,95,420712,0,1.0,0,0,0,10644324282,321912832,1,394683,0,1,0.1,0,0
+meta-props_chunked_c4k_adj_chunked_c4k,5,measured,95,420712,0,1.0,0,0,0,10658316465,321912832,1,394683,0,0,0.0,0,0
+meta-props_chunked_c4k_adj_chunked_c4k,6,measured,95,420712,0,1.0,0,0,0,10661021173,321912832,1,394683,0,0,0.0,0,0
+meta-props_chunked_c4k_adj_chunked_c4k,7,measured,95,420712,0,1.0,0,0,0,10650182850,321912832,1,394683,0,0,0.0,0,0
